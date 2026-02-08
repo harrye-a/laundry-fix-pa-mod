@@ -1,6 +1,0 @@
-Name        "Thai"
-Author      "Introversion Software"
-Date        06/10/2015
-Description "Official Thai translation of Prison Architect"
-ThumbnailSprite thai
-ContinueSupported false

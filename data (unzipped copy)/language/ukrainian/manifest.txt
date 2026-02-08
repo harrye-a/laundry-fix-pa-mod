@@ -1,6 +1,0 @@
-Name        "Ukrainian"
-Author      "Introversion Software"
-Date        06/10/2015
-Description "Official Ukrainian translation of Prison Architect"
-ThumbnailSprite ukrainian
-ContinueSupported false

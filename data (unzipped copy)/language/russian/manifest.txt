@@ -1,5 +1,0 @@
-Name        "Russian"
-Author      "Introversion Software"
-Date        06/10/2015
-Description "Official Russian translation of Prison Architect"
-ThumbnailSprite russian

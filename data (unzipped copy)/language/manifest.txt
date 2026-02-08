@@ -1,5 +1,0 @@
-Name        "English"
-Author      "Introversion Software"
-Date        06/10/2015
-Description "Official English translation of Prison Architect"
-ThumbnailSprite english

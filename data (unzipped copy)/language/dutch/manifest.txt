@@ -1,5 +1,0 @@
-Name        "Dutch"
-Author      "Introversion Software"
-Date        06/10/2015
-Description "Official Dutch translation of Prison Architect"
-ThumbnailSprite dutch
