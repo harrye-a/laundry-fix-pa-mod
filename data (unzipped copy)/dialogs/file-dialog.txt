@@ -1,0 +1,63 @@
+BEGIN Window
+    NAME         FileDialog
+    WIDTH        400
+    HEIGHT       600
+END
+
+BEGIN Button
+    NAME        Ok
+    CAPTION     dialog_ok
+    XPOS        Relative        -135
+    YPOS        Relative        -35
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Cancel
+    CAPTION     dialog_cancel
+    XPOS        Absolute        15
+    YPOS        Relative        -35
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputField
+    NAME        Filename
+    XPOS        Absolute        15
+    YPOS        Relative        -65
+    WIDTH       Relative        -30
+    HEIGHT      Absolute        20
+END
+
+BEGIN Container
+    XPOS        Absolute        15
+    YPOS        Absolute        80
+    WIDTH       Relative        -30
+    HEIGHT      Relative        -155
+END
+
+BEGIN SelectionList
+    NAME        FileList
+    XPOS        Absolute        20
+    YPOS        Absolute        85
+    WIDTH       Relative        -40
+    HEIGHT      Relative        -165
+END
+
+BEGIN TitleCaption
+    NAME        Directory
+    XPOS        Absolute        15
+    YPOS        Absolute        30
+    WIDTH       Relative        -30
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputField
+    NAME        Filter
+    XPOS        Absolute        15
+    YPOS        Absolute        55
+    WIDTH       Relative        -30
+    HEIGHT      Absolute        20
+END
+

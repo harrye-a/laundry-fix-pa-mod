@@ -1,0 +1,1035 @@
+# June27th Update
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_viewchangelog							Changelog complet
+codex_legal									Legal
+codex_privacy								politica de confidentialitate
+codex_terms-of-use							Termeni de utilizare
+codex_eula									acordul de licență pentru utilizatorul final
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+													
+interfacemode_wallsanddoors                        			Pereți și uși
+interfacemode_flooring							Pardoseli
+tunnelsearch_underway							CĂUTARE TUNEL ÎN DESFĂȘURARE
+tunnelsearch_found							Tunele
+moveobjects_prompt							CLIC DUBLU: Mutați obiectul
+moveobjects_abort							CLIC DREAPTA: Anulați mutarea 
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_wallsanddoors					Diferite tipuri de pereți și uși
+buildtoolbar_popup_flooring						Diferite stiluri de pardoseli
+buildtoolbar_popup_spawn						Deschideți meniul Creare.
+buildtoolbar_tunnelsearch						Căutare Tunel
+
+buildtoolbar_tooltip_tunnelsearch					Suspectați că este o evadare în desfășurare? Ordonați tuturor gardienilor dvs. să caute în spatele tuturor toaletelor.		
+
+buildtoolbar_GuardResponse						Răspuns cu gardieni	
+buildtoolbar_tooltip_GuardResponse					Când este activat, puteți face clic stânga pe hartă pentru a chema toți gardienii din apropiere la locație. Clic dreapta pentru a opri.
+
+
+# =============================================================================
+# New Materials
+# =============================================================================
+
+
+material_NewTiledWall							Perete cu faianță
+material_NewBarredWall							Perete de grilaj
+material_NewBBlockWall							Perete alb
+material_NewHedgeWall							Gard viu
+material_NewIronFloor							Podea de fier
+material_NewCargoFloor							Podea cargo
+material_NewCheckeredFloor						Podea în pătrățele
+material_Snow								Zăpadă
+
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+double_click_select_desc							Dublu clic stânga pentru a urma asta *E
+
+quickbuild_intermediatecell							Celulă îmbunătățită
+quickbuild_holdingcell								Celulă de arest
+quickbuild_medical								Medical
+quickbuild_shop									Magazin
+quickbuild_shower								Duș
+quickbuild_staffroom								Camera angajaților
+quickbuild_workshop								Atelier
+
+# =============================================================================
+# Main Menu
+# =============================================================================
+
+
+mm_updatenotes_Date								27 iunie 2019
+mm_updatenotes_Header								Actualizarea Clink
+mm_updatenotes_01								x4 plăci ceramice de podea noi și x4 noi tipuri de pereți adăugate.
+mm_updatenotes_02								Îmbunătățiri aduse performanței, pentru a reduce durata de încărcare.
+mm_updatenotes_03								A fost crescut numărul de maiștriim ce pot fi angajați, pentru închisorile mai mari, unde maiștrii predau și cursuri în programe.
+mm_updatenotes_04								Obiectele existente dispun de un set complet de rotații acum, cu noi elfi adăugați pentru orientările lipsă.
+mm_updatenotes_05								Un nou buton 'Răspuns cu gardieni' care adună gardienii din apropiere la o locație, fără ca jucătorii să trebuiască să angajeze gardieni pentru a răspunde incidentelor. 
+mm_updatenotes_06								Un nou buton 'Căutare Tunel' care comandă gardienilor să verifice în mod specific toaletele referitor la tunele de evadare ascunse.  
+mm_updatenotes_07								Camere rapide suplimentare adăugate meniului de Construire rapidă, pentru construcții mai rapide și facile ale camerelor.
+mm_updatenotes_08								Urmărirea deținuților și a angajaților este mai simplă, printr-un clic dublu pe ei.
+mm_updatenotes_09								Abilitatea de a deplasa și repoziționa obiectele a sosit! Selectați și faceți dublu clic pe un obiect.
+mm_updatenotes_10								Sperăm să vă facă plăcere să jucați cu aceste noi îmbunătățiri!
+
+
+
+############################### SLAMMER UPDATE ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+
+material_newmud									Noroi
+material_yutaniwall								Perete (Yutani)
+
+
+
+
+
+
+
+
+
+
+material_solacofloor							Solaco
+material_gratefloor								Zăbrele
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+
+object_snowyconifertree							Copac (conifer cu zăpadă)
+
+
+object_palmtree									Copac (palmier)
+object_plant									Plantă
+
+object_bush										Tufiș
+
+object_streetlamp								Stâlp de iluminat
+
+object_floodlight								Lumină (reflector)
+
+
+
+
+
+		
+		
+
+object_bleachers								Locuri în aer liber
+object_smallbench								Bancă (mică)
+object_smalltable								Masă (mică)
+object_showerpillar								Duș
+
+
+object_doorMat									Preș ușă
+
+object_GuardPavilion							Pavilion gardieni
+object_GuardPavilionCorner						Pavilion gardieni (colț)
+
+object_OfficeChair								Scaun (birou)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+object_visitorDoor								Ușă vizitatori
+object_ironingBoardShort						Masă de călcat (mică)
+object_fencegatestaff							Poartă gard (personal)
+object_fencegatestandard						Poartă gard (standard)
+object_fencegatevisitor							Poartă gard (vizitatori)
+
+
+
+
+
+
+
+
+
+
+
+
+object_walllight								Corp iluminat perete
+object_securedoor								Ușă (securizată)
+object_secretdoor								Ușă (secretă)
+
+
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_mat_newmud					E noroi și e gratis!
+buildtoolbar_popup_mat_yutaniwall				Construiește pereți cu un aspect ultra-modern peste fundații pentru a crea noi spații sau camere. Aceștia merg foarte bine cu o podea de tip cargo sau solaco.
+
+buildtoolbar_popup_mat_newbblockwall			Construiește pereți din blocuri poroase peste fundații pentru a crea noi spații sau camere.
+buildtoolbar_popup_mat_newbarredwall			Construiește porțiuni de pereți cu zăbrele peste fundații pentru a crea noi spații sau camere.
+buildtoolbar_popup_mat_newtiledwall				Construiește pereți acoperiți cu faianță peste fundații pentru a crea noi spații sau camere.
+buildtoolbar_popup_mat_newhedgewall				Garduri vii înalte, dar firave. Au mai degrabă un rol estetic, nu sunt o opţiune serioasă de securitate.
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_mat_solacofloor				Conferă podelelor închisorii noastre un aspect ultra-modern. Se potrivesc foarte bine cu pereţii Yutani.
+buildtoolbar_popup_mat_gratefloor				Conferă podelelor închisorii noastre un aspect ultra-modern.
+buildtoolbar_popup_mat_newcargofloor			Conferă podelelor închisorii noastre un aspect personalizat.
+buildtoolbar_popup_mat_newironfloor				Conferă podelelor închisorii noastre un aspect personalizat.
+buildtoolbar_popup_mat_newcheckeredfloor		Probabil că modelul acesta merge foarte bine în bucătării și cantine
+buildtoolbar_popup_mat_snow						Este la fel ca apa, numai că mai rece și mai drăguță.
+
+
+
+
+
+buildtoolbar_popup_obj_snowyconifertree			Cel mai bine merge pe un teren cu zăpadă.
+
+
+buildtoolbar_popup_obj_palmtree					În mod normal, cresc pe terenuri uscate, dar acum îi poți cultiva oriunde vrei.
+
+
+buildtoolbar_popup_obj_bush						Sunt folosite ca decor pentru exterior.
+
+buildtoolbar_popup_obj_streetlamp				Pentru a lumina drumurile și potecile.
+
+buildtoolbar_popup_obj_floodlight				Un stâlp înalt de iluminat pentru exterior care acoperă spații largi, cum ar fi curțile.
+
+
+
+
+
+	
+
+
+buildtoolbar_popup_obj_bleachers				Locuri clasice de stat în aer liber în curțile închisorilor, unde grupurile de deținuți pot sta și se pot gândi la următoarea lor mișcare.
+buildtoolbar_popup_obj_smallbench				Obiect de mobilier pe care te poți așeza.
+buildtoolbar_popup_obj_smalltable				Obiect de mobilier la care poți mânca.
+buildtoolbar_popup_obj_showerpillar				Poate fi poziționat în mijlocul unei băi și i se poate atașa câte o pară de duș pe fiecare parte.
+
+
+buildtoolbar_popup_obj_doorMat					Un preș de ușă ieftin, din cauciuc care arată bine așezat în fața ușii.
+
+
+buildtoolbar_popup_obj_guardPavilion			Aşează-l în curți și în spații deschise, pentru uzul gardienilor și al gardienilor înarmați ca să îți poată supraveghea prizonierii.\nDetaşează gardieni prin intermediul meniului Mobilizare trupe.\n-Crește nivelul de suprimare în zona respectivă.\n -gardienii sunt protejați de intemperii.
+buildtoolbar_popup_obj_guardPavilionCorner		Aşează-l în colțurile curților și în spații deschise, pentru uzul gardienilor și al gardienilor înarmați ca să îți poată supraveghea prizonierii.\nDetaşează gardieni prin intermediul meniului Mobilizare trupe.\n-Crește nivelul de suprimare în zona respectivă.\n -gardienii sunt protejați de intemperii.
+
+buildtoolbar_popup_obj_officeChair				Un scaun pe care membrii personalului pot sta la birou în poziție centrală.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_obj_visitorDoor				O ușă care permite vizitatorilor închisorii să treacă, fără să fie nevoie de un paznic care să o deschidă. gardienii și personalul pot folosi, de asemenea, această ușă, dar nu și deținuții.
+buildtoolbar_popup_obj_ironingBoardShort		O masă de călcat mai scurtă.
+buildtoolbar_popup_obj_fencegatestaff			O poartă care arată foarte bine în combinație cu un gard și funcționează la fel ca o ușă.
+buildtoolbar_popup_obj_fencegatestandard		O poartă care arată foarte bine în combinație cu un gard și funcționează la fel ca o ușă.
+buildtoolbar_popup_obj_fencegatevisitor			O poartă care arată foarte bine în combinație cu un gard și funcționează la fel ca o ușă.
+
+
+
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_obj_walllight				Un corp de iluminat care se potrivește într un buncăr și care poate fi instalat pe perete.
+buildtoolbar_popup_obj_securedoor				O ușă concepută pentru carcere, care este prevăzută cu o vizetă. gardienii care aduc mâncarea deținuților pot împinge tava prin ușă, fără să fie nevoie să intre în celulă.
+
+
+interfacedeployment_guards                      Detaşează gardieni
+buildtoolbar_deployment_Guards			Detaşează gardieni în diferite sectoare ale închisorii tale.
+	
+interfacedeployment_Dogs			Detaşează agenţi cu câini
+buildtoolbar_deployment_Dogs			Detaşează agenţi cu câini în diferite sectoare ale închisorii tale.
+
+interfacedeployment_ArmedGuards			Detaşează gardieni înarmați
+buildtoolbar_deployment_ArmedGuards		Detaşează gardieni înarmați în diferite sectoare ale închisorii tale.
+
+interfacedeployment_patrols                     Detaşează gardieni înarmați în diferite sectoare ale închisorii tale.
+buildtoolbar_deployment_Patrols			Reparizează gardieni pe rutele de patrulă ale închisorii tale.
+
+interfacedeployment_dogpatrols                  Detaşează agenţi cu câini
+buildtoolbar_deployment_DogPatrols		Detaşează agenţi cu câini pe rutele de patrulă ale închisorii tale.
+
+interfacedeployment_armedpatrols                Detaşează gardieni înarmați
+buildtoolbar_deployment_ArmedPatrols		Detaşează gardieni înarmați pe rutele de patrulă ale închisorii tale.
+
+buildtoolbar_popup_help_Guards_1        Instrumentul Gardieni îți permite să detașezi gardieni la obiective, pe zone. Un gardian staționat se va deplasa aleator în zona care îi este alocată și va executa sarcinile oricărui gardian din acea zonă, ca de exemplu deschiderea ușilor.\n\n
+buildtoolbar_popup_help_Guards_2        ~Dă clic pentru a crește numărul de agenți cu câini detașați într-o zonă. Dă clic dreapta pentru a elimina un gardian.\n\n
+buildtoolbar_popup_help_Guards_3        ^Sfaturi
+buildtoolbar_popup_help_Guards_4        - Dacă ai deblocată opțiunea Micromanagement, vei avea acces la Programatorul Mobilizare. Acesta îți permite să creezi un orar în care să specifici orele la care sunt delegați gardienii în anumite zone. De exemplu, dacă vrei ca gardienii să fie mobilizați în cantină numai pe perioada mesei, poți da clic pe fiecare bloc din Programator în care apare masa, apoi poți muta glisorul pentru timp în acel bloc și da clic pe cantină pentru a detașa gardieni.
+buildtoolbar_popup_help_Guards_5        Ai maximum 7 blocuri de timp disponibile pentru programare, plus modul Activ permanent, care îți permite să creezi rutine complexe de detașare, adecvate nevoilor din închisoarea ta.
+buildtoolbar_popup_help_Guards_6        Dacă nu selectezi manual un bloc de timp când detașezi agenții cu câini, Programatorul va utiliza momentul actual; selectează timpul corect când schimbi mobilizarea!
+
+buildtoolbar_popup_help_Dogs_1        Instrumentul Agenți cu câini îți permite să detașezi agenți cu câini la obiective, pe zone. Un gardian staționat se va deplasa aleatoriu în zona care îi este alocată și va executa sarcinile oricărui gardian din acea zonă, ca de exemplu deschiderea ușilor.\n\n
+buildtoolbar_popup_help_Dogs_2        ~Dă clic pentru a crește numărul de agenți cu câini detașați într-o zonă. Dă clic dreapta pentru a elimina un agent cu câini.\n\n
+buildtoolbar_popup_help_Dogs_3        ^Sfaturi
+buildtoolbar_popup_help_Dogs_4        - Dacă ai deblocată opțiunea Micromanagement, vei avea acces la Programatorul Mobilizare. Acesta îți permite să creezi un orar în care să specifici orele la care sunt delegați agenți cu câini în anumite zone. De exemplu, dacă vrei ca agenții cu câini să fie mobilizați în cantină numai pe perioada mesei, poți da clic pe fiecare bloc din Programator în care apare masa, apoi poți muta glisorul pentru timp în acel bloc și da clic pe cantină pentru a detașa agenții cu câini.
+buildtoolbar_popup_help_Dogs_5        Ai maximum 7 blocuri de timp disponibile pentru programare, plus modul Activ permanent, care îți permite să creezi rutine complexe de detașare, adecvate nevoilor din închisoarea ta.
+buildtoolbar_popup_help_Dogs_6        Dacă nu selectezi manual un bloc de timp când detașezi agenții cu câini, Programatorul va utiliza momentul actual; selectează timpul corect când schimbi mobilizarea!
+
+buildtoolbar_popup_help_ArmedGuards_1        Instrumentul Gardieni înarmați îți permite să detașezi gardieni înarmați la obiective, pe zone. Un gardian staționat se va deplasa aleator în zona care îi este alocată și va executa sarcinile oricărui gardian din acea zonă, ca de exemplu deschiderea ușilor.\n\n
+buildtoolbar_popup_help_ArmedGuards_2        ~Dă clic pentru a crește numărul de gardieni detașați într-o zonă. Dă clic dreapta pentru a elimina un gardian.\n\n
+buildtoolbar_popup_help_ArmedGuards_3        ^Sfaturi
+buildtoolbar_popup_help_ArmedGuards_4        - Dacă ai deblocată opțiunea Micromanagement, vei avea acces la Programatorul Mobilizare. Acesta îți permite să creezi un orar în care să specifici orele la care sunt delegați gardienii înarmați în anumite zone. De exemplu, dacă vrei ca gardienii înarmați să fie mobilizați în cantină numai pe perioada mesei, poți da clic pe fiecare bloc din Programator în care apare masa, apoi poți muta glisorul pentru timp în acel bloc și da clic pe cantină pentru a detașa gardienii înarmați.
+buildtoolbar_popup_help_ArmedGuards_5        Ai maximum 7 blocuri de timp disponibile pentru programare, plus modul Activ permanent, care îți permite să creezi rutine complexe de detașare, adecvate nevoilor din închisoarea ta.
+buildtoolbar_popup_help_ArmedGuards_6        Dacă nu selectezi manual un bloc de timp când detașezi gardieni înarmați, Programatorul va utiliza momentul actual; selectează timpul corect când schimbi mobilizarea!
+
+interfacedeployment_PrioritizeArea			Stabilește această zonă ca prioritară (*X)
+buildtoolbar_deployment_PrioritizeGuard			Folosește această opțiune pentru a indica gardienilor detașați că este prioritar să acopere anumite sectoare specifice ale închisorii tale. Dacă duci lipsă de personal, gardienii vor încerca să acopere mai întâi zonele prioritare. Sunt disponibile două niveluri de prioritate „Sporită” (>>) și „Extra sporită” (>>>).
+
+interfacedeployment_BluePatrol				Patrula albastră
+buildtoolbar_deployment_BluePatrol			Rutele patrulelor colorate îți permit să suprapui și să detașezi gardieni separați pentru ele. Dă clic și glisează pentru a crea o rută a patrulei albastre. Dă clic dreapta și glisează pentru a elimina o rută a patrulei albastre. Folosește butoanele Mobilizare gardian pentru a adăuga gardieni la o rută de patrulă.
+
+interfacedeployment_MagentaPatrol			Patrulă magenta
+buildtoolbar_deployment_MagentaPatrol			Rutele patrulelor colorate îți permit să suprapui și să detașezi gardieni separați pentru ele. Dă clic și glisează pentru a crea o rută a patrulei magenta. Dă clic dreapta și glisează pentru a elimina o rută a patrulei magenta. Folosește butoanele Mobilizare gardian pentru a adăuga gardieni la o rută de patrulă.
+
+interfacedeployment_PrioritizePatrol			Stabilește această patrulă ca priroritară
+buildtoolbar_deployment_PrioritizePatrol		Folosește această opțiune pentru a indica gardienilor detașați că este prioritar să acopere anumite sectoare specifice ale închisorii tale. Dacă duci lipsă de personal, gardienii vor încerca să acopere mai întâi zonele prioritare. Sunt disponibile două niveluri de prioritate „Sporită” (>>) și „Extra sporită” (>>>).
+
+buildtoolbar_popup_filter_title                 Listă filtre
+buiildtoolbar_popup_filter_toggle               Dă clic pe acest buton pentru a accesa
+buildtoolbar_popup_filter_default               Valoare implicită
+buildtoolbar_popup_filter_az                    A-Z
+buildtoolbar_popup_filter_owned                 Deţinut de cineva
+buildtoolbar_popup_filter_costhighlow           Cost (ridicat - scăzut)
+buildtoolbar_popup_filter_costlowhigh           Cost (scăzut - ridicat)
+buildtoolbar_popup_filter_indooroutdoor         Interior - Exterior
+buildtoolbar_popup_filter_outdoorindoor         Exterior - Interior
+buildtoolbar_popup_filter_quantity               Cantitate deținută
+buildtoolbar_popup_filter_byroom                Pe camere
+
+
+
+
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+double_click_move_item							DUBLU CLIC: deplasare obiect
+
+double_click_add_door							Dublu clic stânga pentru a adăuga uși.
+
+codex_option_bureaucracyresearched				Birocrație cercetată
+codex_tooltip_bureaucracyresearched				Începe un nou joc după ce ai cercetat complet întregul tău arbore Birocrație.
+
+codex_option_jungle						Teren în junglă
+codex_tooltip_jungle						Generează un teren inițial care să semene cu o junglă deasă.
+
+codex_option_snowy						Teren acoperit de zăpadă
+codex_tooltip_snowy						Generează un teren inițial care să fie acoperit cu zăpadă.
+
+# =============================================================================
+# Misc
+# =============================================================================
+action_WashSmall								Spălare
+
+action_Stretching								Exerciții fizice
+action_PlayChess								Joc de șah
+
+
+plant_tree_location								Platează un copac în *X
+
+report_intake_cat_SuperMax							SuperMax
+
+interface_undo							Anula
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_save_failed                               Închisoarea nu a putut fi salvată.
+codex_changelog_next                            Următorul>
+codex_changelog_prev                            <Anterior
+codex_credits                                   Credite
+
+codex_options_screenshotmode					Mod captură de ecran
+codex_tooltip_screenshotmode					Când ești în Modul captură de ecran, ține apăsată TASTA [*K]și apasă [*E],pentru a activa/dezactiva TOATE IU și HUD.
+codex_sso_content_message						Te-ai conectat cu succes la un cont Paradox.\n\nÎn semn de mulțumire, noile turnuri ale pavilionului gardienilor sunt acum deblocate în joc! Găsește-le în meniul Obiecte.
+codex_options_borderless_windowed               Fără frontiere
+codex_options_monitor                           Monitor
+
+
+# =============================================================================
+# Things from Gaz that we might be able to squeeze in, that would be useful to translate please
+# =============================================================================
+
+codex_options_display_mode              	Mod afişaj
+codex_options_borderless_fullscreen		Ecran complet fără frontiere
+codex_options_display_monitor 			Monitor afişaj
+codex_options_windowed_resolution               Rezoluţie cu ferestre
+
+############################### PSYCH WARD UPDATE ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+material_artdecowall							Perete (Art Deco)
+material_blueWall								Perete elegant (cu dungi albastre)
+material_burgundyWall							Perete elegant (roșu de Burgundia)
+material_greenWall								Perete elegant (verde)
+material_orientalWall							Perete (oriental)
+material_cushionedwall							Perete (capitonat)
+
+material_sandstone								Gresie 
+material_limestonefloor							Piatră De Var 
+material_blueCarpet								Covor (albastru)
+material_redCarpet								Covor (roșu)
+material_brownCarpet							Covor (maro)
+material_paddedfloor							Capitonat
+material_grassstones							Iarbă și pietre
+material_grasscornerfloor						Colț Cu Iarbă
+material_grasscornerfloor1						Colț Cu Iarbă
+material_grasscornerfloor2						Colț Cu Iarbă
+material_grasscornerfloor3						Colț Cu Iarbă
+material_lunarfloor								Lunar
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+object_spookytree								Copac (ciudat)
+object_cactustree								Copac (cactus)
+object_sakuratree								Copac (Sakura)
+object_plantcactus								Plantă (cactus)
+object_tyrestack								Stivă De Anvelope
+object_lamp										Lumină (lampă)
+object_bathroomSink								Chiuvetă De Baie
+object_bathroomHandDryer						Uscător De Mâini
+object_chestOfDrawers							Comodă
+object_woodenStool								Taburet De Lemn
+object_woodenTable								Masă De Lemn			
+object_bucket									Găleată
+object_shortbookcase							Bibliotecă (mică)
+object_outdoorTable								Masă De Exterior
+object_mooseHead								Cap De Elan
+object_toiletSign								Indicator (toalete)
+object_rightArrowSign							Indicator (săgeată spre dreapta)
+object_leftArrowSign							Indicator (săgeată spre stânga)
+object_infirmarySign							Indicator (infirmerie)
+object_canteenSign								Indicator (cantină)
+object_showerSign								Indicator (dușuri)
+object_armourySign								Indicator (armurărie)
+object_jaildoorred								Ușă Pentru Celulă (roșii)
+object_jaildoorgrey								Ușă Pentru Celulă (gri)
+object_jaildoororange							Ușă Pentru Celulă (portocalii)
+object_jaildoorYellow							Ușă Pentru Celulă (galbene)
+object_jaildoorlargered							Ușă Mare Pentru Celulă (roșii)
+object_jaildoorlargegrey						Ușă Mare Pentru Celulă (gri)
+object_jaildoorlargeorange						Ușă Mare Pentru Celulă (portocalii)
+object_jaildoorlargeyellow						Ușă Mare Pentru Celulă (galbene)
+object_coatstand								Cuier
+object_dogbowl									Castron Pentru Câine
+object_footbridge                               Pasarelă
+object_footbridgesteel                          Pasarelă De Oțel
+object_footbridgeb                              Pasarelă B
+object_footbridgesteelb                         Pasarelă De Oțel B
+object_windowclassy								Fereastră Elegantă
+object_windowclassyLarge						Fereastră Elegantă (mare)
+object_gravestone								Piatră De Mormânt
+object_psychiatrist								Psihiatru
+object_orderly									Infirmier
+object_rorschachTest							Test Rorschach
+object_anatomyModel								Model Anatomic
+object_flipboard								Tablă Flipchart
+object_medicineCabinetPsych						Dulăpior Cu Medicamente
+object_leatherchair								Scaun De Piele
+object_leatherSofa								Canapea De Piele
+object_parkbench								Bancă (parc)
+object_fencegateguard							Poartă (cu paznic)
+object_oaktable									Masă (stejar)
+object_oakbench									Bancă (stejar)
+object_BoomBoxRoundHouse						Casetofon
+
+object_classic									Clasic
+object_dalmation								Dalmațian
+object_husky									Husky
+object_companion								Însoțitor
+object_cat										Pisică
+object_direwoof									Lup Feroce
+
+equipment_fountainPen							Stilou
+equipment_goldPocketWatch						Ceas De Buzunar Din Aur
+equipment_sedativeShot							Săgeată Cu Sedativ (siringă)
+equipment_sedativesyringe						Sedativ (siringă)
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_mat_artdecowall				Construiește Pereți Art Deco pentru a da închisorii tale un aspect specific anilor 1920.
+buildtoolbar_popup_mat_blueWall					Construiește pereți clasici deasupra fundațiilor pentru a crea noi camere sau zone pentru personal.
+buildtoolbar_popup_mat_burgundywall				Construiește pereți clasici deasupra fundațiilor pentru a crea noi camere sau zone pentru personal.
+buildtoolbar_popup_mat_greenwall				Construiește pereți clasici deasupra fundațiilor pentru a crea noi camere sau zone pentru personal.
+buildtoolbar_popup_mat_orientalwall				Construiește pereți orientali pentru a crea zone în închisoare care amintesc de străvechea Japonie.
+buildtoolbar_popup_mat_cushionedwall			Construiește secțiuni de pereți deasupra fundațiilor pentru a crea noi camere sau zone îmbrăcate în piele, cu un aspect luxos.
+buildtoolbar_popup_mat_sandstone				Pune dale de gresie în zonele exterioare.
+buildtoolbar_popup_mat_limestonefloor			Podeaua este un verde șters.
+buildtoolbar_popup_mat_blueCarpet				Pune pe jos un covor confortabil. Ideal pentru zonele dedicate personalului.
+buildtoolbar_popup_mat_redCarpet				Pune pe jos un covor confortabil. Ideal pentru zonele dedicate personalului.
+buildtoolbar_popup_mat_brownCarpet				Pune pe jos un covor confortabil. Ideal pentru zonele dedicate personalului.
+buildtoolbar_popup_mat_paddedfloor				Se potrivește cu pereții capitonați pentru a crea o celulă complet capitonată pentru Deținuții Declarați Nebuni.
+buildtoolbar_popup_mat_grassstones				O zonă cu iarbă și piatră cubică.
+buildtoolbar_popup_mat_grassscornerfloor		A colț cu iarbă și pământ. Util pentru poteci șerpuitoare.
+buildtoolbar_popup_mat_lunarfloor				O suprafață dură de piatră cu un aspect interstelar.
+buildtoolbar_popup_obj_spookytree				Un copac bătrân și sinistru.
+buildtoolbar_popup_obj_cactustree				Se potrivește cel mai bine pe un teren uscat.
+buildtoolbar_popup_obj_sakuratree				Un cireș frumos cu flori roz.
+buildtoolbar_popup_obj_plant					O plantă frumoasă de interior.
+buildtoolbar_popup_obj_plantcactus				Un cactus de interior în ghiveci.
+buildtoolbar_popup_obj_tyrestack				Este ca un fel de zid mic pe care deținuții și personalul trebuie să îl ocolească.
+buildtoolbar_popup_obj_lamp						O lampă cu picior decorată, perfectă pentru birouri și pentru zonele dedicate personalului.
+buildtoolbar_popup_obj_bathroomSink				Nicio baie curată nu este completă fără una
+buildtoolbar_popup_obj_bathroomHandDryer		Se potrivește perfect cu o Chiuvetă De Baie
+buildtoolbar_popup_obj_chestOfDrawers			O comodă din lemn.
+buildtoolbar_popup_obj_woodenStool				Se potrivește foarte bine cu o Masă De Lemn.
+buildtoolbar_popup_obj_woodenTable				Se potrivește foarte bine cu un Taburet De Lemn	
+buildtoolbar_popup_obj_bucket					Doar o găleată
+buildtoolbar_popup_obj_shortbookcase			O etajeră mai mică pentru cărți.
+buildtoolbar_popup_obj_outdoorTable				Aici deținuții se pot așeza să mănânce în aer liber.
+buildtoolbar_popup_obj_mooseHead				Un superb cap de elan finisat manual, așezat pe o placă.
+buildtoolbar_popup_obj_toiletSign				Un indicator de perete cu simbolul pentru Toalete.
+buildtoolbar_popup_obj_rightArrowSign			Un indicator de perete cu o săgeată către dreapta.
+buildtoolbar_popup_obj_leftArrowSign			Un indicator de perete cu o săgeată către stânga.
+buildtoolbar_popup_obj_infirmarySign			Un indicator de perete cu simbolul pentru Infirmerie.
+buildtoolbar_popup_obj_canteenSign				Un indicator de perete cu simbolul pentru Cantină.
+buildtoolbar_popup_obj_showerSign				Un indicator de perete cu simbolul pentru Dușuri.
+buildtoolbar_popup_obj_armourySign				Un indicator de perete cu simbolul pentru Armurărie.
+buildtoolbar_popup_obj_jaildoorred				O ușă colorată de închisoare care să te ajute să diferențiezi blocurile de celule de Maximă Securitate.
+buildtoolbar_popup_obj_jaildoorgrey				O ușă colorată de închisoare care să te ajute să diferențiezi blocurile de celule cu Nivel Redus De Securitate.
+buildtoolbar_popup_obj_jaildoororange			O ușă colorată de închisoare care să te ajute să diferențiezi blocurile de celule cu Nivel Mediu De Securitate.
+buildtoolbar_popup_obj_jaildooryellow			O ușă colorată de închisoare care să te ajute să diferențiezi blocurile de celule pentru persoanele în Custodie.
+buildtoolbar_popup_obj_jaildoorlargered			O ușă mare şi colorată de închisoare care să te ajute să diferențiezi blocurile de celule de Maximă Securitate.
+buildtoolbar_popup_obj_jaildoorlargegrey		O ușă mare şi colorată de închisoare care să te ajute să diferențiezi blocurile de celule cu Nivel Redus De Securitate.
+buildtoolbar_popup_obj_jaildoorlargeorange		O ușă mare şi colorată de închisoare care să te ajute să diferențiezi blocurile de celule cu Nivel Mediu De Securitate.
+buildtoolbar_popup_obj_jaildoorlargeYellow		O ușă mare şi colorată de închisoare care să te ajute să diferențiezi blocurile de celule pentru persoanele în Custodie.
+buildtoolbar_popup_obj_coatstand				Un spaţiu pentru depozitarea hainelor şi pălăriilor membrilor personalului.
+buildtoolbar_popup_obj_dogbowl					În el se poate pune apă şi mâncare pentru câinii de pază obosiți.\nContribuie la creșterea rezistenței acestora într-o mică măsură.
+buildtoolbar_popup_obj_secretdoor				O ușă secretă care arată ca o bibliotecă și care se deschide pentru a permite accesul personalului.
+buildtoolbar_popup_obj_parkbench				O bancă de parc pentru exterior.
+buildtoolbar_popup_obj_fencegateguard			O poartă care se potrivește foarte bine cu gardurile și pe care numai paznicii le pot deschide.
+buildtoolbar_popup_obj_oaktable					Se mănâncă la ea.
+buildtoolbar_popup_obj_oakbench					Se stă pe el. Se potrivește foarte bine cu Masa De Stejar.
+
+buildtoolbar_popup_obj_classic					Câinele De Pază original, bătrân, dar cu multă experiență.
+buildtoolbar_popup_obj_dalmation				Inițial locuia la o fermă, dar acum lucrează în domeniul prevenirii evadărilor.
+buildtoolbar_popup_obj_husky					O cursă mortală pentru un evadat care se deplasează prin zăpadă.
+buildtoolbar_popup_obj_companion				Cel mai bun prieten al unui paznic
+buildtoolbar_popup_obj_cat						Nu toată lumea iubește câinii.
+buildtoolbar_popup_obj_direwoof					Cine ar putea încerca măcar să evadeze?
+
+buildtoolbar_popup_filter_mostused				Cei mai folosiți
+buildtoolbar_caters_safety						Furnizori pentru a răspunde nevoii de siguranță.
+
+interfacedeployment_orderly						Desemnează infirmieri
+buildtoolbar_deployment_orderly					Desemnează infirmieri pentru sectoarele închisorii tale.
+
+interfacedeployment_orderlypatrols				Desemnează infirmieri
+buildtoolbar_deployment_orderlypatrols			Desemnează infirmieri pe rutele de patrulă din închisoarea ta.
+
+room_PaddedCell                                Celulă Capitonată
+room_PaddedHoldingCell                         Celulă De Detenție Capitonată
+room_PsychiatristOffice							Cabinet De Psihiatrie
+
+interfaceplanning_BuildPlan			Elaborează Planuri
+interfaceplanning_ClearPlan			Șterge Planuri
+interfaceplanning_Door				Uși
+
+buildtoolbar_improvement						- Crește nota pentru *R
+buildtoolbar_improvement_windows				 (când dă în exterior)
+
+buildplan_title					Selecție Tipuri de Pereți			
+buildplan_message				Ești gata să-ți elaborezi planul?\n	Această acțiune nu poate fi anulată.\n\n	Toți pereții plănuiți vor fi construiți pe baza aceluiași tip de perete\n	Selecția tipurilor de pereți poate fi schimbată mai jos.
+clearplan_title					Șterge Planuri
+clearplan_message				Sigur vrei să ștergi toate planurile desenate?\n \n	Această acțiune nu poate fi anulată.
+
+d11_custom_planning 				Planificare Personalizată
+
+buildtoolbar_popup_planning			Planifică închisoarea ta, fără să îți faci griji că muncitorii tăi se vor apuca de lucru înainte ca tu să fii pregătit. Meniul de Planificare îți permite să alegi să construiești toate Structurile și Ușile planificate, să ștergi anumite secțiuni din planurile tale sau să ștergi întregul plan și să o iei de la început.
+
+buildtoolbar_popup_help_planningDoor_1		Tipul selectat de Ușă va fi folosit atunci când amplasezi o Ușă pe planul tău.
+buildtoolbar_popup_help_quickBuildWall_1	Tipul selectat de perete va fi folosit pentru construirea următoarei/următoarelor tale Construcții rapide.
+
+
+buildtoolbar_popup_mat_blueclassywall			Construiește pereți clasici deasupra fundațiilor pentru a crea noi camere sau zone pentru personal.
+buildtoolbar_popup_mat_burgundyclassywall		Construiește pereți clasici deasupra fundațiilor pentru a crea noi camere sau zone pentru personal.
+buildtoolbar_popup_mat_greenclassywall			Construiește pereți clasici deasupra fundațiilor pentru a crea noi camere sau zone pentru personal.
+
+buildtoolbar_popup_obj_windowclassy				Face ca partea de exterior să arate mult mai bine decât este de fapt.
+buildtoolbar_popup_obj_windowclassyLarge		Face ca partea de exterior să arate mult mai bine decât este de fapt.
+buildtoolbar_popup_obj_gravestone				O piatră de mormânt este pusă la dispoziție pentru fiecare deces care are loc în închisoarea ta.
+
+buildtoolbar_popup_staff_psychiatrist			Un angajat avansat care oferă consultații regulate Deținuților Declarați Nebuni.\nPsihiatrii oferă ședințe individuale regulate pentru a-i calma pe Deținuții Declarați Nebuni, odată ce închisoarea are stabilit un program de Consultații Psihiatrice. \nDacă avem foarte mulți Deţinuţi Declarați Nebuni, ar trebui să angajăm câțiva Psihiatri care să le ofere asistență. Asigură-te, de asemenea, că fiecare are cabinetul său.
+
+buildtoolbar_popup_staff_orderly				Personalul medical, special instruit în ceea ce privește gestionarea nebunilor declarați.
+buildtoolbar_popup_obj_leatherchair				Se potrivește cu Canapeaua De Piele. Ideal pentru personal ca să stea pe el, dar, cu siguranță, mult prea elegant pentru deținuți.
+
+buildtoolbar_popup_obj_rorschachTest		    Adăugarea unui Test Rorschach la cabinetul de psihiatrie va contribui la îmbunătățirea tratamentului dat de psihiatru deținuților declarați nebuni.
+buildtoolbar_popup_obj_anatomyModel				Adăugarea unui Model Anatomic la cabinetul de psihiatrie va contribui la îmbunătățirea tratamentului dat de psihiatru deținuților declarați nebuni.
+buildtoolbar_popup_obj_flipboard				Adăugarea unei Table Flipchart la cabinetul de psihiatrie va contribui la îmbunătățirea tratamentului dat de psihiatru deținuților declarați nebuni.
+buildtoolbar_popup_obj_medicineCabinetPsych		Adăugarea unui Dulăpior Cu Medicamente la cabinetul de psihiatrie va contribui la îmbunătățirea tratamentului dat de psihiatru deținuților declarați nebuni.
+buildtoolbar_popup_obj_leatherchair				Se potrivește cu Canapeaua De Piele. Ideal pentru personal ca să stea pe el, dar, cu siguranță, mult prea elegant pentru deținuți.
+buildtoolbar_popup_obj_leatherSofa				Adăugarea unei Canapele clasice de Piele la cabinetul de psihiatrie va contribui la îmbunătățirea tratamentului dat de psihiatru deținuților declarați nebuni.
+
+buildtoolbar_deployment_insaneseczone			Doar deţinuţii declarați nebuni vor avea voie să intre în acest sector.
+
+failuremessage_maximumcountreachedgeneric		Cantitatea Maximă a fost deja Amplasată
+
+buildtoolbar_popup_locked_PsychiatricConsultation				Deblocat după încă *B ședințe la psihiatru
+buildtoobar_PsychConItemImproveInfo 			- Crește nota Cabinetului De Psihiatrie.
+buildtoobar_PsychConItemImproveSuppression 		- După consultare, reduce gradul de refulare al unui\ndeținut declarat nebun și anumite nevoi cu +5%
+buildtoobar_PsychConItemImproveGrace 			- După consultare, oferă unui deținut declarat nebun\no perioadă de „grație” de 1 zi suplimentară,\nînainte de refulare când anumite nevoi încep să se manifeste din nou.
+buildtoolbar_popup_obj_Footbridge				Permite deținuților și personalului să traverseze zone cu pământ și apă. Nu se poate construi peste ziduri, garduri și alte clădiri.
+buildtoolbar_popup_obj_FootbridgeSteel			Permite deținuților și personalului să traverseze zone cu pământ și apă. Nu se poate construi peste ziduri, garduri și alte clădiri.
+buildtoolbar_popup_obj_FootbridgeB				Permite deținuților și personalului să traverseze zone cu pământ și apă. Nu se poate construi peste ziduri, garduri și alte clădiri.
+buildtoolbar_popup_obj_FootbridgeSteelB			Permite deținuților și personalului să traverseze zone cu pământ și apă. Nu se poate construi peste ziduri, garduri și alte clădiri.
+buildtoolbar_popup_obj_BoomBoxRoundHouse		Le permite deținuților să asculte formațiile de băieți preferate pe parcursul zilei. Face toți deținuții din aceeași cameră puțin mai mulțumiți.
+# =============================================================================
+# Room - Names
+# =============================================================================
+
+room_PaddedSolitary                            Carceră Capitonată
+
+# =============================================================================
+# Room - Description
+# =============================================================================
+
+buildtoolbar_popup_room_paddedcell			    Folosită pentru deținuții declarați nebuni, este prevăzută cu pereți capitonați care au un efect de calmare.
+buildtoolbar_popup_room_paddedholdingcell	    Locul unde sunt plasați deținuții noi declarați nebuni înainte să fie gata celula capitonată permanentă.
+buildtoolbar_popup_room_paddedsolitary			    O formă izolată de deținere pentru cei mai răi dintre deținuții declarați nebuni.
+
+# =============================================================================
+# Quick Build - Names
+# =============================================================================
+
+quickbuild_paddedbasiccell									Capitonată (mică)
+quickbuild_paddedintermediatecell							Capitonată (medie)
+quickbuild_paddedholdingcell								Celulă De Detenție Capitonată
+quickbuild_paddedsolitarycell								Carceră Capitonată
+quickbuild_PsychiatristOffice								Cabinet De Psihiatrie
+
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacedeployment_insaneseczone                  Numai Sect Nebuni
+interfacetopbar_PrisonerCells_insaneSecOnly	Capacitate Nebuni Declarați: *X
+
+roomgrading_PsychiatristOffice_info				Deblochează și amplasează obiecte suplimentare în Cabinetul De Psihiatrie pentru a îmbunătăți tratamentul dat deținuților declarați nebuni.\n
+												Items are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+roomgrading_PsychiatristOffice_Item				Articol: *X
+roomgrading_PsychiatristOffice_Quality			Abilitate Psihiatru: *Q
+roomgrading_PsychiatristOffice_Upgrade			Fă upgrade Cabinetului De Psihiatrie pentru a îmbunătăți această abilitate.
+
+roomgrading_score_average		MEDIU
+roomgrading_score_good			BUN
+roomgrading_score_verygood		FOARTE BUN
+roomgrading_score_outstanding	EXCEPȚIONAL
+
+# =============================================================================
+# Objectives, Grants
+# =============================================================================
+
+objective_grant_firstinsanecellblock				Aripă Nebuni Declarați
+objective_grant_firstinsanecellblock_description	Guvernul este dispus să ne acorde finanțare pentru extinderea închisorii noastre, astfel încât aceasta să poată găzdui și proteja bunăstarea deținuților declarați nebuni.\n\nAcest grant ne va ajuta să construim niște celule capitonate speciale și să angajăm psihiatri instruiți.
+objective_grant_firstinsanecellblock_cells			Construiește o aripă / bloc de celule pentru Deținuții Declarați Nebuni cu 10 Celule Capitonate.
+objective_grant_firstinsanecellblock_prisoners		Primește 10 Deținuți Nebuni Declarați
+objective_grant_firstinsanecellblock_psychiatrist	Angajează 2 Psihiatri (fiecare are nevoie de un cabinet)
+
+objective_readinsaneletter						Îndrumările Directorului General cu privire la Deținuții Declarați Nebuni
+objective_readinsaneletter_description			Înainte de a putea primi deținuți declarați nebuni în închisoarea ta, trebuie să fii pregătit cu facilitățile și personalul adecvat pentru a putea răspunde în mod adecvat nevoilor lor - Directorul General...
+
+# =============================================================================
+# Wardens
+# =============================================================================
+
+warden_wardeninsanehawk_name                     Hawk Hartman
+warden_wardeninsanehawk_desc                     În calitate de fost vânător de recompense, Hartman transmite mai departe tehnici valoroase de instruire personalului său de securitate.\n\n - Paznicilor le cad mai rar cheile\n - Rezistența paznicilor se reface la primirea de noi deținuți
+warden_wardeninsanehawk_desc_short               - Rezistența paznicilor se reface la primirea de noi deținuți.
+
+warden_wardeninsaneslugworth_name                Dr. Slugworth
+warden_wardeninsaneslugworth_desc                Când toate celelalte închisori îi refuză, Slugworth deschide ușa celor mai răi Deținuți Declarați Nebuni care există, fiind convins că îi poate ajuta.\n\n - Tratamentele psihiatrice sunt cu 20% mai benefice\n - Șansele de a primi Deținuți Declarați Nebuni Psihopați sunt mai mari!
+warden_wardeninsaneslugworth_desc_short          - Acceptă mai mulți Deținuți Declarați Nebuni Psihopați. Psihiatrii oferă un tratament mai bun.
+
+warden_wardeninsanehudson_name					 Dr Hudson
+warden_wardeninsanehudson_desc                   Dr Hudson este pregătit să facă ceea ce niciun alt Director de închisoare nu poate...\n\n - Serviciile de urgență funcționează cu 20% mai rapid și sosesc mai devreme\n - Costurile pentru reparații sunt reduse cu 10%
+warden_wardeninsanehudson_desc_short             - Timp mai rapizi de răspuns, iar costurile pentru reparații sunt reduse.
+
+# =============================================================================
+# Victory, failures
+# =============================================================================
+
+victory_insaneprisonersdeaths					 Decese Deținuți Nebuni
+victory_warning_insaneprisonersdeaths			 Vei fi concediat, dacă prea mulți deținuți nebuni mor.
+victory_insaneprisonersdeaths_units				 Decese
+
+victory_insaneprisonersabused					 Deținuți Nebuni Atacați
+victory_warning_insaneprisonersabused			 Vei fi concediat, dacă prea mulți deținuți nebuni sunt atacați de paznici.
+victory_insaneprisonersabused_units				 Atacuri
+
+victory_adviserwarning_insaneprisonersdeaths1	 Nu putem continua să lăsăm deținuții declarați nebuni să fie supuși abuzurilor în cadrul închisorii noastre! Ne vom crea o reputație foarte proastă în mass-media dacă nu reușim să ne adunăm!
+victory_advisernotice_insaneprisonersdeaths1	 Ai depășit limita! Ești terminat! Trebuia să ai grijă de deținuții cu probleme mentale, dar în loc să faci asta, ai permis ca aceștia să fie supuși unor tratamente de o cruzime de neimaginat. Eu nu te pot decât concedia, dar îți sugerez să te duci acasă și să-ți reevaluezi opțiunile de viață.
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_option_criminallyinsane					Deținuți Declarați Nebuni
+
+codex_tooltip_criminallyinsane					Gestionează deținuții care se simt în mod constant slăbiți, solicită noi celule capitonate și ajutor psihiatric pentru a le reduce nevoile de intimitate, confort, siguranță și libertate înainte ca aceștia să izbucnească. Dacă activezi această setare, unii deținuți obișnuiți vor înnebuni în închisoarea ta dacă nevoile lor nu sunt avute în vedere. Opțiunea ca unii deținuți să ajungă să fie declarați nebuni poate fi dezactivată din Setări hartă.
+
+codex_prisoner_biography_NITG					Biografie personalizată creată de jucător
+codex_options_InsaneGauge						Indicatoare Individuale Pentru Deținuți
+
+codex_option_desert								Teren Nisipos
+codex_tooltip_desert							Generează un teren inițial care seamănă cu un deșert nisipos.
+
+codex_options_rendercolours						Straturi Cameră Colorată
+
+codex_new_selectdog								Alege Câini de Pază
+
+codex_option_prisonerTurning					Deținuții Pot Ajunge Să Fie Declarați Nebuni
+
+# =============================================================================
+# Rapsheet
+# =============================================================================
+
+rapsheet_category_insane						Nebun Declarat
+rapsheet_insane_bio_desc                        Deținuții declarați nebuni se simt în mod constant slăbiți și au nevoie de celule capitonate și de ajutor psihiatric pentru a rămâne calmi.\n\nDeținuții declarați nebuni care izbucnesc pot ataca membrii personalului, pot cauza pagube în închisoare sau pot încerca să evadeze, putând manifesta, de asemenea, și alte comportamente imprevizibile.
+
+reputation_Weak                                 Slăbit
+reputation_Insomniac                            Insomniac
+reputation_Depressed                            Deprimat
+reputation_Outbreaks                            Accese
+reputation_Sickness                             Boală
+reputation_Hyperactive                          Hiperactiv
+reputation_Addict                               Dependent
+reputation_Claustrophobic                       Claustrofob
+reputation_ExtremelyStoical                     Extrem De Stoic
+reputation_ExtremelyVolatile                    Extrem De Volatil
+reputation_Psychopathic                         Psihopat
+reputation_Insane                               Nebun Declarat
+
+reputationtooltip_Weak                          Deținutul este mai slăbit, nu se descurcă prea bine într-o bătaie și, prin urmare, este mai probabil să sufere vătămări.
+reputationtooltip_Insomniac                     Acest deţinut are nevoie de foarte puțin somn.
+reputationtooltip_Depressed                     Acest deținut se deplasează mult mai încet atunci când simte că este slăbit și nu este tratat.
+reputationtooltip_Outbreaks                     Acest deținut este înclinat să aibă accese de violență și să producă pagube mediului din jur atunci când simte că este slăbit și nu este tratat.
+reputationtooltip_Sickness                      Acest deținut este înclinat să vomite sau să facă pe el atunci când simte că este slăbit și nu este tratat.
+reputationtooltip_Hyperactive                   Se deplasează mult mai repede atunci când simte că este slăbit și nu este tratat.
+reputationtooltip_Addict                        Acest deținut este mai predispus să devină dependent de droguri atunci când simte că este slăbit și nu este tratat.
+reputationtooltip_Claustrophobic                Dorința acestui deținut de evadare din mediul în care trăiește este mult mai ridicată atunci când simte că este slăbit și nu este tratat.
+reputationtooltip_ExtremelyStoical              Acest deţinut nu va deveni docil când este trimis la carceră sau când se află în prezența paznicilor. Chiar nu îi pasă.
+reputationtooltip_ExtremelyVolatile             Stai cu ochii pe acest deținut. Orice îl poate declanșa o criză și lucrurile pot evalua într-o direcție nedorită foarte repede.
+reputationtooltip_Psychopathic                  Acest deţinut este mult mai periculos și imprevizibil decât alți Deținuți Declarați Nebuni.
+reputationtooltip_Insane                        Asigură-te că acest deținut are acces la sesiunile de consult psihiatric ținute de un psihiatru și la o celulă capitonată, ca să-l ajuți să se calmeze.
+
+# =============================================================================
+# Reports
+# =============================================================================
+
+report_intake_cat_insane						Nebun Declarat
+report_intake_list_tooltip_insane				Deținuți Declarați Nebuni se simt în mod constant slăbiți și au nevoie de celule capitonate noi și de ajutor psihiatric pentru a le reduce nevoia de intimitate, confort, siguranță și de libertate, înainte să izbucnească.\n\nNu poți solicita Deținuți Declarați Nebuni până când nu ai pregătite câteva Celule Capitonate sau o Celulă De Detenție Capitonată.\n\nCelulele normale pot fi transformate în Celule Capitonate în meniul Camere.
+report_intake_insane_intake_empty				Deținuți Declarați Nebuni nu pot fi primiți în acest moment.\n Trebuie să construiești celule capitonate sau celule de detenție capitonate.\nCelulele normale pot fi transformate în Celule Capitonate în meniul Camere.
+report_staff_group_prisoners_insane				Nebun Declarat
+report_Criminally_Insane						Nebun Declarat
+report_Pyschopathic								Psihopat
+
+report_intake_enable_insane					Activare
+report_intake_psychward_title					Secția de psihiatrie: Ediția Directorului de închisoare
+report_intake_psychward_tooltip					Activează Secția de psihiatrie: Ediția Directorului de închisoare pentru această închisoare.\n\nAsta îți va permite să primești Deținuți Declarați Nebuni, dar mai întâi trebuie să faci niște pregătiri în închisoare.\n\nPsihiatrii și Infirmierii pot fi documentați și angajați. Celulele Capitonate și Celulele de Detenție pot fi create.\n\nAtât Psihiatrii, cât și Celulele Capitonate te vor ajuta să îți menții calmi Deținuții Declarați Nebuni și să îi poți controla. 
+
+reformerror_no_psychiatrist					NICIUN PSIHIATRU
+reform_completion_psychiatrist              - *X Terminat - *Y Tratați (*P%)
+report_staff_group_orderlies				Infirmieri
+
+# =============================================================================
+# Research
+# =============================================================================
+research_Orderly							Infirmier
+research_Psychiatrist							Psihiatru
+                     
+researchtooltip_Orderly							Paznicii obișnuiți nu au voie să atace deținuți declarați nebuni, pentru că i-ar putea răni.\nInfirmierii dispun de pregătire specială pentru a imobiliza nebunii declarați fără să-i rănească.\nDe asemenea, infirmierii vor pune cămăși de forță deținuților psihopați în timpul nopții pentru a-i împiedica să își provoace vătămări în timpul nopții.
+researchtooltip_Psychiatrist					Un angajat avansat care oferă consultații regulate Deținuților Nebuni De Legat.\nPsihiatrii oferă ședințe individuale regulate pentru a-i calma pe Deținuții Nebuni De Legat, odată ce închisoarea are stabilit un program de Consultații Psihiatrice. \nDacă avem foarte mulți Deţinuţi Declarați Nebuni, ar trebui să angajăm câțiva Psihiatri care să le ofere asistență. Asigură-te, de asemenea, că fiecare are cabinetul său.
+
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+doortimer_security_Insane			            Nebun
+
+buildtoolbar_header_foundationmain				Principal
+buildtoolbar_header_foundationmore				Mai multe
+
+reformprogram_PsychiatricConsultation			Consult Psihiatric
+reformprogram_PsychiatricConsultation_text		Toți deținuții declarați nebuni au nevoie de sesiuni individuale regulate de calmare la psihiatrul închisorii, ca să-i ajute să le reducă sentimentul de slăbiciune în creștere. Lipsa asistenței psihiatrice poate duce la izbucniri violente și la alte reacții unice din partea acestor prizonieri.
+reform_program_properties_NeedToBeEscorted		Este posibil ca deținuții să trebuiască să fie escortați la aceste sesiuni.
+reform_program_intake_insane				Numai pentru Deținuții Declarați Nebuni.
+
+insane_letter									Stimate domnule/doamnă,\n\n\nVă prezentăm câteva îndrumări importante pentru a ne asigura că aveți pregătite facilități și personal adecvat pentru a vă putea ocupa de Deținuți Declarați Nebuni.\n\n1.  Deținuții Declarați Nebuni trebuie să fie ținuți în Celule Capitonate. Puteți transforma celulele standard în celule capitonate (din meniul Camere). După ce veți dispune de celule capitonate, veți putea accepta primul dvs. lot de deținuți.\n\n2.  Asigurați-vă că aveți angajați Psihiatri și Infirmieri în rândul personalului dvs. Psihiatrii au nevoie, de asemenea, de un cabinet dedicat.\n\n3.  Înființați câteva programe de Consult Psihiatric pentru Deținuții Declarați Nebuni. Aceste sesiuni individuale la Psihiatru (și celulele capitonate) contribuie la menținerea controlului asupra deținuților. Modernizarea cabinetului Psihiatrului va duce, de asemenea, la îmbunătățirea abilității acestuia de tratare a deținuților.\n\n4.  Dacă este lăsat netratat și nu este verificat, un Deținut Declarat Nebun poate avea comportamente imprevizibile, poate încerca să evadeze sau poate deveni violent.\n\n5.  Infirmierii ajută la escortarea și vindecarea deținuților; ei nu îi potolesc pe deținuți în același mod ca paznicii obișnuiți. De asemenea, vei avea nevoie de Infirmieri pentru a le pune cămașa de forță Deținuților Declarați Nebuni la sfârșitul zilei. \n\n6.  Deținuții Declarați Nebuni care se amestecă printre ceilalți deținuți pot cauza uneori probleme. Este o idee bună să construiești și să separi sectoarele dedicate Deținuților Declarați Nebuni în zona de Cantină, în Curte, precum și în alte zone. Și este de dorit ca toate cabinetele de psihiatrie să fie situate lângă blocurile de celule destinate Deținuților Declarați Nebuni.\n\n7.  În sfârșit, deținuții de la alte niveluri de securitate pot fi deveni la rândul lor nebuni declarați, așa că trebuie să fii atent.\n\nDirectorul General,\nPrison Architects Corp
+
+job_StraitJacket                         Aplică/Scoate Cămașa de Forță
+job_EscortInsane                         Escortează Deținuți Nebuni
+status_effect_sedated					Sedat
+
+orderly_description                     Infirmierii sunt special pregătiți pentru manipularea și sedarea (dacă este necesar) Deținuților Declarați Nebuni.
+pyschiatrist_description                TOȚI Deținuții Declarați Nebuni au nevoie de sesiuni individuale regulate de Consult Psihiatric la un Psihiatru. Adaugă sesiunile de Consult Psihiatric folosind meniul Programe.
+
+insanetooltip_status                    Stare: *X
+insanetooltip_status_level0             CALM
+insanetooltip_status_level1             AGITAT
+insanetooltip_status_level2             INSTABIL
+insanetooltip_status_level3             CRIZAT!
+insanetooltip_behaviour					Comportament: *X
+
+mutator_name_ReducedDirtBuildup						Reduce Acumularea de Mizerie
+mutator_tooltip_ReducedDirtBuildup					Viteza cu care se acumulează mizeria și nămolul în închisoare este redusă la jumătate.
+administrator_requiresoffice_psychiatrist            Necesită Cabinet De Psihiatrie
+
+dlc_insane_upsell				Această salvare folosește conținut din extensia „Secția de psihiatrie: Ediția Directorului de închisoare”. Pentru că nu am putut detecta această extensie în sistemul tău, unele caracteristici vor fi dezactivate. Te rugăm să ai în vedere achiziționarea extensiei „Secția de psihiatrie: Ediția Directorului de închisoare” pentru a beneficia pe deplin de experiențele oferite de jocul Prison Architect.
+dlc_insane_upsell_multiplayer 	Gazda acestui joc pentru mai mulți jucători a achiziționat extensia „Secția de psihiatrie: Ediția Directorului de închisoare”, la care și tu vei avea acces, în calitate de invitat.
+
+regime_work_pyscho              Programe/Timp liber
+regime_worklockdown_pyscho      Programe/Închidere
+
+regimetooltip_work_pyscho			Notă Deţinuţii nebuni nu pot munci și pot participa numai la diferite programe în timpul perioadelor de muncă
+regimetooltip_worklockdown_pyscho	Notă Deţinuţii nebuni nu pot munci și pot participa numai la diferite programe în timpul perioadelor de muncă
+
+
+# =============================================================================
+# Nameplate status
+# ============================================================================= 
+
+nameplate_sedation_level						Nivel de Sedare
+teacher_teaching_pschiatrist                    Tratament în curs		
+pschiatrist_count_status						*X Consulturi Psihiatrice Finalizate
+
+
+############################### SNEEZER UPDATE ###############################
+
+# =============================================================================
+# Rapsheet
+# ============================================================================= 
+
+action_escortToInfirmary						Escortează la Infirmerie
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacelogistics_cellStatus					Stare Celule
+
+buildtoolbar_popup_help_CellStatus_1			Vizualizarea Stării celulelor îți indică celulele ocupate (roșu) și pe cele libere (verde).
+buildtoolbar_popup_help_CellStatus_2			Poți da clic pe o celulă ocupată pentru a vedea deținutul desemnat să o ocupe.
+
+freeCell										Celulă Liberă
+freeCell_line0									Această celulă nu este momentan ocupată.
+occupiedCell									Celulă Ocupată
+occupiedCell_line0								*X *Y, *Z
+occupiedCell_line1								Clic stânga pentru a vedea acest deţinut.
+object_prisoner_freshfish						Deţinut (boboc)
+
+total_Connections								Număr total de conexiuni: *X
+active_Connections								Numărul maxim de conexiuni active: *X
+
+interfacedeployment_VisitorDirection			Direcție Vizitatori
+
+interface_action_move							Mută
+
+equipment_moreContraband						Contrabandă
+
+# =============================================================================
+# Reports
+# =============================================================================
+
+report_intake_cat_PrisonerTransfer				Transfer Deținut!
+report_intake_list_tooltip_prisonerTransfer		\n\nLa anumite intervale de timp sunt oferiți deținuți cu risc ridicat care sunt prea periculoși pentru alți deținuți. \nAi grijă! Există un motiv pentru care se plătește bine pentru acești deținuți. Ei sunt criminali înrăiți de care nicio altă facilitate nu vrea să se ocupe.
+rapsheet_category_PrisonerTransfer				Transfer Deținut!
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_tooltip_noUtilities		Conductele de apă și cablurile electrice nu pot fi instalate dedesubt.
+
+buildtoolbar_deployment_VisitorDirection 	Ține apăsat butonul din stânga și deplasează mouse-ul pentru a vedea indicatoarele de pe podea.\n\nAcestea le indică persoanelor care nu sunt deținuți în ce direcție să meargă.\nContribuie la controlarea fluxului de oameni din închisoare.
+
+# =============================================================================
+# Programs
+# =============================================================================
+
+guard_program_requirements             - Fiecare paznic are nevoie de un *X
+
+schedule_zone_insaneSecOnly						Sect Nebuni
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_option_lunar								Teren Lunar
+codex_tooltip_lunar								Generează un teren inițial care seamănă cu suprafața lunară.
+
+codex_option_doubleClick						Dublu clic pentru a muta obiecte
+
+# =============================================================================
+# Clone Tool
+# =============================================================================
+
+BuildCost_CloneRoom								Cameră Clonare
+
+# =============================================================================
+# Missing Strings
+# =============================================================================
+
+codex_startonline                   Online
+codex_start                         Creează joc
+codex_joinonline                    Asociază-te Jocului Online
+codex_join                          Asociază-te jocului
+codex_usernamelabel                 Nume de utilizator:
+codex_namelabel                     Nume joc:
+codex_passwordlabel                 Parolă:
+codex_passwordprotectedlabel        Protejat de parolă?
+codex_listedlabel                   Public?
+codex_roomlistlabel                 Listă jocuri:
+codex_connectinglabel               Conectare la server în curs...
+codex_retrievingserverlistlabel     Regăsire Listă jocuri în curs...
+codex_datausage                     Utilizare date: Trimise - *SkB/s, Primite - *RkB/s
+codex_multiplayeroptions            Gestionează jucători
+codex_playeroptions                 Jucători
+codex_regionlabel                   Regiune:
+
+multiplayer_chooseroomname          Te rog să alegi un nume de joc
+multiplayer_chooseusername          Te rog să alegi un nume de utilizator
+multiplayer_joining                 Se efectuează asocierea: *X
+multiplayer_joiningstate_joining    Se efectuează asocierea la joc
+multiplayer_joiningstate_receiving  Se primește lumea
+multiplayer_joiningstate_loading    Se încarcă lumea
+multiplayer_rejoining               Se efectuează asocierea din nou la joc după extindere teren:
+multiplayer_leavegame_confirm       Sigur vrei să părăsești actualul joc de cooperare?
+multiplayer_hostleft                Gazda s-a deconectat.
+multiplayer_joingamefailed          Asocierea la joc a eșuat:
+multiplayer_startgamefailed         Inițierea jocului a eșuat:
+multiplayer_incorrectpassword       Parolă incorectă
+multiplayer_disconnected            S-a pierdut conexiunea la server.
+multiplayer_syncerror               Deconectat ca urmare a unei erori de sincronizare.\n\nTe rugăm să încerci să te asociezi din nou jocului.
+multiplayer_hostonly                Disponibil numai pentru jucătorul gazdă.
+multiplayer_modsdisabled            Modurile sunt dezactivate pentru jocul online
+multiplayer_mutatorsdisabled        Mutatoarele sunt dezactivate pentru jocul online
+multiplayer_kicked                  Ai fost dat afară din joc.
+multiplayer_kick                    Dă afară
+multiplayer_ban                     Interzice
+
+multiplayer_host                    Gazdă:
+
+multiplayer_welcomeanalytics        Bun venit la Prison Architect Multiplayer\n\nNe-am străduit să oferim posibilitatea experienței complete Prison Architect în jocul pentru mai mulți jucători. Prison Architect este un joc mare și aceasta este prima dată când oferim posibilitatea accesării jocului pentru mai mulți jucători pentru toată lumea, așa că vom fi atenți la toate problemele cu care s-ar putea confrunta jucătorii.\n\nPentru a ne ajuta în acest sens, am vrea să colectăm câteva date analitice anonime pentru a putea rezolva orice probleme pe care le întâmpină cei care joacă acest joc. Această opțiune poate fi dezactivată oricând din meniul opțiuni. Poți vedea datele pe care le colectăm în metrics.txt\n\nSperăm că te distrezi jucând Prison Architect cu prietenii tăi.
+
+region_asia                         Asia
+region_au                           Australia
+region_cae                          Canada, partea de est
+region_eu                           Europa
+region_in                           India
+region_jp                           Japonia
+region_ru                           Rusia
+region_rue                          Rusia, partea de est
+region_sa                           America de Sud
+region_kr                           Coreea de Sud
+region_us                           SUA, partea de est
+region_usw                          SUA, partea de vest
+
+codex_options_disableattract            Dezactivează ecranul promoțional de început
+codex_option_escapeplans                Planuri de evadare
+buildtoolbar_rollcall                   Apel nominal
+buildtoolbar_tooltip_rollcall           Strigă toți deținuții să iasă în afara celulelor. Disponibil numai în timpul regimurilor de somn și în timpul nopții.
+interfacecontrol_graphs                 Grafice
+interfacecontrol_graphs_tooltip         Deschide ecranul Grafice, care îți permite să compari grafice ce reprezintă diferite aspecte ale închisorii tale.
+
+graph_title                             Grafice
+
+graph_label_1                           Tip de date 1
+graph_label_2                           Tip de date 2
+graph_label_day                         Zi
+
+graph_axis_none                         Niciunul
+graph_axis_profit                       Profit
+graph_axis_funds                        Fonduri
+graph_axis_prisonsize                   Dimensiune Închisoare (m²)
+graph_axis_numprisoners                 Num Deţinuţi
+graph_axis_numstaff                     Num Membri Personal
+graph_axis_releasedprisoners            Deţinuţi Eliberați
+graph_axis_totalreleasedprisoners       Nr. Total Deţinuţi Eliberați
+graph_axis_escapedprisoners             Deţinuţi Evadați
+graph_axis_totalescapedprisoners        Nr. Total Deţinuţi Evadați
+graph_axis_entitydeath                  Decese
+graph_axis_totaldeaths                  Total Decese
+graph_axis_prisonerdeaths               Decese Deținuți
+graph_axis_guarddeaths                  Decese Paznici
+graph_axis_securitygrading              Evaluare Securitate
+graph_axis_healthgrading                Evaluare Sănătate
+graph_axis_reformgrading                Evaluare Reformă
+graph_axis_punishmentgrading            Evaluare Pedepse
+graph_axis_reoffendingrate              Rată Recidivă
+graph_axis_prisonvalue                  Valoarea Închisorii
+graph_axis_prisonercapacity             Capacitate Deţinuţi
+graph_axis_numincidents                 Număr Incidente
+graph_axis_totalincidents               Număr Total Incidente
+
+equipment_Photo				Fotografie	
+equipment_SubMachineGun			Carabina	
+equipment_Soap				Săpun	

@@ -1,0 +1,112 @@
+"Clink"
+>27. kesäkuuta 2019
+	The Clink Update
+<->4 uutta lattiatyyppiä ja 4 uutta seinää lisätty.
+<->Suoritusparannuksia latausaikojen lyhentämiseksi. 
+<->Palkattavien esimiesten määrää on lisätty isoja vankiloita silmällä pitäen joissa esimiehet vetävät myös ohjelmia.
+<->Olemassa olevat esineet ovat nyt täysin käänneltäviä ja puuttuneet asennot on korjattu.
+<->Uusi 'Vartijakutsu' nappula määrää olemassaolevia vartijoita tulemaan paikalle, eikä pelaajan tarvitse enää palkata erillisiä vartijoita hoitamaan ongelmatilanteita. 
+<->Uusi 'Tutki tunneli' nappula määrää vartijoita nimenomaisesti tutkimaan kaikki vessat pakotunneleiden varalta. 
+<->Uusia pikahuoneita lisätty pikarakennusvalikkoon jotta rakentaminen olisi entistä helpompaa ja nopeampaa.
+<->Vankien ja henkilökunnan seuraaminen on tehty paljon helpommaksi tuplaklikkauksella.
+
+
+Toivottavasti nautit pelaamisesta näiden uusien parannusten kanssa!
+
+~~~~~
+"Slammer"
+>17.09.19
+
+Näytä meille @PrisonArchitect ’illa miten käytät näitä uusia esineitä vankiloissasi! 
+
+Gaz, Pelisuunnittelumanageri Double Elevenillä.
+
+
+>[1/3] Uusia esineitä
+
+<->Uusia lattiatyyppejä; Ritilä, Muta, Sci-Fi.
+<->Uusi turvallinen ovi, jossa on ruokaluukku.
+<->Uusia valoja; katulamppuja, valonheittimiä, seinävaloja.
+<->Uusia puita: Luminen puu, palmupuu.
+<->Myös muita uusia esineitä.
+
+
+>Klikkaa SEURAAVA nähdäksesi lisää…
+
+
+
+>[2/3] Uusia ominaisuuksia
+
+<->Reunaton ikkunatila saatavilla.
+<->Esineiden uudelleensijoittaminen/siirtäminen!
+<->Esinevalikon näkymää voi suodattaa ja järjestää.
+<->Ovien rakentaminen seiniin on nyt nopeaa.
+<->Koirapartioita ja aseistettuja vartijoita voi nyt määrätä partiointireiteille ja alueille.
+<->Pelinopeus x10
+<->SuperMax-vangit lisätty sisäänottoon.
+<->Kahden partiointireitin risteäminen on nyt mahdollista.
+<->Useampia esineitä ja huonekaluja voi nyt kääntää.
+<->Logistiikka- ja Asemointimäkymiä parannettu.
+<->Kloonaustyökalun aluetta suurennettu.
+<->Mahdollisuus aloittaa peli Byrokratia-taitopuu tutkittuna.
+<->Mutaatioita voi nyt säätää kesken pelin niiden valikon kautta.
+<->Esine poikineen!
+<->Pelin voi nyt aloittaa lumisella tai viidakkoisella maalla.
+<->Vartijatornit suojaavat tarkka-ampujia säältä.
+<->Henkilökunnan ja koirat voi nimetä.
+<->Esinevalikossa voi etsiä huoneen perusteella.
+<->Mahdollisuus pitää vankilat puhtaampina.
+<->Uudet pikalinkit heijastusnäytön yläosasta.
+<->!
+
+
+>[3/3] Ja lisää…
+
+<->Tarkka-ampujilla on nyt vankilan avaimet.
+<->Vangit pitävät suihkuhuoneita tärkeämpinä kuin muitten vankien sellien suihkuja.
+<->Videovalvonta näyttää vangit ja henkilökunnan Vankilanjohtaja-tilassa.
+<->Vartijat, jotka on määrätty hoitamaan laitteita eivät hylkää pestiään suorittaakseen etsintöjä ja tutkintoja.
+<->Vartijat avaavat ovet kadonneille koirille.
+<->Kirjahyllystä saa apua lukemisen himoon.
+<->Pikanäppäimet pelivalikkojen [Z] & [X] ja lopetusvalikon [C] välillä vaihtamiseen.
+<->Pikahuoneen sellin ovi pysyy auki, kunnes huone on valmis.
+<->Videokameroista näkee nyt, mihin suuntaan ne osoittavat.
+<->Korjaa pensasaidan ulkoasun.
+<->Korjaa metallinpaljastimet.
+<->Korjaa ongelman, jossa 
+<->Tuki modaajille.
+
+
+~~~~~~
+
+The Sneezer -päivitys
+>21.11.2019
+
+Hyvät vankilanjohtajat
+
+Toivottavasti nautitte tästä Prison Architectin päivityksestä.
+Alta löytyy yhteenveto merkittävimmistä asioista, mukaan lukien uudet sillat, kloonaus ja suunnittelun parannukset.
+
+>[1/2] Uudet tavarat
+
+<->Uudet seinät: art deco ja itämainen.
+<->Uudet lattiat: kalkkikivi, ruohoa ja kiveä, hiekkakivi ja kuu.
+<->Uudet esineet: pesuallas, käsienkuivain, seinäkyltit, kammottava puu ja kirsikkapuu, kaktus, puistonpenkki, hirvenpää, kyltit, kirjahyllyn salaovi ja enemmän...
+
+Napsauta SEURAAVA nähdäksesi lisää...
+
+>[2/2] Uudet ominaisuudet
+
+<->Valittavana on monta uutta koiratyyppiä, ennen pelin alkua ja sen aikana!
+<->Pikahuoneiden seinätyyppi voidaan valita.
+<->Lopultakin, SILLAT ovat täällä! Aseta ne teiden, veden tai muun maaston päälle, jotta henkilökunta ja vangit voivat ylittää niitä.
+<->Uudistetut päiväpalkkiot riskialttiimmista vangeista; huippuvartioiduista, säilöönotetuista, kuolemanjonon ja mielisairaista vangeista maksetaan enemmän.
+<->Tyhjät ja käytössä olevat sellit näkyvät nyt Logistiikka-ruudulta uuden "Sellin tila" -painikkeen kautta.
+<->Elämänkertaan on lisätty uusi vankitoiminto: "Saata sairastupaan"
+<->Siirrettävät vangit tarjotaan sisäänotossa.
+<->Asemointiin on lisätty ainutlaatuisia vierailijan suunnan vaihtoehtoja.
+<->Perustukset voidaan rakentaa useammilla seinätyypeillä.
+<->Kloonaustyökalu on remontoitu! Voit pyörittää ja kääntää, seinät ja esineet ovat nyt näkyvissä ja kloonattava alue voi kattaa koko vankilan! JA voit kloonata jopa tallennusten välillä (BEETA)! Rakennusnopeutta on myös optimoitu.
+<->Remontoitu suunnittelu! Rakenna suunnitelmasi, lisää ovet ja valitse seinätyyppi. 
+<->Parannettu pikahuoneiden esittely näyttää nyt, minne seinät rakennetaan.
+<->Uusi aavikkotontti voidaan ottaa peliä luodessa käyttöön.

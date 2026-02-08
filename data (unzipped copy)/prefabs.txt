@@ -1,0 +1,364 @@
+BEGIN Prefab
+    Name        BasicCell
+    w           4
+    h           5
+    RoomType    Cell
+    BEGIN Object    Type    Bed         x   1   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Toilet      x   2   y   1   orX 0   orY 1   END    
+    BEGIN Object    Type    JailDoor    x   1   y   4   orX 0   orY 1   END    
+END
+
+BEGIN Prefab
+    Name        IntermediateCell
+    w           5
+    h           6
+    RoomType    Cell
+	VersionAdded	200
+    BEGIN Object    Type    Bed         x   1   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Toilet      x   3   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Drain    	x   1   y   3   orX 0   orY 1   END
+    BEGIN Object    Type    Drain    	x   1   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    Drain  		x   2   y   4   orX 0   orY 1   END        
+	BEGIN Object    Type    ShowerHead  x   1   y   4   orX 2   orY 1   END        
+	BEGIN Object    Type    Tv  		x   2   y   1   orX 0   orY 1   END        
+	BEGIN Object    Type    JailDoor  	x   3   y   5   orX 0   orY 1   END        
+	BEGIN Object    Type    Window  	x   1   y   0   orX 0   orY 1   END       
+END
+
+BEGIN Prefab
+    Name        SolitaryCell
+    w           3
+    h           4
+    RoomType    Solitary
+    BEGIN Object    Type    Toilet          x   1   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    SolitaryDoor    x   1   y   3   orX 0   orY 1   END 
+END
+
+BEGIN Prefab
+    Name        LuxuryCell
+    w           7
+    h           5
+    RoomType    Cell
+    BEGIN Object    Type    OfficeDesk      x   2    y  1    orX    0   orY 1      END
+    BEGIN Object    Type    Bookshelf       x   5    y  2    orX    -1  orY 0       END
+    BEGIN Object    Type    Radio           x   4    y  1    orX    0   orY 1       END
+    BEGIN Object    Type    Chair           x   2    y  2    orX    0   orY -1      END
+    BEGIN Object    Type    Drain           x   5    y  1    orX    0   orY 1       END
+    BEGIN Object    Type    ShowerHead      x   5    y  1    orX    0   orY 1       END
+    BEGIN Object    Type    Bed             x   1    y  3    orX    1   orY 0       END 
+    BEGIN Object    Type    Tv              x   1    y  1    orX    0   orY 1       END      
+    BEGIN Object    Type    Toilet          x   5    y  3    orX    0   orY -1      END 
+    BEGIN Object    Type    JailDoor        x   3    y  4    orX    0   orY -1      END 
+END
+
+BEGIN Prefab
+    Name        SharedCell
+    w           6
+    h           6
+    RoomType    Dormitory
+    BEGIN Object    Type    BunkBed         x   1   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    BunkBed         x   4   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Toilet          x   1   y   4   orX 0   orY -1  END
+    BEGIN Object    Type    JailDoor        x   3   y   5   orX 0   orY 1   END 
+END
+
+BEGIN Prefab
+    Name        HoldingCell
+    w           12
+    h           7
+    RoomType    HoldingCell
+	VersionAdded	200
+    BEGIN Object    Type    Bench       	x   1   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Bench       	x   7  y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Toilet      	x   5   y   1   orX 0   orY 1   END    
+    BEGIN Object    Type    Toilet      	x   6   y   1   orX 0   orY 1   END    
+    BEGIN Object    Type    Bed    			x   1   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   2   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   3   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   4   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   7   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   8   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   9   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   10  y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    JailDoorLarge   x   5  	y   6   orX 0   orY 1   END    
+END
+
+BEGIN Prefab
+    Name        Office
+    w           6
+    h           6
+    RoomType    Office
+    BEGIN Object    Type    OfficeDesk      x   1   y   1   orX 0   orY 1  END
+    BEGIN Object    Type    Chair           x   2   y   2   orX 0   orY -1  END
+    BEGIN Object    Type    FilingCabinet   x   4   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    StaffDoor       x   2   y   5   orX 0   orY 1   END 
+END
+
+BEGIN Prefab
+    Name        Canteen
+    w           13
+    h           12
+    RoomType    Canteen
+    BEGIN Object    Type    ServingTable    x   1   y   1   orX 1   orY 0   END
+    BEGIN Object    Type    ServingTable    x   1   y   6   orX 1   orY 0   END
+    BEGIN Object    Type    Door            x   6   y   0   orX 0   orY 1   END
+    BEGIN Object    Type    Door            x   7   y   0   orX 0   orY -1   END
+    BEGIN Object    Type    Table           x   4   y   2   orX 1   orY 0   END
+    BEGIN Object    Type    Table           x   9   y   2   orX 1   orY 0   END
+    BEGIN Object    Type    Bench           x   3   y   2   orX 1   orY 0   END
+    BEGIN Object    Type    Bench           x   5   y   2   orX 1   orY 0   END
+    BEGIN Object    Type    Bench           x   8   y   2   orX 1   orY 0   END
+    BEGIN Object    Type    Bench           x   10   y   2   orX 1   orY 0   END    
+    BEGIN Object    Type    Table           x   4   y   6   orX 1   orY 0   END
+    BEGIN Object    Type    Table           x   9   y   6   orX 1   orY 0   END
+    BEGIN Object    Type    Bench           x   3   y   6   orX 1   orY 0   END
+    BEGIN Object    Type    Bench           x   5   y   6   orX 1   orY 0   END
+    BEGIN Object    Type    Bench           x   8   y   6   orX 1   orY 0   END
+    BEGIN Object    Type    Bench           x   10   y   6   orX 1   orY 0   END
+END
+
+BEGIN Prefab
+    Name        Kitchen
+    w           10
+    h           8
+    RoomType    Kitchen
+    BEGIN Object    Type    Door            x   6   y   0   orX 0   orY 1   END
+    BEGIN Object    Type    Cooker          x   1   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Cooker          x   3   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Fridge          x   1   y   6   orX 0   orY -1   END
+    BEGIN Object    Type    Fridge          x   3   y   6   orX 0   orY -1   END
+    BEGIN Object    Type    Sink            x   8   y   2   orX -1   orY 0   END
+END   
+
+BEGIN Prefab
+	Name		Medical
+	w			10
+	h			7
+	RoomType	MedicalWard
+	Research	Health
+	VersionAdded	200
+	BEGIN Zone		Type	Morgue			x	1	y	4	w	8	h	2	END
+	BEGIN Zone		Type	MedicalWard		x	1	y	1	w	8	h	3	END
+	BEGIN Material	Type	WhiteTiles		x	1	y	1	w	8	h	5	END
+	BEGIN Object	Type	StaffDoor		x	0	y	3	orX	1	orY	0	END
+	BEGIN Object	Type	StaffDoor		x	9	y	3	orX	1	orY	0	END
+	BEGIN Object	Type	MedicalBed		x	1	y	1	orX	-1	orY	1	END
+	BEGIN Object	Type	MedicalBed		x	3	y	1	orX	-1	orY	1	END
+	BEGIN Object	Type	MedicalBed		x	5	y	1	orX	-1	orY	1	END
+	BEGIN Object	Type	MedicalBed		x	7	y	1	orX	-1	orY	1	END
+	BEGIN Object	Type	MorgueSlab		x	1	y	5	orX	1	orY	0	END
+	BEGIN Object	Type	MorgueSlab		x	3	y	5	orX	1	orY	0	END
+	BEGIN Object	Type	MorgueSlab		x	5	y	5	orX	1	orY	0	END
+	BEGIN Object	Type	MorgueSlab		x	7	y	5	orX	1	orY	0	END
+END
+
+BEGIN Prefab
+    Name        Shop
+    w           12
+    h           10
+    RoomType    Shop
+	Research	PrisonLabour
+	VersionAdded	200
+	BEGIN Zone		Type	Shop			x	1	y	4	w	10	h	5	END
+	BEGIN Material	Type	MosaicFloor		x	1	y	1	w	10	h	3	END
+	BEGIN Material	Type	ConcreteTiles	x	1	y	4	w	10	h	5	END
+	BEGIN Material	Type	BrickWall	x	1	y	3	w	10	h	1	END
+    BEGIN Object    Type    Door            x   5   y   0   orX 0   orY 1   END
+	BEGIN Object    Type    Door            x   5   y   9   orX 0   orY 1   END
+	BEGIN Object    Type    ShopFront       x   5   y   3   orX 0   orY -1   END
+	BEGIN Object    Type    ShopShelf       x   1   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    ShopShelf       x   8  	y   4   orX 0   orY 1   END
+	BEGIN Object    Type    ShopShelf       x   1   y   6   orX 0   orY 1   END
+	BEGIN Object    Type    ShopShelf       x   8  	y   6   orX 0   orY 1   END
+	BEGIN Object    Type    Table       	x   7   y   8   orX 0   orY 1   END
+	BEGIN Object    Type    DrinkMachine    x   9   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    DrinkMachine    x   10  y   1   orX 0   orY 1   END
+END   
+
+BEGIN Prefab
+    Name        Shower
+    w           11
+    h           7
+    RoomType    Shower
+	VersionAdded	200
+	BEGIN Zone		Type	Shower			x	1	y	1	w	9	h	5	END
+	BEGIN Material	Type	ConcreteWall	x	3	y	3	w	5	h	1	END
+	BEGIN Material	Type	WhiteTiles		x	1	y	1	w	9	h	5	END
+    BEGIN Object    Type    Door            x   7   y   6   orX 0   orY 1   END
+    BEGIN Object    Type    Drain          	x   7   y   6   orX 0   orY 1   END
+    BEGIN Object    Type    ShowerHead      x   1   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   1   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   2   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   2   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   3   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   3   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   4   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   4   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   5   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   5   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   6   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   6   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   7   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   7   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   8   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   8   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   9   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   9   y   1   orX 0   orY 1   END
+	
+	BEGIN Object    Type    ShowerHead      x   1   y   2   orX 1   orY 0   END
+	BEGIN Object    Type    PipeSmall      	x   1   y   2   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   1   y   3   orX 1   orY 0   END
+	BEGIN Object    Type    PipeSmall      	x   1   y   3   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   1   y   4   orX 1   orY 0   END
+	BEGIN Object    Type    PipeSmall      	x   1   y   4   orX 0   orY 1   END
+	
+	BEGIN Object    Type    ShowerHead      x   9   y   2   orX -1  orY 0   END
+	BEGIN Object    Type    PipeSmall      	x   9   y   2   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   9   y   3   orX -1  orY 0   END
+	BEGIN Object    Type    PipeSmall      	x   9   y   3   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   9   y   4   orX -1  orY 0   END
+	BEGIN Object    Type    PipeSmall      	x   9   y   4   orX 0   orY 1   END
+	
+	BEGIN Object    Type    ShowerHead      x   3   y   2   orX 0   orY -1   END
+	BEGIN Object    Type    PipeSmall      	x   3   y   2   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   4   y   2   orX 0   orY -1   END
+	BEGIN Object    Type    PipeSmall      	x   4   y   2   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   5   y   2   orX 0   orY -1   END
+	BEGIN Object    Type    PipeSmall      	x   5   y   2   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   6   y   2   orX 0   orY -1   END
+	BEGIN Object    Type    PipeSmall      	x   6   y   2   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   7   y   2   orX 0   orY -1   END
+	BEGIN Object    Type    PipeSmall      	x   7   y   2   orX 0   orY 1   END
+	
+	BEGIN Object    Type    ShowerHead      x   3   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   3   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   4   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   4   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   5   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   5   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   6   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   6   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   7   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    PipeSmall      	x   7   y   4   orX 0   orY 1   END
+	
+	BEGIN Object    Type    ShowerHead      x   1   y   5   orX 0   orY -1   END
+	BEGIN Object    Type    PipeSmall      	x   1   y   5   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   2   y   5   orX 0   orY -1   END
+	BEGIN Object    Type    PipeSmall      	x   2   y   5   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   3   y   5   orX 0   orY -1   END
+	BEGIN Object    Type    PipeSmall      	x   3   y   5   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   4   y   5   orX 0   orY -1   END
+	BEGIN Object    Type    PipeSmall      	x   4   y   5   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   5   y   5   orX 0   orY -1   END
+	BEGIN Object    Type    PipeSmall      	x   5   y   5   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   6   y   5   orX 0   orY -1   END
+	BEGIN Object    Type    PipeSmall      	x   6   y   5   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   8   y   5   orX 0   orY -1   END
+	BEGIN Object    Type    PipeSmall      	x   8   y   5   orX 0   orY 1   END
+	BEGIN Object    Type    ShowerHead      x   9   y   5   orX 0   orY -1   END
+	BEGIN Object    Type    PipeSmall      	x   9   y   5   orX 0   orY 1   END
+	
+END  
+
+BEGIN Prefab
+    Name        Staffroom
+    w           8
+    h           7
+    RoomType    Staffroom
+	VersionAdded	200
+	BEGIN Zone		Type	Staffroom		x	1	y	1	w	6	h	5	END
+	BEGIN Material	Type	WoodenFloor		x	1	y	1	w	6	h	5	END
+    BEGIN Object    Type    StaffDoor       x   4   y   0   orX 0   orY 1   END
+	BEGIN Object    Type    DrinkMachine    x   1   y   3   orX 1   orY 0   END
+	BEGIN Object    Type    SofaChairDouble x   1   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    SofaChairDouble x   5   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    SofaChairDouble x   1   y   5   orX 0   orY -1   END
+	BEGIN Object    Type    SofaChairDouble x   5   y   5   orX 0   orY -1   END
+	BEGIN Object    Type    SofaChairSingle x   4   y   5   orX 0   orY -1   END
+	BEGIN Object    Type    Radio 			x   3   y   5   orX 1   orY -1   END
+END 
+
+BEGIN Prefab
+    Name        Workshop
+    w           15
+    h           16
+    RoomType    Workshop
+	Research	PrisonLabour
+	VersionAdded	200
+	BEGIN Zone		Type	Workshop		x	1	y	1	w	13	h	14	END
+	BEGIN Material	Type	WoodenFloor		x	1	y	1	w	13	h	14	END
+    BEGIN Object    Type    JailDoorLarge   x   0   y   6   orX 1   orY 0   END
+	BEGIN Object    Type    WorkshopSaw    	x   2   y   2   orX 1   orY 0   END
+	BEGIN Object    Type    WorkshopSaw    	x   4   y   2   orX 1   orY 0   END
+	BEGIN Object    Type    WorkshopSaw    	x   6   y  	2  	orX 1   orY 0   END
+	BEGIN Object    Type    WorkshopPress	x   8   y   2   orX 1   orY 0   END
+	BEGIN Object    Type    WorkshopPress	x   10  y   2   orX 1   orY 0   END
+	BEGIN Object    Type    WorkshopPress	x   12  y   2   orX 1   orY 0   END
+	BEGIN Object    Type    Table			x   4   y   6   orX 1   orY 0   END
+	BEGIN Object    Type    Table			x   6   y   6   orX 1   orY 0   END
+	BEGIN Object    Type    Table			x   8   y   6   orX 1   orY 0   END
+	BEGIN Object    Type    Table			x   10  y   6   orX 1   orY 0   END
+	BEGIN Object    Type    CarpenterTable	x   2   y   11  orX 1   orY 0   END
+	BEGIN Object    Type    CarpenterTable	x   6   y   11  orX 1   orY 0   END
+	BEGIN Object    Type    CarpenterTable	x   10  y   11  orX 1   orY 0   END
+END 
+
+BEGIN Prefab
+    Name    ClassRoom
+    w       9
+    h       9
+    RoomType    Classroom
+	Research	Education
+    BEGIN Object    Type    Door            x   4   y   8   orX 0   orY 1   END
+    BEGIN Object    Type    OfficeDesk      x   3   y   6   orX 0   orY 1   END
+    BEGIN Object    Type    SchoolDesk      x   2   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    SchoolDesk      x   3   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    SchoolDesk      x   4   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    SchoolDesk      x   5   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    SchoolDesk      x   6   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    SchoolDesk      x   2   y   3   orX 0   orY 1   END
+    BEGIN Object    Type    SchoolDesk      x   3   y   3   orX 0   orY 1   END
+    BEGIN Object    Type    SchoolDesk      x   4   y   3   orX 0   orY 1   END
+    BEGIN Object    Type    SchoolDesk      x   5   y   3   orX 0   orY 1   END
+    BEGIN Object    Type    SchoolDesk      x   6   y   3   orX 0   orY 1   END
+END
+
+BEGIN Prefab
+    Name        CommonRoom
+    w           14
+    h           11
+    RoomType    CommonRoom
+    BEGIN Object    Type    Door            x   6   y   0   orX 0   orY 1   END
+    BEGIN Object    Type    PoolTable       x   2   y   2   orX 1   orY 0   END
+    BEGIN Object    Type    PoolTable       x   2   y   6   orX 1   orY 0   END
+    BEGIN Object    Type    Tv              x   11  y   1   orX 0   orY 1   END
+    BEGIN Object 	Type	SofaChairDouble x	11	y 	3	oxX 0   orY -1  END
+	BEGIN Object 	Type	SofaChairSingle x	10	y 	3	oxX 0   orY -1  END
+    BEGIN Object    Type    Chair           x   7   y   4   orX 0   orY 1   END
+    BEGIN Object    Type    Chair           x   8   y   4   orX 0   orY 1   END
+    BEGIN Object    Type    Chair           x   9   y   4   orX 0   orY 1   END
+    BEGIN Object    Type    Chair           x   6   y   5   orX 1   orY 0   END
+    BEGIN Object    Type    Chair           x   6   y   6   orX 1   orY 0   END
+    BEGIN Object    Type    Chair           x   6   y   7   orX 1   orY 0   END
+    BEGIN Object    Type    Chair           x   10  y   5   orX -1   orY 0   END
+    BEGIN Object    Type    Chair           x   10  y   6   orX -1   orY 0   END
+    BEGIN Object    Type    Chair           x   10  y   7   orX -1   orY 0   END
+    BEGIN Object    Type    PhoneBooth      x   11  y   9   orX 0   orY -1   END
+    BEGIN Object    Type    PhoneBooth      x   12  y   9   orX 0   orY -1   END
+END 
+
+BEGIN Prefab
+    Name    UtilityRoom
+    w       13
+    h       9
+    Icon    Utilities
+    BEGIN Object    Type    Door            x   6   y   0   orX 0   orY 1   END
+    BEGIN Object    Type    PowerStation    x   3   y   3   orX 0   orY 1   END
+    BEGIN Object    Type    Capacitor       x   2   y   3   orX 0   orY 1   END
+    BEGIN Object    Type    Capacitor       x   2   y   4   orX 0   orY 1   END
+    BEGIN Object    Type    Capacitor       x   2   y   5   orX 0   orY 1   END
+    BEGIN Object    Type    ElectricalCable x   6   y   4   orX 0   orY 1   END
+    BEGIN Object    Type    ElectricalCable x   7   y   4   orX 0   orY 1   END
+    BEGIN Object    Type    WaterPumpStation    x   8   y   3   orX 0   orY 1   END    
+END
+

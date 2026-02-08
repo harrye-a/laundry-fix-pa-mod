@@ -1,0 +1,172 @@
+**ACCORD DE LICENCE D'UTILISATEUR FINAL** 
+
+Dernière mise à jour : 08/11/2016
+
+# IMPORTANT : VEUILLEZ LIRE ATTENTIVEMENT
+
+**EN RETIRANT LE FILM PLASTIQUE ET/OU L'OPERCULE, OU EN TÉLÉCHARGEANT, INSTALLANT**
+
+**OU UTILISANT, DE QUELQUE MANIÈRE QUE CE SOIT, CE JEU, VOUS ACCEPTEZ D'ÊTRE LIÉ AUX CONDITIONS GÉNÉRALES SUIVANTES :**
+
+Le présent accord de licence d'utilisateur final (« **ALUF** ») est un accord juridique entre vous (ciaprès dénommé « **vous** » ou « **Utilisateur Final** ») et Paradox Interactive AB (« **Paradox** ») pour le produit logiciel qu'accompagne cet ALUF, tout logiciel associé (comme un logiciel d’édition) et tout le contenu du jeu, toutes les mises à jour ou contenu supplémentaire (exemples : correctifs, contenu téléchargeable (« **DLC** ») et extensions), manuels et autres matériaux, quel que soit le média, liés au logiciel, y compris le code alphanumérique unique pour le téléchargement du produit logiciel qui pourrait vous être fourni avec le produit logiciel ou par voie électronique (tous ces éléments solidairement dénommés le « **Jeu** »). Si vous n'acceptez pas les conditions générales de cet ALUF, n'installez pas le Jeu, et contactez votre revendeur pour connaître sa politique de retour.
+
+Ce Jeu vous est concédé en licence, et non vendu, pour être utilisé conformément aux conditions générales de cet ALUF. Tous les droits non expressément précisés dans ce document sont réservés à Paradox.
+
+**Vous acceptez que votre utilisation de ce Jeu implique que vous avez lu cet ALUF, que vous l'avez compris, et que vous acceptez d'être lié(e) par ses conditions générales, y compris les dispositions de la Section 5 concernant la collecte de données, et que vous déclarez et garantissez être un adulte et que vous acceptez cet ALUF en votre nom ou au nom de votre enfant ou de votre pupille, le cas échéant. Si vous n'êtes pas majeur, vous devez obtenir l'autorisation nécessaire telle que requise par la loi de vos parents ou représentants légaux.**
+
+**Cet ALUF incorpore par renvoi la Politique de confidentialité de Paradox** [**(**][https://www.paradoxplaza.com/privacy][**)**] **et la Politique d’utilisation des mods de Paradox** [**(**][https://www.paradoxplaza.com/mod][\-][policy][\-][en][**)**]**. En acceptant cet ALUF, vous acceptez les conditions générales de la Politique de confidentialité et la Politique d’utilisation des mods.**
+
+# ![](fr_FR_EULA_files/image002.gif)Pour utiliser ce Jeu, il peut être nécessaire de créer un Compte Paradox (www  https://accounts.paradoxplaza.com/profile/new). Si tel est le cas, il vous sera demandé de créer un compté lorsque vous démarrez le Jeu, ou lorsque vous y jouez. Pour créer un compte Paradox, il vous sera nécessaire d'accepter nos Conditions d'utilisation (https://www.paradoxplaza.com/terms-use)     et         nos Règles de        conduite
+
+**(https://www.paradoxplaza.com/rules\_conduct).**
+
+**Pour utiliser ce Jeu, il peut être nécessaire de** **télécharger et d’utiliser une plate-forme séparée fournie par un tiers selon les conditions générales déterminées par ledit tiers. Ces conditions générales peuvent limiter, ou non, les droits relatifs au Jeu selon cet ALUF qui vous ont été accordés.**
+
+**1\. Octroi de licence.**
+
+CE JEU VOUS EST CONCÉDÉ EN LICENCE, ET NON VENDU. La propriété du Jeu et de tous les droits de propriété intellectuelle dans et liés au Jeu demeurent en tout temps la propriété de Paradox et, le cas échéant, de ses donneurs.
+
+Dans les limites des conditions générales de la Convention, Paradox vous donne, par la présente, un droit et une licence non exclusifs, non aliénables, limités et entièrement révocables pour installer, accéder à et utiliser (et pour pourmettreaux membres de votre famille ou de votre foyer d’utiliser) le Jeu sur votre ordinateur personnel, exclusivement dans le cadre d’une utilisation non commerciale. Vous pouvez installer le Jeu sur plusieurs ordinateurs, mais vous ne pouvez exécuter le Jeu que sur un seul ordinateur à la fois. 
+
+# 2. Utilisation autorisée
+
+Vous pouvez installer et jouer au Jeu sur votre ordinateur personnel, et vous pouvez également, selon les conditions générales de cet ALUF :
+
+i) ![](fr_FR_EULA_files/image003.gif)créer et rendre public des « **Let's Play Videos** », contenant des images et sons du Jeu, par le biais de médias sociaux tels que Twitch.tv et Youtube.com, que ces contenus soient monétisés ou non. Les bandes-son ne peuvent être rendues publiques que dans le cadre d'une Let's Play Video. Pour chaque Let's Play Video, la mention de copyright suivante doit être clairement affichée :
+
+« Game © Paradox Interactive AB [www.paradoxplaza.com][.] » Si les bandes-son du Jeu sont utilisées, l'artiste et/ou le compositeur de chaque bande-son doivent être également crédités.
+
+La portée de cette autorisation peut parfois être modifiée par Paradox. Cette autorisation peut également être révoquée à la seule discrétion de Paradox. Certaines bandes-son peuvent être exclues de cette utilisation autorisée. Pour toutes les informations sur Let's Play Videos, veuillez consulter la page suivante : https://www.paradoxplaza.com/letsplay-policy ; 
+
+ii) dans un but récréatif uniquement, pour vous ou pour d'autres, vous pouvez créer, distribuer et rendre public des modifications apportées par l'utilisateur, ou « **user mods** », relatives au Jeu. Vous ne pouvez pas distribuer le Jeu accompagné de l'user mod, et vous ne pouvez pas autoriser d'autres utilisateurs à accéder à des contenus payants du Jeu
+
+(exemples : DLC ou extensions) auxquels l'utilisateur final n'aurait pas autrement accès.
+
+En outre, de telles user mods ne peuvent pas enfreindre les droits de tierces parties, telles que les droits de propriété intellectuelle ou tout autre droit à la vie privée ou publicité. Il est interdit de facturer d'autres utilisateurs finaux pour des user mods, ou d'accepter des donations pour celles-ci. La portée de cette autorisation peut parfois être modifiée par Paradox. Cette autorisation peut également être révoquée à la seule discrétion de Paradox. Pour toutes les informations les mods, veuillez consulter la page suivante : https://www.paradoxplaza.com/mod-policy-en et
+
+iii) créer des copies du Jeu tel que nécessaire dans le but de créer des sauvegardes ou archives.
+
+# 3. Utilisation interdite
+
+Sauf disposition contraire dans cet ALUF, vous ne pouvez pas :
+
+i) Retirer ou modifier toutes mentions de copyright ou de marque sur toutes les copies du Jeu ;
+
+ii) Copier, louer, prêter, sous-céder ou distribuer le Jeu d'une autre façon que celle autorisée par la loi applicable ;
+
+iii) Retirer, désactiver ou contourner toutes protections de sécurité telles que celles de gestion des droits numériques, les mentions de droite de propriété ou les étiquettes présentes sur ou dans le Jeu ; 
+
+iv) Modifier, adapter, traduire, effectuer l'ingénierie inverse, déterminer le code source, désassembler, décompiler ou créer des produits dérivés du Jeu d'autres façons que celles autorisées par la loi en vigueur ;
+
+v) Utiliser, développer, distribuer ou vendre des astuces, des logiciels d'automatisations (bots), piratages ou tout autre logiciel tiers non autorisé visant à modifier le Jeu ; 
+
+vi) Exploiter le jeu, ou n'importe laquelle de ses parties, dans un but commercial, y compris, mais sans s'y limiter : (a) son utilisation dans un cyber café, centre de jeux vidéos ou tout autre site et/ou (b) assurer des services dans le Jeu, en contrepartie d'un paiement en dehors du Jeu, par exemple, pour la progression de personnages ; ou
+
+vii) Utiliser le Jeu de toute autre façon ne respectant pas les lois en vigueur.
+
+# 4. Contenu généré par les utilisateurs
+
+Certains des Jeux de Paradox vous permettent de créer votre propre contenu (« **Contenu généré par les utilisateurs** » ou « **CGU** ») et de le diffuser aux autres utilisateurs. Par la présente, vous concédez à Paradox et ses filiales un droit non exclusif, irrévocable, libre de redevances, perpétuel et avec possibilité de sous-licence d'utiliser, de reproduire, de modifier, de créer des produits dérivés, de distribuer, de transmettre, de diffuser et de communiquer de toute autre façon, d'afficher publiquement et d'exécuter publiquement votre CGU, et les produits dérivés de votre CGU, en relation avec le fonctionnement et la promotion du Jeu. 
+
+Paradox n'est pas tenu d'utiliser, de distribuer ou de continuer à distribuer votre CGU, et vous comprenez que Paradox peut limiter, ou retirer votre CGU pour quel que raison que ce soit.
+
+Vous déclarez et affirmez que le CGU, et que vos droits relatifs à ce CGU, ne constituent pas une infraction à aucun contrat, loi ou réglementation applicables, et que le CGU est votre œuvre originale et qu'il ne constitue pas une infraction à aucun droit de propriété intellectuelle tiers, ou à aucun autre droit. 
+
+Paradox se dégage de toute responsabilité concernant le Contenu généré par les utilisateurs.
+
+Toute personne estimant que son travail original a été reproduit en tant que CGU par le biais d'un de nos Jeux de telle manière à constituer une violation de copyright peut nous le notifier en envoyant un e-mail à @paradoxplaza.com.
+
+# 5. Collecte de données
+
+Paradox peut collecter des données sur vous lorsque vous utilisez le Jeu. Ces données comprennent votre SteamID, la configuration de votre ordinateur, vos gameplay et progression, votre navigateur, votre type de plateforme et votre utilisation logicielle. Ces données sont collectées régulièrement afin de faciliter la fourniture de mises à jour logicielles, le  produit ainsi que d'autres services relatifs au Jeu. 
+
+Paradox peut utiliser les données collectées dans le but d'améliorer ses produits, d'administrer le Jeu, d'analyser les tendances ou de vous fournir un service. En outre, Paradox peut utiliser ces données dans un cadre de recherches, de développement, d'administration, de  et de marketing de produits et services Paradox. Pour plus d’informations, veuillez consulter la
+
+![](fr_FR_EULA_files/image003.gif)Politique de confidentialité de Paradox disponible sur la page suivante :https://www.paradoxplaza.com/privacy.
+
+# 6. Services de 
+
+Parfois, à la seule discrétion de Paradox, Paradox peut vous fournir un  technique, ainsi que des services de gestion de communauté relatifs au Jeu (« **Services de ** »).  Paradox se réserve le droit de modifier, de suspendre et d'annuler les Services de  à tout moment, quelle que soit la raison.  Vous pouvez contacter les Services de  de Paradox ici @paradoxplaza.com ou ici [www.paradoxplaza.com/][.] 
+
+# 7. Correctifs, mises à jour et modifications
+
+Vous reconnaissez et acceptez que, parfois, Paradox puisse appliquer un correctif ou une mise à jour au Jeu dans le but de résoudre des bugs logiciels et tout autre problème, de rééquilibrer le Jeu ou d'ajouter et/ou supprimer des fonctionnalités du Jeu.
+
+# 8. Résiliation
+
+Cette licence est en vigueur jusqu'à sa résiliation.  
+
+Vous pouvez la résilier à tout moment en détruisant le Jeu, ainsi que toutes ses copies, complètes ou non, et en supprimant tous ses composants.
+
+Sans préjudice de tous autres droits, Paradox peut résilier cet ALUF si vous ne vous conformez pas aux conditions générales de cet ALUF. Vous devez alors cesser toute utilise du Jeu et détruire toutes ses copies, modifications, documentation imprimée ou écrite et les parties intégrées sous toutes leurs formes, ainsi que supprimer tous les composants du Jeu ayant été téléchargés sur votre terminal.
+
+# 9. Garantie limitée
+
+Cette garantie limitée s'ajoute, et ne modifie pas, celle de vos droits légaux qui ne peuvent être exclus ou limités selon les lois en vigueur.
+
+Paradox garantie que le Jeu fournira les fonctionnalités et fonctions généralement décrites dans les spécifications du produit sur [www.paradoxplaza.com] [] au moment de l'achat, ainsi que dans la documentation du produit. 
+
+PARADOX NE GARANTIT PAS QUE LE JEU, OU VOTRE CAPACITÉ À L'UTILISER SERA ININTERROMPU
+
+OU SANS ERREURS. DANS LA MESURE AUTORISÉE PAR LA LOI EN VIGUEUR, NOUS DÉCLINONS
+
+TOUTE GARANTIE IMPLICITE DE QUALITÉ MARCHANDE OU D'ADAPTATION À UN USAGE PARTICULIER.
+
+# 10. Limites de responsabilité
+
+Dans toute la mesure permise par la loi en vigueur, en aucun Paradox, ses affiliés ou licenciés ne doivent être tenus responsables pour tous dommages spéciaux, accessoires, indirects ou subséquents (y compris, mais sans s'y limiter, les dommages pour pertes de profit, interruption commerciale, perte d'informations commerciales ou toute autre perte pécuniaire) provenant de l'utilisation, ou de l'incapacité à utiliser le Jeu ou des défauts dans ou causés par le Jeu, y compris, mais sans s'y limiter, la mise en péril de la sécurité de votre terminal sur lequel le Jeu est exécuté, le système d'exploitation ou les fichiers, ou la fourniture, ou absence de fourniture, de Services de , même si Paradox a été informé de la possibilité de tels dommages. 
+
+Rien dans cet ALUF ne limite notre responsabilité envers vous en cas de décès ou de préjudices corporels résultant d'une négligence grave, de fraude ou de fausse déclaration faite sciemment de notre part.
+
+# 11. Loi applicable
+
+Vous acceptez que cet ALUF devra être considéré avoir été conçu et exécuté en Suède, et tout désaccord survenant dans le cadre de cet ALUF devra être résolu en accord avec les lois suédoises, exception faite de la loi sur les conflits et la Convention sur les contrats pour la vente internationale de biens.
+
+# 12. Résolution de litiges
+
+La plupart des problèmes concernant cet ALUF ou le Jeu (« **Litiges** ») peuvent être résolus en contactant Paradox ici : [www.paradoxplaza.com/][.] Par conséquent, vous acceptez d'essayer, en premier lieu, de négocier tout litige de manière informelle avec Paradox pour une durée minimum de trente (30) jours avant d'entamer toute action en justice. Dans le cas où le
+
+Litige n'est pas résolu par des négociations informelles, vous acceptez que, dans la mesure autorisée par la loi en vigueur, la compétence personnelle et particulière exclusive des tribunaux situés à Stockholm (Suède) pour créer et résoudre ces revendications, et vous renoncez par la présente à tout droit de participer à une poursuite issue et/ou conservée en tant que recours collectif ou d'une nature similaire à un recours collectif.
+
+# 13. Mise à jour de ces conditions générales 
+
+Nous pouvons parfois modifier cet ALUF, nous postons alors une annonce bien visible sur notre site Internet. Si vous continuez à utiliser le Jeu après que les changements ont été postés, cela veut dire que vous acceptez d’être légalement liés par la version mise à jour et modifiée de l’ALUF.
+
+# 14. Divisibilité
+
+Si, pour quelque raison que ce soit, un tribunal compétent juge que toute provision, ou toute portion de cet ALUF n'est pas applicable, le reste ce ALUF continuera de s'appliquer en plein effet.  
+
+# 15. Nous contacter
+
+Si vous avez des questions à propos de cet ALUF, ou si vous voulez nous fournir des commentaires le concernant, contactez-nous ici : [www.paradoxplaza.com/][.]
+
+CET ALUF NE S'APPLIQUER QUE DANS LA MESURE DE LA LOI EN VIGUEUR, ET PLUS PARTICULIÈREMENT DANS LA MESURE DES LOIS DE PROTECTION DU CONSOMMATEUR EN VIGUEUR.
+
+# Paradox Interactive AB
+
+Västgötagatan 5
+
+118 27 Stockholm
+
+SUÈDE
+
+[**(**]: https://www.paradoxplaza.com/privacy
+[https://www.paradoxplaza.com/privacy]: https://www.paradoxplaza.com/privacy
+[**)**]: https://www.paradoxplaza.com/privacy
+[**(**]: https://www.paradoxplaza.com/mod-policy-en
+[https://www.paradoxplaza.com/mod]: https://www.paradoxplaza.com/mod-policy-en
+[\-]: https://www.paradoxplaza.com/mod-policy-en
+[policy]: https://www.paradoxplaza.com/mod-policy-en
+[\-]: https://www.paradoxplaza.com/mod-policy-en
+[en]: https://www.paradoxplaza.com/mod-policy-en
+[**)**]: https://www.paradoxplaza.com/mod-policy-en
+[www.paradoxplaza.com]: http://www.paradoxplaza.com/
+[.]: http://www.paradoxplaza.com/
+[www.paradoxplaza.com/]: http://www.paradoxplaza.com/
+[.]: http://www.paradoxplaza.com/
+[www.paradoxplaza.com]: http://www.paradoxplaza.com/
+[]: http://www.paradoxplaza.com/
+[www.paradoxplaza.com/]: http://www.paradoxplaza.com/
+[.]: http://www.paradoxplaza.com/
+[www.paradoxplaza.com/]: http://www.paradoxplaza.com/
+[.]: http://www.paradoxplaza.com/

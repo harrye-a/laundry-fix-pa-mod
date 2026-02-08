@@ -1,0 +1,7 @@
+BEGIN Window
+    NAME         Squads
+    WIDTH        270
+    HEIGHT       200
+    PANEL        1
+END
+

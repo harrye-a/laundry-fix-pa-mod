@@ -1,0 +1,33 @@
+BEGIN Window
+    NAME         Victory
+    BACKGROUND   orgchart.png
+    WIDTH        800
+    HEIGHT       500
+    PANEL        1
+END
+
+BEGIN Button
+    NAME        DialogWindowClose
+    CAPTION     X
+    XPOS        Scaled          9625
+    YPOS        Scaled          100
+    WIDTH       Scaled          250
+    HEIGHT      Scaled          400
+END
+
+BEGIN Custom
+    NAME        FailureConditions
+    XPOS        Scaled          559
+    YPOS        Scaled          3100
+    WIDTH       Scaled          8875
+    HEIGHT      Scaled          4200
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          686
+    YPOS        Scaled          800
+    WIDTH       Scaled          8687
+    HEIGHT      Scaled          1000
+END
+

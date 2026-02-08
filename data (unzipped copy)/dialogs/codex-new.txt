@@ -1,0 +1,372 @@
+BEGIN Window
+    NAME         Codex
+    CAPTION      codex_new
+    BACKGROUND   codex.png
+    WIDTH        1000
+    HEIGHT       650
+    PANEL        1
+END
+
+BEGIN Button
+    NAME        Close
+    CAPTION     X
+    XPOS        Scaled          9594
+    YPOS        Scaled          396
+    WIDTH       Scaled          222
+    HEIGHT      Scaled          333
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Scaled          5505
+    YPOS        Scaled          6165
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          2700
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          5571
+    YPOS        Scaled          655
+    WIDTH       Scaled          3500
+    HEIGHT      Scaled          1166
+END
+
+BEGIN Button
+    NAME        Play
+    CAPTION     codex_play
+    XPOS        Scaled          7500
+    YPOS        Scaled          8846
+    WIDTH       Scaled          1650
+    HEIGHT      Scaled          384
+END
+
+BEGIN Custom
+    NAME        WorldSizeCaption
+	CAPTION		codex_new_worldsize
+    XPOS        Scaled          5500
+    YPOS        Scaled          2857
+    WIDTH       Scaled          2875
+    HEIGHT      Scaled          383
+END
+
+BEGIN DropDownMenu
+    NAME        WorldSize
+    XPOS        Scaled          8400
+    YPOS        Scaled          2857
+    WIDTH       Scaled          800
+    HEIGHT      Scaled          300
+END
+BEGIN Custom
+    NAME        WeatherTypeCaption
+	CAPTION		codex_new_weathertype
+    XPOS        Scaled          5500
+    YPOS        Scaled          3245
+    WIDTH       Scaled          2875
+    HEIGHT      Scaled          383
+END
+BEGIN DropDownMenu
+    NAME        WeatherType
+    XPOS        Scaled          8400
+    YPOS        Scaled          3245
+    WIDTH       Scaled          800
+    HEIGHT      Scaled          300
+END
+
+BEGIN Custom
+    NAME        StartingSeasonCaption
+	CAPTION		codex_new_startingseason
+    XPOS        Scaled          5500
+    YPOS        Scaled          3689
+    WIDTH       Scaled          2875
+    HEIGHT      Scaled          383
+END
+BEGIN DropDownMenu
+    NAME        StartingSeason
+    XPOS        Scaled          8400
+    YPOS        Scaled          3689
+    WIDTH       Scaled          800
+    HEIGHT      Scaled          300
+END
+BEGIN Custom
+    NAME        GangModeCaption
+	CAPTION		codex_option_gangs
+    XPOS        Scaled          5500
+    YPOS        Scaled          4077
+    WIDTH       Scaled          2875
+    HEIGHT      Scaled          383
+END
+BEGIN DropDownMenu
+    NAME        GangMode
+    XPOS        Scaled          8400
+    YPOS        Scaled          4077
+    WIDTH       Scaled          800
+    HEIGHT      Scaled          300
+END
+
+BEGIN Custom
+    NAME        MoreLieutenantsCaption
+    CAPTION	codex_option_morelieutenants
+    XPOS        Scaled          5500
+    YPOS        Scaled          4465
+    WIDTH       Scaled          2875
+    HEIGHT      Scaled          383
+END
+
+BEGIN DropDownMenu
+    NAME        MoreLieutenants
+    XPOS        Scaled          8400
+    YPOS        Scaled          4465
+    WIDTH       Scaled          800
+    HEIGHT      Scaled          300
+END
+
+BEGIN Custom
+    NAME        RatInfestationTypeCaption
+	CAPTION		codex_new_ratinfestation
+    XPOS        Scaled          5500
+    YPOS        Scaled          4833
+    WIDTH       Scaled          2875
+    HEIGHT      Scaled          383
+END
+BEGIN DropDownMenu
+    NAME        RatInfestationType
+    XPOS        Scaled          8400
+    YPOS        Scaled          4833
+    WIDTH       Scaled          800
+    HEIGHT      Scaled          300
+END
+
+BEGIN Custom
+    NAME        FundsCaption
+	CAPTION		codex_option_funds
+    XPOS        Scaled          5500
+    YPOS        Scaled          5201
+    WIDTH       Scaled          2875
+    HEIGHT      Scaled          383
+END
+
+BEGIN DropDownMenu
+    NAME        Funds
+    XPOS        Scaled          8400
+    YPOS        Scaled          5201
+    WIDTH       Scaled          800
+    HEIGHT      Scaled          300
+END
+
+BEGIN Custom
+    NAME        WardenSelect
+    CAPTION     codex_new_selectwarden 
+    XPOS        Scaled          1100
+    YPOS        Scaled          2600
+    WIDTH       Scaled          3350
+    HEIGHT      Scaled          461
+END
+
+BEGIN IconBox
+    NAME        WardenRow
+    XPOS        Scaled        1105
+    YPOS        Scaled        3220
+    WIDTH       Scaled        3450
+    HEIGHT      Scaled        800	
+END
+
+BEGIN Custom
+    NAME        WardenName
+    XPOS        Scaled          900
+    YPOS        Scaled          4600
+    WIDTH       Scaled          3600
+    HEIGHT      Scaled          383
+END
+
+BEGIN Canvas
+    NAME        WardenDesc
+    XPOS        Scaled          1100
+    YPOS        Scaled          5250
+    WIDTH       Scaled          3400
+    HEIGHT      Scaled          2550
+END
+
+BEGIN Custom
+    NAME        GuardDogSelect
+    CAPTION     codex_new_selectdog
+    XPOS        Scaled          1100
+    YPOS        Scaled          6880
+    WIDTH       Scaled          3450
+    HEIGHT      Scaled          461
+END
+
+BEGIN IconBox
+    NAME        GuardDogs
+    XPOS        Scaled          1050
+    YPOS        Scaled          7500
+    WIDTH       Scaled          3500
+    HEIGHT      Scaled          800	
+END
+
+BEGIN Custom
+    NAME        GuardDogName
+    XPOS        Scaled          900
+    YPOS        Scaled          8300
+    WIDTH       Scaled          3600
+    HEIGHT      Scaled          383
+END
+
+BEGIN Canvas
+    NAME        GuardDogDesc
+    XPOS        Scaled          1100
+    YPOS        Scaled          8700
+    WIDTH       Scaled          3400
+    HEIGHT      Scaled          2550
+END
+
+BEGIN Custom
+    NAME        GenderSelect
+	CAPTION     codex_new_selectgender
+    XPOS        Scaled          1100
+    YPOS        Scaled          846
+    WIDTH       Scaled          3350
+    HEIGHT      Scaled          461
+END
+
+BEGIN Custom
+    NAME        PrisonMale
+    XPOS        Scaled          1750
+    YPOS        Scaled          1500
+    WIDTH       Scaled          538
+    HEIGHT      Scaled          900
+END
+
+BEGIN Custom
+    NAME        PrisonFemale
+    XPOS        Scaled          3190
+    YPOS        Scaled          1500
+    WIDTH       Scaled          538
+    HEIGHT      Scaled          900
+END
+
+BEGIN Custom
+    NAME        WardenMode
+    XPOS        Scaled          5500
+    YPOS        Scaled          1700
+    WIDTH       Scaled          3500
+    HEIGHT      Scaled          384
+END
+
+BEGIN Button
+    NAME        Mutators
+    CAPTION     codex_mutators
+    XPOS        Scaled          5500
+    YPOS        Scaled          8846
+    WIDTH       Scaled          1650
+    HEIGHT      Scaled          384
+END
+
+BEGIN Custom
+    NAME        WardenModePermadeath
+    XPOS        Scaled          5500
+    YPOS        Scaled          2200
+    WIDTH       Scaled          3500
+    HEIGHT      Scaled          384
+END
+
+BEGIN Custom
+    NAME        ColourSpacer1
+    XPOS        Scaled          1050
+    YPOS        Scaled          1800
+    WIDTH       Scaled          3350
+    HEIGHT      Scaled          461
+END
+
+BEGIN Custom
+    NAME        ColourSpacer2
+    XPOS        Scaled          1050
+    YPOS        Scaled          3000
+    WIDTH       Scaled          3350
+    HEIGHT      Scaled          461
+END
+
+BEGIN Custom
+    NAME        ColourSpacer3
+    XPOS        Scaled          1050
+    YPOS        Scaled          4700
+    WIDTH       Scaled          3350
+    HEIGHT      Scaled          461
+END
+
+BEGIN Custom
+    NAME        ColourSelect
+	CAPTION     codex_new_uniformColour
+    XPOS        Scaled          975
+    YPOS        Scaled          3800
+    WIDTH       Scaled          1675
+    HEIGHT      Scaled          461
+END
+
+BEGIN IconBox
+    NAME        UniformColours
+    XPOS        Scaled          1000
+    YPOS        Scaled          2350
+    WIDTH       Scaled          3450
+    HEIGHT      Scaled          1000
+END
+
+BEGIN Custom
+    NAME        UniformPreview
+    XPOS        Scaled          3500
+    YPOS        Scaled          3600
+    WIDTH       Scaled          538
+    HEIGHT      Scaled          900
+END
+
+BEGIN Button
+    NAME        ColourLeft
+    CAPTION     report_intakemaxperdaydecr
+    XPOS        Scaled          3000
+    YPOS        Scaled          3900
+    WIDTH       Scaled          384
+    HEIGHT      Scaled          384
+END
+
+BEGIN Button
+    NAME        ColourRight
+    CAPTION     report_intakemaxperdayincr  
+    XPOS        Scaled          4200
+    YPOS        Scaled          3900
+    WIDTH       Scaled          384
+    HEIGHT      Scaled          384
+END
+
+BEGIN Custom
+    NAME        UniformPreviewColourName
+    XPOS        Scaled          3150
+    YPOS        Scaled          4500
+    WIDTH       Scaled          1675
+    HEIGHT      Scaled          383
+END
+
+BEGIN Button
+    NAME        DefaultUniformColours
+    CAPTION     profiler_reset 
+    XPOS        Scaled          1000
+    YPOS        Scaled          4500
+    WIDTH       Scaled          1650
+    HEIGHT      Scaled          384
+END
+
+BEGIN Custom
+    NAME        PlotTypeCaption
+	CAPTION		codex_option_plotType
+    XPOS        Scaled          5500
+    YPOS        Scaled          5601
+    WIDTH       Scaled          2875
+    HEIGHT      Scaled          383
+END
+
+BEGIN DropDownMenu
+    NAME        Plot
+    XPOS        Scaled          8400
+    YPOS        Scaled          5601
+    WIDTH       Scaled          800
+    HEIGHT      Scaled          300
+END

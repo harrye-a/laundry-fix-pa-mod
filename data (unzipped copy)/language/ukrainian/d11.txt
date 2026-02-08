@@ -1,0 +1,1035 @@
+﻿# June27th Update
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_viewchangelog							Повний опис змін
+codex_legal									Юридична
+codex_privacy								політика конфіденційності
+codex_terms-of-use							Умови використання
+codex_eula									ліцензійної угоди кінцевого користувача
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+													
+interfacemode_wallsanddoors                        			Стіни та двері
+interfacemode_flooring							Покриття підлоги
+tunnelsearch_underway							В ПРОЦЕСІ ПОШУКУ ТУНЕЛЮ
+tunnelsearch_found							Тунелі
+moveobjects_prompt							ПОДВІЙНЕ НАТИСКАННЯ: зсунути об'єкт
+moveobjects_abort							ПРАВА КНОПКА: скасувати зсув 
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_wallsanddoors					Різні типи стін та дверей
+buildtoolbar_popup_flooring						Різні види підлоги
+buildtoolbar_popup_spawn						Відкрити меню появи.
+buildtoolbar_tunnelsearch						Пошук тунелю
+
+buildtoolbar_tooltip_tunnelsearch					Підозрюєш спробу втечі? Накажи охороні обшукати всі туалети та простір під ними.		
+
+buildtoolbar_GuardResponse						Виклик охорони	
+buildtoolbar_tooltip_GuardResponse					Увімкни цю функцію, і тоді зможеш скликати всю охорону поблизу до певного місця, натиснувши ліву кнопку миші. Кілька натискань викличе більше охорони. Права кнопка зупинить виклик.
+
+
+# =============================================================================
+# New Materials
+# =============================================================================
+
+
+material_NewTiledWall							Кахляна стіна
+material_NewBarredWall							Заґратована стіна
+material_NewBBlockWall							Біла стіна
+material_NewHedgeWall							Загорожа
+material_NewIronFloor							Металева підлога
+material_NewCargoFloor							Розбірна підлога
+material_NewCheckeredFloor						Шахова підлога
+material_Snow								Сніг
+
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+double_click_select_desc							Подвійне натискання: *E переходить у режим "Дотримання" 
+
+quickbuild_intermediatecell							Покращена камера
+quickbuild_holdingcell								Камера утримання
+quickbuild_medical								Лазарет
+quickbuild_shop									Крамниця
+quickbuild_shower								Душова
+quickbuild_staffroom								Кімната персоналу
+quickbuild_workshop								Майстерня
+
+# =============================================================================
+# Main Menu
+# =============================================================================
+
+
+mm_updatenotes_Date								27 червня 2019
+mm_updatenotes_Header								Оновлення "Кутузка"
+mm_updatenotes_01								Додано 4 нових типи підлоги та 4 нових різновиди стін.
+mm_updatenotes_02								Покращено ігровий процес, щоб прискорити завантаження.
+mm_updatenotes_03								Тепер можна наймати більше наглядачів для тих в'язниць, де наглядачі ведуть освітні курси.
+mm_updatenotes_04								Тепер усі наявні об'єкти можна роздивитися з усіх ракурсів, до раніше відсутніх ракурсів додано нові спрайти.
+mm_updatenotes_05								Нова кнопка "Виклик охорони" скликає наявну охорону поблизу до потрібного місця, гравцю більше не треба наймати додаткових охоронців, щоб розібратися з інцидентами. 
+mm_updatenotes_06								Нова кнопка "Пошук тунелів", яка відправляє охорону прискіпливо обшукати туалети на предмет прихованих тунелів для втечі.  
+mm_updatenotes_07								До меню швидкого будівництва додано нові приміщення, щоб швидше і легше розташовувати їх.
+mm_updatenotes_08								Легкий перехід до режиму "Дотримання" для в'язнів та персоналу подвійним натисканням.
+mm_updatenotes_09								Можливість рухати та пересувати об'єкти! Обери об'єкт та зроби подвійне натискання.
+mm_updatenotes_10								Сподіваємось, тобі сподобаються всі ці покращення! Грай із задоволенням!
+
+
+
+############################### SLAMMER UPDATE ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+
+material_newmud									Багнюка
+material_yutaniwall								Стіна (футуристична)
+
+
+
+
+
+
+
+
+
+
+material_solacofloor							Футуризм 
+material_gratefloor								Решітка
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+
+object_snowyconifertree							Дерево (засніжена ялина)
+
+
+object_palmtree									Дерево (пальма)
+object_plant									Рослина
+
+object_bush										Кущ
+
+object_streetlamp								Вуличний ліхтар
+
+object_floodlight								Світло (прожектор)
+
+
+
+
+
+		
+		
+
+object_bleachers								Трибуна
+object_smallbench								Лавка (мала)
+object_smalltable								Стіл (малий)
+object_showerpillar								Колона для душової
+
+
+object_doorMat									Килимок під двері
+
+object_GuardPavilion							Будка охорони
+object_GuardPavilionCorner						Будка охорони (кутова)
+
+object_OfficeChair								Стілець (офісний)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+object_visitorDoor								Двері для відвідувачів
+object_ironingBoardShort						Гладильна дошка (мала)
+object_fencegatestaff							Хвіртка (для працівників)
+object_fencegatestandard						Хвіртка (стандартні)
+object_fencegatevisitor							Хвіртка (для відвідувачів)
+
+
+
+
+
+
+
+
+
+
+
+
+object_walllight								Настінна лампа
+object_securedoor								Двері (міцні)
+object_secretdoor								Двері (секретні)
+
+
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_mat_newmud					Це багнюка, вона безкоштовна!
+buildtoolbar_popup_mat_yutaniwall				Стіна футуристичного вигляду. Можна побудувати на фундаменті, щоб створити нові зони чи кімнати. Чудово пасує до підлоги «Футуризм» та «Склад».
+
+buildtoolbar_popup_mat_newbblockwall			Стіна зі шлакобетону. Можна побудувати на фундаменті, щоб створити нові зони чи кімнати.
+buildtoolbar_popup_mat_newbarredwall			Стіна з металевих ґрат. Можна побудувати на фундаменті, щоб створити нові зони чи кімнати.
+buildtoolbar_popup_mat_newtiledwall				Вкрита білою плиткою стіна. Можна побудувати на фундаменті, щоб створити нові зони чи кімнати.
+buildtoolbar_popup_mat_newhedgewall				Високий, але хиткий живопліт. Виглядає гарно, але втримати мало кого зможе.
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_mat_solacofloor				Підлога наче на космічному кораблі. Чудово пасує до футуристичних стін.
+buildtoolbar_popup_mat_gratefloor				Металева підлога, що створює атмосферу високих технологій.
+buildtoolbar_popup_mat_newcargofloor			Підлога з унікальним дизайном.
+buildtoolbar_popup_mat_newironfloor				Підлога з унікальним дизайном.
+buildtoolbar_popup_mat_newcheckeredfloor		Добре виглядатиме на кухні чи в їдальні.
+buildtoolbar_popup_mat_snow						Як вода, тільки холодніший та красивіший.
+
+
+
+
+
+buildtoolbar_popup_obj_snowyconifertree			Найкраще виглядатиме на вкритому снігом ландшафті.
+
+
+buildtoolbar_popup_obj_palmtree					Зазвичай росте у теплих краях, але виживе усюди, де б її не посадили.
+
+
+buildtoolbar_popup_obj_bush						Чудовий спосіб прикрасити територію.
+
+buildtoolbar_popup_obj_streetlamp				Освітлення для доріг та стежок.
+
+buildtoolbar_popup_obj_floodlight				Високий вуличний ліхтар, що може залити світлом велику територію, наприклад, двір.
+
+
+
+
+
+	
+
+
+buildtoolbar_popup_obj_bleachers				Класична тюремна трибуна, на якій в'язні можуть сидіти та обдумувати свій наступний крок.
+buildtoolbar_popup_obj_smallbench				На цьому можна сидіти.
+buildtoolbar_popup_obj_smalltable				За цим столом можна їсти.
+buildtoolbar_popup_obj_showerpillar				Можна розмістити посередині душової, а потім встановити на ній по душу з кожної сторони.
+
+
+buildtoolbar_popup_obj_doorMat					Дешевий гумовий килимок, який, можливо, непогано виглядатиме перед дверима.
+
+
+buildtoolbar_popup_obj_guardPavilion			Можна розмістити надворі, щоб охоронці та озброєні охоронці могли стежити за в'язнями.\n	Призначити охоронців можна за допомогою меню «Розташування».\n- Підвищує рівень Стримування у зоні.\n- Захищає охоронців від негоди.
+buildtoolbar_popup_obj_guardPavilionCorner		Можна розмістити надворі у кутових ділянках, щоб охоронці та озброєні охоронці могли стежити за в'язнями.\n	Призначити охоронців можна за допомогою меню «Розташування».\n- Підвищує рівень Стримування у зоні.\n- Захищає охоронців від негоди.
+
+buildtoolbar_popup_obj_officeChair				Стілець, на якому працівники можуть сидіти за письмовим столом.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_obj_visitorDoor				Двері, що відкриваються без участі охоронця та дозволяють відвідувачам проходити до в'язниці. Дверима також можуть користуватися охоронці та співробітники, але не в'язні.
+buildtoolbar_popup_obj_ironingBoardShort		Маленька гладильна дошка.
+buildtoolbar_popup_obj_fencegatestaff			Хвіртка в огорожі, що працює так само, як двері.
+buildtoolbar_popup_obj_fencegatestandard		Хвіртка в огорожі, що працює так само, як двері.
+buildtoolbar_popup_obj_fencegatevisitor			Хвіртка в огорожі, що працює так само, як двері.
+
+
+
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_obj_walllight				Лампа, яку можна встановити на стіні.
+buildtoolbar_popup_obj_securedoor				Створені для карцеру двері, які мають отвір для подачі їжі. Охоронці можуть передати в'язню тацю з їжею через отвір, не заходячи до камери.
+
+
+interfacedeployment_guards                      Призначити охоронців
+buildtoolbar_deployment_Guards			Розташовуй охоронців у різних секторах в'язниці.
+	
+interfacedeployment_Dogs			Призначити кінологів
+buildtoolbar_deployment_Dogs			Розташовуй кінологів у різних секторах в'язниці.
+
+interfacedeployment_ArmedGuards			Призначити озброєних охоронців
+buildtoolbar_deployment_ArmedGuards		Розташовуй озброєних охоронців у різних секторах в'язниці.
+
+interfacedeployment_patrols                     Призначити охоронців
+buildtoolbar_deployment_Patrols			Призначай охоронців патрулювати в'язницю за маршрутом.
+
+interfacedeployment_dogpatrols                  Призначити кінологів
+buildtoolbar_deployment_DogPatrols		Призначай кінологів патрулювати в'язницю за маршрутом.
+
+interfacedeployment_armedpatrols                Призначити озброєних охоронців
+buildtoolbar_deployment_ArmedPatrols		Призначай озброєних охоронців патрулювати в'язницю за маршрутом.
+
+buildtoolbar_popup_help_Guards_1        Інструмент «Охоронці» дозволяє призначати охоронців у різні зони. Охоронці на посту хаотично патрулюватимуть призначену зону та виконуватимуть завдання в цій зоні – відкривання дверей тощо.\n\n
+buildtoolbar_popup_help_Guards_2        ~Натисніть ліву кнопку миші, щоб збільшити кількість кінологів, розташованих в зоні. Натисніть праву кнопку для зменшення їх кількості.\n\n
+buildtoolbar_popup_help_Guards_3        ^Підказки
+buildtoolbar_popup_help_Guards_4        - Якщо ви розблокували Мікроменеджмент, ви отримали доступ до Графіку розташування. Це дозволяє створювати розклад призначення охоронців на певні зони. Наприклад, якщо ви бажаєте призначати охоронців до їдальні лише під час харчування, ви можете натискати на кожен блок графіку, що відповідає часу харчування, а потім пересунути повзунок часу на цей блок та натиснути на їдальню, щоб призначити охоронців.
+buildtoolbar_popup_help_Guards_5        - У вас є до 7 різних часових блоків для планування, а також базовий режим «Завжди активний», що дозволяє створювати складні схеми розташування відповідно до потреб вашої в'язниці. 
+buildtoolbar_popup_help_Guards_6        - Якщо ви не оберете часовий блок вручну під час призначення кінологів, у графіку використовуватиметься поточний час, тому важливо обирати правильний час при зміні розташування!
+
+buildtoolbar_popup_help_Dogs_1        Інструмент «Кінологи» дозволяє призначати кінологів у різні зони. Кінологи на посту хаотично патрулюватимуть призначену зону та виконуватимуть завдання в цій зоні – відкривання дверей тощо.\n\n
+buildtoolbar_popup_help_Dogs_2        ~Натисніть ліву кнопку миші, щоб збільшити кількість кінологів, розташованих в зоні. Натисніть праву кнопку для зменшення їх кількості.\n\n
+buildtoolbar_popup_help_Dogs_3        ^Підказки
+buildtoolbar_popup_help_Dogs_4        - Якщо ви розблокували Мікроменеджмент, ви отримали доступ до Графіку розташування. Це дозволяє створювати розклад призначення кінологів на певні зони. Наприклад, якщо ви бажаєте призначати кінологів до їдальні лише під час харчування, ви можете натискати на кожен блок графіку, що відповідає часу харчування, а потім пересунути повзунок часу на цей блок та натиснути на їдальню, щоб призначити кінологів.
+buildtoolbar_popup_help_Dogs_5        - У вас є до 7 різних часових блоків для планування, а також базовий режим «Завжди активний», що дозволяє створювати складні схеми розташування відповідно до потреб вашої в'язниці. 
+buildtoolbar_popup_help_Dogs_6        - Якщо ви не оберете часовий блок вручну під час призначення кінологів, у графіку використовуватиметься поточний час, тому важливо обирати правильний час при зміні розташування!
+
+buildtoolbar_popup_help_ArmedGuards_1        Інструмент «Озброєні охоронці» дозволяє призначати кінологів у різні зони. Озброєні охоронці на посту хаотично патрулюватимуть призначену зону та виконуватимуть завдання в цій зоні – відкривання дверей тощо.\n\n
+buildtoolbar_popup_help_ArmedGuards_2        ~Натисніть ліву кнопку миші, щоб збільшити кількість охоронців, розташованих в зоні. Натисніть праву кнопку для зменшення їх кількості.\n\n
+buildtoolbar_popup_help_ArmedGuards_3        ^Підказки
+buildtoolbar_popup_help_ArmedGuards_4        - Якщо ви розблокували Мікроменеджмент, ви отримали доступ до Графіку розташування. Це дозволяє створювати розклад призначення озброєних охоронців на певні зони. Наприклад, якщо ви бажаєте призначати озброєних охоронців до їдальні лише під час харчування, ви можете натискати на кожен блок графіку, що відповідає часу харчування, а потім пересунути повзунок часу на цей блок та натиснути на їдальню, щоб призначити озброєних охоронців.
+buildtoolbar_popup_help_ArmedGuards_5        - У вас є до 7 різних часових блоків для планування, а також базовий режим «Завжди активний», що дозволяє створювати складні схеми розташування відповідно до потреб вашої в'язниці. 
+buildtoolbar_popup_help_ArmedGuards_6        - Якщо ви не оберете часовий блок вручну під час призначення озброєних охоронців, у графіку використовуватиметься поточний час, тому важливо обирати правильний час при зміні розташування!
+
+interfacedeployment_PrioritizeArea			Підвищити пріоритетність зони (*X)
+buildtoolbar_deployment_PrioritizeGuard			Використовуйте це налаштування, щоб визначити зони, яким охоронці будуть приділяти більше уваги. Якщо у в'язниці бракуватиме охоронців, вони зосереджуватимуться на зонах, які визначені як пріоритетні. Є два рівні пріоритетності: «Високий» (>>) і «Надвисокий» (>>>).
+
+interfacedeployment_BluePatrol				Синій патруль
+buildtoolbar_deployment_BluePatrol			Кольорові маршрути дозволяють призначати на патрулювання конкретних охоронців та накладати їхні графіки. Натисніть кнопку миші й проведи, щоб створити синій патруль. Натисніть праву кнопку миші й потягни, щоб видалити синій маршрут патрулювання. Щоб збільшити кількість охоронців на маршруті, використовуй кнопки призначення охоронців.
+
+interfacedeployment_MagentaPatrol			Фіолетовий патруль
+buildtoolbar_deployment_MagentaPatrol			Кольорові маршрути дозволяють призначати на патрулювання конкретних охоронців та накладати їхні графіки. Натисніть кнопку миші й проведи, щоб створити фіолетовий патруль. Натисніть праву кнопку миші й потягни, щоб видалити фіолетовий маршрут патрулювання. Щоб збільшити кількість охоронців на маршруті, використовуй кнопки призначення охоронців.
+
+interfacedeployment_PrioritizePatrol			Підвищити пріоритетність патруля
+buildtoolbar_deployment_PrioritizePatrol		Використовуйте це налаштування, щоб визначити маршрути патрулювання, яким охоронці будуть приділяти більше уваги. Якщо у в'язниці бракуватиме охоронців, вони зосереджуватимуться на маршрутах патрулювання, які визначені як пріоритетні. Є два рівні пріоритетності: «Високий» (>>) і «Надвисокий» (>>>).
+
+buildtoolbar_popup_filter_title                 Фільтрувати
+buiildtoolbar_popup_filter_toggle               Натисніть, щоб увімкнути/вимкнути
+buildtoolbar_popup_filter_default               За замовчуванням
+buildtoolbar_popup_filter_az                    За алфавітом
+buildtoolbar_popup_filter_owned                 Є у в'язниці
+buildtoolbar_popup_filter_costhighlow           За спаданням ціни
+buildtoolbar_popup_filter_costlowhigh           За зростанням ціни
+buildtoolbar_popup_filter_indooroutdoor         Спочатку для приміщень
+buildtoolbar_popup_filter_outdoorindoor         Спочатку надвірні
+buildtoolbar_popup_filter_quantity               Кількість у в'язниці
+buildtoolbar_popup_filter_byroom                За кімнатою
+
+
+
+
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+double_click_move_item							НАТИСНУТИ ДВІЧІ: Перемістити об'єкт
+
+double_click_add_door							Натисніть двічі лівою кнопкою миші, щоб додати двері.
+
+codex_option_bureaucracyresearched				«Бюрократію» розблоковано
+codex_tooltip_bureaucracyresearched				Почніть нову гру з повністю розблокованим деревом «Бюрократії».
+
+codex_option_jungle						Ділянка з джунглями
+codex_tooltip_jungle						Почати гру на ділянці, що вкрита щільними джунглями.
+
+codex_option_snowy						Вкрита снігом ділянка
+codex_tooltip_snowy						Почати гру на ділянці, що вкрита снігом.
+
+# =============================================================================
+# Misc
+# =============================================================================
+action_WashSmall								Миття
+
+action_Stretching								Фізичні вправи
+action_PlayChess								Гра в шахи
+
+
+plant_tree_location								Посадити дерево в *X
+
+report_intake_cat_SuperMax							Надсуворий режим
+
+interface_undo							Скасувати
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_save_failed                               Помилка збереження в'язниці.
+codex_changelog_next                            Наступне >
+codex_changelog_prev                            < Попереднє
+codex_credits                                   Титри
+
+codex_options_screenshotmode					Режим знімка екрана
+codex_tooltip_screenshotmode					Увімкнувши режим знімка екрана, тримайте клавішу [*K] і натисніть [*E], щоб приховати весь інтерфейс.
+codex_sso_content_message						Ви успішно створили обліковий запис Paradox.\n\nЩоб віддячити, ми даруємо вам новий об'єкт «Будка охорони», який ви зможете знайти у меню «Об'єкти».
+codex_options_borderless_windowed               Без рамок
+codex_options_monitor                           Монітор
+
+
+# =============================================================================
+# Things from Gaz that we might be able to squeeze in, that would be useful to translate please
+# =============================================================================
+
+codex_options_display_mode              	Режим відображення 
+codex_options_borderless_fullscreen		Вікно на весь екран
+codex_options_display_monitor 			Режим відображення 
+codex_options_windowed_resolution               Роздільна здатність вікна
+
+############################### PSYCH WARD UPDATE ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+material_artdecowall							Стіна (Ар деко)
+material_blueWall								Розкішна стіна (Сині смуги)
+material_burgundyWall							Розкішна стіна (Вишнева)
+material_greenWall								Розкішна стіна (Зелена)
+material_orientalWall							Стіна (східний стиль)
+material_cushionedwall							Стіна (з оббивкою)
+
+material_sandstone								Пісковик 
+material_limestonefloor							Вапняк 
+material_blueCarpet								Килим (синій)
+material_redCarpet								Килим (червоний)
+material_brownCarpet							Килим (коричневий)
+material_paddedfloor							М'яка
+material_grassstones							Трава та камінь
+material_grasscornerfloor						Зелений куточок
+material_grasscornerfloor1						Зелений куточок
+material_grasscornerfloor2						Зелений куточок
+material_grasscornerfloor3						Зелений куточок
+material_lunarfloor								Місячний ландшафт
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+object_spookytree								Дерево (моторошне)
+object_cactustree								Дерево (кактус)
+object_sakuratree								Дерево (сакура)
+object_plantcactus								Рослина (кактус)
+object_tyrestack								Купа шин
+object_lamp										Світло (Лампа)
+object_bathroomSink								Рукомийник
+object_bathroomHandDryer						Сушарка
+object_chestOfDrawers							Комод
+object_woodenStool								Дерев'яний стілець
+object_woodenTable								Дерев'яний стіл			
+object_bucket									Відро
+object_shortbookcase							Поличка (коротка)
+object_outdoorTable								Стіл надворі
+object_mooseHead								Лосяча голова
+object_toiletSign								Табличка (Туалет)
+object_rightArrowSign							Табличка (Стрілка вправо)
+object_leftArrowSign							Табличка (Стрілка вліво)
+object_infirmarySign							Табличка (Лазарет)
+object_canteenSign								Табличка (Їдальня)
+object_showerSign								Табличка (Душові)
+object_armourySign								Табличка (Збройова палата)
+object_jaildoorred								Тюремні двері (червоні)
+object_jaildoorgrey								Тюремні двері (сірі)
+object_jaildoororange							Тюремні двері (оранжеві)
+object_jaildoorYellow							Тюремні двері (жовті)
+object_jaildoorlargered							Великі тюремні двері (червоні)
+object_jaildoorlargegrey						Великі тюремні двері (сірі)
+object_jaildoorlargeorange						Великі тюремні двері (оранжеві)
+object_jaildoorlargeyellow						Великі тюремні двері (жовті)
+object_coatstand								Вішалка
+object_dogbowl									Собача миска
+object_footbridge                               Місток
+object_footbridgesteel                          Сталевий місток
+object_footbridgeb                              Місток B
+object_footbridgesteelb                         Сталевий місток B
+object_windowclassy								Розкішне вікно
+object_windowclassyLarge						Розкішне вікно (велике)
+object_gravestone								Могильна плита
+object_psychiatrist								Психіатр
+object_orderly									Санітар
+object_rorschachTest							Тест Роршаха
+object_anatomyModel								Анатомічна модель
+object_flipboard								Дошка-тринога
+object_medicineCabinetPsych						Шафка з ліками
+object_leatherchair								Шкіряний стілець
+object_leatherSofa								Шкіряний диван
+object_parkbench								Лава (паркова)
+object_fencegateguard							Хвіртка (для охорони)
+object_oaktable									Стіл (дубовий)
+object_oakbench									Лава (дубова)
+object_BoomBoxRoundHouse						Магнітофон
+
+object_classic									Класика
+object_dalmation								Далматинець
+object_husky									Хаскі
+object_companion								Улюбленець
+object_cat										Кіт
+object_direwoof									Жахливий вовк
+
+equipment_fountainPen							Чорнильна ручка
+equipment_goldPocketWatch						Золотий годинник
+equipment_sedativeShot							Заспокійлива ін'єкція (шприц)
+equipment_sedativesyringe						Заспокійлива ін'єкція (шприц)
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_mat_artdecowall				Стіна в стилі ар деко, нагадує про архітектуру 20-х років.
+buildtoolbar_popup_mat_blueWall					Розкішна стіна. Можна побудувати на фундаменті, щоб створити нові зони чи кімнати.
+buildtoolbar_popup_mat_burgundywall				Розкішна стіна. Можна побудувати на фундаменті, щоб створити нові зони чи кімнати.
+buildtoolbar_popup_mat_greenwall				Розкішна стіна. Можна побудувати на фундаменті, щоб створити нові зони чи кімнати.
+buildtoolbar_popup_mat_orientalwall				Стіна у східному стилі, допоможе привнести у в'язницю дух давньої Японії.
+buildtoolbar_popup_mat_cushionedwall			Багата шкіряна оббивка окремих ділянок стіни допоможе створити стильні нові зони або кімнати.
+buildtoolbar_popup_mat_sandstone				Покладіть надворі плити з пісковику.
+buildtoolbar_popup_mat_limestonefloor			Підлога кольору затертого вапняку.
+buildtoolbar_popup_mat_blueCarpet				Зручний килимок. Чудово підходить для приміщень для персоналу.
+buildtoolbar_popup_mat_redCarpet				Зручний килимок. Чудово підходить для приміщень для персоналу.
+buildtoolbar_popup_mat_brownCarpet				Зручний килимок. Чудово підходить для приміщень для персоналу.
+buildtoolbar_popup_mat_paddedfloor				Чудово пасує до м'яких стін, разом вони створюють ідеальний простір для божевільних злочинців.
+buildtoolbar_popup_mat_grassstones				Ділянка трави з кам'яними плитками.
+buildtoolbar_popup_mat_grassscornerfloor		Зелений куточок з ґрунтом. Добре доповнює звивисті стежки.
+buildtoolbar_popup_mat_lunarfloor				Тверда кам'яниста поверхня космічного вигляду.
+buildtoolbar_popup_obj_spookytree				Моторошне старе дерево.
+buildtoolbar_popup_obj_cactustree				Найкраще виглядатиме на тлі пустелі.
+buildtoolbar_popup_obj_sakuratree				Прекрасне вишневе деревце, вкрите ніжними рожевими квіточками.
+buildtoolbar_popup_obj_plant					Приємна кімнатна рослинка.
+buildtoolbar_popup_obj_plantcactus				Кактус у горщику.
+buildtoolbar_popup_obj_tyrestack				Виконує роль невисокої стіни, довкола якої ходитимуть в'язні та персонал.
+buildtoolbar_popup_obj_lamp						Красива підлогова лампа, підходить для офісів та приміщень для персоналу.
+buildtoolbar_popup_obj_bathroomSink				Невід'ємна складова ванної кімнати.
+buildtoolbar_popup_obj_bathroomHandDryer		Чудова пара рукомийнику.
+buildtoolbar_popup_obj_chestOfDrawers			Дерев'яний комодик.
+buildtoolbar_popup_obj_woodenStool				Чудова пара дерев'яному столу.
+buildtoolbar_popup_obj_woodenTable				Чудова пара дерев'яному стільцю	
+buildtoolbar_popup_obj_bucket					Просто відро.
+buildtoolbar_popup_obj_shortbookcase			Коротка поличка для книжок.
+buildtoolbar_popup_obj_outdoorTable				Місце надворі, де в'язні можуть присісти і поїсти.
+buildtoolbar_popup_obj_mooseHead				Чудова голова лося ручної роботи, закріплена на дошці.
+buildtoolbar_popup_obj_toiletSign				Стінна табличка з позначкою туалета.
+buildtoolbar_popup_obj_rightArrowSign			Стінна табличка зі стрілочкою, що вказує праворуч.
+buildtoolbar_popup_obj_leftArrowSign			Стінна табличка зі стрілочкою, що вказує ліворуч.
+buildtoolbar_popup_obj_infirmarySign			Стінна табличка з позначкою лазарета.
+buildtoolbar_popup_obj_canteenSign				Стінна табличка з позначкою їдальні.
+buildtoolbar_popup_obj_showerSign				Стінна табличка з позначкою душових.
+buildtoolbar_popup_obj_armourySign				Стінна табличка з позначкою зброярні.
+buildtoolbar_popup_obj_jaildoorred				Кольорові двері, що позначають камери суворого режиму.
+buildtoolbar_popup_obj_jaildoorgrey				Кольорові двері, що позначають камери загального режиму.
+buildtoolbar_popup_obj_jaildoororange			Кольорові двері, що позначають камери середнього режиму.
+buildtoolbar_popup_obj_jaildooryellow			Кольорові двері, що позначають камери захисного арешту.
+buildtoolbar_popup_obj_jaildoorlargered			Великі кольорові двері, що позначають камери суворого режиму.
+buildtoolbar_popup_obj_jaildoorlargegrey		Великі кольорові двері, що позначають камери загального режиму.
+buildtoolbar_popup_obj_jaildoorlargeorange		Великі кольорові двері, що позначають камери середнього режиму.
+buildtoolbar_popup_obj_jaildoorlargeYellow		Великі кольорові двері, що позначають камери захисного арешту.
+buildtoolbar_popup_obj_coatstand				Тут персонал може залишити свої пальта та капелюхи.
+buildtoolbar_popup_obj_dogbowl					Вода та їжа для втомлених сторожових собак.\nТрохи збільшує їхню витривалість.
+buildtoolbar_popup_obj_secretdoor				Приховані дверцята, замасковані під книжкову шафу. Ними може скористатися персонал.
+buildtoolbar_popup_obj_parkbench				Паркова лава, щоб сидіти надворі.
+buildtoolbar_popup_obj_fencegateguard			Хвіртка в огорожі, яку можуть відчинити лише охоронці.
+buildtoolbar_popup_obj_oaktable					За цим столом можна їсти.
+buildtoolbar_popup_obj_oakbench					На цій лаві можна сидіти. Чудова пара дубовому столу.
+
+buildtoolbar_popup_obj_classic					Сторожовий собака як він є. Старий, проте досвідчений.
+buildtoolbar_popup_obj_dalmation				Раніше жив на фермі, зараз запобігає втечам.
+buildtoolbar_popup_obj_husky					Смертельна пастка для тих, хто ризикне втікати по снігу.
+buildtoolbar_popup_obj_companion				Ліпший друг охоронця.
+buildtoolbar_popup_obj_cat						Не всі люблять собак.
+buildtoolbar_popup_obj_direwoof					Та хто взагалі ризикне втікати від нього?
+
+buildtoolbar_popup_filter_mostused				Найуживаніші
+buildtoolbar_caters_safety						Для потреб охорони
+
+interfacedeployment_orderly						Розташувати санітарів
+buildtoolbar_deployment_orderly					Розташовуй санітарів у різних секторах в'язниці.
+
+interfacedeployment_orderlypatrols				Розташувати санітарів
+buildtoolbar_deployment_orderlypatrols			Призначай санітарів патрулювати в'язницю за маршрутом.
+
+room_PaddedCell                                М'яка камера
+room_PaddedHoldingCell                         М'яка камера утримання
+room_PsychiatristOffice							Кабінет психіатра
+
+interfaceplanning_BuildPlan			Побудувати плани
+interfaceplanning_ClearPlan			Очистити плани
+interfaceplanning_Door				Двері
+
+buildtoolbar_improvement						- *R покращить показник  
+buildtoolbar_improvement_windows				 (якщо виходять назовні)
+
+buildplan_title					Вибір типу стіни			
+buildplan_message				То що, хочеш побудувати цей план?\n	Цю дію не можна буде скасувати.\n\n	Усі заплановані стіни будуть одного типу.\n	Вибір типу стіни можна змінити нижче.
+clearplan_title					Очистити плани
+clearplan_message				Точно хочеш очистити все накреслені плани?\n\n	Цю дію не можна буде скасувати.
+
+d11_custom_planning 				Індивідуальне планування
+
+buildtoolbar_popup_planning			Плануй в'язницю ще до початку робіт з будівництва і аж поки не визначишся остаточно. Меню планування дозволяє тобі побудувати усі заплановані елементи, видалити окремі секції або очистити увесь план та почати заново.
+
+buildtoolbar_popup_help_planningDoor_1		Обраний тип дверей буде застосовано, коли ти розмістиш двері у плані.
+buildtoolbar_popup_help_quickBuildWall_1	Обраний тип стіни буде застосований у наступному швидкому будівництві.
+
+
+buildtoolbar_popup_mat_blueclassywall			Розкішна стіна. Можна побудувати на фундаменті, щоб створити нові зони чи кімнати.
+buildtoolbar_popup_mat_burgundyclassywall		Розкішна стіна. Можна побудувати на фундаменті, щоб створити нові зони чи кімнати.
+buildtoolbar_popup_mat_greenclassywall			Розкішна стіна. Можна побудувати на фундаменті, щоб створити нові зони чи кімнати.
+
+buildtoolbar_popup_obj_windowclassy				Крізь нього те, що надворі, виглядає краще, ніж насправді.
+buildtoolbar_popup_obj_windowclassyLarge		Крізь нього те, що надворі, виглядає краще, ніж насправді.
+buildtoolbar_popup_obj_gravestone				Могильна плита поставляється для кожної смерті, що трапилася у в'язниці.
+
+buildtoolbar_popup_staff_psychiatrist			Кваліфікований працівник, що регулярно оглядає та консультує психічно хворих в'язнів.\nКоли у в'язниці з'являється програма надання психіатричних консультацій, психіатри влаштовують окремі сесії для психічно хворих в'язнів. Це допомагає заспокоїти їх.\nЯкщо у в'язниці багато психічно хворих в'язнів, краще найняти декілька психіатрів. У кожного має бути окремий кабінет.
+
+buildtoolbar_popup_staff_orderly				Медичний працівник, спеціально навчений працювати з психічно хворими злочинцями.
+buildtoolbar_popup_obj_leatherchair				Чудово доповнює шкіряний диван. Підходить для співробітників, а от для в'язнів це нечувана розкіш.
+
+buildtoolbar_popup_obj_rorschachTest		    Якщо додати до кабінета психіатра тест Роршаха, це поліпшить лікування психічно хворих в'язнів.
+buildtoolbar_popup_obj_anatomyModel				Якщо додати до кабінета психіатра анатомічну модель, це поліпшить лікування психічно хворих в'язнів.
+buildtoolbar_popup_obj_flipboard				Якщо додати до кабінета психіатра дошку на тринозі зі схемою мозку, це поліпшить лікування психічно хворих в'язнів.
+buildtoolbar_popup_obj_medicineCabinetPsych		Якщо додати до кабінета психіатра шафку з ліками, це поліпшить лікування психічно хворих в'язнів.
+buildtoolbar_popup_obj_leatherchair				Чудово доповнює шкіряний диван. Підходить для співробітників, а от для в'язнів це нечувана розкіш.
+buildtoolbar_popup_obj_leatherSofa				Якщо додати до кабінета психіатра класичний шкіряний диван, це поліпшить лікування психічно хворих в'язнів.
+
+buildtoolbar_deployment_insaneseczone			В цей сектор допускаються лише психічно хворі ув'язнені.
+
+failuremessage_maximumcountreachedgeneric		Досягнено максимальної кількості
+
+buildtoolbar_popup_locked_PsychiatricConsultation				Відкриється після проведення ще *B психіатричних сесій
+buildtoobar_PsychConItemImproveInfo 			- Покращує показник кабінета психіатра.
+buildtoobar_PsychConItemImproveSuppression 		- Після консультації у психічно хворих в'язнів знижується\nрівень пригніченості та певні потреби на 5%.
+buildtoobar_PsychConItemImproveGrace 			- Після консультації додає ще один день\nзниженої пригніченості та певних потреб,\nперш ніж ці показники знову почнуть зростати.
+buildtoolbar_popup_obj_Footbridge				Мостик, по якому в'язні та персонал можуть перетинати водні та земельні ділянки. Не можна перекидувати через стіни, огорожі та інші будови.
+buildtoolbar_popup_obj_FootbridgeSteel			Мостик, по якому в'язні та персонал можуть перетинати водні та земельні ділянки. Не можна перекидувати через стіни, огорожі та інші будови.
+buildtoolbar_popup_obj_FootbridgeB				Мостик, по якому в'язні та персонал можуть перетинати водні та земельні ділянки. Не можна перекидувати через стіни, огорожі та інші будови.
+buildtoolbar_popup_obj_FootbridgeSteelB			Мостик, по якому в'язні та персонал можуть перетинати водні та земельні ділянки. Не можна перекидувати через стіни, огорожі та інші будови.
+buildtoolbar_popup_obj_BoomBoxRoundHouse		В'язні можуть слухати улюблені хлопчакові групи протягом дня. Це приносить радість мешканцям кімнати.
+# =============================================================================
+# Room - Names
+# =============================================================================
+
+room_PaddedSolitary                            М'яка одиночна камера
+
+# =============================================================================
+# Room - Description
+# =============================================================================
+
+buildtoolbar_popup_room_paddedcell			    Тут можна утримувати психічно хворих в'язнів, м'які стіни справляють заспокійливий ефект.
+buildtoolbar_popup_room_paddedholdingcell	    Тут нові психічно хворі в'язні розташовуються, поки готується постійна м'яка камера.
+buildtoolbar_popup_room_paddedsolitary			    Персональна кімната для ув'язнення найгірших психічно хворих злочинців.
+
+# =============================================================================
+# Quick Build - Names
+# =============================================================================
+
+quickbuild_paddedbasiccell									М'яка (маленька)
+quickbuild_paddedintermediatecell							М'яка (середня)
+quickbuild_paddedholdingcell								М'яка камера утримання
+quickbuild_paddedsolitarycell								М'яка одиночна камера
+quickbuild_PsychiatristOffice								Кабінет психіатра
+
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacedeployment_insaneseczone                  Тільки для психічно хворих
+interfacetopbar_PrisonerCells_insaneSecOnly	Максимальна кількість хворих: *X
+
+roomgrading_PsychiatristOffice_info				Відкрий та розмісти додаткові об'єкти в кабінеті психіатра, щоб покращити лікування психічно хворих в'язнів. \n
+												Items are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+roomgrading_PsychiatristOffice_Item				Елемент: *X
+roomgrading_PsychiatristOffice_Quality			Спроможність психіатра: *Q
+roomgrading_PsychiatristOffice_Upgrade			Покращ кабінет психіатра, щоб збільшити спроможність.
+
+roomgrading_score_average		СЕРЕДНЯ
+roomgrading_score_good			ДОБРА
+roomgrading_score_verygood		ДУЖЕ ДОБРА
+roomgrading_score_outstanding	НАДЗВИЧАЙНА
+
+# =============================================================================
+# Objectives, Grants
+# =============================================================================
+
+objective_grant_firstinsanecellblock				Крило психічно хворих
+objective_grant_firstinsanecellblock_description	Уряд пропонує нам фінансування для розширення в'язниці з метою утримання та лікування психічно хворих злочинців.\n\nЗапропоновані кошти дадуть можливість побудувати спеціальні м'які камери та найняти кваліфікованих психіатрів. 
+objective_grant_firstinsanecellblock_cells			Побудувати крило / блок камер для психічно хворих злочинців на 10 м'яких камер
+objective_grant_firstinsanecellblock_prisoners		Взяти на утримання 10 психічно хворих злочинців
+objective_grant_firstinsanecellblock_psychiatrist	Найняти 2 психіатрів (кожному потрібен кабінет)
+
+objective_readinsaneletter						Вказівки для керівництва щодо утримання психічно хворих злочинців
+objective_readinsaneletter_description			Перш ніж розміщувати у в'язниці психічно хворих злочинців, потрібно підготувати все необхідне обладнання та персонал, щоби про в'язнів могли подбати належним чином. Дирекція.
+
+# =============================================================================
+# Wardens
+# =============================================================================
+
+warden_wardeninsanehawk_name                     Хоук Гартман
+warden_wardeninsanehawk_desc                     У минулому спец з розшуку людей, Гартман добре натренував своїх охоронців.\n\n - Усі охоронці значно рідше гублять ключі\n - Витривалість охорони поновлюється при новому надходженні в'язнів
+warden_wardeninsanehawk_desc_short               - Витривалість охорони поновлюється при надходженні в'язнів.
+
+warden_wardeninsaneslugworth_name                Доктор Слагворт
+warden_wardeninsaneslugworth_desc                Доктор Слагворт відчиняє двері свого кабінету навіть для тих злочинців, від яких відмовилися усі інші в'язниці. Він вірить, що зможе допомогти.\n\n - Психіатричне лікування на 20% ефективніше\n - Більше шансів отримати психічно хворих злочинців із психопатією!
+warden_wardeninsaneslugworth_desc_short          - Приймає більше в'язнів-психопатів. Психіатри краще лікують пацієнтів.
+
+warden_wardeninsanehudson_name					 Доктор Хадсон
+warden_wardeninsanehudson_desc                   Доктор Хадсон може зробити те, на що не здатен ніхто інший...\n\n - Швидка медична допомога працює на 20% швидше і прибуває раніше\n - Витрати на ремонт знижуються на 10%
+warden_wardeninsanehudson_desc_short             - Швидша праця, менше витрат на ремонт.
+
+# =============================================================================
+# Victory, failures
+# =============================================================================
+
+victory_insaneprisonersdeaths					 Смерть хворих в'язнів
+victory_warning_insaneprisonersdeaths			 Тебе буде звільнено, якщо забагато хворих в'язнів помре.
+victory_insaneprisonersdeaths_units				 Смерті
+
+victory_insaneprisonersabused					 Напади на хворих в'язнів
+victory_warning_insaneprisonersabused			 Тебе буде звільнено, якщо буде забагато нападів з боку охорони на хворих в'язнів.
+victory_insaneprisonersabused_units				 Напади
+
+victory_adviserwarning_insaneprisonersdeaths1	 Психічно хворі в'язні страждають та помирають в нашій в'язниці, так не може тривати! Журналісти змішають нас з брудом, якщо ми не виправимо ситуацію!
+victory_advisernotice_insaneprisonersdeaths1	 Досить! Це твоя провина! Тебе призначили, щоб подбати про психічно хворих, а ти натомість дозволяєш знущатися з них. Тебе звільнено, йди додому та добре подумай над своїм життєвитм вибором.
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_option_criminallyinsane					Психічно хворі в'язні
+
+codex_tooltip_criminallyinsane					Психічно хворі в'язні перебувають у тривожному стані, тому для них потрібні спеціальні м'які камери та допомога психіатрів. Треба задовольняти їх потреби у приватності, комфорті, безпеці та свободі, інакше вони можуть збунтуватися. Якщо увімкнути це налаштування, то звичайні в'язні також можуть збожеволіти, якщо їхні потреби не будуть задоволені. Перетворення в'язнів на психічно хворих в'язнів можна вимкнути у налаштуваннях карти.
+
+codex_prisoner_biography_NITG					Біографія, створена гравцем
+codex_options_InsaneGauge						Шкала над головою в'язня
+
+codex_option_desert								Пустельна ділянка
+codex_tooltip_desert							Генерує ділянку землі, що схожа на шматочок пустелі.
+
+codex_options_rendercolours						Кольорові шари кімнати
+
+codex_new_selectdog								Обрати сторожових собак
+
+codex_option_prisonerTurning					В'язні можуть збожеволіти
+
+# =============================================================================
+# Rapsheet
+# =============================================================================
+
+rapsheet_category_insane						Психічно хворі
+rapsheet_insane_bio_desc                        Психічно хворі в'язні страждають від пригнічення, для заспокоєння вони потребують спеціальних м'яких камер та допомоги психіатра.\n\nЯкщо психічно хворий в'язень збунтується, він може атакувати персонал, завдати шкоди в'язниці, здійснити спробу втечі та проявити інші типи небезпечної поведінки.
+
+reputation_Weak                                 Слабкий
+reputation_Insomniac                            З безсонням
+reputation_Depressed                            У депресії
+reputation_Outbreaks                            Буйний
+reputation_Sickness                             З нудотою
+reputation_Hyperactive                          Гіперактивний
+reputation_Addict                               Із залежністю
+reputation_Claustrophobic                       З клаустрофобією
+reputation_ExtremelyStoical                     Надзвичайно стійкий
+reputation_ExtremelyVolatile                    Надзвичайно непередбачуваний
+reputation_Psychopathic                         Психопат
+reputation_Insane                               Психічно хворий
+
+reputationtooltip_Weak                          Цей в'язень фізично слабкий, погано б'ється, але може сильніше постраждати у бійці.
+reputationtooltip_Insomniac                     Цей в'язень потребує набагато менше сну.
+reputationtooltip_Depressed                     Коли цей в'язень пригнічений та занедбаний, він рухається набагато повільніше. 
+reputationtooltip_Outbreaks                     Коли цей в'язень пригнічений та занедбаний, він схильний до небезпечної поведінки та пошкоджень.
+reputationtooltip_Sickness                      Коли цей в'язень пригнічений та занедбаний, він схильній блювати та іншим чином бруднити себе.
+reputationtooltip_Hyperactive                   Коли цей в'язень пригнічений та занедбаний, він починає рухатися дуже швидко.
+reputationtooltip_Addict                        Коли цей в'язень пригнічений та занедбаний, він схильний до наркотичної залежності.
+reputationtooltip_Claustrophobic                Коли цей в'язень пригнічений та занедбаний, в нього росте бажання утекти та вийти назовні.
+reputationtooltip_ExtremelyStoical              Цей в'язень не відчуватиме пригнічення ні у карцері, ні в присутності охорони. Йому байдуже насправді.
+reputationtooltip_ExtremelyVolatile             За цим в'язнем треба стежити як слід. Він може вибухнути з будь-якого приводу та стати небезпечним.
+reputationtooltip_Psychopathic                  Такі в'язні набагато небезпечніші та непередбачуваніші, ніж інші психічно хворі злочинці.
+reputationtooltip_Insane                        Цим в'язням обов'язково потрібні м'які камери та регулярні консультації у психіатра, тільки так вони залишаться спокійними.
+
+# =============================================================================
+# Reports
+# =============================================================================
+
+report_intake_cat_insane						Психічно хворий
+report_intake_list_tooltip_insane				Психічно хворі в'язні перебувають у тривожному стані, тому для них потрібні спеціальні м'які камери та допомога психіатрів. Треба задовольняти їх потреби у приватності, комфорті, безпеці та свободі, інакше вони можуть збунтуватися.\n\nНе можна утримувати психічно хворих в'язнів, якщо у в'язниці немає спецільних м'яких камер або м'яких камер утримання.\n\nЗвичайні комери можна перетворити на м'які у меню кімнат.
+report_intake_insane_intake_empty				Зараз не можна брати на утримання психічно хворих в'язнів.\nСпочатку побудуй спеціальні м'які камери або камери утримання.\nЗвичайні камери можна перетворити на м'які у меню кімнат.
+report_staff_group_prisoners_insane				Психічно хворий
+report_Criminally_Insane						Психічно хворий
+report_Pyschopathic								Психопат
+
+report_intake_enable_insane					Увімкнути
+report_intake_psychward_title					Psych Ward: Warden’s Edition
+report_intake_psychward_tooltip					Активуйте новий режим в'язниці: Psych Ward: Warden’s Edition.\n\nТепер ви зможете брати на утримання психічно хворих в'язнів, але спочатку підготуйте в'язницю.\n\nМожна шукати та наймати психіатрів та санітарів. Можна будувати м'які камери та камери утримання.\n\nПсихіатри та м'які камери допоможуть заспокоїти психічно хворих в'язнів та тримати їх під контролем. 
+
+reformerror_no_psychiatrist					НЕМАЄ ПСИХІАТРА
+reform_completion_psychiatrist              - Завершено: *X - Вилікувано: *Y (*P%)
+report_staff_group_orderlies				Санітари
+
+# =============================================================================
+# Research
+# =============================================================================
+research_Orderly							Санітар
+research_Psychiatrist							Психіатр
+                     
+researchtooltip_Orderly							Звичайним охоронцям не можна атакувати психічно хворих в'язнів, тому що вони можуть завдати їм шкоди.\nСанітари вміють знешкоджувати психічно хворих, не завдаючи їм шкоди.\nСанітари також вдягають гамівну сорочку на в'язнів-психопатів на ніч, щоб вони не завдали самі собі шкоди уві сні.
+researchtooltip_Psychiatrist					Кваліфікований працівник, що регулярно оглядає та консультує психічно хворих в'язнів.\nКоли у в'язниці з'являється програма надання психіатричних консультацій, психіатри влаштовують окремі сесії для психічно хворих в'язнів. Це допомагає заспокоїти їх.\nЯкщо у в'язниці багато психічно хворих в'язнів, краще найняти декілька психіатрів. У кожного має бути окремий кабінет.
+
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+doortimer_security_Insane			            Хворий
+
+buildtoolbar_header_foundationmain				Головне
+buildtoolbar_header_foundationmore				Більше
+
+reformprogram_PsychiatricConsultation			Психіатрична консультація
+reformprogram_PsychiatricConsultation_text		Усі психічно хворі в'язні потребують індивідуальних заспокійливих сесій з психіатром, щоб зменшити зростаюче відчуття пригнічення. Без постійної допомоги психіатра вони можуть стати небезпечними та спровокувати безлад серед інших в'язнів.
+reform_program_properties_NeedToBeEscorted		На сесії психічно хворих треба супроводжувати.
+reform_program_intake_insane				Тільки для психічно хворих.
+
+insane_letter									Шановний пане або пані!\n\nОсь декілька важливих вказівок, які допоможуть вам пересвідчитися, що ви маєте необхідний персонал та обладнання для утримання психічно хворих пацієнтів.\n\n1. Потрібні спеціальні м'які камери. Можна перетворити звичайні камери на м'які (у меню кімнат). Коли ви підготуєте м'які камери, можете приймати першу партію психічно хворих в'язнів.\n\n2. У вас мають бути кваліфіковані психіатри та санітари. Для психіатрів треба виділити окремі кабінети.\n\n3. Влаштуйте спеціальну програму психіатричних консультацій. Вона передбачає індивідуальні консультації, які (разом з м'якими камерами) допоможуть тримати в'язнів під контролем. Покращуйте кабінет психіатра, щоб покращити якість лікування.\n\n4. Якщо залишити психічно хворого в'язня без догляду та лікування, він може стати непередбачуваним та небезпечним.\n\n5. Санітари супроводжують в'язнів та допомагають лікувати їх, однак вони не приборкують в'язнів, на відміну від охоронців. Вам також знадобляться гамівні сорочки, щоб вдягати їх на в'язнів-психопатів у кінці дня.\n\n6. Якщо психічно хворі в'язні опиняться серед звичайних, наслідки можуть бути неприємними. Можливо, краще побудувати окрему секцію та розділяти в'язнів на дворі, у їдальні та інших місцях. Кабінет психіатра варто розмістити ближче до камер психічно хворих. \n\n7. Зверніть увагу, що в'язні з іншими режимами також можуть збожеволіти і стати психічно хворими. Стежте за цим.\n\nДирекція\n\nPrison Architects Corp
+
+job_StraitJacket                         Надягти/зняти гамівну сорочку
+job_EscortInsane                         Супроводити психічно хворого
+status_effect_sedated					Заспокоєний
+
+orderly_description                     Санітари мають спеціальні навички з поводження та заспокоєння (при необхідності) психічно хворих в'язнів.
+pyschiatrist_description                УСІ психічно хворі в'язні потребують регулярних індивідуальних сесій з психіатром. Додати психіатричні консультації можна в меню програм.
+
+insanetooltip_status                    Статус: *X
+insanetooltip_status_level0             СПОКІЙНИЙ
+insanetooltip_status_level1             ЗБУДЖЕНИЙ
+insanetooltip_status_level2             НЕСТАБІЛЬНИЙ
+insanetooltip_status_level3             СПРОВОКОВАНИЙ!
+insanetooltip_behaviour					Поведінка: *X
+
+mutator_name_ReducedDirtBuildup						Зменшує утворення бруду
+mutator_tooltip_ReducedDirtBuildup					Швидкість утворення бруду та багна довкола в'язниці знижується вдвічі.
+administrator_requiresoffice_psychiatrist            Потрібен кабінет психіатра
+
+dlc_insane_upsell				Це збереження використовує дані з розширення «Psych Ward: Warden's Edition». Оскільки ми не знайшли цього розширення у вашій системі, окремі функції буде вимкнено. Будь ласка, придбайте «Psych Ward: Warden's Edition», щоб без обмежень насолодитися грою Prison Architect.
+dlc_insane_upsell_multiplayer 	Господар цієї гри в режимі мультиплеєр придбав розширення «Psych Ward: Warden's Edition». Ви можете отримати доступ в якості гостя. Грайте з задоволенням!
+
+regime_work_pyscho              Програми/Вільний час
+regime_worklockdown_pyscho      Програми/Під замком
+
+regimetooltip_work_pyscho			Увага: психічно хворі в'язні не можуть працювати. В робочий час вони можуть тільки відвідувати курси.
+regimetooltip_worklockdown_pyscho	Увага: психічно хворі в'язні не можуть працювати. В робочий час вони можуть тільки відвідувати курси.
+
+
+# =============================================================================
+# Nameplate status
+# ============================================================================= 
+
+nameplate_sedation_level						Рівень заспокоєності
+teacher_teaching_pschiatrist                    Лікування		
+pschiatrist_count_status						Психіатричних консультацій завершено: *X
+
+
+############################### SNEEZER UPDATE ###############################
+
+# =============================================================================
+# Rapsheet
+# ============================================================================= 
+
+action_escortToInfirmary						Відвести у лазарет
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacelogistics_cellStatus					Статус камери
+
+buildtoolbar_popup_help_CellStatus_1			Статус камери показує, які камери зайняті (червоні), а які вільні (зелені).
+buildtoolbar_popup_help_CellStatus_2			Можна натиснути зайняту камеру, щоб побачити в'язня.
+
+freeCell										Вільна камера
+freeCell_line0									Наразі ці камера вільна.
+occupiedCell									Зайнята камера
+occupiedCell_line0								*X *Y, *Z
+occupiedCell_line1								Ліва кнопка миші - показати в'язня.
+object_prisoner_freshfish						В'язень (новоприбулий)
+
+total_Connections								Загальна кількість підключень: *X
+active_Connections								Максимальна кількість активних підключень: *X
+
+interfacedeployment_VisitorDirection			Напрямок для відвідувачів
+
+interface_action_move							Рух
+
+equipment_moreContraband						Контрабанда
+
+# =============================================================================
+# Reports
+# =============================================================================
+
+report_intake_cat_PrisonerTransfer				Перевезення в'язнів!
+report_intake_list_tooltip_prisonerTransfer		\n\nЧас від часу на утримання пропонуються ризиковані в'язні, надто небезпечні для інших в'язниць.\nЗважай! Саме тому за них більше платять. Це запеклі злочинці, ніхто не хоче мати з ними справу. 
+rapsheet_category_PrisonerTransfer				Перевезення в'язнів!
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_tooltip_noUtilities		Під нею не можна прокласти труби та електричні кабелі.
+
+buildtoolbar_deployment_VisitorDirection 	Натисніть та перетягніть, щоб розмістити вказівки на підлозі.\n\nЦе допоможе не в'язням зрозуміти, куди йти.\nДопомагає спрямовувати людей у в'язниці.
+
+# =============================================================================
+# Programs
+# =============================================================================
+
+guard_program_requirements             - *X знадобиться кожному охоронцю
+
+schedule_zone_insaneSecOnly						Для психічно хворих
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_option_lunar								Ділянка місячного ландшафту
+codex_tooltip_lunar								Генерує ділянку землі, що схожа на шматочок місячної поверхні.
+
+codex_option_doubleClick						Подвійний клік, щоб перемістити об'єкт
+
+# =============================================================================
+# Clone Tool
+# =============================================================================
+
+BuildCost_CloneRoom								Клонувати кімнату
+
+# =============================================================================
+# Missing Strings
+# =============================================================================
+
+codex_startonline                   Підключитися онлайн
+codex_start                         Створити гру
+codex_joinonline                    Приєднатися до онлайн-гри
+codex_join                          Приєднатися до гри
+codex_usernamelabel                 Ім'я гравця:
+codex_namelabel                     Назва гри:
+codex_passwordlabel                 Пароль:
+codex_passwordprotectedlabel        Захистити пароль?
+codex_listedlabel                   Опублікувати гру?
+codex_roomlistlabel                 Список гри:
+codex_connectinglabel               З'єднання із сервером...
+codex_retrievingserverlistlabel     Отримання списку гри...
+codex_datausage                     Використання даних: відправлення *S кБ/с, отримання *R кБ/с
+codex_multiplayeroptions            Керувати гравцями
+codex_playeroptions                 Гравці
+codex_regionlabel                   Регіон:
+
+multiplayer_chooseroomname          Оберіть назву гри
+multiplayer_chooseusername          Оберіть ім'я гравця
+multiplayer_joining                 Приєднання: *X
+multiplayer_joiningstate_joining    Приєднання до гри
+multiplayer_joiningstate_receiving  Отримання світу
+multiplayer_joiningstate_loading    Завантаження світу
+multiplayer_rejoining               Приєднання до гри після розширення території:
+multiplayer_leavegame_confirm       Ви точно хочете вийти з поточної спільної гри?
+multiplayer_hostleft                Господар від'єднався.
+multiplayer_joingamefailed          Не вдалося приєднатися до гри:
+multiplayer_startgamefailed         Не вдалося почати гру:
+multiplayer_incorrectpassword       Неправильний пароль
+multiplayer_disconnected            Втрачено зв'язок із сервером.
+multiplayer_syncerror               Зв'язок розірвано через помилку синхронізації.\n\nБудь ласка, спробуйте ще раз приєднатися до гри.
+multiplayer_hostonly                Доступно лише для гравця-господаря.
+multiplayer_modsdisabled            Моди вимкнено для онлайн-гри
+multiplayer_mutatorsdisabled        Модифікації вимкнено для онлайн-гри
+multiplayer_kicked                  Вас вилучили з гри.
+multiplayer_kick                    Вилучення
+multiplayer_ban                     Бан
+
+multiplayer_host                    Господар:
+
+multiplayer_welcomeanalytics        Ласкаво просимо до Prison Architect в режимі мультиплеєр.\n\nМи доклали немало зусиль, щоб перенести повний досвід Prison Architect у режим мультиплеєра. Prison Architect - велика гра, і оскільки ми вперше пропонуємо зіграти в режимі мультиплеєра, то будемо стежити за всіма проблемами, з якими можуть зітнутися гравці.\n\nУ цій роботі нам дуже допоможе збирання певних анонімних аналітичних даних - так буде легше розбиратися з проблемами. Збирання можна в будь-який момент заборонити через меню параметрів. Які саме дані ми збираємо, можна перевірити у файлі metrics.txt\n\nНасолоджуйтеся грою в Prison Architect разом з друзями.
+
+region_asia                         Азія
+region_au                           Австралія
+region_cae                          Канада, Схід
+region_eu                           Європа
+region_in                           Індія
+region_jp                           Японія
+region_ru                           Росія
+region_rue                          Росія, Схід
+region_sa                           Південна Америка
+region_kr                           Південна Корея
+region_us                           США, Схід
+region_usw                          США, Захід
+
+codex_options_disableattract            Вимкнути початковий екран
+codex_option_escapeplans                Плани втечі
+buildtoolbar_rollcall                   Загальна побудка
+buildtoolbar_tooltip_rollcall           Вимога до всіх в'язнів вийти і стати поряд з камерою. Доступна лише в режимі сну та вночі.
+interfacecontrol_graphs                 Графіки
+interfacecontrol_graphs_tooltip         Відкриває вікно графіків, які дають можливість порівняти різні аспекти в'язниці.
+
+graph_title                             Графіки
+
+graph_label_1                           Тип даних 1
+graph_label_2                           Тип даних 2
+graph_label_day                         День
+
+graph_axis_none                         Немає
+graph_axis_profit                       Прибуток
+graph_axis_funds                        Кошти
+graph_axis_prisonsize                   Розмір в'язниці (м²)
+graph_axis_numprisoners                 К-ть в'язнів
+graph_axis_numstaff                     К-ть персоналу
+graph_axis_releasedprisoners            Звільнені в'язні
+graph_axis_totalreleasedprisoners       Загалом звільнених в'язнів
+graph_axis_escapedprisoners             Утеклі в'язні
+graph_axis_totalescapedprisoners        Загалом в'язнів утекло
+graph_axis_entitydeath                  Смерті
+graph_axis_totaldeaths                  Загалом смертей
+graph_axis_prisonerdeaths               Смерті в'язнів
+graph_axis_guarddeaths                  Смерті охоронців
+graph_axis_securitygrading              Показники безпеки
+graph_axis_healthgrading                Показники здоров'я
+graph_axis_reformgrading                Показники реформ
+graph_axis_punishmentgrading            Показники покарань
+graph_axis_reoffendingrate              Рівень рецидивної злочинності
+graph_axis_prisonvalue                  Вартість в'язниці
+graph_axis_prisonercapacity             Місткість в'язниці
+graph_axis_numincidents                 К-ть інцидентів
+graph_axis_totalincidents               Загалом інцидентів
+
+equipment_Photo				Фото	
+equipment_SubMachineGun			кулемет	
+equipment_Soap				мило	

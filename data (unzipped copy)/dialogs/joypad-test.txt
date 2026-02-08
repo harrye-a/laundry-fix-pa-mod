@@ -1,0 +1,214 @@
+BEGIN Window
+    NAME         JoypadTest
+    WIDTH        700
+    HEIGHT       370
+END
+
+BEGIN Container
+    XPOS        Absolute        15
+    YPOS        Absolute        125
+    WIDTH       Absolute        520
+    HEIGHT      Absolute        230
+END
+
+BEGIN Container
+    XPOS        Absolute        545
+    YPOS        Absolute        35
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        320
+END
+
+BEGIN Container
+    XPOS        Absolute        15
+    YPOS        Absolute        35
+    WIDTH       Absolute        520
+    HEIGHT      Absolute        80
+END
+
+BEGIN Container
+    NAME        Joypad
+    CAPTION     ThumbLeft
+    XPOS        Absolute        160
+    YPOS        Absolute        235
+    WIDTH       Absolute        100
+    HEIGHT      Absolute        100
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     FaceDown
+    XPOS        Absolute        455
+    YPOS        Absolute        305
+    WIDTH       Absolute        35
+    HEIGHT      Absolute        30
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     FaceUp
+    XPOS        Absolute        455
+    YPOS        Absolute        235
+    WIDTH       Absolute        35
+    HEIGHT      Absolute        30
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     FaceRight
+    XPOS        Absolute        495
+    YPOS        Absolute        270
+    WIDTH       Absolute        35
+    HEIGHT      Absolute        30
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     FaceLeft
+    XPOS        Absolute        415
+    YPOS        Absolute        270
+    WIDTH       Absolute        35
+    HEIGHT      Absolute        30
+END
+
+BEGIN SelectionList
+    NAME        EventList
+    XPOS        Absolute        545
+    YPOS        Absolute        35
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        320
+END
+
+BEGIN IconBox
+    NAME        DeviceSelector
+    XPOS        Absolute        15
+    YPOS        Absolute        35
+    WIDTH       Absolute        520
+    HEIGHT      Absolute        80
+END
+
+BEGIN Container
+    NAME        Joypad
+    CAPTION     ThumbRight
+    XPOS        Absolute        295
+    YPOS        Absolute        235
+    WIDTH       Absolute        100
+    HEIGHT      Absolute        100
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     DpadLeft
+    XPOS        Absolute        25
+    YPOS        Absolute        270
+    WIDTH       Absolute        35
+    HEIGHT      Absolute        30
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     DpadRight
+    XPOS        Absolute        105
+    YPOS        Absolute        270
+    WIDTH       Absolute        35
+    HEIGHT      Absolute        30
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     DpadDown
+    XPOS        Absolute        65
+    YPOS        Absolute        305
+    WIDTH       Absolute        35
+    HEIGHT      Absolute        30
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     DpadUp
+    XPOS        Absolute        65
+    YPOS        Absolute        235
+    WIDTH       Absolute        35
+    HEIGHT      Absolute        30
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     BumperLeft
+    XPOS        Absolute        120
+    YPOS        Absolute        185
+    WIDTH       Absolute        65
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     BumperRight
+    XPOS        Absolute        375
+    YPOS        Absolute        185
+    WIDTH       Absolute        65
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     TriggerLeft
+    XPOS        Absolute        120
+    YPOS        Absolute        140
+    WIDTH       Absolute        65
+    HEIGHT      Absolute        35
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     TriggerRight
+    XPOS        Absolute        375
+    YPOS        Absolute        140
+    WIDTH       Absolute        65
+    HEIGHT      Absolute        35
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     Back
+    XPOS        Absolute        215
+    YPOS        Absolute        185
+    WIDTH       Absolute        35
+    HEIGHT      Absolute        25
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     Guide
+    XPOS        Absolute        260
+    YPOS        Absolute        180
+    WIDTH       Absolute        35
+    HEIGHT      Absolute        35
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     Start
+    XPOS        Absolute        305
+    YPOS        Absolute        185
+    WIDTH       Absolute        35
+    HEIGHT      Absolute        25
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     BacksideLeft
+    XPOS        Absolute        45
+    YPOS        Absolute        140
+    WIDTH       Absolute        35
+    HEIGHT      Absolute        70
+END
+
+BEGIN Button
+    NAME        Joypad
+    CAPTION     BacksideRight
+    XPOS        Absolute        480
+    YPOS        Absolute        140
+    WIDTH       Absolute        35
+    HEIGHT      Absolute        70
+END
+

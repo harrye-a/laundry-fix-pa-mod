@@ -1,0 +1,34 @@
+BEGIN Window
+    NAME         graphics_confirm
+    BACKGROUND   clipboard.png
+    WIDTH        450
+    HEIGHT       600
+    PANEL        1
+END
+
+BEGIN Canvas
+    NAME        Message
+    XPOS        Scaled          1250
+    YPOS        Scaled          3665
+    WIDTH       Scaled          7500
+    HEIGHT      Scaled          2000
+END
+
+BEGIN Button
+    NAME        Revert
+    CAPTION     graphicschange_revert
+    XPOS        Scaled          819
+    YPOS        Scaled          8915
+    WIDTH       Scaled          2666
+    HEIGHT      Scaled          416
+END
+
+BEGIN Button
+    NAME        Accept
+    CAPTION     graphicschange_accept
+    XPOS        Scaled          6430
+    YPOS        Scaled          8915
+    WIDTH       Scaled          2666
+    HEIGHT      Scaled          416
+END
+

@@ -1,0 +1,118 @@
+
+BEGIN Need       
+    Name                 Hygiene  
+    Priority             7   
+    TimeToAction         900.00  
+    TimeToFailure        900.00  
+    StartingActionPoints 33  
+    RandomActionPoints   33  
+    Chance               0.9500000  
+    Visibility           Visible
+    Properties           AutoCharge
+    Properties           RaisesTemp
+END
+
+BEGIN Need       
+    Name                 Exercise  
+    Priority             5  
+    Hidden               false   
+    TimeToAction         2440.00  
+    TimeToFailure        2440.00  
+    StartingActionPoints 33  
+    RandomActionPoints   33  
+    Chance               0.300000  
+    Visibility           Visible
+    Properties           AutoCharge
+    Properties           RaisesTemp
+END
+
+BEGIN Need       
+    Name                 Family  
+    Priority             7   
+    MisbehaviorType      Escaping  
+    TimeToAction         1000.00  
+    TimeToFailure        1000.00  
+    StartingActionPoints 33  
+    RandomActionPoints   33  
+    Chance               0.000000  
+    GenerationRules      Family  
+    Visibility           Visible
+    Properties           AutoCharge
+    Properties           RaisesTemp
+END
+
+BEGIN Need       
+    Name                 Recreation   
+    Priority             5   
+    TimeToAction         2440.00  
+    TimeToFailure        2440.00  
+    StartingActionPoints 33  
+    RandomActionPoints   33  
+    Chance               0.600000  
+    Visibility           Visible
+    Properties           AutoCharge
+    Properties           RaisesTemp
+END
+
+BEGIN Need       
+    Name                 Privacy   
+    Priority             6   
+    MisbehaviorType      Spoiling  
+    TimeToAction         1440.00  
+    TimeToFailure        1440.00  
+    StartingActionPoints 33  
+    RandomActionPoints   33  
+    Chance               0.850000  
+    Visibility           Visible
+    Properties           AutoCharge
+END
+
+BEGIN Need
+    Name                    BabySleep
+    Priority                9
+    TimeToAction            180.00
+    TimeToFailure           180.00
+    StartingActionPoints    33
+    RandomActionPoints      17
+    Chance                  1.0
+    Visibility              Hidden
+    Properties              AutoCharge
+    GenerationRules         MothersOnly
+END
+
+BEGIN Need
+    Name                    BabyPlay
+    Priority                8
+    TimeToAction            520.00
+    TimeToFailure           720.00
+    StartingActionPoints    33
+    RandomActionPoints      33
+    Chance                  1.0
+    Visibility              Hidden
+    Properties              AutoCharge
+    GenerationRules         MothersOnly
+END
+
+
+BEGIN Provider
+	Action	        BabySleep
+	ProviderType	Object
+	Object	        Crib
+	Slot	        0
+	PrimaryNeed	    BabySleep
+	PrimaryRate	    -0.50000
+	ActionType	    LoadBaby
+    Flags           RequiresBaby
+END
+
+BEGIN Provider
+	Action	        BabyPlay
+	ProviderType	Object
+	Object	        PlayMat
+	Slot	        0
+	PrimaryNeed	    BabyPlay
+	PrimaryRate	    -2.000000
+	ActionType	    LoadBaby
+    Flags           RequiresBaby
+END
+

@@ -1,0 +1,26 @@
+BEGIN Provider
+	Action	        HandWashClothes
+	ProviderType	Object
+	Object	        SinkMirror
+	PrimaryNeed	    Clothing
+	PrimaryRate	    -10.000
+	ActionType	    Use
+END
+
+BEGIN Provider
+	Action	        HandWashClothes
+	ProviderType	Object
+	Object	        BathroomSink
+	PrimaryNeed	    Clothing
+	PrimaryRate	    -10.000
+	ActionType	    Use
+END
+
+BEGIN Provider
+	Action	        HandWashClothes
+	ProviderType	Object
+	Object	        ShowerHead
+	PrimaryNeed	    Clothing
+	PrimaryRate	    -10.000
+	ActionType	    Use
+END

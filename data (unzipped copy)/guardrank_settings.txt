@@ -1,0 +1,16 @@
+
+"Ratio of Officer Guards" 0.4000000  
+"Ratio of Specialist Guards" 0.3333333  
+"Minimum Officer Promotion Hired Time (Days)" 10.00000  
+"Minimum Specialist Promotion Hired Time (Days)" 20.00000  
+"Senior Cost Increase Per Day ($)" 25  
+"Officer Cost Increase Per Day ($)" 25  
+"Specialist Cost Increase Per Day ($)" 50  
+"Senior Attack Power Increase (%)" 10  
+"Officer Attack Power Increase (%)" 30  
+"Specialist Attack Power Increase (%)" 50  
+"Senior Toughness Increase (%)" 15  
+"Officer Toughness Increase (%)" 40  
+"Specialist Toughness Increase (%)" 70  
+"Specialist Gun Cost ($)" 600  
+"Specialist Suppression Increase (%)" 15  

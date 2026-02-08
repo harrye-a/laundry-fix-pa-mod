@@ -1,0 +1,15 @@
+BEGIN Window
+    NAME         StatusToolbar
+    WIDTH        80
+    HEIGHT       450
+    PANEL        1
+END
+
+BEGIN IconBox
+    NAME        IconBox
+    XPOS        Absolute        5
+    YPOS        Absolute        5
+    WIDTH       Relative        -5
+    HEIGHT      Relative        -10
+END
+

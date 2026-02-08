@@ -1,0 +1,337 @@
+BEGIN Event
+    Name            Gang_ContrabandToolsPunishment
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    ReportType      ContrabandTools 
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type PunishmentRequired ReportType ContrabandTools Value 60  END     
+    BEGIN Data Name Duration Value 360 END
+    BEGIN Data Name DemandType String RequiredPunishment END
+    BEGIN Data Name DesiredValue Value 1 END
+END
+
+BEGIN Event
+    Name            Gang_ContrabandToolsPunishment_Escalated
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    ReportType      ContrabandTools 
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type PunishmentRequired ReportType ContrabandTools Value 60  END     
+    BEGIN PreReq Type EventCompleted Data Gang_ContrabandToolsPunishment END     
+	BEGIN Data Name Escalated Boolean true END
+    BEGIN Data Name Duration Value 720 END
+    BEGIN Data Name DemandType String RequiredPunishment END
+    BEGIN Data Name DesiredValue Value 0 END
+END
+
+BEGIN Event
+    Name            Gang_MurderPunishment
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    ReportType      Murder
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type PunishmentRequired ReportType Murder Value 180  END
+    BEGIN Data Name Duration Value 720 END
+    BEGIN Data Name DemandType String RequiredPunishment END
+    BEGIN Data Name DesiredValue Value 3 END
+END
+
+BEGIN Event
+    Name            Gang_MurderPunishment_Escalated
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    ReportType      Murder
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type PunishmentRequired ReportType Murder Value 120  END
+    BEGIN PreReq Type EventCompleted Data Gang_MurderPunishment END     
+	BEGIN Data Name Escalated Boolean true END
+    BEGIN Data Name Duration Value 1080 END
+    BEGIN Data Name DemandType String RequiredPunishment END
+    BEGIN Data Name DesiredValue Value 2 END
+END
+
+BEGIN Event
+    Name            Gang_MoreYardTime
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type Regime RegimeType Yard Value 3 Modifier -1 END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN Data Name DemandType String RegimeMoreEqual END
+    BEGIN Data Name Regime String Yard END
+    BEGIN Data Name DesiredValue Value 3 END
+    BEGIN Data Name Duration Value 1440 END
+END
+
+BEGIN Event
+    Name            Gang_MoreYardTime_Escalated
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type Regime RegimeType Yard Value 6 Modifier -1 END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type EventCompleted Data Gang_MoreYardTime END     
+	BEGIN Data Name Escalated Boolean true END
+    BEGIN Data Name DemandType String RegimeMoreEqual END
+    BEGIN Data Name Regime String Yard END
+    BEGIN Data Name DesiredValue Value 6 END
+    BEGIN Data Name Duration Value 1080 END
+END
+
+BEGIN Event
+    Name            Gang_PullUpBars
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    ObjectId        PullUpBars
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Object ObjectId PullUpBars Value 4 Modifier -1 END
+    BEGIN Data Name DesiredValue Value 4 END
+    BEGIN Data Name Duration Value 720 END
+    BEGIN Data Name DemandType String RequiredObjects END
+END
+
+BEGIN Event
+    Name            Gang_PullUpBars_Escalated
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    ObjectId        PullUpBars
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Object ObjectId PullUpBars Value 8 Modifier -1 END
+    BEGIN PreReq Type EventCompleted Data Gang_PullUpBars END     
+	BEGIN Data Name Escalated Boolean true END
+    BEGIN Data Name DesiredValue Value 8 END
+    BEGIN Data Name Duration Value 1440 END
+    BEGIN Data Name DemandType String RequiredObjects END
+END
+
+BEGIN Event
+    Name            Gang_TyreApparatus
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    ObjectId        TyreApparatus
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Object ObjectId TyreApparatus Value 2 Modifier -1 END
+    BEGIN Data Name DesiredValue Value 2 END
+    BEGIN Data Name Duration Value 720 END
+    BEGIN Data Name DemandType String RequiredObjects END
+END
+
+BEGIN Event
+    Name            Gang_TyreApparatus_Escalated
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    ObjectId        TyreApparatus
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Object ObjectId TyreApparatus Value 4 Modifier -1 END
+    BEGIN PreReq Type EventCompleted Data Gang_TyreApparatus END     
+	BEGIN Data Name Escalated Boolean true END
+    BEGIN Data Name DesiredValue Value 4 END
+    BEGIN Data Name Duration Value 1440 END
+    BEGIN Data Name DemandType String RequiredObjects END
+END
+
+BEGIN Event
+    Name            Gang_PunchBag
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    ObjectId        PunchBag
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Object ObjectId PunchBag Value 3 Modifier -1 END
+    BEGIN Data Name DesiredValue Value 3 END
+    BEGIN Data Name Duration Value 720 END
+    BEGIN Data Name DemandType String RequiredObjects END
+END
+
+BEGIN Event
+    Name            Gang_PunchBag_Escalated
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    ObjectId        PunchBag
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Object ObjectId PunchBag Value 6 Modifier -1 END
+    BEGIN PreReq Type EventCompleted Data Gang_PunchBag END     
+	BEGIN Data Name Escalated Boolean true END
+    BEGIN Data Name DesiredValue Value 6 END
+    BEGIN Data Name Duration Value 1440 END
+    BEGIN Data Name DemandType String RequiredObjects END
+END
+
+
+BEGIN Event
+    Name            Gang_RequireYard
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    RoomId          Yard
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Room RoomId Yard Modifier -1  END
+    BEGIN Data Name Duration Value 1440 END
+    BEGIN Data Name DemandType String RequiredRoom END
+END
+
+BEGIN Event
+    Name            Gang_RequireYard_Escalated
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    RoomId          CommonRoom
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Room RoomId CommonRoom Modifier -1  END
+    BEGIN PreReq Type EventCompleted Data Gang_RequireYard END     
+	BEGIN Data Name Escalated Boolean true END
+    BEGIN Data Name Duration Value 2160 END
+    BEGIN Data Name DemandType String RequiredRoom END
+END
+
+BEGIN Event
+    Name            Gang_RequireLibrary
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    RoomId          Library
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Room RoomId Library Modifier -1  END
+    BEGIN Data Name Duration Value 1440 END
+    BEGIN Data Name DemandType String RequiredRoom END
+END
+
+BEGIN Event
+    Name            Gang_RequireLibrary_Escalated
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    RoomId          Gymnasium
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Room RoomId Gymnasium Modifier -1  END
+    BEGIN PreReq Type EventCompleted Data Gang_RequireLibrary END     
+	BEGIN Data Name Escalated Boolean true END
+    BEGIN Data Name Duration Value 2160 END
+    BEGIN Data Name DemandType String RequiredRoom END
+END
+
+BEGIN Event
+    Name            Gang_RequireMailRoom
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    RoomId          MailRoom
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Room RoomId MailRoom Modifier -1  END
+    BEGIN Data Name Duration Value 1440 END
+    BEGIN Data Name DemandType String RequiredRoom END
+END
+
+BEGIN Event
+    Name            Gang_RequireMailRoom_Escalated
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    RoomId          Shop
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Room RoomId Shop Modifier -1  END
+    BEGIN PreReq Type EventCompleted Data Gang_RequireMailRoom END     
+	BEGIN Data Name Escalated Boolean true END
+    BEGIN Data Name Duration Value 2160 END
+    BEGIN Data Name DemandType String RequiredRoom END
+END
+
+BEGIN Event
+    Name            Gang_PushUpStones
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    ObjectId        PushUpStones
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Object ObjectId PushUpStones Value 4 Modifier -1 END
+    BEGIN Data Name DesiredValue Value 4 END
+    BEGIN Data Name Duration Value 720 END
+    BEGIN Data Name DemandType String RequiredObjects END
+END
+
+BEGIN Event
+    Name            Gang_PushUpStones_Escalated
+    Action          GangDemand
+    Advisor         Chief
+    Pool            GangDemand
+    ObjectId        PushUpStones
+    CooldownFromLastEvent 84
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type ResearchComplete ResearchRequired Policy END
+    BEGIN PreReq Type Object ObjectId PushUpStones Value 8 Modifier -1 END
+    BEGIN PreReq Type EventCompleted Data Gang_PushUpStones END     
+	BEGIN Data Name Escalated Boolean true END
+    BEGIN Data Name DesiredValue Value 8 END
+    BEGIN Data Name Duration Value 1440 END
+    BEGIN Data Name DemandType String RequiredObjects END
+END
+
+BEGIN Event 
+    Name                    FoodFight
+    Action                  FoodFight
+    Pool                    FoodFight
+    RoomId                  Canteen
+    ReoccurenceCooldown     5040
+    Properties              HighPriority
+	Properties		        OutputToPrisonerLog
+    BEGIN PreReq Type Room RoomId Canteen   END
+    BEGIN PreReq Type CurrentRegime RegimeTypes Eat RegimeTypes EatLockdown END
+    BEGIN PreReq Type RoomValidForFoodFight RoomId Canteen END
+END
+
+BEGIN Event 
+    Name                    GangBulkIntake
+    Action                  GangBulkIntake
+    Pool                    GangBulkIntake
+    Advisor                 Ceo
+    BEGIN PreReq Type EnhancedGangsEnabled END
+    BEGIN PreReq Type NumGangMembers Value 50 END
+    Begin PreReq Type LandBasedPrison END
+END

@@ -1,0 +1,130 @@
+BEGIN Window
+    	NAME         SecurityMenu
+    	WIDTH        600
+    	HEIGHT       500
+	PANEL        1
+END
+
+BEGIN Custom
+    	NAME       Title
+    	XPOS       Scaled          0
+    	YPOS       Scaled          47
+    	WIDTH      Scaled          10000
+    	HEIGHT     Scaled          1250
+END
+
+BEGIN Custom
+    	NAME       PrisonerTypeContentBox
+    	XPOS       Scaled          750
+    	YPOS       Scaled          6250
+    	WIDTH      Scaled          8500
+    	HEIGHT     Scaled          3500
+END
+
+BEGIN Custom
+    	NAME       SecurityMenuContentBox
+    	XPOS       Scaled          500
+    	YPOS       Scaled          1650
+    	WIDTH      Scaled          9000
+    	HEIGHT     Scaled          4000
+END
+
+BEGIN Custom
+    	NAME      PrisonerType
+		XPOS      Scaled          550
+    	YPOS      Scaled          1650
+    	WIDTH     Scaled          9000
+    	HEIGHT    Scaled          625
+END
+
+BEGIN Custom
+    	NAME      RestrictAccess
+		XPOS      Scaled          550
+    	YPOS      Scaled          2325
+    	WIDTH     Scaled          9000
+    	HEIGHT    Scaled          625
+END
+
+BEGIN Custom
+    	NAME      TransferPrisoners
+		XPOS      Scaled          550
+    	YPOS      Scaled          3000
+    	WIDTH     Scaled          9000
+    	HEIGHT    Scaled          625
+END
+
+BEGIN Custom
+    	NAME		MarkPrisoner
+		XPOS		Scaled          550
+    	YPOS		Scaled          5025
+    	WIDTH		Scaled          9000
+    	HEIGHT		Scaled          625
+END
+
+BEGIN Custom
+    	NAME      GuardAssignment
+		XPOS      Scaled          550
+    	YPOS      Scaled          3675 
+    	WIDTH     Scaled          9000
+    	HEIGHT    Scaled          625
+END
+
+BEGIN Custom
+    	NAME      RemovePrisoner
+		XPOS      Scaled          550
+    	YPOS      Scaled          4350
+    	WIDTH     Scaled          9000
+    	HEIGHT    Scaled          625
+END
+
+BEGIN DropDownMenu
+		NAME        Security Type
+		XPOS        Scaled          4775
+		YPOS        Scaled          3120
+		WIDTH       Scaled          4315
+    	HEIGHT		Scaled          400
+END
+
+BEGIN Button
+    	NAME       Close
+    	CAPTION    X
+    	XPOS       Scaled          9250
+    	YPOS       Scaled          396
+    	WIDTH      Scaled          600
+  	HEIGHT     Scaled          600
+END
+
+BEGIN Button
+    NAME        SelectArea
+    CAPTION     securitymenu_SelectArea
+    XPOS        Scaled          4775
+    YPOS        Scaled          2445
+    WIDTH       Scaled          4315
+    HEIGHT      Scaled          400
+END
+
+BEGIN Button
+    NAME        GuardAssignmentButton
+    CAPTION     rapsheet_assignguard
+    XPOS        Scaled          4775
+    YPOS        Scaled          3795
+    WIDTH       Scaled          4315
+    HEIGHT      Scaled          400
+END
+
+BEGIN Button
+    NAME        RemovePrisonerButton
+    CAPTION     securitymenu_RemovePrisonerButton
+    XPOS        Scaled          4775
+    YPOS        Scaled          4470
+    WIDTH       Scaled          4315
+    HEIGHT      Scaled          400
+END
+
+BEGIN ScrollBar
+	NAME	   Scroll
+	XPOS       Scaled          9250
+    	YPOS       Scaled          6250
+    	WIDTH      Scaled          250
+    	HEIGHT     Scaled          3500
+END

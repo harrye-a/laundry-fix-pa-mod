@@ -1,0 +1,42 @@
+BEGIN Window
+    NAME         workshop_message_window
+    BACKGROUND   clipboard.png
+    WIDTH        450
+    HEIGHT       600
+    PANEL        1
+END
+
+BEGIN Canvas
+    NAME        Message
+    XPOS        Scaled          1138
+    YPOS        Scaled          1664
+    WIDTH       Scaled          7500
+    HEIGHT      Scaled          7000
+END
+
+BEGIN Button
+    NAME        Accept
+    CAPTION     graphicschange_accept
+    XPOS        Scaled          6430
+    YPOS        Scaled          8915
+    WIDTH       Scaled          2666
+    HEIGHT      Scaled          416
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          1000
+    YPOS        Scaled          500
+    WIDTH       Scaled          7777
+    HEIGHT      Scaled          1000
+END
+
+BEGIN Button
+    NAME        Cancel
+    CAPTION     dialog_cancel
+    XPOS        Scaled          999
+    YPOS        Scaled          8916
+    WIDTH       Scaled          2666
+    HEIGHT      Scaled          416
+END
+

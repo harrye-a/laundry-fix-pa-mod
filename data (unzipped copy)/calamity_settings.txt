@@ -1,0 +1,74 @@
+
+CalamityMinTime      3  
+CalamityMaxTime      6  
+MinNormalWeatherTotalSessionTime 24  
+MaxNormalWeatherTotalSessionTime 36  
+MinNormalWeatherCountInSession 2  
+MaxNormalWeatherCountInSession 3  
+CalamityStartProbability 50  
+CalamityForceEndProbability 30  
+CalamityIncreaseLevelProbability 50  
+CalamityMaxDays      1  
+RainCloudColour_R    67  
+RainCloudColour_G    74  
+RainCloudColour_B    106  
+SnowCloudColour_R    142  
+SnowCloudColour_G    208  
+SnowCloudColour_B    234  
+RainAtmosphereColour_R 170  
+RainAtmosphereColour_G 173  
+RainAtmosphereColour_B 255  
+HeatAtmosphereColour_R 255  
+HeatAtmosphereColour_G 200  
+HeatAtmosphereColour_B 180  
+"LightningInterval (hrs)" 1.0000000000000000  
+"LightningPeriodMin_L1 (min)" 10.00000  
+"LightningPeriodMin_L2 (min)" 40.00000  
+"LightningPeriodMin_L3 (min)" 50.00000  
+"LightningPeriodMax_L1 (min)" 20.00000  
+"LightningPeriodMax_L2 (min)" 50.00000  
+"LightningPeriodMax_L3 (min)" 60.00000  
+"StrikeWaitTimeMin_L1 (game-time min)" 4.000000  
+"StrikeWaitTimeMin_L2 (game-time min)" 3.000000  
+"StrikeWaitTimeMin_L3 (game-time min)" 1.000000  
+"StrikeWaitTimeMax_L1 (game-time min)" 5.000000  
+"StrikeWaitTimeMax_L2 (game-time min)" 4.000000  
+"StrikeWaitTimeMax_L3 (game-time min)" 2.000000  
+"FlashWaitTimeMin_L1 (real-time sec)" 8.000000  
+"FlashWaitTimeMin_L2 (real-time sec)" 5.000000  
+"FlashWaitTimeMin_L3 (real-time sec)" 2.000000  
+"FlashWaitTimeMax_L1 (real-time sec)" 10.00000  
+"FlashWaitTimeMax_L2 (real-time sec)" 8.000000  
+"FlashWaitTimeMax_L3 (real-time sec)" 5.000000  
+"FlashAlphaCooldownMin (real-time sec)" 0.1000000  
+"FlashAlphaCooldownMax (real-time sec)" 1.200000  
+"PeopleStrikeChance_L1 (%)" 1  
+"PeopleStrikeChance_L2 (%)" 4  
+"PeopleStrikeChance_L3 (%)" 8  
+"PowerStationStrikeChance_L1 (%)" 1  
+"PowerStationStrikeChance_L2 (%)" 2  
+"PowerStationStrikeChance_L3 (%)" 3  
+"CapacitorStrikeChance_L1 (%)" 1  
+"CapacitorStrikeChance_L2 (%)" 2  
+"CapacitorStrikeChance_L3 (%)" 3  
+"GroundStrikeChance_L1 (%)" 25  
+"GroundStrikeChance_L2 (%)" 40  
+"GroundStrikeChance_L3 (%)" 60  
+GritEffectDuration_Road 12.00000  
+GritEffectDuration_Outdoor 12.00000  
+VehicleMoveRate_CalamityCondition_L1 0.8000000  
+VehicleMoveRate_CalamityCondition_L2 0.6500000  
+VehicleMoveRate_CalamityCondition_L3 0.3500000  
+VehicleMoveRate_Gritted_L1 0.9500000  
+VehicleMoveRate_Gritted_L2 0.8500000  
+VehicleMoveRate_Gritted_L3 0.7500000  
+PeopleMoveRate_CalamityCondition_L1 0.8500000  
+PeopleMoveRate_CalamityCondition_L2 0.7000000  
+PeopleMoveRate_CalamityCondition_L3 0.5500000  
+PeopleMoveRate_Gritted_L1 0.9500000  
+PeopleMoveRate_Gritted_L2 0.9000000  
+PeopleMoveRate_Gritted_L3 0.8500000  
+LightningRodDuration 3.125000  
+LightningRodChance   85  
+GrantErrorChance     10.000000  
+GrantErrorMultiplier 2.000000  

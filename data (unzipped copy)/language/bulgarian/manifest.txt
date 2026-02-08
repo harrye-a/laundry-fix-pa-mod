@@ -1,0 +1,6 @@
+Name        "Bulgarian"
+Author      "Introversion Software"
+Date        06/10/2015
+Description "Official Bulgarian translation of Prison Architect"
+ThumbnailSprite bulgarian
+ContinueSupported false

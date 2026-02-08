@@ -1,0 +1,55 @@
+BEGIN Window
+    NAME         SupplyAndDemand
+    WIDTH        600
+    HEIGHT       300
+    PANEL        1
+END
+
+BEGIN Custom
+    NAME        Weapons
+    XPOS        Scaled          332
+    YPOS        Scaled          1706
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END
+
+BEGIN Custom
+    NAME        Tools
+    XPOS        Scaled          332
+    YPOS        Scaled          3370
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END
+
+BEGIN Custom
+    NAME        Narcotics
+    XPOS        Scaled          332
+    YPOS        Scaled          5034
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END
+
+BEGIN Custom
+    NAME        Produced
+    XPOS        Scaled          332
+    YPOS        Scaled          6698
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END
+
+BEGIN Custom
+    NAME        Luxuries
+    XPOS        Scaled          332
+    YPOS        Scaled          8362
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END
+
+BEGIN Custom
+    NAME        SupplyDemand
+    XPOS        Scaled          0
+    YPOS        Scaled          47
+    WIDTH       Scaled          10000
+    HEIGHT      Scaled          1250
+END
+

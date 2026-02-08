@@ -1,0 +1,126 @@
+BEGIN Plan
+	Name							ArsonAccidentsPlan
+	Price							-500
+	DiscountTrainingProgram			FireSafetyTraining
+	TrainingProgramDiscount			0.5
+	DiscountObject					FireExtinguisher
+	DiscountObject					FireAlarm
+	ObjectDiscount					0.5
+	WageModfierEntity				Workman
+	WageModifier					0.8
+	BEGIN Emergency
+		Name						d11_coverage_firefighters
+		Price						-500
+		EmergencyServiceEnum 		FireEngine
+		IslandEmergencyServiceEnum	FireHeli
+		EmergencyServiceTriggerEnum Fire		
+	END
+END
+
+BEGIN Plan
+	Name							PreservationPlan
+	GameSettingsRequirement			CalamitiesEnabled
+	Price							-500
+	DiscountTrainingProgram			ColdControlTraining
+	TrainingProgramDiscount			0.5
+	DiscountObject					GritBin
+	ObjectDiscount					0.5
+	WageModfierEntity				Workman
+	WageModifier					0.8
+	CalamityType					DeepFreeze
+	CalamityType					CalamityHeatwave
+	BEGIN Emergency
+		Name						interfacecallout_roadmaintenance
+		Price						-500
+		EmergencyServiceEnum 		RoadMaintenance
+		EmergencyServiceTriggerEnum CalamitySurface		
+		DefaultTriggerValue			10
+	END
+END
+
+
+BEGIN Plan
+	Name							RestorationPlan
+	GameSettingsRequirement			CalamitiesEnabled
+	Price							-500
+	DiscountTrainingProgram			ElectricianTraining
+	TrainingProgramDiscount			0.5
+	DiscountMaterial				RebarReinforcement
+	DiscountObject					HeavyDutyElectricalCable
+	ObjectDiscount					0.5
+	WageModfierEntity				Workman
+	WageModifier					0.8
+	CalamityType					DeepFreeze
+	CalamityType					LightningStorm
+	BEGIN Emergency
+		Name						d11_coverage_reconstruction_specialists
+		Price						-500
+		EmergencyServiceEnum 		ReconstructionSpecialists
+		IslandEmergencyServiceEnum	AirReconstructionSpecialists
+		EmergencyServiceTriggerEnum Damage		
+		DefaultTriggerValue			4
+	END
+	BEGIN Emergency
+		Name						interfacecallout_drainagespecialists
+		Price						-500
+		EmergencyServiceEnum 		DrainageSpecialists
+		IslandEmergencyServiceEnum	AirDrainageSpecialists
+		EmergencyServiceTriggerEnum Flooding		
+		DefaultTriggerValue			4
+		DisabledInEscapeMode		true
+	END
+END
+
+BEGIN Plan
+	Name							HealthSafetyPlan
+	Price							-500
+	DiscountObject					FirstAidStation
+	DiscountObject					FirstAidKit
+	ObjectDiscount					0.5
+	DiscountTrainingProgram			FirstAidTraining
+	DiscountTrainingProgram			TazerTraining
+	TrainingProgramDiscount			0.5
+	WageModfierEntity				Doctor
+	WageModfierEntity				Orderly
+	WageModifier					0.8
+	CalamityType					DeepFreeze
+	CalamityType					CalamityHeatwave
+	BEGIN Emergency
+		Name						interfacecallout_paramedics
+		Price						-500
+		EmergencyServiceEnum 		Paramedics
+		IslandEmergencyServiceEnum	AirParamedics
+		EmergencyServiceTriggerEnum Injuries		
+		DefaultTriggerValue			10
+	END
+	BEGIN Emergency
+		Name						interfacecallout_riotpolice
+		Price						-500
+		EmergencyServiceEnum 		RiotPolice
+		IslandEmergencyServiceEnum	EliteOps
+		EmergencyServiceTriggerEnum Rioting		
+		DefaultTriggerValue			10
+	END
+END
+
+BEGIN Plan
+	Name							PestControlPlan
+	GameSettingsRequirement			RatEnabled
+	Price							-500
+	DiscountTrainingProgram			PestControlTraining
+	TrainingProgramDiscount			0.5
+	DiscountObject					RatTrap
+	DiscountObject					SonicDeterrent
+	ObjectDiscount					0.5
+	WageModfierEntity				Janitor
+	WageModfierEntity				Gardener
+	WageModifier					0.8
+	BEGIN Emergency
+		Name						interfacecallout_pestcontrol
+		Price						-500
+		EmergencyServiceEnum 		PestControl
+		IslandEmergencyServiceEnum	AirPestControl
+		EmergencyServiceTriggerEnum Rat
+		DefaultTriggerValue			10
+	END
+END

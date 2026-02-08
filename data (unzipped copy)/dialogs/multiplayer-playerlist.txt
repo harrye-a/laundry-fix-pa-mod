@@ -1,0 +1,15 @@
+BEGIN Window
+    NAME         PlayerListWindow
+    WIDTH        180
+    HEIGHT       10
+    PANEL        1
+END
+
+BEGIN Container
+    NAME        PlayerList
+    XPOS        Absolute        5
+    YPOS        Absolute        5
+    WIDTH       Relative        -10
+    HEIGHT      Relative        -10
+END
+

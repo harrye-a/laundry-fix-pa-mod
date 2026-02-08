@@ -1,0 +1,16 @@
+BEGIN Window
+    NAME         LabourManagementPopup
+    BACKGROUND   clipboard.png
+    WIDTH        450
+    HEIGHT       600
+    PANEL        1
+END
+
+BEGIN Button
+    NAME        Close
+    CAPTION     X
+    XPOS        Scaled          9098
+    YPOS        Scaled          443
+    WIDTH       Scaled          444
+    HEIGHT      Scaled          332
+END

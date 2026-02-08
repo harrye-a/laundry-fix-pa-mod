@@ -1,0 +1,163 @@
+BEGIN Window
+    NAME         Reports
+    BACKGROUND   clipboard.png
+    WIDTH        450
+    HEIGHT       600
+    PANEL        1
+END
+
+BEGIN ScrollBar
+	NAME		Scroll
+	XPOS        Scaled          9200
+    YPOS        Scaled          2880
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          6550
+END
+
+BEGIN Button
+    NAME        Close
+    CAPTION     X
+    XPOS        Scaled          9098
+    YPOS        Scaled          443
+    WIDTH       Scaled          444
+    HEIGHT      Scaled          332
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          1125
+    YPOS        Scaled          496
+    WIDTH       Scaled          7666
+    HEIGHT      Scaled          833
+END
+
+BEGIN Custom
+	NAME		PagePrisonersButton
+    CAPTION     report_prisoners_title
+	XPOS		Scaled			1125
+	YPOS		Scaled			496
+	WIDTH		Scaled			3700
+	HEIGHT		Scaled			833
+END
+
+BEGIN Custom
+	NAME		PageSentencesButton
+	CAPTION		report_Sentences
+	XPOS		Scaled			5091
+	YPOS		Scaled			496
+	WIDTH		Scaled			3700
+	HEIGHT		Scaled			833
+END
+
+BEGIN Custom
+    NAME        SentencesDescription
+    CAPTION     sentences_description
+    XPOS        Scaled          1125
+    YPOS        Scaled          1530
+    WIDTH       Scaled          7666
+    HEIGHT      Scaled          1200
+END
+
+BEGIN Custom
+    NAME        UseSentencesCaption
+    CAPTION     report_Sentences
+    XPOS        Scaled          1125
+    YPOS        Scaled          2930
+    WIDTH       Scaled          7222
+    HEIGHT      Scaled          333
+END
+
+BEGIN CheckBox
+    NAME        UseSentences
+    XPOS        Scaled          8347
+    YPOS        Scaled          2930
+    WIDTH       Scaled          444
+    HEIGHT      Scaled          333
+END
+
+BEGIN Custom
+    NAME        ExtensionCaption
+    CAPTION     extension_caption
+    XPOS        Scaled          1125
+    YPOS        Scaled          3363
+    WIDTH       Scaled          5666
+    HEIGHT      Scaled          333
+END
+
+BEGIN Custom
+    NAME        ExtensionValue
+    CAPTION     rapsheet_time
+    XPOS        Scaled          6791
+    YPOS        Scaled          3363
+    WIDTH       Scaled          2000
+    HEIGHT      Scaled          333
+END
+
+BEGIN Custom
+    NAME        ReductionCaption
+    CAPTION     reduction_caption
+    XPOS        Scaled          1125
+    YPOS        Scaled          3696
+    WIDTH       Scaled          5666
+    HEIGHT      Scaled          333
+END
+
+BEGIN Custom
+    NAME        ReductionValue
+    CAPTION     rapsheet_time
+    XPOS        Scaled          6791
+    YPOS        Scaled          3696
+    WIDTH       Scaled          2000
+    HEIGHT      Scaled          333
+END
+
+BEGIN SelectionList
+    NAME        TableHeadingsList
+    XPOS        Scaled          1000
+    YPOS        Scaled          4150
+    WIDTH       Scaled          8000
+    HEIGHT      Scaled          600
+END
+
+BEGIN Custom
+    NAME        MisconductSubHeading
+    CAPTION     misconduct_title
+    XPOS        Scaled          1221
+    YPOS        Scaled          4600
+    WIDTH       Scaled          1450
+    HEIGHT      Scaled          333
+END
+
+BEGIN SelectionList
+    NAME        TableExtensionRowsList
+    XPOS        Scaled          1500
+    YPOS        Scaled          4983
+    WIDTH       Scaled          7500
+    HEIGHT      Scaled          2900
+END
+
+BEGIN Custom
+    NAME        BehaviourSubHeading
+    CAPTION     transfer_behaviourtitle
+    XPOS        Scaled          1221
+    YPOS        Scaled          7560
+    WIDTH       Scaled          2100
+    HEIGHT      Scaled          333
+END
+
+BEGIN SelectionList
+    NAME        TableReductionRowsList
+    XPOS        Scaled          1500 
+    YPOS        Scaled          7943
+    WIDTH       Scaled          7500
+    HEIGHT      Scaled          4000
+END
+
+BEGIN Button
+    NAME        ResetCriteria
+    CAPTION     sentences_resetCriteria
+    XPOS        Scaled          3000
+    YPOS        Scaled          10450
+    WIDTH       Scaled          3700
+    HEIGHT      Scaled          500
+END

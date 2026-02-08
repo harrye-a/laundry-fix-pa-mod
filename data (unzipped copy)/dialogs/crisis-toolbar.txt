@@ -1,0 +1,23 @@
+BEGIN Window
+    NAME         CrisisToolbar
+    WIDTH        300
+    HEIGHT       65
+    PANEL        1
+END
+
+BEGIN IconBox
+    NAME        IconBox
+    XPOS        Absolute        0
+    YPOS        Absolute        0
+    WIDTH       Relative        0
+    HEIGHT      Relative        0
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Relative        -296
+    YPOS        Relative        -60
+    WIDTH       Relative        -10
+    HEIGHT      Relative        -50
+END
+

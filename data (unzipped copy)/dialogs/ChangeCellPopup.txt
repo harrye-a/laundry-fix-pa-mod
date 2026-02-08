@@ -1,0 +1,42 @@
+BEGIN Window
+    NAME         ChangeCellPopup
+    WIDTH        300
+    HEIGHT       175
+    PANEL        1
+END
+
+BEGIN Custom
+    NAME        Title
+	CAPTION     rapsheet_ChangeCell
+    XPOS        Scaled          1986
+    YPOS        Scaled          400
+    WIDTH       Scaled          5987
+    HEIGHT      Scaled          2000
+END
+
+BEGIN Canvas
+    NAME        ChangeCellPopup_message
+    XPOS        Scaled          1750
+    YPOS        Scaled          3000
+    WIDTH       Scaled          6900
+    HEIGHT      Scaled          8000
+END
+
+BEGIN Button
+    NAME        cancel_button
+    CAPTION     dialog_cancel
+    XPOS        Scaled          1081
+    YPOS        Scaled          8000
+    WIDTH       Scaled          3649
+    HEIGHT      Scaled          1500
+END
+
+BEGIN Button
+    NAME        ok_button
+    CAPTION     dialog_ok
+    XPOS        Scaled          5135
+    YPOS        Scaled          8000
+    WIDTH       Scaled          3649
+    HEIGHT      Scaled          1500
+END
+

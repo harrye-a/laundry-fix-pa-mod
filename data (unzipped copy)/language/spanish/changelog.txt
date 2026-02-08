@@ -1,0 +1,450 @@
+"Clink"
+>27 de junio de 2019
+	Actualización de la trena
+<->Hemos añadido 4 tipos de suelo y 4 de pared.
+<->Hemos mejorado el rendimiento para reducir los tiempos de carga.
+<->Hemos aumentado el número de capataces que puedes contratar para las prisiones grandes en las que los capataces también imparten programas.
+<->Los objetos existentes ahora pueden rotar en cualquier dirección, hemos añadido imágenes para las rotaciones que faltaban.
+<->Nuevo botón de "Respuesta de guardias" que ordena a los guardias cercanos que se dirijan a un lugar concreto en vez de tener que contratar guardias para cada incidente. 
+<->Nuevo botón de "Búsqueda de túnel" que ordena a los guardias que registren los retretes en busca de túneles secretos.  
+<->Añadidas más salas al menú de construcción rápida para facilitar el proceso de construcción.
+<->Ahora es fácil seguir a los prisioneros y al personal, solo tienes que hacer doble clic.
+
+
+¡Esperamos que disfrutéis con estas mejoras!
+
+~~~~~
+
+﻿Actualización "La trena"
+>17 de septiembre de 2019
+
+Queridos jugadores de Prison Architect:
+
+En nombre de Paradox y Double Eleven, esperamos que os guste el contenido de esta nueva actualización. 
+Muchas gracias por todas vuestras ideas y consejos. Muchas de las novedades han surgido de vuestras opiniones.
+Se han implementado muchas mejoras de la comunidad. Algunas las numeramos aquí, pero habrá muchas más en el juego.
+
+¡Contadnos en @PrisonArchitect cómo estáis aprovechando las novedades en vuestras prisiones! 
+
+Gaz, gestión de diseño de Double Eleven.
+
+
+>[1/3] Objetos nuevos
+
+<->Nuevos tipos de suelo: rejillas, barro, Sci-Fi.
+<->Nueva puerta de seguridad con abertura para la comida.
+<->Nuevas luces: farolas, focos, luz de pared.
+<->Nuevos árboles: árbol nevado, palmera.
+<->Muchos otros objetos nuevos.
+
+
+>Haz clic en SIGUIENTE para ver más...
+
+
+
+>[2/3] Funciones nuevas
+
+<->Modo de pantalla sin marcos
+<->¡Función de recolocar/mover objetos!
+<->Filtros de menú de objetos y botón de ordenar.
+<->Ahora se pueden construir puertas rápidamente en las paredes.
+<->¡Se pueden asignar adiestradores y guardias armados a rutas y zonas!
+<->Velocidad de juego x10.
+<->Se han añadido prisioneros de máxima seguridad.
+<->Puedes tener 2 rutas de patruya diferentes interconectadas.
+<->Rotación de más objetos y muebles.
+<->Gráficos de despliegue y logística mejorados.
+<->Ampliada la herramienta e clonar zona.
+<->Opción de investigar burocracia cuando empiezas una partida nueva.
+<->Se puede acceder al menú mutación y ajustarlo en mitad de la partida.
+<->¡Objetos a montones!
+<->Nuevas opciones de parcelas de jungla y nevada cuando empiezas una partida nueva.
+<->Las torres de guardia protegen del clima a los francotiradores.
+<->Nombres para el personal y los perros.
+<->El menú de objetos tiene una opción de buscar sala.
+<->Opción para tener prisiones más limpias.
+<->Nuevos enlaces rápidos desde la barra superior de interfaz.
+<->¡!
+
+
+>[3/3] Hay más...
+
+<->Los francotiradores pueden llevar llaves de la prisión.
+<->Los prisioneros priorizan la sala de ducha antes que las duchas de las celdas de otros prisioneros.
+<->Las cámaras de seguridad muestran en modo alcaide a los prisioneros y el personal.
+<->Los guardias estacionados en máquinas no abandonarán su puesto por búsquedas y registros.
+<->Los guardias abrirán las puertas a los perros perdidos.
+<->La estantería de libros se abastece por encesidades de formación.
+<->Atajos [Z] y [X] para abrir los menús de juego y [C] para cerrarlos.
+<->Las puertas de las celdas se quedan abiertas hasta que se complete la sala.
+<->Las cámaras de seguridad muestran la dirección en la que apuntan.
+<->Arreglos en los gráficos de setos.
+<->Arreglos en los detectores de metales.
+<->Arreglos en las calderas que no se conectaban a las tuberías.
+<->Asistencia en modificadores.
+
+~~~~~~
+
+Actualización "Estornudos"
+>21 de noviembre 2019
+
+Compañeros alcaides,
+
+Esperamos que disfrutéis de esta actualización de Prison Architect.
+A continuación, un resumen de los elementos más destacables, que incluyen: más puentes y mejoras a la clonación y la planificación.
+
+>[1/2] Objetos nuevos
+
+<->Nuevas paredes: Art Decó y Oriental.
+<->Nuevos suelos: Caliza, césped y piedras, arenisca, lunar.
+<->Nuevos objetos: Lavabo, secamanos, carteles de pared, árboles tétricos y de Sakura, cactos, bancos de parque, cabeza de alce, señales, puerta secreta de estantería, etc.
+
+Haz clic en SIGUIENTE para ver más...
+
+>[2/2] Funciones nuevas
+
+<->¡Nuevas razas de perro a elegir, tanto antes de la partida como durante la misma!
+<->Opción de elegir tipo de pared para salas rápidas.
+<->¡Por fin hay PUENTES! Colócalos sobre carreteras, agua y otros terrenos para que pasen el personal y los presos.
+<->Reequilibrados los pagos diarios de presos de alto riesgo. Cobras más por los presos de seguridad máxima, custodia protectora, el corredor de la muerte y los que tienen problemas mentales.
+<->Puedes ver las celdas vacías y ocupadas en logística mediante el nuevo botón de "estado de la celda".
+<->Añadida acción extra de prisionero a las biografías: "Escoltar a la enfermería"
+<->Se ofrecen prisioneros transferidos en Admisión.
+<->Añadida la opción de Dirección del visitante al despliegue.
+<->Ahora puedes construir cimientos con más tipos de paredes.
+<->¡Remodelada la herramienta de clonación! Ahora puedes girar e invertir, se muestran las paredes y los objetos, ¡y la zona clonable puede cubrir toda la prisión! ¡Es más, TAMBIÉN puedes clonar entre partidas (BETA)! También hemos optimizado la velocidad de construcción.
+<->¡Remodelada la planificación! Construye tus planes, añade puertas y elige el tipo de pared. 
+<->Mejorada la presentación de las salas rápidas, ahora muestra dónde se construirán las paredes.
+<->Nueva parcela de terreno desértico al crear una nueva partida.
+
+~~~~~~
+
+ACTUALIZACIÓN "THE BUCKET" y DLC “TRASLADO AUTORIZADO”
+>DATE 14/05/20
+
+>DLC gratis “Traslado autorizado” 
+Acabamos de publicar el DLC gratis "Traslado autorizado", que permite dar privilegios a los prisioneros de los diversos sectores de seguridad. Podrás motivar a los reclusos a cambiar de actitud para reunir tus criterios y obtener así el traslado a un ala de la prisión de menor seguridad (y mayor comodidad).
+
+¡Consigue ya el DLC gratis "Traslado autorizado"!
+
+Gaz, gestión de diseño de Double Eleven.
+
+>Actualización "The Bucket"
+La actualización gratis "The Bucket" complementa el DLC "Traslado autorizado" y atiende a más peticiones de la comunidad, con nuevas funciones y mejoras. Por ejemplo, incluimos: 
+
+>[1/2] Objetos nuevos
+
+<->Objetos nuevos: Cinta de andar, maceta de interior, cuadrilátero, futbolín, ventanas de cristal, estatua del alcaide y más...
+<->Nuevas paredes: Desgastada, abandonada, oxidada, de barrios bajos, valla de bambú, por sectores de seguridad y más.
+<->Nuevas puertas: Puerta de bambú, franjas blancas.
+<->Nuevos suelos: Campo florido, Pista de atletismo (rápida), Bambú.
+<->Nueva opción de valla con césped debajo.
+
+>[2/2] Funciones nuevas
+
+<->Nuevo tipo de sala, el GIMNASIO.
+<->Las salas rápidas incluyen la armería, la enfermería y la biblioteca.
+<->¡Ahora puedes iniciar castigos y registros por sector de seguridad! 
+<->Ahora puedes crear sectores de seguridad personalizados en Despliegue.
+<->Despliegue permite asignar cocineros, médicos y más personal.
+<->Nuevo menú "Carteles” con el que añadir letras y números a tus paredes.
+<->La interfaz de políticas te permite ajustar las opciones de comida y libertad condicional de cada sector de seguridad.
+<->Puedes activar y desactivar los cimientos automáticos en el plano.
+<->Nuevo trabajo de presos: Silvicultura.
+
+~~~~~~
+
+"ISLA PRISIÓN" Y 
+"ACTUALIZACIÓN LA ROCA" - Expansión
+>
+
+>“Isla Prisión”- Nuevo DLC 
+<->¡Ya está aquí la nueva expansión de Prison Architect!
+<->En Isla Prisión, los jugadores podrán crear sus propias penitenciarias isleñas aisladas del resto del mundo, recibiendo los repartos, reclusos y demás servicios por mar y aire.
+<->Isla Prisión ofrece nuevas opciones de parcela para construir tu prisión y eliminar toda conexión al continente. ¡Hasta puedes jugar sin la carretera! 
+<->También incluimos barcos, helicópteros, puertos y helipuertos que puedes vincular a tus zonas de entrega y exportación. Ahora puedes hacer que los prisioneros lleguen a una zona concreta de tu prisión, sea o no una isla, y hacer que el reparto llegue a otra parte.
+<->Hay más puntos de entrada de contrabando, ¡así que ahora puedes construir puntos de control para cachear tanto a visitantes como a prisioneros, y usar un escáner para encontrar lo que esconden las cajas! 
+<->Isla Prisión también incluye nuevos mapas prefabricados inspirados en Alcatraz, más objetos, suelos, ferries para enlazar islas, bomberos aéreos, una nueva unidad de élite, ¡y mucho más!
+
+Gaz, gestión de diseño de Double Eleven.
+
+Haz clic en SIGUIENTE para ver más...
+
+Actualización "La Roca"
+"La Roca" es una actualización gratuita que complementa la expansión "Isla Prisión" y trae nuevas mejoras.
+
+<->Casillas de agua: Ahora puedes añadir agua a la tierra y tierra al agua para dar forma a tus islas, costas, fosos y demás.
+
+<->Reputaciones dinámicas de reclusos: Al activarla, esta nueva opción permite que tus presidiarios adquieran y pierdan características de reputación en función de sus actividades en tu prisión. Por ejemplo, pueden adquirir reputaciones como "Fuerte", "Resistente" o "Luchador capacitado" pasando tiempo en el patio o en el nuevo gimnasio, pero también perderlas durante el aislamiento. Hay muchas opciones para ganar y perder reputaciones.
+
+~~~~~~
+
+DLC "RENOVÉMONOS" Y
+ACTUALIZACIÓN "EL INVERNADERO"
+>¡Preparaos para ensuciaros las manos, guardias!
+
+>Renovémonos - Nuevo DLC
+<->La agricultura permite cultivar patatas, trigo, manzanas y mucho más. Los productos pueden ser exportados o consumidos.
+<->Espacio para plantar.  Salas al aire libre facilitan la agricultura. Los jugadores pueden reclutar personal, construir una despensa, y un cobertizo para el equipo agrícola.
+<->Nuevos cultivos conllevan nuevo contrabando. Los prisioneros ahora pueden crear narcóticos y robar ingredientes para el alcohol. Los campos también pueden convertirse en territorio de pandillas, ¡mantén a tus guardias en alerta!
+<->Las prisiones se transforman en ecológicas con energía solar, eólica e híbrida. El exceso de energía creado por estos métodos puede ser vendido de nuevo a la red utilizando el contador de energía.
+>Actualización "El Invernadero"
+<->La actualización gratuita "El Invernadero" sienta las bases de la expansión "Renovémonos" y trae algunas de las cosas que más pedía la comunidad:
+<->Nuevo sistema de reciclaje, incluyendo el objeto contenedor de reciclaje.
+<->Nuevas salas rápidas: patio, arboleda y laberinto.
+<->Mejoras a los sistemas de tirar y demoler.
+<->Nuevos métodos para ordenar los objetos en el menú.
+
+~~~~~~
+
+DLC "Segundas oportunidades" 
+y actualización “La trena”
+>¡Abrid las puertas!
+
+>Nuevo DLC - Segundas oportunidades:
+>   Desarrollar habilidades vitales:
+<->Tres nuevas salas donde los presos podrán trabajar y aprender: una pastelería y un restaurante donde cocinar para los visitantes civiles y una sala de reuniones donde llevar a cabo las sesiones de los nuevos programas
+<->Algunos presos llegan con experiencia de trabajo previa, lo que los hace aptos para desarrollar trabajos específicos dentro de la prisión
+<->Ahora pueden ajustarse los salarios de los trabajos de la prisión
+>
+>   Preparación para la libertad condicional:
+<->Cinco nuevos programas de rehabilitación en los que los presos pueden participar: ¡Consulta de presos rehabilitados, Formación y programa de tres faltas, Resolución de conflictos y Terapia con animales!
+<->Se pueden reducir o alargar las sentencias en función del comportamiento de los presos
+<->Un menú de reforma y de rehabilitación desde el que supervisar el índice de reincidencia de todos los reclusos, sus niveles de experiencia de trabajo y la cantidad de presos reincidentes
+
+Haz clic en SIGUIENTE para ver más...
+
+
+>Nuevo DLC - Segundas oportunidades:
+>   Libre de marcharse:
+<->Consigue recompensas por cada preso que se haya reformado con éxito y logre reintegrarse en la sociedad. De la misma forma, habrá multas por los presos reincidentes, ¡que pueden llegar a volver a tu prisión con peores rasgos que los que tenían cuando se fueron!
+Haz clic en SIGUIENTE para ver más...
+
+>   Y más aún...
+<->Personaliza el color de los uniformes de los reclusos para cada nivel de seguridad
+<->Aprovecha las nuevas subvenciones para ayudar con el coste de los programas de reforma
+<->Salas rápidas: pastelería, restaurante y sala de reuniones
+<->Se ha añadido una pestaña de información del DLC a la lista de tareas pendientes
+
+
+
+
+
+
+Haz clic en SIGUIENTE para ver más...
+
+
+>Actualización "La trena"
+<->¡Búsqueda de narcóticos en marcha! Una nueva orden de seguridad permite a los adiestradores de perros buscar drogas específicamente
+<->Una política de llaves de personal que permite que todo el personal tenga llaves
+<->Nueva sala rápida: recepción
+<->Admisión de reclusos: Te permite escoger a qué hora llegarán las nuevas admisiones
+<->Se han relajado las restricciones de salas al aire libre para el aula y el comedor
+<->Una nueva colección de objetos
+
+~~~~~~
+
+DLC "LA TORMENTA PERFECTA" Y 
+ACTUALIZACIÓN "LA TORRE"  
+>¡No confíes en la calma antes de la tormenta!
+
+>La tormenta perfecta - Nuevo DLC:
+>   Preparándote para lo peor:
+<->Nuevas opciones para activar eventos climatológicos y un sistema de infestación de ratas con distintos niveles de intensidad
+<->Disponibles varias opciones de apoyo, nuevos objetos e instalaciones, programas de formación, servicios de emergencia y planes de cobertura
+<->También puedes usar repelentes de ratas, extintores y alarmas de incendios y otros objetos para ayudarte a detectar y prepararte para los cambios del clima 
+>
+>   Cuidado con las ratas:
+<->Tras cumplir unos requisitos mínimos, las ratas podrán aparecer en tu prisión, así que límpiala bien y vigila la aparición de túneles
+<->No te dejes encandilar por sus caras bonitas: al principio solo ensucian y mordisquean ingredientes, pero, en grandes cantidades, las ratas causan enfermedades, dañan cables eléctricos y vallas e incluso excavan túneles
+>
+>   Clima calamitoso - parte 1:  
+<->Se han añadido tres tipos de clima extremo, cada uno con 3 niveles de intensidad y subeventos que se vuelven más peligrosos
+Haz clic en SIGUIENTE para ver más...
+
+>
+>   Clima calamitoso - parte 2: 
+<->Frío polar - el frío puede dañar los servicios y otros objetos, congelar el suelo y los muros y poner en peligro a tus reclusos
+<->Tormenta eléctrica - las tormentas son peligrosas, destructivas y capaces de dañar los aparatos eléctricos, causar incendios, reducir la integridad de las estructuras y herir a reclusos y personal
+<->Ola de calor - este tórrido clima introduce la nueva necesidad de hidratación para reclusos y personal y puede causar golpes de calor si se ignora. El calor también afecta a los objetos, ¡así que mantén los ojos abiertos, aunque es difícil con este sol!
+>
+>   Actualización "LA TORRE" - parte 1: 
+<->Dos nuevos perros guardianes, basados en el shiba inu y el setter negro, que también vienen con la opción de que todos los perros puedan dejar "regalitos" por la prisión
+<->Ahora es posible modificar la duración de las visitas, y más tiempo con la familia y amigos proporcionará una mayor bonificación a las necesidades de los reclusos
+<->Los francotiradores ahora cuentan con una alternativa no letal para poder detener a los fugados y rebeldes sin causar daños irreparables
+<->Junto con estas opciones, también se han añadido nuevos objetos y tipos de suelo
+
+>
+>   Actualización "LA TORRE" - parte 2: 
+<->Puertas de personal de colores
+<->Sofá y Escritorio lujoso y sillas de madera y giratorias
+<->Ventanas de madera y vidrieras
+<->Helecho y Hiedra y Sauce y Árbol (desnudo)	 
+<->Suelo laminado y Alfombra y Campo de hierba
+
+>	 Agradecimientos especiales a 
+8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
+
+
+~~~~~~
+
+"DLC ""BANDAS"" 
+Y ACTUALIZACIÓN ""COMETA"" 
+>¡Más fuertes, más listos y ahora con uniformes a juego!
+
+>Bandas, nuevo DLC:
+>   Nuevas bandas de la prisión:
+<->Han llegado tres nuevos tipos de bandas a tu prisión con su propio estilo de turbar el orden y provocar problemas de gestión. 
+<->Cada una de estas bandas tiene su personalidad y objetivos, desde extender su influencia en tu prisión hasta tomar el control del mercado de contrabando.
+<->Para ayudarte a gestionar las dificultades que suponen para tu prisión, hemos añadido opciones para controlar la cantidad de bandas, así como su número de tenientes, lo que a su vez afecta a la cantidad de jugadas que pueden realizar las bandas.
+>
+>   Con nuevas bandas, vienen nuevas conductas:
+<->Cada una de estas nuevas bandas estará especializada en una actividad, desde introducir más narcóticos hasta usar la fuerza para demostrar a los demás quién manda.
+<->Ahora las bandas tomarán el control de nuevas zonas en las que podrán obligar a pagar a otros prisioneros mientras estén realizando cualquier trabajo, además de asignar a un ""traficante"" de la banda para vender sus productos.
+<->Cuando una banda consiga suficientes miembros, también podrá comenzar a exigir cosas para que la cárcel se adapte a sus necesidades, y las consecuencias de no aceptar estas exigencias pueden ser desastrosas.
+Haz clic en SIGUIENTE para ver más...
+
+>   Guardias corruptos:
+<->Cuando una banda tenga suficiente influencia, puede empezar a provocar un efecto negativo en tus guardias.
+<->Ahora las bandas pueden sobornar a los guardias para que ""hagan la vista gorda"" cuando planean realizar algún tipo de infracción.
+<->También podrán pagar a ciertos guardias para que introduzcan contrabando para las bandas.
+>
+<->   Gestión y seguridad:
+<->Para ayudarte a lidiar con el personal sospechoso, tendrás a tu disposición informantes que te indicarán la presencia de guardias corruptos.
+<->También contarás con nuevos programas tanto para entrenar a los guardias como para lograr que los miembros de una banda la abandonen y vuelvan a una corriente y pacífica vida en prisión.
+<->Los exmiembros se convertirán en objetivos de los miembros actuales de una banda, así que es recomendable separarlos siempre que sea posible.
+<->En cuanto a aquellos miembros de la prisión que sean difíciles de gestionar, dispondrás de nuevas opciones de seguridad, desde marcar a individuos específicos para que sean vigilados, hasta enviar a los más problemáticos a otra instalación.
+Haz clic en SIGUIENTE para ver más...
+
+>
+>   Actualización ""COMETA"":
+<->Se han sumado dos nuevos alcaides al equipo, Dylan Cook y Capitán J. Locks, junto con una nueva opción de selección ""aleatoria"", ¡además de cuatro tipos de perros guardianes nuevos!
+<->Ahora puedes cambiar manualmente las celdas asignadas a los prisioneros, lo que te permitirá elegir dónde va cada uno. Los líderes de bandas más influyentes suelen tener prioridad sobre la mejor celda de cualquier zona perteneciente a su grupo.
+<->También se ha actualizado el sistema de admisión. En primer lugar, los prisioneros que estén esperando a ser procesados se trasladarán a una sala de recepción en lugar de esperar a la intemperie. Por otro lado, se ha añadido una nueva opción de ""reemplazo de prisioneros"" con la que podrás hacer que la cantidad de prisioneros dependa del índice de niveles de seguridad actual.
+<->Además de todas estas funciones, también contarás con una nueva opción para eliminar los requisitos de tamaño de sala, junto con mejoras a las cámaras de seguridad activables desde el menú de despliegue."
+
+~~~~~~
+
+La actualización Vida regalada
+>Novedades basadas en comentarios de la comunidad
+
+Una serie de funciones nuevas y mejoras de calidad de vida, la mayoría de las cuales han sido elegidas por demanda de la comunidad. Siempre escuchamos lo que tenéis que decir y os agradecemos los comentarios, ya que nos ayudan a mejorar la experiencia para todo el mundo.
+ 
+> Nuevas funciones
+<->Envejecimiento de reclusos: Los reclusos de larga duración ahora se verán afectados por el paso del tiempo, envejeciendo y volviéndose más tranquilos y débiles. Finalmente, terminarán por morir de viejos.
+<->Rangos de guardias: Algunos de tus guardias podrán ganarse ascensos, mejorando sus estadísticas y aumentando su sueldo. Si ascienden a la categoría máxima de especialista, se les permitirá llevar un arma de fuego.
+<->Guías de construcción: Hemos añadido algunas opciones para facilitar el proceso de diseño. Puedes activar una cuadrícula y ver las coordenadas de cada célula del mapa. También hay un sistema de ayuda emergente que indica las dimensiones al trazar tus edificios. 
+<->Construcción rápida personalizada: Con la herramienta de clonación, ahora puedes guardar las estructuras de prisión para usarlas más adelante.
+<->Hemos añadido un registro de todos los sucesos en tu prisión. Además, cada recluso tendrá su propio registro personalizado en su menú.
+az clic en SIGUIENTE para ver más...
+ 
+> Mejoras de calidad de vida
+<->Los servicios ahora se dividen en tres categorías: agua, electricidad y cableado. Así te será más fácil organizarlo todo.
+<->Hemos actualizado las opciones de régimen, cambiando algunas que ya había y añadiendo otras para reducir el tránsito de prisioneros en lugares tan peligrosos como comedores y duchas. Una vez un prisionero termina de comer o ducharse, puede pasar al tiempo libre o a su celda después.
+<->El calendario de programas ha sido renovado para facilitar y clarificar la gestión de tus programas.
+<->El menú de Crear prisión también ha sido actualizado: ahora separa las opciones del juego base y las que vienen de DLC. Hay una nueva opción de guardar tus preferencias para agilizar y simplificar el proceso.
+<->El menú de políticas también guarda cualquier cambio que hagas al cerrarlo. Estos cambios se guardarán como preferencia para futuras prisiones.
+>
+<->Hay varios añadidos menores más, ¡esperamos que os gusten todos!
+
+~~~~~~
+
+DLC "UNDEAD" Y 
+ACTUALIZACIÓN "THE KICKSTAND" 
+>Hay un ser maligno acechando en la oscuridad
+ 
+>“Undead”- Nuevo DLC
+> Nuevas funciones
+<->Muerto viviente: El muerto viviente, que incorpora una opción nueva, puede aparecer entre tus paredes ya sea en un evento de infección o en la sala nueva Cementerio.
+<->Categorías de muerto viviente: Los muertos vivientes dispondrán de 3 categorías, de menor a mayor. Los muertos vivientes de mayor categoría son más rápidos, más fuertes y un poquito más listos.
+<->Cementerio: El cementerio es un lugar de relajación para los prisioneros, aunque otros ocupantes también se pasan a saludar a veces.
+<->Comportamiento de los muertos vivientes: Siempre buscan amiguitos nuevos que se unan a su pequeño grupo. Pese a que la mayoría echa a correr. 
+<->Pagos: Aunque les guste morder, si los diseccionas como es debido, pagarán su parte del alquiler.
+<->Gestión: Hemos añadido 2 objetos nuevos que te servirán: un cebo y un dispositivo que mantiene ocupados a los muertos vivientes que se encuentren a su alrededor de la forma más práctica. 
+<->Cazarrecompensas: Un nuevo servicio de emergencias que campa tus tierras y elimina a los invasores.
+<->Efectos visuales: Capas, un reloj nuevo, cosméticos y un nuevo paquete de uniformes de personal para que combine con la temática de muertos vivientes. Ah, y una motosierra. Disfrutad. 
+Haz clic en SIGUIENTE para ver más...
+ 
+>
+>El soporte: actualización gratuita
+> Mejoras de la calidad de vida
+<->¡Perros nuevos! Con la forma de un majestuoso corgi y un husky siberiano, la mejor chica. Sin preferencia alguna.
+<->Nuevas salas rápidas: una de seguridad, una perrera y una de libertad condicional.
+<->Se han mejorado las cámaras de seguridad. Ahora podrás fijarlas y, como política nueva, establecer sus monitores como prioridad de los guardias.
+<->Además, hay una sala vacía que sirve para dividir tus prisiones en varios sectores sin la necesidad de que haya pasillos.
+<->Por cierto, respecto a los sectores, hemos añadido baldosas de cemento para que se vean con mayor claridad.
+>
+<->Por otro lado, hemos mejorado en menor medida la calidad de vida en base a vuestras opiniones. Esperamos que disfrutéis las mejoras.
+
+~~~~~~
+
+DLC "FUTURE TECH PACK" Y 
+ACTUALIZACIÓN "THE SLAM" 
+>¡El futuro está aquí! 
+
+>Future Tech Pack - Nuevo DLC
+> Nuevas funciones
+<->Paquete de uniformes: Ya ha llegado el segundo paquete de uniformes: para continuar el tema futurista, tu personal y reclusos recibirán una mejora de ciencia ficción.
+<->Seguimiento de reclusos: ¿Necesitas ayuda para evitar que tus reclusos se metan en líos? Con el menú y monitor de seguimiento, junto al resto de herramientas de apoyo a estos, podrás vigilar mejor a los reclusos que escojas.
+<->Tipos de pared: La valla eléctrica detendrá a cualquiera que intente treparla, y la pared de cristal mejorará la visibilidad de los guardias a la vez que aportará una sensación de libertad a los prisioneros (aunque también reducirá su privacidad).
+<->Puertas con tarjeta llave: Estas puertas solo pueden ser traspasadas por guardias que cuenten con una tarjeta llave o reclusos con cinturones de seguimiento. También se puede cambiar la configuración de las puertas de manera individual para impedir el paso de reclusos.
+<->Luces de búsqueda avanzadas: Pueden detectar cualquier acto de mala conducta y activar una alarma para actuar. 
+<->Porras aturdidoras: Mejora electrificada para el equipamiento estándar de los guardias, capaz de suprimir cualquier problema con mayor facilidad.
+<->Cabina de videollamadas: Permite que los reclusos vean a sus familias sin los riesgos de las visitas físicas.
+<->Varios: ¡Suelos decorativos, nuevo estilo de reloj, una alcaidesa y otros artículos!
+Haz clic en SIGUIENTE para ver más...
+
+The Slam: actualización gratuita
+> Mejoras de la calidad de vida
+<->Zona solo para visitantes: un nuevo sector donde los civiles tienen prioridad. Les permitirá entrar o salir de la prisión a través de puntos específicos.
+>
+<->Descansos de personal: ahora puedes escoger cuántos miembros de cada tipo de personal (guardias, trabajadores y jardineros) pueden descansar al mismo tiempo, en lugar de hacerlo a través de un ajuste general para todos.
+>
+<->Segregación de bandas: esta opción permitirá que los reclusos que no forman parte de una banda no puedan usar bloques de celdas o dormitorios asignados a bandas. 
+>
+<->Mejoras varias: más ranuras para el horario de despliegue, filtros de objetos refinados, y una herramienta de Conexión rápida mejorada para el cableado, además de muchas más mejoras y arreglos menores.
+
+~~~~~~
+
+DLC ""Jungle Pack"" y
+ACTUALIZACIÓN ""Jailhouse""
+>¡Bienvenidos a la selva! O algo así, no sé, nunca escuché la canción
+
+>Jungle Pack - Nuevo DLC
+> Nuevas funciones
+<->Paquete de uniformes: Ha llegado vuestro momento favorito: ¡acabamos de lanzar el tercer paquete de uniformes! Cambia el aspecto de tus reclusos y personal una vez más, ahora en tonos verdes.
+<->Exportación forestal: ¿Te has aburrido de talar siempre los mismos árboles? No te preocupes, ahora podrás talar unos magníficos árboles exóticos. 
+<->Fiebre tropical: Esta enfermedad llegará a tu prisión a través de envíos y visitantes infectados y puede extenderse antes de que te des cuenta, así que no te fíes de nada ni nadie.
+<->Recepción de visitantes: Cuando entren a tu prisión, los visitantes deberán pasar primero por esta sala para que los guardias y médicos los examinen en busca de indicios tanto de fiebre como de contrabando.
+<->Cine: A veces la pantalla de la televisión se te queda pequeña, y para esas ocasiones hemos decidido traer la sala de cine. Mantén a tus prisioneros entretenidos y bajo control durante su tiempo libre con esta nueva sala.
+<->Varios: Nuevos suelos, paredes, puertas, árboles, objetos de madera, una cámara de vigilancia mucho más discreta, un lavado de cara al reloj y un alcaide cuya cara te suena de algo...
+
+Haz clic en SIGUIENTE para ver más...
+
+>""Jailhouse"" - Actualización gratuita
+> Mejoras de calidad de vida
+
+<->Nuevo perro - No sería justo que no compartiéramos a este buen chico con vosotros, así que disfrutad de Toby y su compañía. ¿Se le podrá acariciar?
+>
+<->Guardias inactivos - Hemos hecho que ahora, en vez de tener montones de guardias inactivos en la zona de entregas, estos prioricen zonas más importantes de la prisión.
+>
+<->Materiales de construcción rápida - Ahora, cuando uses la construcción rápida, se guardará el último material seleccionado para la siguiente vez.
+>
+<->Programador de despliegue - Hemos renovado el menú de Despliegue para mejorar la experiencia de usuario.
+>
+<->Mejoras varias - ¡Hemos reequilibrado la reputación Ladrón de identidad y los efectos de la represión sobre la cordura de los reclusos y arreglado algunos otros errores y mejoras!
+
+~~~~~~
+
+Actualización ""Sunset""
+>¡Llena de mejoras de calidad de vida y arreglos de errores!
+
+> Mejoras de calidad de vida / Características
+<->Mutador de superperros: Como los queremos mucho, hemos añadido un nuevo mutador basado en el de superguardias para mejorar a nuestros amigos peludos.
+<->Condensador 2.0: Presentamos el condensador máx plus: una versión mejorada del condensador que permite a tus centrales eléctricas producir el doble de energía que antes.
+<->Puertas a control remoto: Hemos añadido una variante de color para las puertas a control remoto del corredor de la muerte y del nivel de seguridad súper-máxima.
+<->Velocidad de la furgoneta de motín: Tras comprobar la eficiencia de las unidades de emergencia aéreas, hemos aumentado la velocidad de movimiento de las furgonetas de guardias de motín para que lleguen antes. 
+<->Descripciones actualizadas: Después de dar un repaso al juego, hemos decidido actualizar algunas cosas o añadir nuevo texto. Por lo tanto, hemos actualizado descripciones de objetos, personal y necesidades.
+
+<->En esta actualización nos hemos centrado en mejorar la experiencia de jugador lo máximo posible. 
+Muchas gracias por jugar a Prison Architect.

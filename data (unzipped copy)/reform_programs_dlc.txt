@@ -1,0 +1,417 @@
+BEGIN Program
+    Name            PsychiatricConsultation
+	SessionCost     -150
+    Places          1
+    SessionLength   60
+    NumSessions     1
+    Difficulty      0
+    Equipment    	LeatherSofa
+	Equipment		SofaChairSingle
+	Equipment		SofaChairDouble
+	Equipment		SofaChairBrown
+	Equipment		SofaChairDoubleBrown
+	
+    Room            PsychiatristOffice
+    Teacher         Psychiatrist
+    Intake          Insane
+    Properties      Repeatable
+	Properties		StudentsSit
+	Properties		CanEscortStudent
+	Properties		NeedToBeEscorted
+	EffectChargeRate 1.0
+    WaitTime        0
+	SessionStart	10
+	SessionEnd		24
+	GoToSessionEarly 15
+	VersionAdded   2000
+END
+
+BEGIN Program
+    Name            	SolarPanelDevelopment
+	SessionCost     	-500
+    Places          	20
+    SessionLength   	120
+    NumSessions     	5
+    Equipment       	PracticeSolarPanel
+    Room            	Workshop
+    Research			PrisonLabour
+    Teacher         	Foreman
+    Intake          	Voluntary
+	Properties      	Practical
+	Difficulty      	40
+	SlotsPerEquipment	4
+END
+
+BEGIN Program
+    Name            	FlowerTherapy
+    SessionCost     	-150
+    Places          	20
+    SessionLength   	120
+    NumSessions     	5
+    Room            	FlowerGarden
+    Research			GroundsKeeping
+    Teacher         	Gardener
+    Intake          	Voluntary
+    Properties      	Practical
+    Difficulty      	40
+END
+
+BEGIN Program
+	Name            	FarmTraining
+    	SessionCost     	-200
+   	Places          	20
+    	SessionLength   	120
+    	NumSessions     	2
+    	Difficulty      	10
+    	Research        	PrisonLabour
+	ResearchSecondary 	Farming
+    	Room            	Classroom
+    	Teacher         	Farmer
+    	Intake          	Voluntary
+    	Properties      	Practical
+    	Equipment		SchoolDesk
+	Properties		StudentsSit
+	SessionStart		0
+	SessionEnd		24
+END
+
+BEGIN Program
+    Name            	AnimalTherapy
+    SessionCost     	-350
+    Places          	20
+    SessionLength   	120
+    NumSessions     	5
+    Room            	TherapyRoom
+    Teacher         	AnimalTherapist
+    Intake          	Voluntary
+    Properties      	Practical
+    Properties          CanHireExternally
+    Difficulty      	40
+    Research            MentalHealth
+    Equipment           Chair
+	Equipment           SwivelChair
+	Equipment           ChairYellow
+    Properties          StudentsSit
+    TeacherEquipment           TherapyAnimalContainer
+END
+
+BEGIN Program
+	Name				ConflictResolution
+	SessionCost			-200
+	Places				12
+	SessionLength		120
+	NumSessions			10
+	Difficulty			50
+	Room				TherapyRoom
+	Equipment           Chair
+	Equipment           SwivelChair
+	Equipment           ChairYellow
+	Teacher				RehabilitatedPrisoner
+	Intake				Voluntary
+	Properties			Practical
+	Properties			StudentsSit
+	Properties			CanHireExternally
+END
+
+BEGIN Program
+	Name				ReformedPrisonerConsultation
+	SessionCost			-150
+	Places				12
+	SessionLength		120
+	NumSessions			10
+	Difficulty			50
+	Room				TherapyRoom
+    Equipment           Chair
+	Equipment           SwivelChair
+	Equipment           ChairYellow
+	Teacher				RehabilitatedPrisoner
+	Intake				Voluntary
+	Properties			Practical
+	Properties			StudentsSit
+	Properties			CanHireExternally
+END
+
+BEGIN Program
+    Name                SocialTraining
+    SessionCost         -150
+    Places              20
+    SessionLength       120
+    NumSessions         2
+    Equipment           SchoolDesk
+    Room                Classroom
+    Teacher             Psychologist
+    Properties          StudentsSit
+    Intake              Voluntary
+    Difficulty          40
+END
+
+BEGIN Program
+    Name                JuvenileCorrection
+    SessionCost         -500
+    Places              12
+    SessionLength       120
+    NumSessions         5
+    Room                CommonRoom
+    Difficulty          40
+    Teacher             Chief
+    Qualification       SocialTraining
+    Properties          Repeatable
+    Intake              Voluntary
+    ExperienceBoost     WorkRCS
+END
+
+BEGIN Program
+    Name            ElectricianTraining
+    SessionCost     -250
+    Places          10
+    SessionLength   60
+    NumSessions     3
+    Equipment		Chair
+	Equipment		SwivelChair
+	Equipment		ChairYellow
+    Room            TrainingRoom
+    Teacher         Foreman
+    Intake          Workers
+    Properties      StaffOnly
+    Properties      StudentsSit
+    Properties      OutsideOfWork
+    Properties      TeacherDemonstrateEquipment
+    TeacherEquipment TrainingElectricalCable
+    Research        Education
+END
+
+BEGIN Program
+    Name            FirstAidTraining
+    SessionCost     -500
+    Places          10
+    SessionLength   60
+    NumSessions     2
+    Difficulty      10
+    Intake			GenericStaff
+    Room            TrainingRoom
+	Equipment		Chair
+	Equipment		SwivelChair
+	Equipment		ChairYellow
+    Teacher         Doctor
+    Properties      Practical
+    Properties      StaffOnly
+    Properties      OutsideOfWork
+    Properties      StudentsSit
+    Properties      TeacherDemonstrateEquipment
+    TeacherEquipment    FirstAidStation
+    Research           Education
+    ResearchSecondary  Health
+END
+
+BEGIN Program
+    Name            PestControlTraining
+    SessionCost     -250
+    Places          10
+    SessionLength   120
+    NumSessions     1
+    Difficulty      10
+    Intake	    	PestControlStaff
+    Room            TrainingRoom
+    Equipment		Chair
+	Equipment		SwivelChair
+	Equipment		ChairYellow
+    Teacher         PestControlTeacher
+    Properties      Practical
+    Properties      StaffOnly
+    Properties      OutsideOfWork
+	Properties      CanHireExternally
+    Properties      StudentsSit
+    Properties      TeacherDemonstrateEquipment
+    TeacherEquipment RatTrap
+    Research        Education
+    ResearchSecondary Cleaning
+END
+
+BEGIN Program
+    Name            FireSafetyTraining
+    SessionCost     -250
+    Places          10
+    SessionLength   120
+    NumSessions     3
+    Equipment		Chair
+	Equipment		SwivelChair
+	Equipment		ChairYellow
+    Room            TrainingRoom
+    Teacher         FireSafetyTeacher
+    Intake          GenericStaff
+    Properties      StaffOnly
+    Properties      StudentsSit
+    Properties      OutsideOfWork
+	Properties		CanHireExternally
+    Properties      TeacherDemonstrateEquipment
+	SessionStart	0
+    Research        Education
+END
+
+BEGIN Program
+    Name            ColdControlTraining
+    SessionCost     -300
+    Places          10
+    SessionLength   60
+    NumSessions     2
+    Equipment		Chair
+	Equipment		SwivelChair
+	Equipment		ChairYellow
+    Room            TrainingRoom
+
+    Teacher         Foreman
+    Intake          ColdControl
+    Properties      StaffOnly
+    Properties      StudentsSit
+    Properties      OutsideOfWork
+	Properties		CanHireExternally
+    Properties      TeacherDemonstrateEquipment
+	SessionStart	0
+    TeacherEquipment GritBin
+    Research        Education
+    ResearchSecondary GroundsKeeping
+END
+
+BEGIN Program
+    	Name            TattooRemovalProgram
+    	SessionCost     -100
+    	Places          1
+    	SessionLength   60
+    	NumSessions     3
+	Difficulty      10
+    	Equipment		TattooRemovalMachine
+	TeacherEquipment TattooRemovalMachine
+    	Room            TattooRemovalRoom
+    	Teacher         Doctor
+    	Intake          GangOnly
+    	Properties      StudentsSit
+	Properties	GangMemberCanAttend
+	Properties	RequiresAllStudentsPresent
+    	Research        Health
+    	Qualification   FaithProgram
+    	Qualification   GangRehabilitation
+END
+
+BEGIN Program
+	Name					HandToHandCombat
+	SessionCost				-100
+	Places					4
+	SessionLength			60
+	NumSessions				3
+	Difficulty				40
+	Equipment				SchoolDesk
+	Research				Security
+	ResearchSecondary		Education
+	Room					Classroom
+	Teacher					Chief
+	Intake					Guards
+	Properties				Practical
+	Properties				StaffOnly
+	Properties				StudentsSit
+	Properties				OutsideOfWork
+	Properties				TeacherDemonstrateEquipment
+	GoToSessionEarly		0
+END
+
+BEGIN Program
+    Name            GangRehabilitation
+    SessionCost     -150
+    Places          1
+    SessionLength   60
+    NumSessions     2
+    Difficulty      10
+    Teacher         Psychologist
+    Room            Office
+    Equipment           LeatherSofa
+        Equipment              SofaChairSingle
+        Equipment              SofaChairDouble
+        Equipment              SofaChairBrown
+	Equipment              SofaChairDoubleBrown
+    Intake          ReferralGangViolenceDestruction
+    Properties      StudentsSit
+	Properties		GangMemberCanAttend
+	Properties		RequiresAllStudentsPresent
+    Research        MentalHealth
+END
+
+BEGIN Program
+    Name            FaithProgram
+    SessionCost     -500
+    Places          10
+    SessionLength   180
+    NumSessions     6
+	Difficulty      26
+    Room            Chapel
+    Equipment       Pews
+    Equipment	    PrayerMat
+    Teacher         SpiritualLeader
+    TeacherEquipment Altar
+    Intake          GangOnly
+    Properties      CanHireExternally
+    Properties      StudentsSit
+    Properties      Repeatable
+	Properties		GangMemberCanAttend
+    ProgressEffect  calming
+    EffectChargeRate 1.0
+    DischargeNeed   Spirituality
+END
+
+ BEGIN Program
+    Name              BreatheProgram
+    SessionCost       -150
+    Places            5
+    SessionLength     60
+    NumSessions       1
+       Difficulty       10
+    Room              Yard
+    Equipment         GymMat
+    Teacher           Teacher
+    TeacherEquipment  GymMat
+    Intake            Voluntary
+    Properties        CanHireExternally
+    Properties        TeachersSit
+    Properties        StudentsSit
+    Properties        Repeatable
+    Properties	      TeacherUsesSameEquipment
+	Properties		  GangMemberCanAttend
+    SuccessEffect     calming
+END   
+
+BEGIN Program
+    Name            FightClub
+    SessionCost     -50
+    Places          6
+    SessionLength   180
+    NumSessions     1
+    Difficulty      26
+    Room            FightClubRoom
+    Teacher         GymInstructor
+	TeacherEquipment	FightRing
+    Equipment	    	FightRing
+	SlotsPerEquipment	6
+    Intake          Voluntary
+	Properties      CanHireExternally
+    Properties      Repeatable
+	Properties		GangMemberCanAttend
+	ProgressEffect  calming
+    EffectChargeRate 1.0
+	SuccessEffect     	calming
+	FailEffect			calming
+END
+
+BEGIN Program
+    Name                TropicalFeverTreatmentProgram
+    SessionCost         -250
+    Places              10
+    SessionLength       120
+    NumSessions         1
+	Difficulty          0
+    Equipment		    MedicalBed
+	Room                MedicalWard
+    Teacher             Doctor
+    Intake              Mandatory
+    Properties          StudentsSit
+    Properties          Repeatable
+    Properties		    GangMemberCanAttend
+    Research            Health
+END

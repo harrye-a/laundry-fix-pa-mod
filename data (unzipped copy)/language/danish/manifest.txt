@@ -1,0 +1,6 @@
+Name        "Danish"
+Author      "Introversion Software"
+Date        06/10/2015
+Description "Official Danish translation of Prison Architect"
+ThumbnailSprite danish
+ContinueSupported false

@@ -1,0 +1,16 @@
+
+overheatApplyFactor  0.1000000  
+overHeatedSpeedFactor 0.5000000  
+overHeatedTiredFactor 0.1000000  
+overHeatedNeedsFactor 0.3000000  
+heatstrokeSpeedFactor 0.7500000  
+heatstrokeApplyFactor 0.8500000  
+guardIncidentChance  0.5000000  
+workerDropIncidentChance 0.2000000  
+workerInstallDamageChance 0.5000000  
+workerInstallDamage  0.1000000  
+workerIncidentChance 0.1000000  
+doctorIncidentChance 0.1800000  
+doctorHealModifier   0.5000000  
+chefIncidentChance   0.1000000  
+chefIncidentCooldown 30.00000  

@@ -1,0 +1,158 @@
+CONTRATTO DI LICENZA CON L’UTENTE FINALE 
+
+Ultimo aggiornamento: 08/11/2016
+
+IMPORTANTE, LEGGERE ATTENTAMENTE
+
+CON LA RIMOZIONE DELLA PELLICOLA PROTETTIVA E/O DEL SIGILLO DELLA CONFEZIONE
+
+OPPURE LO SCARICAMENTO, L’INSTALLAZIONE O L’UTILIZZO DI QUESTO GIOCO, L’UTENTE FINALE ACCETTA DI ESSERE VINCOLATO DAI SEGUENTI TERMINI E CONDIZIONI:
+
+Questo contratto di licenza con l’utente finale (“EULA”) è un accordo legale tra l’utente (in seguito chiamato “tu” o “utente finale”) e Paradox Interactive AB (“Paradox”) per il prodotto software allegato all’EULA, tutti i relativi software (come gli editor) e tutti i contenuti di gioco, aggiornamenti o contenuti aggiuntivi (come patch, contenuto aggiuntivo (“DLC”) e espansioni), manuali e altri materiali trasmessi con qualsiasi mezzo relativi al software, incluso il codice alfanumerico unico per il download del prodotto che può essere fornito insieme al software o consegnato all’utente finale per via elettronica (qui globalmente definito il “gioco”). Se non accetti i termini dell’EULA, non installare né utilizzare il gioco. Contatta invece il rivenditore presso cui hai effettuato l’acquisto per le procedure di reso merce.
+
+Questo gioco è concesso in licenza, non venduto, all’utente finale esclusivamente per l’utilizzo secondo i termini e le condizioni previsti dall’EULA. Tutti i diritti non espressamente accordati da questo contratto sono riservati da Paradox.
+
+L’utente finale accetta che il suo utilizzo del gioco comporti l’avvenuta lettura e comprensione dell’EULA e accetta altresì di essere vincolato dai termini e dalle condizioni ivi espresse, incluse le disposizioni nella sezione 5 relative alla raccolta di informazioni; inoltre, l’utente finale dichiara e assicura di essere un adulto e di accettare l’EULA in nome proprio o per conto dei propri figli o persone sotto la sua tutela, a seconda dei casi. Se l’utente finale non ha ancora raggiunto la maggiore età, deve ottenere dai propri genitori o rappresentanti legali il necessario permesso previsto dalla legge.
+
+Il presente EULA include per conoscenza l’Informativa sulla privacy di Paradox (https://www.paradoxplaza.com/privacy) e le regole di condotta di Paradox (https://www.paradoxplaza.com/mod-policy-en).
+
+L’utilizzo di questo gioco potrebbe richiedere la creazione di un account di Paradox (www  https://accounts.paradoxplaza.com/profile/new) per la sua fruizione. Nel qual caso, l’utente finale sarà invitato a creare un account quando comincia una partita o durante una sessione di gioco. La creazione di un account di Paradox richiede l’accettazione delle nostre condizioni d’uso [(][https://www.paradoxplaza.com/terms][\-][use)] e delle regole di condotta (https://www.paradoxplaza.com/rules\_conduct).
+
+L’utilizzo di questo gioco potrebbe richiedere il download e l’utilizzo di una piattaforma di terze parti separata (come Steam o GOG Galaxy), secondo i termini e le condizioni applicabili dai provider della piattaforma stessa. Tali termini e condizioni potrebbero, oppure no, limitare i diritti concessi all’utente finale in relazione al gioco secondo le disposizioni dell’EULA.
+
+1. Concessione della licenza
+
+QUESTO GIOCO È CONCESSO IN LICENZA ALL’UTENTE FINALE, NON VENDUTO. La titolarità del gioco e tutti i diritti di proprietà intellettuale insiti e relativi allo stesso continuano sempre ad appartenere a Paradox e, quando applicabile, ai suoi licenziatari.
+
+L’utente, soggetto alla conformità con i termini e le condizioni di Paradox, riceve da Paradox diritto e licenza non esclusivi, non trasferibili, limitati e totalmente revocabili di installare, accedere a e utilizzare il gioco sul personal computer (estesi a tutti i membri del nucleo famigliare o abitativo), a scopi strettamente non commerciali.
+
+L’utente finale può installare il gioco su diversi computer, ma può eseguire il gioco soltanto su un computer alla volta.
+
+2. Utilizzo consentito
+
+Oltre a installare il gioco e giocarlo sul proprio computer, l’utente finale può anche, secondo i termini dell’EULA:
+
+i)  Creare e rendere pubblici i cosiddetti “filmati Let’s Play” contenenti immagini e suoni del gioco tramite canali di social media come Twitch.tv e Youtube.com, a fini di lucro o no. Le colonne sonore possono essere rese pubbliche soltanto nel contesto di un filmato Let’s Play. In relazione a qualsiasi filmato Let’s Play, il seguente avviso di copyright deve essere visualizzato bene in vista:
+
+“Game © Paradox Interactive AB [www.paradoxplaza.com][.]” Se vengono utilizzate colonne sonore del gioco, l’artista e/o il compositore di ciascuna colonna sonora deve essere menzionato a sua volta.
+
+L’entità di questo permesso è soggetta a cambiamenti nel tempo e potrebbe essere ritirata ad esclusiva discrezione di Paradox. Alcune colonne sonore potrebbero essere esenti da questo permesso di utilizzo. Per il trattamento completo relativo ai filmati
+
+Let´s Play, consultare: https://www.paradoxplaza.com/lets-play-policy; ii)  Soltanto a fini di svago proprio o di altri in ambito personale, è possibile creare, distribuire e rendere pubbliche delle modifiche di gioco dell’utente, generalmente note come “mod utente”. È vietato distribuire il gioco insieme a mod utente ed è vietato consentire ad altri utenti finali di accedere a contenuti del gioco a pagamento (come DLC o espansioni) di cui tali utenti finali non avrebbero accesso altrimenti. Inoltre, tali mod utente non devono violare diritti di terze parti, come i diritti di proprietà intellettuale o tutti i diritti relativi alla riservatezza o alla pubblicità. Non è permesso addebitare tariffe ad altri utenti finali o accettare regali per i mod utente. L’entità di questo permesso è soggetta a cambiamenti nel tempo e potrebbe essere ritirata ad esclusiva discrezione di Paradox. Per il trattamento completo relativo ai mod utente, consultare: https://www.paradoxplaza.com/forum/mod-policy-en; e
+
+iii)  Effettuare copie del gioco nel caso sia necessario a fini di backup e archiviazione.
+
+3. Utilizzo proibito
+
+A meno che non sia specificato diversamente nell’EULA, l’utente finale non può:
+
+i) rimuovere o alterare avvisi di copyright o marchi commerciali su tutte le copie del gioco;
+
+ii) copiare, noleggiare, prestare, affittare, concedere in sottolicenza o distribuire il gioco, eccettuati i casi in cui ciò sia consentito dalla legge vigente;
+
+iii) rimuovere, disattivare o eludere eventuali protezioni di sicurezza come la gestione dei diritti digitali, gli avvisi di proprietà o le etichette presenti sul gioco o al suo interno;
+
+iv) modificare, adattare, tradurre, effettuare il reverse engineering, derivare il codice sorgente, disassemblare, decompiare o creare lavori derivati del gioco, eccettuati i casi in cui ciò sia consentito dalla legge vicente;
+
+v) usare, sviluppare, distribuire o vendere trucchi, software di automazione (bot), programmi di accesso illegale o eventuali altri programmi di terze parti non autorizzati progettati per modificare il gioco;
+
+vi) sfruttare il gioco o eventuali sue parti per scopi commerciali, inclusi a mero titolo esemplificativo: (a) utilizzo presso un Internet cafè, un centro videoludico o eventuali altri siti di ritrovo e/o (b) espletamento di servizi virtuali in cambio di pagamenti esterni al gioco, ad esempio: l’aumento di livello dei poteri; o
+
+vii) l’eventuale utilizzo del gioco non in conformità con tutte le normative vigenti.
+
+4. Contenuti generati dall’utente
+
+Alcuni giochi di Paradox consentono di creare e rendere disponibili ad altri utenti i contenuti creati in proprio (“Contenuti generati dall’utente” o “CGU”). L’utente finale concede a Paradox e ai suoi associati un diritto non esclusivo, irrevocabile, privo di royalty, concedibile in sottolicenza, perpetuo a utilizzare, riprodurre, modificare, creare lavori derivati, distribuire, trasmettere, mandare in onda o altrimenti comunicare, mostrare in pubblico ed eseguire in pubblico i suoi CGU, e lavori derivati dai suoi CGU, in relazione all’operazione e alla promozione del gioco.
+
+Paradox non ha l’obbligo di usare, distribuire o continuare a distribuire i CGU e l’utente finale accetta che Paradox possa limitare, o rimuovere, i CGU per qualsiasi motivo.
+
+L’utente finale dichiara e assicura che i CGU, e la concessione dei diritti di tali CGU, non violano alcun contratto, legge o regolamento relativo e che i CGU sono un lavoro originale dell’utente finale e non violano diritti di proprietà di terze parti né altri diritti.
+
+Paradox nega specificamente qualsiasi responsabilità relativa ai contenuti generati dall’utente.
+
+Chiunque ritenga che il proprio lavoro originale sia stato riprodotto come CGU tramite uno dei nostri giochi in un modo da rappresentare una violazione del copyright può notificarcelo inviando un messaggio di posta elettronica a support@paradoxplaza.com.
+
+5. Raccolta di informazioni
+
+Paradox potrebbe raccogliere informazioni dall’utente finale quando quest’ultimo utilizza il gioco. Tali informazioni includono SteamID, configurazione del computer, comportamento videoludico e progressi nel gioco, tipo di browser, tipo di piattaforma e utilizzo del software. Queste informazioni sono raccolte periodicamente per facilitare la fornitura di aggiornamenti di gioco, assistenza al prodotto e altri servizi relativi al gioco.
+
+Paradox potrebbe utilizzare le informazioni raccolte per migliorare i propri prodotti, gestire il gioco, analizzare trend o fornire servizi all’utente finale. Inoltre, Paradox potrebbe utilizzare queste informazioni a fini di ricerca, sviluppo, amministrazione, assistenza e marketing di prodotti e servizi di Paradox.
+
+Paradox potrebbe anche condividere tali dati con collaboratori esterni in forma anonima e aggregata.
+
+Per  ulteriori  informazioni,  consultare  l’informativa  sulla  privacy  disponibile  qui: https://www.paradoxplaza.com/privacy.
+
+6. Servizi di assistenza
+
+Periodicamente e a propria esclusiva discrezione, Paradox potrebbe fornire servizi di assistenza tecnica e gestione della comunità relativi al gioco (“Servizi di assistenza”). Paradox si riserva il diritto di alterare, sospendere e terminare i servizi di assistenza in qualsiasi momento e per qualunque motivo. È possibile contattare i servizi di assistenza di Paradox all’indirizzo support@paradoxplaza.com o [www.paradoxplaza.com/support][.]
+
+7. Patch, aggiornamenti e modifiche
+
+L’utente finale riconosce e accetta che, di tanto in tanto, Paradox potrebbe introdurre patch o aggiornamenti di gioco al fine di risolvere difetti nel software o altre problematiche, effettuare un riequilibrio del gioco o aggiungere e/o rimuovere funzioni nel gioco.
+
+8. Risoluzione
+
+Questa licenza rimane valida fino alla sua risoluzione.
+
+L’utente finale può risolverla in qualunque momento distruggendo il gioco con tutte le copie possedute, complete o parziali, e rimuovendone tutti i componenti.
+
+Fatti salvi gli altri diritti, Paradox potrebbe risolvere l’EULA se l’utente finale non rispetta i termini e le condizioni previsti dall’EULA. L’utente finale dovrà quindi interrompere l’utilizzo del gioco e distruggere tutte le copie possedute, le modifiche, i materiali stampati o scritti, e le parti unite in qualsiasi forma e rimuovere tutti i componenti del gioco che sono stati scaricati sul suo sistema.
+
+9. Garanzia limitata
+
+La presente garanzia limitata funge da complemento e non pregiudica in alcun modo i diritti dell’acquirente che non possono essere esclusi o limitati in alcun modo secondo la normativa vigente.
+
+Paradox assicura che il gioco offrirà le funzioni e le caratteristiche descritte in termini generali nell’informativa sul prodotto presente all’indirizzo [www.paradoxplaza.com] [] al momento dell’acquisto e nella documentazione del prodotto.
+
+PARADOX NON ASSICURA CHE IL GIOCO O LA POSSIBILITÀ DI UN SUO UTILIZZO DA PARTE DELL’UTENTE FINALE SIA PRIVA DI INTERRUZIONI O ERRORI. NEI LIMITI MASSIMI CONSENTITI DALLA LEGGE, SI ESCLUDE QUALSIASI GARANZIA IMPLICITA DI COMMERCIABILITÀ O IDONEITÀ A UN DATO SCOPO.
+
+10. Limitazione di responsabilità
+
+Nei limiti massimi consentiti dalla normativa vigente, in nessun caso Paradox, i suoi associati o detentori di licenze saranno responsabili per eventuali danni speciali, incidentali, indiretti, o consequenziali (inclusi, a titolo meramente esemplificativo, danni per perdita di profitti commerciali, interruzione degli affari, perdita di informazioni commerciali o altre perdite di natura finanziaria) derivanti dall’utilizzo del gioco, o dall’impossibilità di utilizzarlo, o per difetti contenuti o causati dal gioco, inclusi a titolo meramente esemplificativo, la compromissione della sicurezza del sistema su cui il gioco è in esecuzione, del sistema operativo o dei file, o la fornitura o la mancata fornitura dei servizi di assistenza, anche nel caso in cui Paradox fosse stata informata della possibilità del verificarsi di tali danni.
+
+Nessuna disposizione dell’EULA limita la nostra responsabilità in caso di morte o ferite personali derivanti da negligenza grave, truffa o rappresentazione ingannevole da parte nostra.
+
+11. Normativa applicabile
+
+L’utente finale accetta che l’ambito di validità e forza giuridica dell’EULA sarà di competenza della Svezia e che qualsiasi disputa derivante dalle disposizioni dell’EULA dovrà essere risolta rispettando le leggi svedesi, ad esclusione della normativa sui conflitti e la convenzione sui contratti per la vendita internazionale di beni.
+
+12. Composizione delle controversie
+
+La maggior parte delle questioni relative all’EULA o al gioco (“Controversie”) può essere risolta contattando Paradox all’indirizzo [www.paradoxplaza.com/support][.] Di conseguenza, l’utente finale accetta di provare prima a negoziare qualsiasi controversia in via informale con Paradox per un periodo di almeno trenta (30) giorni prima di dare adito alle vie legali. Nel caso in cui la controversia non sia risolta tramite negoziazioni informali, l’utente finale accetta, nei limiti massimi consentiti dalla legge vigente, di sottostare alla giurisdizione esclusiva e personale in materia normativa dei tribunali di Stoccolma, in Svezia, per qualsiasi reclamo o risoluzione, e rinuncia a tutti i diritti di prendere parte a qualsiasi tipo di denuncia legale lanciata e/o mantenuta come class action o di natura simile a una class action.
+
+13. Aggiornamento di queste condizioni
+
+L’EULA potrebbe periodicamente subire dei cambiamenti, per i quali pubblicheremo una nota ben visibile sul nostro sito. La continuazione dell’utilizzo del gioco dopo la pubblicazione di tali cambiamenti risulterà nell’accettazione degli stessi, che saranno legalmente vincolanti per l’utente dal momento in cui il presente EULA viene aggiornato e modificato.
+
+14. Clausola di salvaguardia
+
+Se, per qualunque motivo, un tribunale del foro competente dichiarasse l’inapplicabilità di una disposizione qualsiasi, o parte di essa, dell’EULA, le disposizioni rimanenti dell’EULA continueranno ad avere completa forza ed efficacia legale.
+
+15. Contatti
+
+Per qualsiasi domanda inerente all’EULA, o per inviarci dei commenti, è possibile contattarci all’indirizzo [www.paradoxplaza.com/support][.]
+
+L’EULA È APPLICABILE SOLTANTO NEI LIMITI MASSIMI CONSENTITI DALLA LEGGE, IN PARTICOLARE DALLE NORMATIVE SULLA PROTEZIONE DEL CONSUMATORE.
+
+Paradox Interactive AB
+
+Västgötagatan 5
+
+118 27 Stoccolma
+
+SVEZIA
+
+[(]: https://www.paradoxplaza.com/terms-use
+[https://www.paradoxplaza.com/terms]: https://www.paradoxplaza.com/terms-use
+[\-]: https://www.paradoxplaza.com/terms-use
+[use)]: https://www.paradoxplaza.com/terms-use
+[www.paradoxplaza.com]: http://www.paradoxplaza.com/
+[.]: http://www.paradoxplaza.com/
+[www.paradoxplaza.com/support]: http://www.paradoxplaza.com/support
+[.]: http://www.paradoxplaza.com/support
+[www.paradoxplaza.com]: http://www.paradoxplaza.com/
+[]: http://www.paradoxplaza.com/
+[www.paradoxplaza.com/support]: http://www.paradoxplaza.com/support
+[.]: http://www.paradoxplaza.com/support
+[www.paradoxplaza.com/support]: http://www.paradoxplaza.com/support
+[.]: http://www.paradoxplaza.com/support

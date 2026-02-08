@@ -1,0 +1,4 @@
+
+CCTVBadBehaviourIconTime 10.00000  
+CCTVBadBehaviourMaxCount 3  
+CCTVConeColourAlpha  35  

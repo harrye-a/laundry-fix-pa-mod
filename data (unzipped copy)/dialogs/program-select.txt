@@ -1,0 +1,16 @@
+BEGIN Window
+    NAME         ProgramSelect
+    BACKGROUND   papersheet.bmp
+    WIDTH        200
+    HEIGHT       180
+    PANEL        1
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Scaled          500
+    YPOS        Scaled          332
+    WIDTH       Scaled          9000
+    HEIGHT      Scaled          9333
+END
+

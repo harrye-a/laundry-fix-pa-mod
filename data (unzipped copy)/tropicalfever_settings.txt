@@ -1,0 +1,25 @@
+
+"Minimum Required Prisoners" 50  
+"Minimum Wait Interval For Next Event (Days)" 5.000000  
+"Duration Of Each Fever Stage (Days)" 1.000000  
+"Early Stage Needs Increase Factor - Food" 1.000000  
+"Early Stage Needs Increase Factor - Sleep" 2.000000  
+"Early Stage Needs Increase Factor - Bowels" 7.50000  
+"Early Stage Needs Increase Factor - Bladder" 7.50000  
+"Mid Stage Needs Increase Factor - Food" 2.500000  
+"Mid Stage Needs Increase Factor - Sleep" 5.00000  
+"Mid Stage Needs Increase Factor - Bowels" 15.00000  
+"Mid Stage Needs Increase Factor - Bladder" 15.00000  
+"Mid Stage Movement Speed Decrease (%)" 40  
+"Vomit Interval (Hours)" 1  
+"Mid Stage Prisoner Infect Radius" 2.000000  
+"Mid Stage Infect Minimum Proximity Time - Prisoner (Minutes)" 15.000000  
+"Mid Stage Infect Maximum Proximity Time - Prisoner (Minutes)" 30.00000  
+"Mid Stage Infect Minimum Proximity Time - Object (Minutes)" 30.00000  
+"Mid Stage Infect Maximum Proximity Time - Object (Minutes)" 60.00000  
+"Visitor Reduction Contraband Reduction Chance" 0.5000000  
+"Netted Bed Immunity (Hours)" 6  
+"Illness Cause Object Chance Percentage" 10.00000  
+"Prisoner Get Ill Chance Percentage" 20.00000  
+"Prisoner Get Ill Radius" 5.000000  
+"Fever Immunity (Days) From Vaccine" 15.00000  

@@ -1,0 +1,55 @@
+BEGIN Window
+    NAME         DeploymentScheduler
+    WIDTH        500
+    HEIGHT       230
+    PANEL        1
+END
+
+BEGIN Custom
+    NAME        Timeline
+    XPOS        Scaled          100
+    YPOS        Scaled          4210
+    WIDTH       Scaled          9800
+    HEIGHT      Scaled          1304
+END
+
+BEGIN Custom
+    NAME        Schedule
+    XPOS        Scaled          100
+    YPOS        Scaled          5834
+    WIDTH       Scaled          9800
+    HEIGHT      Scaled          1304
+END
+
+BEGIN Caption
+    NAME        Title
+    XPOS        Scaled          0
+    YPOS        Scaled          0
+    WIDTH       Scaled          10000
+    HEIGHT      Scaled          1250
+END
+
+BEGIN Custom
+    NAME        slots
+    XPOS        Scaled          1700
+    YPOS        Scaled          2391
+    WIDTH       Scaled          6500
+    HEIGHT      Scaled          1521
+END
+
+BEGIN Caption
+    NAME        description
+    XPOS        Scaled          100
+    YPOS        Scaled          7215
+    WIDTH       Scaled          9800
+    HEIGHT      Scaled          2173
+END
+
+BEGIN TitleCaption
+    NAME        slot_caption
+    XPOS        Scaled          0
+    YPOS        Scaled          1250
+    WIDTH       Scaled          10000
+    HEIGHT      Scaled          1000
+END
+

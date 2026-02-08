@@ -1,0 +1,312 @@
+BEGIN Event
+    Name            FrozenPipe
+    Action          FreezePipe
+    CooldownFromLastEvent 1
+	Properties      DisableMessageInEscapeMode
+    Properties      PlayMessageOnce
+    BEGIN PreReq Type CalamitiesEnabled END
+    BEGIN PreReq Type Weather WeatherType DeepFreeze END
+    BEGIN Data Name MinLevel Value 1 END
+END
+
+BEGIN Event
+    Name            FrozenValve
+    Action          FreezeValve
+    Advisor         Foreman
+    CustomMessage   event_frozensmallpipe_frozenvalve
+    Properties      PlayMessageOnce
+	Properties      DisableMessageInEscapeMode
+
+    BEGIN PreReq Type Object ObjectId PipeValve Value 1 END
+    BEGIN PreReq Type Weather WeatherType DeepFreeze END
+END
+
+BEGIN Event
+    Name            FrozenPump
+    Action          FreezePump
+    Properties      PlayMessageOnce
+	Properties      DisableMessageInEscapeMode
+    BEGIN PreReq Type Weather WeatherType DeepFreeze END
+    BEGIN PreReq Type WeatherLevel Value 3 END
+    
+	BEGIN Data Name DelayMinMinutes Value 0 END
+	BEGIN Data Name DelayMaxMinutes Value 120 END
+END
+
+
+
+# Rolling blackout
+# todo: have the right PreReq with LightingStorm weather level
+
+BEGIN Event
+    Name            RollingBlackoutLow
+    Action          RollingBlackout
+	Advisor         Ceo
+	Properties      DisableMessageInEscapeMode
+    Properties      PlayMessageOnce
+    BEGIN PreReq Type Weather WeatherType LightningStorm END
+    BEGIN PreReq Type WeatherLevel Value 1 END
+	BEGIN PreReq Type DayChance Value 0.1 END
+	BEGIN PreReq Type GeneratorLoad Value 0.01 END
+	BEGIN Data Name TimeLow Value 60 END
+	BEGIN Data Name TimeHigh Value 120 END
+END
+
+BEGIN Event
+    Name            RollingBlackoutMedium
+    Action          RollingBlackout
+	Advisor         Ceo
+	Properties      DisableMessageInEscapeMode
+    Properties      PlayMessageOnce
+    BEGIN PreReq Type Weather WeatherType LightningStorm END
+    BEGIN PreReq Type WeatherLevel Value 2 END
+	BEGIN PreReq Type DayChance Value 0.3 END
+	BEGIN PreReq Type GeneratorLoad Value 0.01 END
+	BEGIN Data Name TimeLow Value 120 END
+	BEGIN Data Name TimeHigh Value 240 END
+END
+
+BEGIN Event
+    Name            RollingBlackoutHigh
+    Action          RollingBlackout
+	Advisor         Ceo
+	Properties      DisableMessageInEscapeMode
+    Properties      PlayMessageOnce
+    BEGIN PreReq Type Weather WeatherType LightningStorm END
+    BEGIN PreReq Type WeatherLevel Value 3 END
+	BEGIN PreReq Type DayChance Value 0.5 END
+	BEGIN PreReq Type GeneratorLoad Value 0.01 END
+	BEGIN Data Name TimeLow Value 240 END
+	BEGIN Data Name TimeHigh Value 360 END
+END
+
+# Faulty wiring due to high load
+BEGIN Event
+    Name            FaultyWiringDueToHighLoad
+    Action          FaultyWire
+	Properties      DisableMessageInEscapeMode
+    Properties      PlayMessageOnce
+	BEGIN PreReq Type Weather WeatherType LightningStorm END
+	BEGIN PreReq Type DayChance Value 0.15 END
+	BEGIN PreReq Type GeneratorLoad Value 0.75 END	
+	BEGIN Data Name Percentage Value 0.03 END
+END
+
+
+# Subsidence
+BEGIN Event
+    Name            CalamitySubsidence
+    Action          WallCollapse
+	Advisor         Foreman
+    CustomMessage   event_SubsidenceFirstTime
+    Properties      PlayMessageOnce
+	Properties      DisableMessageInEscapeMode
+	ReoccurenceCooldown  10080
+    BEGIN PreReq Type SectorsExist END
+	BEGIN PreReq Type SubsidenceCondition END	
+	BEGIN Data Name Range Value 1 END
+	BEGIN Data Name CalamitySubsidenceRange Boolean true END
+	BEGIN Data Name AlwaysGenerateRubble Boolean true END
+	BEGIN Data Name MoveCameraFirstTimeOnly Boolean true END
+	BEGIN Data Name TunnelRevealChance Value 0.25 END
+	
+END
+
+
+# Calamity Heatwave
+BEGIN Event
+    Name            HeatwaveLow
+    Action          Heatwave
+	Properties      DisableMessageInEscapeMode
+
+    BEGIN PreReq Type Weather WeatherType CalamityHeatwave END
+    BEGIN PreReq Type WeatherLevel Value 1 END
+
+    BEGIN Data Name TimerSetting Value 720 END
+
+	BEGIN Data Name DoorSwellingChanceLowerBound Value 1 END
+	BEGIN Data Name DoorSwellingChanceUpperBound Value 3 END
+END
+
+BEGIN Event
+    Name            HeatwaveMedium
+    Action          Heatwave
+	Properties      DisableMessageInEscapeMode
+
+    BEGIN PreReq Type Weather WeatherType CalamityHeatwave END
+    BEGIN PreReq Type WeatherLevel Value 2 END
+
+# --------------------------------LEVEL 1----------------------------------------
+    BEGIN Data Name TimerSetting Value 720 END
+   
+	BEGIN Data Name DoorSwellingChanceLowerBound Value 3 END
+	BEGIN Data Name DoorSwellingChanceUpperBound Value 8 END
+
+# ---------------------------------LEVEL 2----------------------------------------
+
+    BEGIN Data Name MaxFaultyElectrical Value 4 END
+
+    BEGIN Data Name IndoorElectricalOverheat    Value 7 END
+    BEGIN Data Name IndoorElectricalDamageLow   Value 20 END
+    BEGIN Data Name IndoorElectricalDamageHigh  Value 60 END
+
+    BEGIN Data Name OutdoorElectricalOverheat  Value 3 END
+    BEGIN Data Name OutdoorElectricalDamageLow Value 40 END
+    BEGIN Data Name OutdoorElectricalDamageHigh Value 70 END
+
+    BEGIN Data Name ElectricalOverheatCooldown Value 60 END
+
+END
+
+BEGIN Event
+    Name            HeatwaveHigh
+    Action          Heatwave
+	Properties      DisableMessageInEscapeMode
+    BEGIN PreReq Type Weather WeatherType CalamityHeatwave END
+    BEGIN PreReq Type WeatherLevel Value 3 END
+
+# --------------------------------LEVEL 1----------------------------------------
+
+    BEGIN Data Name TimerSetting Value 720 END
+  
+	BEGIN Data Name DoorSwellingChanceLowerBound Value 5 END
+	BEGIN Data Name DoorSwellingChanceUpperBound Value 10 END
+
+# ---------------------------------LEVEL 2----------------------------------------
+
+    BEGIN Data Name MaxObjectFires Value 2 END
+    BEGIN Data Name MaxFaultyElectrical Value 8 END
+
+    BEGIN Data Name ChanceElectricalFire Value 5 END
+
+    BEGIN Data Name IndoorElectricalOverheat    Value 9 END
+    BEGIN Data Name IndoorElectricalDamageLow   Value 50 END
+    BEGIN Data Name IndoorElectricalDamageHigh  Value 90 END
+
+    BEGIN Data Name OutdoorElectricalOverheat  Value 7 END
+    BEGIN Data Name OutdoorElectricalDamageLow Value 50 END
+    BEGIN Data Name OutdoorElectricalDamageHigh Value 90 END
+
+    BEGIN Data Name ElectricalOverheatCooldown Value 120 END
+
+# ---------------------------------LEVEL 3----------------------------------------
+    BEGIN Data Name ChanceElectricalMisc Value 5 END
+    BEGIN Data Name ChanceGreenery Value 10 END
+    BEGIN Data Name FireIntensity Value 0.1 END
+
+END
+
+#Flu outbreak
+BEGIN Event
+    Name            FluOutbreak
+    Action          ApplyStatusEffect
+	ObjectId        Prisoner
+    Targets         3
+	CooldownFromLastEvent 0
+	Advisor         Doctor
+	CustomMessage   event_deepfreeze_flu_outbreak
+    Properties      PlayMessageOnce
+	Properties      DisableMessageInEscapeMode
+
+	BEGIN PreReq Type ChanceWithWeatherLevel WeatherType DeepFreeze Value 0.5 Value2 0.3 Value3 0.1 END
+	BEGIN PreReq Type Object ObjectId Prisoner Value 50 END
+	BEGIN Data Name Effect String CalamityFlu END
+    BEGIN Data Name StartValue Value 0.5 END
+	BEGIN Data Name ShowObjective Value 1 END
+END
+
+# Falling Tree
+BEGIN Event
+    Name            FallingTree
+    Action          FallingTree
+    Advisor         Foreman
+    ObjectId        PowerStation
+    Properties      PlayMessageOnce
+	Properties      DisableMessageInEscapeMode
+    BEGIN PreReq Type ChanceWithWeatherLevel WeatherType LightningStorm Value 0.20 Value2 0.30 Value3 0.40 END
+    BEGIN PreReq Type NotInEscapeMode END
+    BEGIN Data Name BigTreeChanceLevel1 Value 0.05 END
+    BEGIN Data Name BigTreeChanceLevel2 Value 0.75 END
+    BEGIN Data Name BigTreeChanceLevel3 Value 0.9 END
+END
+
+# ----------------------- DELIVERY SURPLUS ------------------------------
+# Delivery surplus building material
+BEGIN Event
+    Name            BuildingMaterialDeliverySurplus
+    Action          DeliverySurplus
+    Advisor         Foreman
+	ObjectId		Brick
+	Targets			160
+	Properties      DisableMessageInEscapeMode
+	BEGIN PreReq Type CalamitiesEnabled END
+    BEGIN PreReq Type DeliverySurplus 	ObjectId	Brick	Value	1600	END 
+END
+
+# Delivery surplus ingredient
+BEGIN Event
+    Name            IngredientsDeliverySurplus
+    Action          DeliverySurplus
+    Advisor         Foreman
+	ObjectId		Ingredients
+	Targets			240
+	Properties      DisableMessageInEscapeMode
+	BEGIN PreReq Type CalamitiesEnabled END
+    BEGIN PreReq Type DeliverySurplus 	ObjectId	Ingredients	Value	2400	END 
+END
+
+# Delivery surplus PrisonerUniform
+BEGIN Event
+    Name            PrisonerUniformDeliverySurplus
+    Action          DeliverySurplus
+    Advisor         Foreman
+	ObjectId		PrisonerUniform
+	Targets			160
+	Properties      DisableMessageInEscapeMode
+	BEGIN PreReq Type CalamitiesEnabled END
+    BEGIN PreReq Type DeliverySurplus 	ObjectId	PrisonerUniform	Value	1600	END 
+END
+
+# ----------------------- Fell of truck ------------------------------
+BEGIN Event
+    Name            CrateFellOfTruck
+    Action          FellOfTruck
+    Advisor         Foreman
+	Properties      DisableMessageInEscapeMode
+	BEGIN PreReq Type CalamitiesEnabled END
+	BEGIN PreReq Type DayChance Value 0.05 END
+	BEGIN PreReq Type LandBasedPrison END
+END
+
+# -----------------------   Pipe burst  ------------------------------
+BEGIN Event
+    Name            PipeBurstDeepFreeze
+    Action          PipeBurst
+	Advisor         Foreman
+	CustomMessage   event_pipe_burst_onboarding
+	Properties      PlayMessageOnce
+	Properties      DisableMessageInEscapeMode
+    CooldownFromLastEvent 1
+    BEGIN PreReq Type CalamitiesEnabled END
+	BEGIN PreReq Type NotInEscapeMode END
+	BEGIN PreReq Type WaterPipeFlow Value 2 END
+    BEGIN PreReq Type ChanceWithWeatherLevel WeatherType DeepFreeze Value 0.10 Value2 0.20 Value3 0.30 END
+	BEGIN Data Name IsCalamity Boolean true END
+	BEGIN Data Name LeakTime Value 300 END
+END
+
+BEGIN Event
+    Name            PipeBurstLightningStorm
+    Action          PipeBurst
+	Advisor         Foreman
+	CustomMessage   event_pipe_burst_onboarding
+	Properties      PlayMessageOnce
+	Properties      DisableMessageInEscapeMode
+    CooldownFromLastEvent 1
+    BEGIN PreReq Type CalamitiesEnabled END
+	BEGIN PreReq Type NotInEscapeMode END
+	BEGIN PreReq Type WaterPipeFlow Value 2 END
+	BEGIN PreReq Type ChanceWithWeatherLevel WeatherType LightningStorm Value 0.10 Value2 0.20 Value3 0.30 END
+	BEGIN Data Name IsCalamity Boolean true END
+	BEGIN Data Name LeakTime Value 300 END
+END

@@ -1,0 +1,41 @@
+BEGIN Window
+    NAME         ClearPlan
+    WIDTH        320
+    HEIGHT       180
+    PANEL        1
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Absolute        110
+    YPOS        Absolute        6
+    WIDTH       Absolute        100
+    HEIGHT      Absolute        30
+END
+
+BEGIN Canvas
+    NAME        confirm_message
+    XPOS        Scaled          1750
+    YPOS        Scaled          2000
+    WIDTH       Scaled          6900
+    HEIGHT      Absolute        200
+END
+
+BEGIN Button
+    NAME        cancel_button
+    CAPTION     dialog_cancel
+    XPOS        Absolute        20
+    YPOS        Absolute        130
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        ok_button
+    CAPTION     dialog_ok
+    XPOS        Absolute        180
+    YPOS        Absolute        130
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+

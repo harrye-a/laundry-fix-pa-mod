@@ -1,0 +1,102 @@
+BEGIN Window
+    NAME         GuardRank
+    WIDTH        300
+    HEIGHT       200
+    PANEL        1
+END
+
+BEGIN Custom
+    NAME         Title
+    XPOS         Scaled          0
+    YPOS         Scaled          250
+    WIDTH        Scaled          10000
+    HEIGHT       Scaled          1500
+END
+
+BEGIN Custom
+    NAME         SubTitle
+    XPOS         Scaled          0
+    YPOS         Scaled          1750
+    WIDTH        Scaled          10000
+    HEIGHT       Scaled          1000
+END
+
+BEGIN Custom
+    NAME         HelpButton
+    XPOS         Scaled          10000
+    YPOS         Scaled          0
+    WIDTH        Scaled          600
+    HEIGHT       Scaled          900
+END
+
+BEGIN Custom
+    NAME         GuardIcon
+    XPOS         Scaled          4000
+    YPOS         Scaled          2750
+    WIDTH        Scaled          2000
+    HEIGHT       Scaled          3000
+END
+
+BEGIN Custom
+    NAME         GuardLeftButton
+    XPOS         Scaled          2500
+    YPOS         Scaled          3750
+    WIDTH        Scaled          1250
+    HEIGHT       Scaled          1000
+END
+
+BEGIN Custom
+    NAME         GuardRightButton
+    XPOS         Scaled          6250
+    YPOS         Scaled          3750
+    WIDTH        Scaled          1250
+    HEIGHT       Scaled          1000
+END
+
+BEGIN Custom
+    NAME         GuardName
+    XPOS         Scaled          4000
+    YPOS         Scaled          5750
+    WIDTH        Scaled          2000
+    HEIGHT       Scaled          750
+END
+
+BEGIN Custom
+    NAME         RankName
+    XPOS         Scaled          2250
+    YPOS         Scaled          7000
+    WIDTH        Scaled          5500
+    HEIGHT       Scaled          1000
+END
+
+BEGIN Custom
+    NAME         RankLeftButton
+    XPOS         Scaled          1000
+    YPOS         Scaled          7000
+    WIDTH        Scaled          1250
+    HEIGHT       Scaled          1000
+END
+
+BEGIN Custom
+    NAME         RankRightButton
+    XPOS         Scaled          7750
+    YPOS         Scaled          7000
+    WIDTH        Scaled          1250
+    HEIGHT       Scaled          1000
+END
+
+BEGIN Custom
+    NAME         CancelButton
+    XPOS         Scaled          1000
+    YPOS         Scaled          8250
+    WIDTH        Scaled          3875
+    HEIGHT       Scaled          1000
+END
+
+BEGIN Custom
+    NAME         OKButton
+    XPOS         Scaled          5125
+    YPOS         Scaled          8250
+    WIDTH        Scaled          3875
+    HEIGHT       Scaled          1000
+END

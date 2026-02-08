@@ -1,0 +1,35 @@
+BEGIN Window
+    NAME         UpSellWindow
+    BACKGROUND   clipboard.png
+    WIDTH        370
+    HEIGHT       450
+    PANEL        1
+END
+
+BEGIN Canvas
+    NAME        message
+    XPOS        Scaled          1484
+    YPOS        Scaled          4100
+    WIDTH       Absolute        265
+    HEIGHT      Absolute        100
+END
+
+BEGIN Button
+    NAME        ok_button
+    CAPTION     dialog_ok
+    XPOS        Scaled          3243
+    YPOS        Scaled          8650
+    WIDTH       Scaled          3649
+    HEIGHT      Scaled          625
+END
+
+BEGIN Canvas
+    NAME        im_icon
+    XPOS        Absolute        40
+    YPOS        Absolute	-13
+
+
+    WIDTH       Absolute        290
+    HEIGHT      Absolute        215
+END
+

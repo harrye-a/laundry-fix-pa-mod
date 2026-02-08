@@ -1,0 +1,118 @@
+"Clink"
+>27.juni 2019
+	Clink-oppdateringen
+<->4 nye gulvfliser og 4 nye veggtyper er lagt til.
+<->Prestasjonsforbedringer som reduserer lastetidene.
+<->Økt antallet formenn som kan ansettes i større fengsler hvor formenn også lærer programmer.
+<->Nåværende gjenstander kan roteres full ut, samtidig som nye grafikker er lagt til for manglende retningsangivelser.
+<->Ny «vaktrespons»-knapp som kommanderer vakter i nærheten til et bestemt sted, noe som betyr at spillere ikke lenger behøver ekstravakter for å ta seg av hendelser. 
+<->Ny «Tunnelsøk»-knapp som kommanderer vakter til å søke i alle tunellene etter skjulte flukttuneller.  
+<->Flere hurtigrom er lagt til hurtigbyggermenyen, noe som gjør det raskere og enklere å bygge rom.
+<->Det er mye lettere å følge fangene og medarbeiderne ved at du nå kan dobbeltklikke på dem.
+
+
+Vi håper disse forbedringene gjør spillopplevelsen din enda bedre!
+
+~~~~~
+
+﻿«The Slammer»-oppdateringen
+>17.9.2019
+
+Kjære Prison Architect-spillere!
+
+På vegne av Paradox og Double Eleven håper vi alle setter pris på alt det nye innholdet i denne oppdateringen. 
+Takk for alle forslagene og ideene deres! Flere av endringene er basert på tilbakemeldingene fra dere.
+Det er lagt inn mange nettsamfunnforbedringer. Enkelte er oppført her, og andre finner dere i spillet.
+
+Vis oss på @PrisonArchitect hvordan dere bruker de nye tingene i fengslene deres! 
+
+Gaz – Leder for spilldesign hos Double Eleven.
+
+
+>[1/3] Nye gjenstander
+
+<->Nye gulvtyper: Gitter, gjørme og sci-fi.
+<->Ny og sikker dør med klaff for maten.
+<->Nye lys: Gatelys, flomlys og vegglys.
+<->Nye trær: Snødekte trær og palmetrær.
+<->Pluss andre nye gjenstander.
+
+
+>Klikk på NESTE for å se mer …
+
+
+
+>[2/3] Nye funksjoner
+
+<->Grenseløs vinduemodusalternativ.
+<->Funksjon hvor du kan flytte gjenstander.
+<->Gjenstandmenyfiltre og sorteringsknapp.
+<->Dører kan nå raskt bygges på vegger.
+<->Vakthunder og bevæpnede vakter kan bl.a. tildeles patruljeruter og soner.
+<->10 ganger ekstra spillhastighet.
+<->SuperMax-fanger er lagt til inntaket.
+<->Du kan ha to forskjellige patruljeruter som krysser hverandre.
+<->Roteringer for flere gjenstander og møbler.
+<->Forbedrede utplasseringer og logistiske bilder.
+<->Kloneverktøyregionen er forstørret.
+<->Nå kan du forske på byråkrati når du starter et nytt spill.
+<->Nå har du tilgang til mutatorer (meny) som kan justeres midt i spillet.
+<->Mange nye gjenstander!
+<->Når du starter et nytt spill kan du velge mellom snø og jungel som tema.
+<->Vakttårnene beskytter snikskytterne mot været.
+<->Ansatte og hunder har navn.
+<->Objektmenyen har en romsøkfunksjon.
+<->Nå kan du velge å ha renere fengsler.
+<->Nye hurtiglenker i HUD-feltet øverst i skjermbildet.
+<->!
+
+
+>[3/3] Og mer …
+
+<->Nå bærer snikskyttere fengselsnøkler.
+<->Fangene prioriterer dusjrom framfor dem på andre fangers celler.
+<->Videoovervåkingen viser fanger og ansatte i fengselsdirektørmodus.
+<->Vakter som er utplassert ved maskiner forlater ikke posten sin i forbindelse med ransakelser og alarmer.
+<->Vaktene åpner dører for hunder som har gått seg vill.
+<->Bokhyllen dekker lesebehovene.
+<->Viktige nøkler du kan bruke til å rotere i spillmenyene [Z] og [X] samt lukke dem [C].
+<->Celledørene i Hurtigrommet forblir åpne til rommet er ferdigstilt.
+<->Videovervåkingskameraet viser nå i retningen de peker.
+<->Rettinger på hekkebilder.
+<->Rettinger på metalldetektorer.
+<->Rettinger på vannkokeren som ikke alltid kobler seg til rørene.
+<->Støtte for modders.
+
+~~~~~~
+
+Oppdateringen «The Sneezer»
+>21. november 2019
+
+Kjære fengselsdirektører
+
+Vi håper dere liker denne oppdateringen av Prison Architect.
+Under finner dere en oppsummering av de viktigste nye gjenstandene, som blant annet broer. Vi har også forbedret kloningen og planleggingen.
+
+>[1/2] Nye gjenstander
+
+<->Nye vegger: art deco og orientalsk.
+<->Nye gulv: kalkstein, gress og steiner, sandstein, måne.
+<->Nye gjenstander: oppvaskkum, håndtørker, veggskilt, nifse trær og kirsebærtrær, kaktus, parkbenk, elghode, veiskilt, hemmelig dør i bokhyllen og mer …
+
+Klikk på NESTE å se mer …
+
+>[2/2] Nytt innhold
+
+<->Flere nye hundetyper å velge mellom, både før og mens du spiller!
+<->Mulighet til å velge veggtype for hurtigrom.
+<->Nå har spillet endelig fått BROER! Du kan legge dem over veier, vann og andre steder. Både ansatte og innsatte kan bruke dem.
+<->Daglige utbetalinger for høyrisikoinnsatte er justert: Nå får du bedre betalt for innsatte i høysikkerhetsavdelingen og forvaringsavdelingen samt dødsdømte og psykisk syke.
+<->Tomme og opptatte celler kan vises under Logistikk, via en ny knapp: «Cellestatus».
+<->Ny handling lagt til de innsattes biografier: «Eskorter til sykestuen»
+<->I Inntak får du tilbud om overførte innsatte
+<->Anvisning for besøkende lagt til i Utplassering.
+<->Nå kan du bruke flere veggtyper på grunnmurer.
+<->Kloneverktøyet har fått en overhaling! Nå kan du rotere og vende vegger og gjenstander som vises, og det klonbare området kan dekke et helt fengsel! Og du kan til og med klone mellom lagringer (BETA)! Byggehastigheten er også blitt optimalisert.
+<->Planleggingen har fått en overhaling! Lag planer, legg til dører og velg veggtype. 
+<->Bedre presentasjon av hurtigrommene. Nå får du se hvor veggene vil bli bygget.
+<->Nå kan du velge ørkentomt når du starter et nytt spill.

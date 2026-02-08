@@ -1,0 +1,55 @@
+BEGIN Window
+    NAME         topbar
+    WIDTH        770
+    HEIGHT       30
+    PANEL        1
+END
+
+BEGIN Custom
+    NAME        Tension
+    XPOS        Scaled          0
+    YPOS        Scaled          0
+    WIDTH       Scaled          1493
+    HEIGHT      Scaled          10000
+END
+
+BEGIN Custom
+    NAME        Balance
+    XPOS        Scaled          2857
+    YPOS        Scaled          0
+    WIDTH       Scaled          1818
+    HEIGHT      Scaled          10000
+END
+
+BEGIN Custom
+    NAME        Budget
+    XPOS        Scaled          4740
+    YPOS        Scaled          0
+    WIDTH       Scaled          1363
+    HEIGHT      Scaled          10000
+END
+
+BEGIN Custom
+    NAME        Day
+    XPOS        Scaled          1558
+    YPOS        Scaled          0
+    WIDTH       Scaled          1233
+    HEIGHT      Scaled          10000
+END
+
+BEGIN Custom
+    NAME        Guards
+    XPOS        Scaled          6167
+    YPOS        Scaled          0
+    WIDTH       Scaled          1363
+    HEIGHT      Scaled          10000
+END
+
+BEGIN Custom
+    NAME        Prisoners
+    XPOS        Scaled          7596
+    YPOS        Scaled          0
+    WIDTH       Scaled          1363
+    HEIGHT      Scaled          10000
+END
+

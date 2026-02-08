@@ -1,0 +1,156 @@
+ENDBENUTZERLIZENZVEREINBARUNG 
+
+Zum letzten Mal aktualisiert am 08.11.2016
+
+# WICHTIG, BITTE AUFMERKSAM LESEN
+
+DURCH ENTFERNEN DER SCHRUMPFFOLIE, UND/ODER DES JEWEL CASE-SIEGELS ODER HERUNTERLADEN, INSTALLIEREN ODER ANDERWEITIGEN NUTZUNG DIESES SPIELS ERKLÄREN SIE IHR EINVERSTÄNDNIS DER FOLGENDEN BEDINGUNGEN:
+
+Diese Endbenutzerlizenzvereinbarung (“EULA”) ist eine gesetzliche Vereinbarung zwischen Ihnen (im folgenden “Sie”, “Ihnen” oder “Endbenutzer”) und Paradox Interactive AB (“Paradox”) für das mit dieser EULA gelieferte Softwareprodukt, jede damit in Verbindung stehende Software (wie Editoren) und jedweden Spielinhalt, jedes Update oder jeden zusätzlichen Inhalt (wie z. B. Patches, herunterladbare Inhalte ((“DLC”)) und Erweiterungen), Anleitungen und jedes andere Material im Hinblick auf die Software  (das “Spiel”), darunter der einzigartige alphanumerische Code für das Herunterladen des Software-Produkts oder seube elektronische Lieferung. Sind Sie nicht mit den Bedingungen dieser EULA einverstanden, dürfen Sie dieses Spiel nicht installieren oder nutzen, kontaktieren Sie stattdessen Ihren Händler für die Rücknahme.
+
+Diese Software wird an Sie nicht verkauft, sondern nur lizenziert, unter den Bedingungen dieser EULA . Alle Rechte, die Ihnen nicht ausdrücklich durch diese Vereinbarung eingeräumt werden, verbleiben bei Paradox.
+
+Sie akzeptieren, dass Sie durch die Nutzung des Spiels anerkennen, dass sie diese EULA gelesen haben, sie verstanden haben und ihre Bedingungen akzeptieren, inklusive der Regelung in Abschnitt 5 über das Sammeln von Daten, und dass Sie versichern, ein Erwachsener zu sein und diese EULA entweder selbst akzeptieren oder für Ihren Schutzbefohlenen. Wenn Sie noch nicht volljährig sind, müssen Sie die gesetzlich notwendige Erlaubnis durch Ihre Eltern oder gesetzlichen Erziehungsberechtigten erhalten.
+
+# Diese EULA  bezieht durch Verweis die Datenschutzrichtlinien von Paradox’s sowie die
+
+(https://www.paradoxplaza.com/privacy) Mod-Richtlinien von Paradox mit ein (https://www.paradoxplaza.com/mod-policy-en). Indem Sie diese EULA akzeptieren, akzeptieren Sie die Datenschutzrichtlinien und die Mod-Richtlinien.
+
+Die Nutzung dieses Spiels kann die Erstellung eines Paradox Account (www https://accounts.paradoxplaza.com/profile/new)erfordern. Ist dies der Fall, werden Sie beim Start des Spiels oder währenddessen aufgefordert, ein Konto zu erstellen. Das Erstellen eines Paradox Account erfordert das Akzeptieren unserer Nutzungsbedingungen (https://www.paradoxplaza.com/terms-use) und Verhaltensregeln
+
+(https://www.paradoxplaza.com/rules\_conduct).
+
+Die Nutzung dieses Spiels kann das Herunterladen und Nutzen der Plattform einer dritten Partei unter den zutreffenden Bedingungen erfordern (wie z. B. Steam oder GOG Galaxy). Diese Bedingungen können die in dieser EULA in Bezug auf das Spiel gewährten Rechte einschränken.
+
+1\. Lizenzerteilung.
+
+DIESES SPIEL WIRD AN SIE LIZENIERT, NICHT VERKAUFT. Paradox behält zu jeder Zeit alle Rechte und Titel und Ansprüche in Bezug auf die Software.
+
+In Übereinstimmung mit den Bedingungen der Vereinbarung gewährt Paradox Ihnen hiermit ein nicht übertragbare und nicht-ausschließliche Recht und die Lizenz, das Spiel auf ihrem privaten Computer zu installieren, darauf zuzugreifen und es zu lediglich nichtkommerziellen Zwecken zu nutzen (sowie die Nutzung durch Familienmitglieder oder Mitglieder Ihres Haushaltes). Sie können das Spiel auf verschiedenen Computern installieren, aber es darf nur auf einem Computer zur Zeit laufen. 
+
+# 2. Zulässige Nutzung
+
+In Ergänzung zur Installation und dem Spielen des Spieles auf Ihrem PC können Sie ebenfalls unter den Bedingungen dieser EULA:
+
+i) Sogenannte “Let‘s Play Videos” erstellen, die Bilder und Klänge des Spiels enthalten, und diese öffentlich über soziale Medien wie Twitch.tv und Youtube.com zugänglich machen, ob monetaririsiert oder nicht. Soundtracks dürfen nur im Rahmen eines Let‘s Play Videos öffentlich zugänglich gemacht werden. In jedwedem Let‘s Play Video muss der folgende Urheberrechtsvermerk prominent angezeigt werden:
+
+“Game © Paradox Interactive AB www.paradoxplaza.com.” Wenn Soundtracks aus dem Spiel verwendet werden, muss der Künstler und/oder Komponist ebenfalls angeführt werden.
+
+Der Umfang dieser Erlaubnis kann sich von Zeit zu Zeit ändern und diese kann jederzeit nach dem alleinigen Ermessen von Paradox wieder zurückgezogen werden. Einige Soundtracks können ebenfalls von dieser Erlaubnis ausgenommen werden. Für mehr Informationen und die vollständigen Bedingungen für Let‘s Play Videos besuchen Sie bitte
+
+https://www.paradoxplaza.com/lets-play-policy; 
+
+ii) ausschließlich zum Zweck ihres eigenen Vergnügens und des von anderen sogenannte “User-Mods” für das Spiel erstellen, verbreiten und öffentlich zugänglich machen. Sie dürfen nicht das Spiel zusammen mit der User-Mod verbreiten und anderen Benutzern keinen Zugang zu bezahlten Inhalten des Spiels gewähren (Wie DLCs oder Erweiterungen), zu denen der Benutzer am anderen Ende ansonsten keinen Zugang hat. Weiterhin dürfen solche User-Mods nicht gegen die Rechte einer dritten Partei verstoßen, wie geistiges Eigentum oder andere Rechte wie Datenschutz oder Publicity. Es ist nicht erlaubt, sich von Benutzern am anderen Ende für User-Mods bezahlen zu lassen oder Spenden entgegenzunehmen. Der Umfang dieser Erlaubnis kann sich von Zeit zu Zeit ändern und diese kann jederzeit nach dem alleinigen Ermessen von Paradox wieder zurückgezogen werden. Für mehr Informationen und die vollständigen Bedingungen für User-Mods besuchen Sie bitte https://www.paradoxplaza.com/modpolicy-en;
+
+iii) zu Sicherungs- und Archivierungszwecken Kopien des Spiels anfertigen.
+
+# 3. Unzulässige Nutzung
+
+Solange in dieser EULA nicht anders verfügt, dürfen Sie nicht:
+
+i) Urheberrechts- oder Markenzeichen auf jedweder Kopie des Spiels entfernen oder verändern;
+
+ii) Das Spiel kopieren, mieten, verleihen, leasen, unterlizensieren oder verbreiten, außer im Rahmen der geltenden Gesetze;
+
+iii) Jedwede Sicherheitvorkehrungen deaktivieren oder umgehen, wie die digitale
+
+Rechteverwaltung, Eigentumsvermerke oder Etiketten in oder auf dem Spiel;  iv)  Das Spiel modifizieren, adaptieren, übersetzen,  zurückentwickeln (Reverse Engineering), den Source-Code erlangen, demontieren, dekompilieren oder davon abgeleitete Werke herstellen, außer im Rahmen der geltenden Gesetze;
+
+v) Cheats benutzen, entwickeln, verbreiten oder verkaufen, ein Robotprogramm verwenden (Bots) oder irgendeine andere unautorisierte Software von einer dritten Partei, die designt wurde, um das Spiel zu modifizieren; 
+
+vi) Das Spiel oder irgendwelche Teile davon für kommerzielle Zwecke ausnutzen, darunter ohne Ausnahme: (a) die Verwendung in einem Cyber Cafe, Computerspielecenter oder an irgendeinem anderen Standort und/oder (b) das
+
+Ausführen von Services im Spiel gegen Bezahlung außerhalb des Spiels, wie z. B.
+
+Power-Leveling; oder vii)  Die Nutzung des Spieles in einer Weise, die nicht mit den geltenden Gesetzen übereinstimmt.
+
+# 4. Nutzergenerierte Inhalte
+
+Einige Spiele von Paradox bieten Ihnen die Möglichkeit, Ihre eigenen Inhalte zu erstellen und anderen Nutzern zugänglich zu machen  (“Nutzergenerierte Inhalte” oder “NI”). Sie gewähren hiermit Paradox und seinen Tochtergesellschaften das nicht exklusive ausschließliche, unwiderrufliche, gebührenfreie, unterlizenzierbare und permanente Recht, Ihre NI zu nutzen, zu reproduzieren, zu modifizieren, zu verbreiten, zu übertragen, auszustrahlen, davon abgeleitete Werke herzustellen und anderweitig zu kommunizieren sowie diese öffentlich darzustellen und öffentlich auszuführen im Zusammenhang mit dem Spiel und der Werbung für das Spiel. 
+
+Paradox unterliegt keiner Verpflichtung, ihre NI zu nutzen, zu verbreiten oder weiterhin zu verbreiten, und Sie verstehen, dass Paradox Ihre NI aus jedwedem Grund beschränken oder entfernen kann.
+
+Sie erklären und garantieren, dass Ihre NI und die Ihnen für diese NI eingeräumten Rechte, keine geltenden Verträge, Gesetze oder Regelungen verletzen, und dass die NI ihre originalen Werke sind und nicht die Urheberrechte oder irgendwelche anderen Rechte dritter Parteien verletzen. 
+
+Paradox lehnt jedwede Haftung im Hinblick auf nutzergenerierte Inhalte ausdrücklich ab.
+
+Wer denkt, dass sein originales Werk als NI für eines unserer Spiele in einer Weise reproduziert wurde, die einen Urheberrechtsverstoß darstellt, kann uns per Mail darüber benachrichtigen: support@paradoxplaza.com.
+
+# 5. Sammeln von Daten
+
+Paradox kann Daten von Ihnen sammeln, wenn Sie das Spiel verwenden. Diese Informationen enthalten Ihre Steam-ID, Computer-Konfiguration, Spielverhalten und Fortschritt, den Browsertyp, Plattformtyp und die verwendete Software. Diese Daten werden von Zeit zu Zeit gesammelt, um Software-Updates zur Verfügung zu stellen sowie Produkt-Support und andere Services in Bezug auf das Spiel zu ermöglichen. 
+
+Paradox kann die gesammelten Daten verwenden zur Verbesserung seiner Produkte, Ausführung des Spiels, Analyse von Trends oder um Ihnen Services zur Verfügung zu stellen.
+
+Zusätzlich kann Paradox diese Informationen verwenden für Untersuchungen, Entwicklung,
+
+Verwaltung, Support und Marketing von Paradox-Produkten und Services. Für mehr Informationen besuchen Sie bitte Datenschutzrichtlinien unter https://www.paradoxplaza.com/privacy
+
+# 6. Support-Services
+
+Von Zeit zu Zeit und nach alleinigem Ermessen von Paradox kann Paradox Ihnen technischen Support und Community-Management-Services in Verbindung mit dem Spiel zur Verfügung stellen (“Support-Services”). Paradox behält sich das Recht vor, diese Support-Services jederzeit und aus jedwedem Grund zu ändern, auszusetzen oder zu beenden. Sie können Paradox für Support kontaktieren über support@paradoxplaza.com oder www.paradoxplaza.com/support. 
+
+# 7. Patches, Updates und Änderungen
+
+Sie anerkennen und akzeptieren, dass Paradox von Zeit zu Zeit das Spiel mit Patches oder Updates versorgen kann, um Software-Bugs oder andere Probleme zu beheben, um das Spiel auszubalancieren oder Funktionen dem Spiel hinzuzufügen/zu entfernen.
+
+# 8. Beendigung
+
+Diese Lizenz ist gültig, bis sie beendet wird.  
+
+Sie können sie jederzeit beenden, indem Sie das Spiel zusammen mit allen Kopien komplett oder teilweise vernichten und alle Komponenten entfernen.
+
+Ohne Beeinträchtigung anderer Rechte kann Paradox diese EULA jederzeit beenden, wenn Sie die Nutzungsbedingungen dieser EULA nicht befolgen. Sie dürfen das Spiel dann nicht mehr nutzen und müssen alle Kopien, Modifikationen, gedruckten oder geschriebenen Materialien und zusammengefügten Teile in jeder Form vernichten, die sie heruntergeladen haben.
+
+# 9. Beschränkte Gewährleistung
+
+Diese Beschränkte Gewährleistung steht in Ergänzung zu Ihren gesetzlichen Rechten, die unter geltenden Gesetzen in keiner Weise ausgeschlossen oder limitiert werden können, und beeinträchtigt diese nicht.
+
+Paradox garantiert, dass das Spiel zum Zeitpunkt Ihres Kaufs über die Features und Funktionen
+
+verfügen wird, die allgemein in den Produktspezifikationen auf [www.paradoxplaza.com] [] beschrieben werden sowie in der Produktdokumentation. 
+
+PARADOX GARANTIERT NICHT, DASS DAS SPIEL ODER IHRE MÖGLICHKEIT ZUR NUTZUNG STÖRUNGS- ODER FEHLERFREI SEIN WIRD. SOWEiT ES DAS GELTENDE RECHT ERLAUBT, LEHNEN WIR JEDE IMPLIZIERTE GEWÄHRLEISTUNG DER
+
+VERKEHRSFÄHIGKEIT ODER TAUGLICHKEIT FÜR EINEN BESTIMMTEN ZWECK
+
+AB.
+
+# 10. Haftungsbeschränkung
+
+Innerhalb des größtmöglichen durch geltende Gesetze erlaubten Rahmens sollen Paradox, seine Tochtergesellschaften oder Lizenzpartner für spezielle, zufällige, indirekte oder Folgeschäden irgendeiner Art nicht haftbar gemacht werden (einschließlich ohne Begrenzung für Verlust von Wirtschaftsprofiten, Wirtschaftsprofitunterbrechung, Verlust von Wirtschaftsinformationen oder jeglicher anderen Art von finanziellem Verlust), dies gilt auch für den Schaden, der durch die Unmöglichkeit, das Spiel zu spielen, entsteht, einen Defekt oder vom Spiel verursachten Schaden, einschließlich, aber nicht ausschließlich, der Kompromittierung der Einheit, auf der ihr Spiel läuft, dem Betriebssystem oder Dateien, oder falls wir nicht in der Lage sind, Support-Services zu verfügen zu stellen, selbst wenn Paradox über die Möglichkeit solcher Schäden informiert wurde. 
+
+Nichts in dieser EULA limitiert unsere Haftung Ihnen gegenüber im Todesfall oder persönlicher Verletzung durch grobe Fahrlässigkeit oder bewusste Missrepräsentation von unserer Seite.
+
+# 11. Geltendes Recht
+
+Sie stimmen zu, dass diese EULA als in Schweden erstellt erachtet und ausgeführt wird und jeglicher Disput in Bezug auf diese EULA in Übereinstimmung mit den schwedischen Gesetzen geklärt werden soll, abgesehen vom Konfliktgesetz und dem Übereinkommen über Verträge zum Internationalen Verkauf von Gütern.
+
+# 12. Schlichtung
+
+Die meisten Anliegen in Bezug auf diese EULA oder ein Spiel (“Disput”) können durch das Kontaktieren von Paradox gelöst werden www.paradoxplaza.com/support. Daher stimmen Sie zu, jeden Disput für mindestens 30 Tage informell mit Paradox zu lösen zu versuchen, bevor ein Gerichtsverfahren initiiert wird. Sollte der Disput nicht durch informelle Handlungen geklärt werden, stimmen Sie innerhalb des gesetzlich zulässigen Rahmens zu, dass die in Stockholm, Schweden, ansässige Gerichtsbarkeit exklusiv persönlich für den Gegenstand und die Klärung verantwortlich ist, und hiermit auf jegliches Recht verzichten, an jeglicher Art von Rechtsstreit in Form einer Gruppenklage oder einem Rechtsstreit, der Ähnlichkeit mit einer Gruppenklage hat, teilzunehmen.
+
+# 13. Aktualisierung dieser Bedingungen
+
+Wir können diese EULA von Zeit zu Zeit aktualisieren und werden auf unserer Webseite klar und deutlich darauf hinweisen. Mit Ihrer fortwährenden Nutzung des Spiels nach Veröffentlichung der Änderungen sind Sie einverstanden, rechtlich an diese Nutzungsbedingungen in der jeweiligen Fassung gebunden zu sein.
+
+# 14. Salvatorische Klausel
+
+Sollten einzelne Bestimmungen dieser EULA einer kompetenten Gerichtsbarkeit zufolge aus irgendeinem Grund unwirksam oder undurchführbar sein, bleibt davon die Wirksamkeit der EULA im Übrigen unberührt.  
+
+# 15. Kontakt
+
+Wenn Sie eine Frage im Hinblick auf diese EULA haben oder uns dazu Feedback geben möchten, kontaktieren Sie uns bitte über www.paradoxplaza.com/support.
+
+DIESE EULA GILT NUR IM RAHMEN DES GESETZLICH AUTORISIERTEN, INSBESONDERE DER VERBRAUCHERSCHUTZGESETZE.
+
+# Paradox Interactive AB
+
+Västgötagatan 5
+
+118 27 Stockholm
+
+SCHWEDEN
+
+[www.paradoxplaza.com]: http://www.paradoxplaza.com/
+[]: http://www.paradoxplaza.com/

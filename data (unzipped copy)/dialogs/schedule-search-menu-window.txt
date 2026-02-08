@@ -1,0 +1,96 @@
+BEGIN Window
+    	NAME         ScheduleSearchMenu
+    	WIDTH        500
+    	HEIGHT       250
+	PANEL        1
+END
+
+BEGIN Custom
+    	NAME       Title
+    	XPOS       Scaled          0
+    	YPOS       Scaled          47
+    	WIDTH      Scaled          10000
+    	HEIGHT     Scaled          1250
+END
+
+BEGIN Custom
+    	NAME       TargettedArea
+    	XPOS       Scaled          500
+    	YPOS       Scaled          1500
+    	WIDTH      Scaled          9000
+    	HEIGHT     Scaled          1000
+END
+
+BEGIN Custom
+    	NAME       StartTime
+    	XPOS       Scaled          500
+    	YPOS       Scaled          2700
+    	WIDTH      Scaled          9000
+    	HEIGHT     Scaled          1000
+END
+
+BEGIN Custom
+    	NAME       Frequency
+    	XPOS       Scaled          500
+    	YPOS       Scaled          3900
+    	WIDTH      Scaled          9000
+    	HEIGHT     Scaled          1000
+END
+
+BEGIN Custom
+    	NAME       ExistingSchedule
+    	XPOS       Scaled          500
+    	YPOS       Scaled          5500
+    	WIDTH      Scaled          9000
+    	HEIGHT     Scaled          1000
+END
+
+BEGIN Custom
+    	NAME       CurrentTime
+    	XPOS       Scaled          500
+    	YPOS       Scaled          6600
+    	WIDTH      Scaled          9000
+    	HEIGHT     Scaled          1000
+END
+
+BEGIN Custom
+    	NAME       CurrentFrequency
+    	XPOS       Scaled          500
+    	YPOS       Scaled          7700
+    	WIDTH      Scaled          9000
+    	HEIGHT     Scaled          1000
+END
+BEGIN Button
+    NAME        SaveChanges
+    CAPTION	schedulesearch_menu_SaveSelection
+    XPOS        Scaled          7000
+    YPOS        Scaled          8900
+    WIDTH       Scaled          2500
+    HEIGHT      Scaled          1000
+END
+BEGIN Button
+    NAME        ClearSchedule
+    CAPTION	schedulesearch_menu_ClearSchedule
+    XPOS        Scaled          500
+    YPOS        Scaled          8900
+    WIDTH       Scaled          2500
+    HEIGHT      Scaled          1000
+END
+
+BEGIN Button
+    	NAME       Close
+    	CAPTION    X
+    	XPOS       Scaled          9150
+    	YPOS       Scaled          180
+    	WIDTH      Scaled          450
+  	HEIGHT     Scaled          900
+END
+
+
+##BEGIN Custom
+##    	NAME       SettingsContentBox
+ ##   	XPOS       Scaled          500
+ ##   	YPOS       Scaled          1650
+ ##   	WIDTH      Scaled          9000
+ ##   	HEIGHT     Scaled          8000
+##END

@@ -1,0 +1,956 @@
+﻿
+campaigncutscene_tooltip 				(Klik om het volgende hoofdstuk van het verhaal te starten)
+campaignchapter_locked                  (Vergrendeld)
+
+
+# =============================================================================
+# Food / Palermo
+# =============================================================================
+
+campaignchapter_food                    Palermo
+
+campaignchapter_food_description        De keuken en kantine van de gevangenis zijn verwoest door een enorme brand. Als we de gevangenen niet snel eten geven, breken er grote rellen uit.\nLos de voedselcrisis op en bouw daarna de keuken en kantine opnieuw op.
+
+adviser_food_fire_1                     Er kunnen elk moment rellen uitbreken in een van onze andere faciliteiten.
+adviser_food_fire_2                     Iemand heeft brand gesticht in de gevangeniskeuken. Eerst moet de brand geblust worden om te voorkomen dat er gewonden vallen en er nog meer schade wordt aangericht.
+adviser_food_fire_3                     Gebruik de knop Noodgevallen in de taakbalk om de brandweer op te roepen.
+adviser_food_fire_4                     Blus de brand voor de hele gevangenis afbrandt!
+
+objective_food_callfirebrigade          Roep de brandweer op
+objective_food_extinguishflames         Blus de brand
+
+objective_food_callfirebrigade_description 	Om de brandweer op te roepen, klik je op Noodgevallen in de taakbalk en vervolgens op Brandweer
+objective_food_extinguishflames_description  Als je de brandweer geselecteerd hebt, richt je hun brandslangen door de H ingedrukt te houden. Hiermee kun je de brandslangen op het midden van de brand richten.\n\nProbeer de brandweermannen zo dicht mogelijk bij de brand te houden: dan kunnen ze beter blussen.
+
+adviser_food_savedon1                   Mijn god, er ligt nog een overlevende tussen het puin.
+adviser_food_savedon2					Sodeknetter, het is Don Palermo. Van alle gevangenen... moest het weer onze maffiabaas zijn.
+adviser_food_donintro2					Helaas voor hem moest de gevangenis bezuinigen en hebben we alle artsen ontslagen.
+adviser_food_donintro3				 	Gelukkig is de ziekenboeg nog wel open. Neem een paar artsen aan. Zij zullen voor Don Palermo zorgen terwijl wij deze bende opruimen.
+
+adviser_food_afterfire3                 We moeten deze rotzooi opruimen.
+adviser_food_afterfire4                 Gebruik de bulldozer om de verwoeste kantine en keuken te slopen. Je moet al het puin weghalen.
+adviser_food_afterfire6                 Wijs een vuilnisbelt naast de weg aan. Onze bouwvakkers zullen de rotzooi daar dumpen zodat de vuilniswagens alles meenemen.
+adviser_food_dismissfiremen1			Als laatste kun je de brandweermannen naar huis sturen nu de brand geblust is.
+adviser_food_gamespeed                  Het slopen van die gebouwen kan een tijdje duren. Je kunt de tijd versnellen met de knoppen onder de klok.
+
+adviser_food_todolist1					In je takenlijst vind je meer informatie over deze doelen.
+adviser_food_todolist2					Als je niet meer weet wat je precies moet doen, selecteer je het doel en verschijnen er extra instructies.
+
+objective_food_buildmedicalward_doctors Neem een paar artsen aan voor de ziekenboeg
+
+objective_food_DismissAllFiremen		Stuur de brandweer weg
+objective_food_cleararea                Ruim het puin van de brand op
+objective_food_buildgarbagearea         Wijs een vuilnisbelt aan
+objective_food_clearcanteen             Ruim het puin van de kantine op
+objective_food_clearkitchen             Ruim het puin van de keuken op
+objective_food_hiremoreworkmen			(OPTIONEEL) Neem meer bouwvakkers aan zodat het slopen sneller verloopt
+
+objective_food_dismissallfiremen_description 	Om de hulpdiensten weg te sturen, zoek je hun pictogram op aan de rechterkant van het scherm. Klik op de rode X om ze naar huis te sturen.
+objective_food_cleararea_description 	Gebruik de bulldozer om gebouwen te slopen. Je vindt hem onder de knop 'Fundering' in de taakbalk.
+
+adviser_food_familyvisit1				Uitstekend.
+adviser_food_familyvisit2 				Laten we even een kijkje nemen bij het slachtoffer.
+
+adviser_food_troublesoon1				Zonder eten zullen deze gevangenen binnen een paar dagen de boel afbreken.
+adviser_food_troublesoon2 				We moeten de gevangenis veiligstellen voor er rellen uitbreken.
+adviser_food_troublesoon3 				Dit is het scherm 'Werk'. Hier kun je bepalen waar je je bewakers wilt inzetten.
+adviser_food_troublesoon4 				Verspreid de bewakers over alle celblokken en kamers. Wijs 10 bewakers toe aan werkstations in de gevangenis. Dat is wel een mooi staaltje machtsvertoon en hopelijk ook genoeg voorlopig.
+adviser_food_troublesoon5				Ik wil ook een patrouille op de luchtplaats waar we de nieuwe faciliteiten zullen bouwen.
+adviser_food_troublesoon6				Nog één ding. Nu de kantine buiten werking is, zijn de etenswaren in een paar kratten bedorven. Gooi alles weg voor er ongedierte op afkomt.
+
+objective_food_deployguards				Zet 10 bewakers aan het werk in de gevangenis.
+objective_food_deploypatrol				Wijs 2 bewakers aan die de luchtplaats moeten patrouilleren.
+
+objective_food_deployguards_description		Om bewakers in te zetten, open je het scherm 'Werk'. Klik op een sector om een werkstation aan te maken. Het werkstation krijgt automatisch een bewaker toegewezen.
+objective_food_deploypatrol_description		Open het scherm 'Werk' en selecteer Patrouilles. Klik en sleep om je patrouilleroutes uit te stippelen.\n\nOm bewakers toe te wijzen aan een patrouille, klik je weer op een vakje in de patrouille.
+
+objective_food_dumpfood 				Loos de bedorven etenswaren.
+objective_food_dumpfood_description		Je vindt de bedorven etenswaren in de bijkeuken, in het noordoosten van de gevangenis.\n\nOm iets te lozen, klik je op het voorwerp en vervolgens op 'Lozen' in het menu dat verschijnt.
+
+adviser_food_doncantspeak1				...
+adviser_food_doncantspeak2				eeugh...
+
+adviser_food_doninfirmary0              Volgens mij probeert hij wat te zeggen.
+adviser_food_doninfirmary1				Wie van jullie klootzakken heeft dit geflikt?
+adviser_food_doninfirmary2 				Niemand, Don. Het was een ongeluk.
+adviser_food_doninfirmary3 				Hou je smoel en luister goed. Jij ook.
+adviser_food_doninfirmary4 				Zodra ik weet welke klootzak die brand heeft aangestoken, breek ik zijn nek!
+adviser_food_doninfirmary5 				Mijn tijd zit erop. Ik ga dood in dit vervloekte bed.
+adviser_food_doninfirmary6 				En iemand moet het familiebedrijf draaiende houden. De familienaam Palermo is alles wat we nog hebben. Ik vertrouw erop dat jullie weten wat je moet doen, stelletje kakkerlakken. Gesnopen?
+adviser_food_doninfirmary7				We weten wat we moeten doen, pa.
+adviser_food_donchat13					Ik ben nog niet klaar met je, Nico.
+adviser_food_donchat14					Ik zou maar uitkijken als ik jou was.
+
+adviser_food_founddrugs1				Je raadt nooit wat ik net heb gehoord.
+adviser_food_founddrugs2				Onze mannen loosden het bedorven eten. Ze ontdekten pakjes drugs en flessen alcohol in de kratten.
+adviser_food_founddrugs3				We hadden al een tijdje het vermoeden dat de familie Palermo smokkelwaar de gevangenis in wist te krijgen, maar we wisten niet hoe.
+adviser_food_founddrugs4 				Van de regen in de drup.
+
+adviser_food_rebuild1                   Er moet nog veel gebeuren. De nieuwe keuken en kantine staan boven aan het lijstje.
+adviser_food_rebuild2                   Eerst moeten we de keuken plaatsen. Je moet apparatuur installeren en chef-koks aannemen.
+adviser_food_rebuild3					Daarna moet je een nieuwe kantine bouwen.
+adviser_food_rebuild4					Zodra die klaar is, zullen de chef-koks automatisch maaltijden bereiden voor de hele gevangenis.
+adviser_food_rebuild5                   Als je niet zeker weet wat je moet doen, selecteer je het doel in je takenlijst om een paar hints te krijgen.
+
+adviser_food_fightoutro1  				Fantastisch. Zo te zien verliest de familie Palermo steeds meer leden.
+
+adviser_food_sprinklerintro1 			Dit is mogelijk een groot drugsprobleem. Maar daar kunnen we nu nog niets aan doen.
+adviser_food_sprinklerintro2 			Eerst moeten de keuken en kantine opnieuw gebouwd worden. Onze chef-koks zullen voor iedereen maaltijden bereiden. Hopelijk zal de spanning dan wat afnemen.
+adviser_food_sprinklers1                Ik vrees dat de brand aangestoken is. Dat mag niet nog een keer gebeuren.
+adviser_food_sprinklers2 				Installeer een sprinklerinstallatie in de nieuwe keuken en kantine en sluit hem aan op de de waterleiding.
+
+adviser_food_explainneeds1 				Alle gevangenen hebben zo hun behoeften. Die behoeften hebben direct invloed op hun gedrag. Nu verrekt iedereen van de honger, daarom schreeuwen ze zo.
+adviser_food_explainneeds2 				Eten heeft hun hoogste prioriteit. Je kunt de gevangenen negeren, maar dat is op eigen risico. Als gevangenen honger hebben, breken er snel rellen uit.
+adviser_food_explainneeds3 				Je kunt de behoeften van al je gevangenen in de gaten houden vanuit de optie 'Behoeften' onder het pictogram 'Verslagen', rechtsonder in het scherm.
+adviser_food_explainneeds4				Dit verslag bevat de gecombineerde behoeften van al je gevangenen. Rood geeft aan dat veel gevangenen kwaad zijn omdat er niet aan deze behoefte wordt voldaan.
+adviser_food_explainneeds5 				Het is geen verrassing dat de behoefte Eten voor vrijwel iedereen rood is. Maar er is meer: de gevangenen vervelen zich kapot (de behoefte Vermaak) en de gevangenis valt bijna uit elkaar, wat je terugziet in de behoeften Omgeving en Kleding.
+adviser_food_explainneeds6				Jij bent de gevangenisarchitect: jij bepaalt welke behoefte het belangrijkst is. Je kunt televisies in hun cellen plaatsen om de gevangenen bezig te houden en schoonmakers aannemen die de boel lekker fris houden.
+adviser_food_explainneeds7				Maar je kunt de behoeften van je gevangenen ook gewoon negeren en met een ijzeren vuist over je gevangenis regeren.
+adviser_food_explainneeds8 				Jij beslist.
+
+objective_food_needs 					(OPTIONEEL) Voldoe aan de behoeften van je gevangenen
+objective_food_handlefoodneed 			(OPTIONEEL) Voldoe aan de behoefte Eten van je gevangenen
+objective_food_handleboredomneed		(OPTIONEEL) Voldoe aan de behoefte Vermaak van je gevangenen
+objective_food_handleenvironmentneed	(OPTIONEEL) Voldoe aan de behoefte Omgeving van je gevangenen
+
+objective_food_needs_description 					Je kunt de behoeften van je gevangenen in de gaten houden door eerst op 'Verslagen' te klikken (rechtsonder in het scherm) en vervolgens op 'Behoeften'.\nJe kunt ook een gevangene selecteren om te zien welke behoeften hij heeft.\n\nBehoeften veranderen voortdurend: het is dweilen met de kraan open.
+objective_food_handlefoodneed_description 			Onze chef-koks bereiden maaltijden voor iedereen en tegen de tijd dat het weer etenstijd is, hebben alle gevangenen weer gegeten.
+objective_food_handleboredomneed_description 		Je kunt de verveling heel eenvoudig te lijf gaan door televisies in alle cellen te plaatsen. Je kunt ook een groepsruimte aanleggen met televisies en pooltafels.\n\nDaarnaast kun je ook televisies in andere gemeenschappelijke ruimtes plaatsen, zoals de kantine.
+objective_food_handleenvironmentneed_description 	Neem een paar schoonmakers aan die langzaam maar zeker de gevangenis schoonmaken.
+
+adviser_food_needssuccess1 				Je hebt laten zien dat je de behoeften van je gevangenen heel belangrijk vindt. Goed gedaan.
+adviser_food_needssuccess2 				Je hebt ondertussen vast gezien dat de meeste gevangenen nog last hebben van hun vuile kleren.
+adviser_food_needssuccess3 				Als je ook aan deze behoefte wilt voldoen, moet je een wasserette openen die langzaamaan alle vuile kleding zal wassen.
+adviser_food_needssuccess4 				Bouw een wasserette en neem meer schoonmakers aan die de kleren van je gevangenen zullen wassen.
+
+objective_food_laundry 					(OPTIONEEL) Schone kleren
+objective_food_buildlaundry 			(OPTIONEEL) Bouw een wasserette
+objective_food_hirejanitors             (OPTIONEEL) Neem genoeg schoonmakers aan voor je wasserette
+objective_food_handleclothingneed 		(OPTIONEEL) Voldoe aan de behoefte Kleding van je gevangenen
+
+objective_food_buildkitchen             Bouw een keuken (van ongeveer 12 vierkante meter)
+objective_food_buildkitchencookers      Installeer minstens vier fornuizen
+objective_food_buildkitchenfridges      Installeer minstens vier koelkasten
+objective_food_buildkitchensink         Installeer een gootsteen in de keuken
+objective_food_buildkitchenbin	 		Plaats een vuilnisbak in de keuken
+objective_food_buildkitchenwatermains 	Sluit de gootsteen aan op de waterleiding
+objective_food_buildkitchenfloor 		(OPTIONEEL) Verbeter de keukenvloer
+
+objective_food_buildkitchen_description		Je moet eerst de fundering aanleggen.
+objective_food_buildcanteen_description		Je moet eerst de fundering aanleggen.
+
+objective_Food_HireChefs				Neem minstens 8 koks aan
+objective_food_CookMeals				(Automatisch) Bereid maaltijden voor alle gevangenen
+
+objective_food_buildcanteen             Bouw een kantine (van ongeveer 20 vierkante meter)
+objective_food_buildservingtables       Plaats 2 serveerstations
+objective_food_buildcanteentables       Plaats minstens 6 tafels
+objective_food_buildcanteenchairs       Plaats 2 bankjes bij elke tafel
+objective_food_buildcanteenbin	 		Plaats een vuilnisbak in de kantine
+objective_food_buildcanteenfloor 		(OPTIONEEL) Verbeter de vloer van de kantine
+
+
+objective_food_buildsprinklers          Installeer een nieuwe sprinklerinstallatie
+objective_food_buildsprinklers1         Installeer een paar sprinklers in de keuken
+objective_food_buildsprinklers2         Installeer een paar sprinklers in de kantine
+objective_food_connectwater             Sluit de keukensprinklers aan op de waterleiding
+objective_food_connectwater2			Sluit de kantinesprinklers aan op de waterleiding
+objective_food_feedprisoners            Geef alle gevangenen te eten
+
+objective_food_buildkitchenwatermains_description   Grote leidingen zijn bestemd voor het vervoeren van grote hoeveelheden water onder hoge druk. Kleine leidingen worden gebruikt om onderdelen aan te sluiten op de waterleiding.\n\nGebruik het scherm 'Voorzieningen' om grote leidingen aan te sluiten op je gebouwen. Gebruik kleine leidingen om de grote leiding aan te sluiten op nabijgelegen apparatuur dat water nodig heeft.
+objective_food_connectwater_description             Grote leidingen zijn bestemd voor het vervoeren van grote hoeveelheden water onder hoge druk. Kleine leidingen worden gebruikt om onderdelen aan te sluiten op de waterleiding.\n\nGebruik het scherm 'Voorzieningen' om grote leidingen aan te sluiten op je gebouwen. Gebruik kleine leidingen om de grote leiding aan te sluiten op nabijgelegen apparatuur dat water nodig heeft.
+objective_food_connectwater2_description            Grote leidingen zijn bestemd voor het vervoeren van grote hoeveelheden water onder hoge druk. Kleine leidingen worden gebruikt om onderdelen aan te sluiten op de waterleiding.\n\nGebruik het scherm 'Voorzieningen' om grote leidingen aan te sluiten op je gebouwen. Gebruik kleine leidingen om de grote leiding aan te sluiten op nabijgelegen apparatuur dat water nodig heeft.
+
+campaigncutscene_foodinfirmary			Ziekenboeg
+campaigncutscene_foodfamily             Familie
+campaigncutscene_foodfeud               Ruzie
+campaigncutscene_foodregret				Spijt
+campaigncutscene_foodsuccession 		Opvolging
+
+campaigncutscene_foodfamily_description		De familie Palermo was ooit de baas van een drugskartel aan de oostkust van de VS. Leer het verhaal van Don Palermo en zijn kinderen.
+
+adviser_name_thedon                     Don Palermo
+adviser_name_thedonangry                Don Palermo
+adviser_name_nico                       Nico Tamoretti
+adviser_name_nicoshower					Nico Tamoretti
+adviser_name_nicosuited					Nico Tamoretti
+adviser_name_sonny                      Sonny Palermo
+adviser_name_sonnysuited				Sonny Palermo
+adviser_name_sonnystrangled				Sonny Palermo
+adviser_name_anthonysuited				Anthony Palermo
+adviser_name_wiggins					Wiggins
+adviser_name_nicoinfirmary				Nico Tamoretti
+adviser_name_vitalia					Vitalia Palermo
+
+cutscene_foodfamily_palermo01			Don Victor Palermo De baas van een van de meest gevreesde maffiafamilies aan de oostkust.
+cutscene_foodfamily_palermo1			De Palermo's waren de FBI tientallen jaren te slim af.
+cutscene_foodfamily_palermo02			Anthony Palermo, de oudste zoon van de Don en opvolger, stond aan het hoofd van de dagelijkse bedrijfsactiviteiten.
+cutscene_foodfamily_palermo03			Nico Tamoretti had zich niet zelf naar de top gewerkt, maar werd door de familie met open armen ontvangen toen hij met Vitalia trouwde, de enige dochter van de Don.
+cutscene_foodfamily_palermo04			En Sonny Palermo. De tweede zoon van de Don. Het nakomertje. Hij is zo opvliegend als een pitbull en helaas maar half zo slim.
+
+cutscene_foodfamily_palermo2 			Ze handelden volop in drugs, van Maine tot Florida.
+cutscene_foodfamily_palermo3			Tot Anthony op heterdaad werd betrapt.
+cutscene_foodfamily_palermo3b           Hij werd doodgeschoten door een jaloerse echtgenoot.
+cutscene_foodfamily_palermo4			Dat was niet het enige drama: de politie vond twaalf kilo onversneden cocaïne in Anthony's sporttas.
+cutscene_foodfamily_palermo5			En alle bewijzen wezen naar de top van het drugskartel.
+cutscene_foodfamily_palermo6			In één nacht had de familie Palermo alles verloren. De FBI had alles wat ze nodig hadden om de hele familie voorgoed achter tralies te zetten.
+cutscene_foodfamily_palermo7			Alleen Vitalia, de enige dochter van de Don, kreeg geen celstraf.
+cutscene_foodfamily_palermo8			We weten niet veel over haar, alleen dat ze niet betrokken was bij het familiebedrijf.
+cutscene_foodfamily_palermo9 			Maar iemand heeft van buitenaf die drugs de gevangenis binnengesmokkeld.
+
+adviser_food_findalldrugs1				Nou, er is weer eten. De gevangenen zijn vast een stuk opgewekter nu ze weer gegeten hebben.
+
+adviser_food_findalldrugs2				Ik durf te wedden dat de Palermo's die drugs doorverkochten aan de andere gevangenen.
+adviser_food_findalldrugs3				De bewakers hebben opgemerkt dat veel gevangenen afkickverschijnselen vertonen sinds de brand.
+adviser_food_findalldrugs4				Ik wil dat je elke gevangene fouilleert en elke cel doorzoekt. Ik weet zeker dat we overal drugs van de Palermo's zullen aantreffen.
+
+objective_food_findalldrugs					Vind alle drugs in de gevangenis.
+objective_food_findalldrugs_description 	Doorzoek elk celblok door op een gevangene in het celblok te klikken. Klik vervolgens op 'Celblok doorzoeken'. Je kunt ook de optie 'Grondig onderzoek' gebruiken in de taakbalk onder in het scherm.
+
+objective_food_hiremoreguards 			(OPTIONEEL) Neem meer bewakers aan zodat het zoeken sneller verloopt
+
+adviser_food_drugsfound1				Er zijn grote problemen met drugs en alcohol, maar aan de andere kant: het had een stuk erger kunnen zijn.
+adviser_food_drugsfound2				We moeten deze mannen helpen. We kunnen de symptomen maar op één manier bestrijden.
+adviser_food_drugsfound2b 				Start een behandelprogramma voor verslaafden in de ziekenboeg. Onze artsen zullen een chemische oplossing toedienen zodat de verslaafden sneller afkicken.
+adviser_food_drugsfound3				Voor de alcoholisten is helaas geen chemische vervanger, dus wij stellen voor dat ze in groepstherapie gaan.
+adviser_food_drugsfound4				Je moet een nieuwe groepsruimte bouwen voor de groepssessies.
+adviser_food_drugsfound5				Om nieuwe programma's te starten, ga je naar 'Verslagen' rechtsonder in het scherm. Selecteer nu 'Programma's'.
+
+objective_food_drugtreatment			Start een behandeling voor drugsverslaafden
+objective_food_cureaddictions			(OPTIONEEL) Genees de gevangenen van hun drugsverslaving
+objective_food_alcoholprogram			Start een programma met groepstherapie voor alcoholisten
+objective_Food_HelpAlcoholics			(OPTIONEEL) Help de alcoholisten met afkicken
+objective_food_buildcommonroom 			Bouw een groepsruimte
+objective_food_buildcommonroomchairs	Maak een groepsruimte met 8 stoelen
+
+objective_food_drugtreatment_description 	Klik op 'Verslagen' rechtsonder in het scherm en selecteer het tabblad 'Programma's'. Het programma heet 'Farmacologische behandeling van drugsverslaving' en vindt plaats in de ziekenboeg.\n\nLet op: gevangenen mogen pas deelnemen aan het programma als je minstens twee uur werktijd hebt ingesteld in het dagrooster.
+objective_food_alcoholprogram_description 	Klik op 'Verslagen' rechtsonder in het scherm en selecteer het tabblad 'Programma's'. \n\nLet op: gevangenen mogen pas deelnemen aan het programma als je minstens twee uur werktijd hebt ingesteld in het dagrooster.
+
+cutscene_food_feudintro1 				Er was een incident in de doucheruimte. Er is een lichaam gevonden.
+cutscene_food_feudintro2 				Twee lichamen zelfs. Gelukkig hebben we daar bewakingscamera's hangen.
+cutscene_food_feudintro3 				Als je tijd hebt, klik je op de foto in de douches, dan kun je zien wat er gebeurd is.
+
+objective_food_triggerfightscene		Klik op de foto in de douches om door te gaan.
+objective_food_triggerfightscene_description 	De douches bevinden zich in het noordwesten van de gevangenis.
+
+cutscene_food_feud1b                    Eindelijk alleen. Perfect.
+cutscene_food_feud1                     Je hebt wel de tijd genomen.
+cutscene_food_feud2                     Schei toch uit. Ik heb nooit begrepen wat die zus van me in jou zag.
+cutscene_food_feud2b 					Is dit haar idee? Of dat van die ouwe?
+cutscene_food_feud3                     Is dat wat je denkt, vetzak? Ik wilde niet dat hem wat overkwam. Hij is als een vader voor me.
+cutscene_food_feud3b 					Ik ben het zat dat de familie naar de klote gaat omdat jij een idioot bent.
+cutscene_food_feud4                     Die brand was bestemd voor jou.
+cutscene_food_feud5                     Dan heb ik ook iets voor jou.
+cutscene_food_feud6                     Doe niet alsof jij zo heilig bent. We weten allebei dat je me uit de weg wilde ruimen.
+cutscene_food_feud7                     Ja, jij was altijd de slimme, Nico. En moet je je nu zien. Maak je geen zorgen, je voelt er niets van.
+cutscene_food_feud8                     Dat zei ik toch. Pas op.
+cutscene_food_feud8b                    Euuegggghhhh!
+cutscene_food_feud8c                    AAARRRGGRGGGGGG!
+cutscene_food_feud8d                    Ken je Franky al? Hij is heel behendig met pianosnoeren.
+cutscene_food_feud8e                    Als hij klaar is, denkt iedereen dat het zelfmoord was.
+cutscene_food_feud9                     Ik ben nog niet klaar met je, Nico.
+cutscene_food_feud9b                    Je maakt een grap.
+
+cutscene_food_successionintro			Heel goed. We hebben veel verbeteringen doorgevoerd. We hebben de gevangenis weer onder controle.
+cutscene_food_successionintro2 			Je kunt de gevangenis verder verbeteren, maar we kunnen ook doorgaan naar het volgende gebouw.
+cutscene_food_successionintro3 			Klik op de foto in de ziekenboeg als je klaar bent om verder te gaan.
+
+objective_food_runending 				Klik op de foto in de ziekenboeg om door te gaan.
+objective_food_runending_description	De ziekenboeg bevindt zich in het zuidwesten van de gevangenis.
+
+cutscene_food_succession1				Vitalia!
+cutscene_food_succession1b				...?
+cutscene_food_succession2				Schatje!
+cutscene_food_succession3				Het spijt me. Ik heb het verknald.
+cutscene_food_succession4				Stil maar.
+cutscene_food_succession5				Ze zeggen dat pa het eind van de week niet haalt.
+cutscene_food_succession6				Ik weet het. Ik kwam afscheid nemen.
+cutscene_food_succession7				Weet je, we kunnen nu zo weglopen. Jij en ik. Wat een ellende. Alles is naar de klote.
+cutscene_food_succession8				Dat klinkt goed.
+cutscene_food_succession9				Maar ik kan niet. Ik ben een Palermo, Nico.
+cutscene_food_succession10				Nu pa er niet meer is, ben jij een buitenstaander geworden. Onze vijanden walsen zo over ons heen.
+cutscene_food_succession11 				Dat mag niet gebeuren. We moeten ze laten zien dat de Palermo's nog steeds de baas zijn.
+cutscene_food_succession12				Wat, kom je me omleggen? Na alles wat we hebben meegemaakt?
+cutscene_food_succession13				Nico, Nico, Nico. Wat ben je toch ouderwets.
+cutscene_food_succession14 				Nee, lieverd. Ik ga bij je weg.
+cutscene_food_succession15				What the fuck? Je maakt een grap. Zonder de steun van de familie ben ik ten dode opgeschreven.
+cutscene_food_succession16				Dat weet ik, schat. Maar dat is mijn probleem niet meer.
+cutscene_food_succession17				Hopelijk ga je naar een betere plek, paps.
+cutscene_food_succession18				Vaarwel, Nico.
+
+
+# =============================================================================
+# Riot
+# =============================================================================
+
+campaignchapter_riot                    G.A.B.O.S
+campaignchapter_riot_description		Er is een rel gaande in Alchemico State Prison. Ga erheen en beveilig het gebouw.
+
+campaigncutscene_riotintro              Breaking News
+
+adviser_riot_newsintro_01				Breaking news!
+adviser_riot_newsintro_02				Rellen in Alchemico State Prison - personeel en beveiliging hebben zich teruggetrokken en wachten op hulp van het leger.
+adviser_riot_newsintro_1				Er wordt een aantal personeelsleden vermist, waaronder algemeen directeur Charles Wallace.
+adviser_riot_newsintro_2				De rellen braken uit na de arrestatie van enkele belangrijke rechters...
+adviser_riot_newsintro_3				...die ervan worden beschuldigd steekpenningen te hebben aangenomen in ruil voor het opleggen van zwaardere straffen.
+adviser_riot_newsintro_4				Daarnaast beweren bronnen dat de onderwereld wordt geteisterd door een reeks moorden op belangrijke criminelen...
+adviser_riot_newsintro_5				...waaronder de moordpoging op maffiabaas Victor Palermo vorige maand.
+adviser_riot_newsintro_6				De tijdelijk waarnemer van algemeen directeur Charles Wallace is een nieuwkomer die de taak heeft gekregen om de orde te herstellen.
+adviser_riot_newsintro_7				We zullen snel zien of zijn gebrek aan ervaring voor problemen zal zorgen tijdens deze lastige crisis.
+adviser_riot_newsintro_8                Douglas Benedict, die momenteel een levenslange gevangenis uitzit, zou het brein zijn achter deze gewelddadige opstand.
+
+adviser_riot_newsintroheller_1 			Burgemeester Calvin Heller heeft zojuist deze verklaring uitgevaardigd.
+adviser_riot_newsintroheller_2 			Ter herinnering aan degenen die zo hun vraagtekens zetten bij ons beleid om gevangenen te hervormen.
+adviser_riot_newsintroheller_3 			Deze mannen krijgen onderdak en eten. Ze mogen betaalde arbeid verrichten.
+adviser_riot_newsintroheller_4 			Zo bedanken zij de belastingbetalers die hun voorzieningen financieren.
+
+campaigncutscene_riothostages			Gijzelaars
+adviser_name_riotceo					De algemeen directeur
+adviser_name_riotbenedict 				Benedict
+
+adviser_riot_hostages1					Luister goed. We hebben de directeur.
+adviser_riot_hostages1b 				Euugg...
+adviser_riot_hostages2 					Dit gaat er gebeuren. Ik vraag iets. En jullie geven het me.
+adviser_riot_hostages3					Bij problemen, als jullie iemand naar binnen sturen of als ik ook maar politie ruik, dan jaag ik hem een kogel door de kop.
+adviser_riot_hostages4 					We willen een onopvallend voertuig. Met verduisterde ramen. Een volle benzinetank. Eén uur. Ik laat nog van me horen.
+adviser_riot_hostages5 					Goed, waar waren we.
+adviser_riot_hostages5b					Wat deed je in dat kantoor?
+adviser_riot_hostages6					Ik weet van niets, ik zweer het.
+adviser_riot_hostages7					Ik ken mijn eigen spiegelbeeld goed genoeg om een leugenaar te herkennen.
+adviser_riot_hostages8					Wat hield je verborgen?
+adviser_riot_hostages9					Ik hoor hier thuis. Maar die knul... Wat heeft de maatschappij eraan om die jongen nóg langer te laten zitten?
+adviser_riot_hostages10					Je weet iets en je overleeft dit alleen door me de waarheid te vertellen.
+
+adviser_riot_hostageheller1 			Dit is onacceptabel. Iemand moet de kantine in de gaten houden.
+adviser_riot_hostageheller2 			Er is een kleine beveiligingsruimte ten noorden van de kantine. Die moeten we heroveren.
+adviser_riot_hostageheller3 			Zet een paar bewakers aan het werk die de bewakingscamera's in de gaten moeten houden zodat we het hele celblok kunnen zien.
+
+objective_Riot_MaxSecCameras			Herover de beveiligingsruimte
+
+campaigncutscene_riotroulette			Roulette
+
+adviser_riot_rouletteintro1             Er is een bewaker in de beveiligingsruimte zodat we live beelden van de bewakingscamera's kunnen zien.
+adviser_riot_rouletteintro2             Laten we de situatie eens onder de loep nemen.
+adviser_riot_click 						<klik>
+adviser_riot_roulette1					Laatste kans om hier levend vandaan te komen. Weleens Russische roulette gespeeld?
+adviser_riot_roulette2 					Twee kogels. Vier lege kamers.
+adviser_riot_roulette2b 				We speelden dit spel altijd met marmotten. We spleten hun koppen open als watermeloenen.
+adviser_riot_roulette3 					Dat zal bij jou net zo gaan.
+adviser_riot_roulette4 					We beginnen met een eenvoudige vraag. Wat deed je in dat kantoor?
+adviser_riot_roulette5 					Ik weet van niets, ik zweer het.
+adviser_riot_roulette5b 				Echt.
+adviser_riot_roulette6 					Prima. Wie gaat er eerst? Jij? Ik? Deze meneer misschien?
+adviser_riot_roulette7					Wat weet jij nou. Je bent gewoon een marmot.
+adviser_riot_roulette8 					WAT STOND ER IN DAT DOSSIER?
+adviser_riot_roulette9 					Ik zweer het! Ik weet het niet...
+adviser_riot_roulette10 				Je kunt niet altijd geluk hebben. Er zit nog een kogel in. En ik weet wat ik zag.
+adviser_riot_roulette11b 				Ik kon mijn ogen niet geloven.
+adviser_riot_roulette11c 				Niemand minder dan de grote baas, hier in mijn gevangenis. Met zijn schuldige kop.
+adviser_riot_roulette11d 				Ik denk dat er meer in dat dossier stond dan alleen mijn strafblad.
+adviser_riot_roulette11					Alsjeblieft... doe het niet.
+adviser_riot_roulette11e 				Het ziet er slecht uit voor je, Wallace.
+adviser_riot_roulette12 				Luister, ik zal je helpen.
+adviser_riot_roulette12b	 			Kappen met die onzin.
+adviser_riot_roulette13 				Jij bent, hufter. Tenzij je me vertelt wat ik wil.
+adviser_riot_roulette14 				Dat kan ik niet. Alsjeblieft.
+adviser_riot_roulette15 				Oké! Alsjeblieft! Alsjeblieft. Niet schieten. Geld. Het draaide allemaal om geld.
+adviser_riot_roulette16 				Meer niet?
+adviser_riot_roulette17 				Jullie zijn erg waardevol. Hoe langer jullie hier blijven, hoe meer geld wij krijgen. We verdraaiden de regels alleen een beetje.
+adviser_riot_roulette17b				Dat dossier was het bewijs.
+adviser_riot_roulette18 				Wat zijn we waard? Wat krijg je om ons op te sluiten?
+adviser_riot_roulette19 				73.000 dollar per jaar.
+adviser_riot_roulette20					Per gevangene? Gore klootzak. Tijd om je schuld terug te betalen.
+
+campaigncutscene_riotassault 			Uitbraak
+
+adviser_riot_assault01					Heel goed. Er moet een eind komen aan deze situatie.
+adviser_riot_assault02 					Het team staat klaar.
+adviser_riot_assault03					Ik wil mijn auto. Wallace gaat met mee. Als ik ook maar een glimp van jullie opvang, mag je hem van de snelweg schrapen.
+adviser_riot_assault2 					Goed dan, grote baas. Jij gaat mee. Ze zullen geen gekke dingen doen zolang jij naast me zit.
+adviser_riot_assault3 					Niemand zal dit overleven. Ze zijn hier niet voor jou.
+adviser_riot_assault4 					Waar heb je het over?
+adviser_riot_assault5					Ik deed het voor het geld. Maar HIJ deed het voor zijn politieke carrière. Hoe zwaarder de straffen, hoe meer stemmen hij kreeg.
+adviser_riot_assault6					Waar heb je het over?
+adviser_riot_assault7					Burgemeester Heller. Dit was zijn idee. Ik heb het alleen uitgevoerd.
+adviser_riot_assault7b 					Dat dossier vormde het bewijs dat een einde kon maken aan zijn carrière.
+adviser_riot_assault8					Je lult.
+adviser_riot_assault9 					What the fuck...
+adviser_riot_assault9b					Ze komen naar binnen, zet je schrap.
+adviser_riot_assault10					IK HEB JE VERDOMME GEWAARSCHUWD!
+
+# Riot Objectives and help text
+
+adviser_name_negotiator 				De onderhandelaar
+
+adviser_riot_negotiator1 				Het loopt helemaal uit de hand. Niemand heeft de leiding.
+adviser_riot_negotiator2 				Er zijn meerdere slachtoffers en de resterende bewakers weigeren de gevangenis binnen te gaan. We moesten ons terugtrekken.
+adviser_riot_negotiator3 				Verzin een manier om er een eind aan te maken voor het volledig uit de hand loopt.
+adviser_riot_negotiator4 				De ME is er over een paar minuten.
+
+adviser_riot_firstreinforcements1 		Het eerste team is er...
+adviser_riot_firstreinforcements2 	 	Dit zijn ME-agenten met een betere uitrusting. Gebruik deze zware jongens om de gevangenisvleugels te heroveren.
+adviser_riot_firstreinforcements3 		Er zijn ook een paar verpleegkundigen gekomen vanuit het nabijgelegen ziekenhuis.
+adviser_riot_firstreinforcements4 		Zij kunnen de ME-agenten verzorgen als ze gewond raken tijdens het heroveren van de gevangenis.
+
+objective_Riot_StopTheRiot 				Maak een eind aan de rellen
+objective_Riot_StopTheRiot_description  Niemand heeft de leiding. Jij bepaalt wat er moet gebeuren.
+
+adviser_riot_helleradvice1				Ik neem aan dat ik met de waarnemend directeur spreek?
+adviser_riot_helleradvice2 				Ik begrijp dat dit een zware tijd is en dat we allemaal onder toezicht staan. Maak je geen zorgen, ik zal je steunen en mijn manschappen staan altijd voor je klaar.
+adviser_riot_deployguards1				We hebben veel voortgang geboekt en zelfs delen van de gevangenis heroverd. Helaas zijn er doden gevallen, maar dat was onvermijdelijk.
+adviser_riot_deployguards2				Voor je verder gaat en de rest van de gevangenis herovert, moet je de heroverde vleugels opnieuw beveiligen.
+adviser_riot_deployguards3				Neem een paar bewakers aan en wijs ze toe aan de heroverde sectors vanuit het scherm 'Werk'. Zij zorgen ervoor dat de heroverde vleugels niet opnieuw in verkeerde handen vallen.
+adviser_riot_deployguards4 				Zodra je dat hebt gedaan, kun je doorgaan naar de resterende zones en de onruststokers uitschakelen. Deze beesten mogen nooit meer worden losgelaten in de maatschappij. Er valt niet mee te onderhandelen.
+adviser_riot_deployguards5 				Ik ben een bewapend actieteam aan het samenstellen dat hier snel een eind aan kan maken.
+
+adviser_riot_infirmary1 				De gevangenis ligt bezaaid met gewonden en er komen er steeds meer bij. Je kunt ze niet laten doodbloeden.
+adviser_riot_infirmary2 				Bouw een ziekenboeg op het terrein en neem artsen aan om de gewonden te behandelen.
+adviser_riot_infirmary3 				We hebben ook een aantal lichamen gezien. Geef ze een eervolle uitvaart en bouw een mortuarium om ze in te bewaren.
+adviser_riot_infirmary4					Je moet bouwvakkers aannemen voor de bouw. Zorg dat ze veilig zijn.
+
+objective_Riot_ResecureWings 			Neem bewakers aan en stuur ze naar de heroverde zones.
+objective_riot_medicalneeds				(OPTIONEEL) Geef medische verzorging
+objective_Riot_Infirmary				(OPTIONEEL) Bouw een ziekenboeg voor de gewonden
+objective_Riot_Morgue 					(OPTIONEEL) Bouw een mortuarium voor de slachtoffers
+objective_Riot_SecureGenPop				Herover de algemene groepsruimte (midden)
+objective_Riot_SecureSpecialWing		Herover de speciale vleugel (westen)
+objective_Riot_SecureMaxSec				Herover de zwaarbeveiligde vleugel (zuiden)
+objective_riot_putoutfires				Blus de brand
+
+adviser_riot_secondreinforcements1		Er zijn meer ME-agenten gearriveerd
+
+adviser_riot_armedreinforcements1		De burgemeester heeft een gewapende politie-eenheid opgetrommeld bij het nabijgelegen politiebureau.
+adviser_riot_armedreinforcements2		Pas op met die mannen. Als je ze hun gang laat gaan, wordt het pas echt een bloedbad.
+adviser_riot_armedreinforcements3		Aan de andere kant: misschien geven de gevangenen zich wel over als ze deze mannen zien.
+
+adviser_riot_reinforcementsunlocked1 	De versterking is bijna compleet.
+adviser_riot_reinforcementsunlocked2 	Je kunt nu net zoveel ME-agenten en verpleegkundigen oproepen als je zelf vanuit 'Noodgevallen' in de taakbalk.
+
+adviser_riot_cleanup1                   De gevangenis is onder controle en de relschoppers zijn teruggedrongen. Het had een stuk erger kunnen aflopen.
+adviser_riot_cleanup2                   Het wordt nog een hele klus om alles op te ruimen. Het zou fijn zijn als je even kon helpen, als je tijd hebt.
+adviser_riot_cleanup2b 					We hebben geen bouwvakkers, dus eerst moeten we arbeiders aannemen die het gebouw kunnen herstellen.
+adviser_riot_cleanup3                   Ik heb altijd gedacht dat de bewaking hier te laks was. Deze gevangenen krijgen al veel te lang te veel vrijheid. Dat stopt vandaag.
+adviser_riot_cleanup4                   Ik wil dat je een nieuwe wapenkamer bouwt en vervolgens gewapende bewakers inzet op belangrijke plekken in de gevangenis. Als de gevangenen dat zien, zullen ze wel twee keer nadenken voor ze weer voor herrie schoppen.
+adviser_riot_cleanup5                   Ik maak ook geld vrij om alle bewakers op het terrein te voorzien van volledige beschermende kleding. Onze mannen moeten zich kunnen verdedigen.
+adviser_riot_cleanup6                   We kunnen weer verder. Deze gevangenen moeten discipline worden bijgebracht. Ze hebben regelmaat nodig in hun leven. Ik stel voor dat we ze aan het werk zetten. Laat ze hun eigen rotzooi maar opruimen.
+adviser_riot_cleanup7                   Begin een werkprogramma voor de gevangenen. Ze mogen de gevangenis schoonmaken en de was doen.
+adviser_riot_cleanup7b                  Je kunt gevangenen taken toewijzen onder 'Logistiek' in de taakbalk. Selecteer het doel voor meer informatie en instructies.
+adviser_riot_cleanup8                   We hebben nog meer eisen. Veel gevangenen moeten hun fouten inzien. Bouw een nieuwe vleugel voor eenzame opsluiting.
+adviser_riot_cleanup8b                  Onze bewakers zullen de gevangenen indien nodig naar die vleugel overbrengen. Bij eenzame opsluiting kunnen gevangenen nadenken over hun fouten. Zo leren ze ook wie er hier de baas is.
+adviser_riot_cleanup9                   Vergeet het personeel niet, dat deze ellende ook moest doorstaan. Ze zijn uitgeput.
+adviser_riot_cleanup9b 					Bouw ergens een personeelsruimte waar ze kunnen herstellen.
+adviser_riot_cleanup10                  En als laatste moeten alle maatregelen binnen het budget passen. Zorg voor een positief banksaldo en cashflow.
+adviser_riot_cleanup10b 				Gevangenen zijn goedkopere arbeidskrachten. Laat ze schoonmaken, onderhoudswerkzaamheden uitvoeren, de was doen en nog meer van zulke klussen.
+adviser_riot_cleanup11                  Er is veel te doen. We waarderen je hulp.
+adviser_riot_cleanup12                  Als je denkt dat je genoeg gedaan hebt en klaar bent om verder te gaan, klik je op de foto bij de poort.
+
+adviser_riot_cleanup13 					Uitstekend gedaan. Volgens mij is de beveiliging van deze gevangenis nu een stuk strenger.
+
+objective_riot_solitary 				(OPTIONEEL) Bouw een vleugel voor eenzame opsluiting om de relschoppers te straffen
+objective_riot_armoury 					(OPTIONEEL) Stel nieuwe protocollen voor beveiliging in
+objective_riot_armoury_research			Ontgrendel de wapenkamer vanuit Bureaucratie.
+objective_riot_armoury_build 			Bouw een wapenkamer (op een veilige locatie)
+objective_riot_armoury_deploy			Zet gewapende bewakers in over heel de gevangenis
+objective_riot_armoury_armour 			Ontgrendel beschermende kleding voor al het beveiligingspersoneel
+objective_riot_armoury_tazers 			Ontgrendel tasers voor je gewapende bewakers
+objective_riot_staffroom 				(OPTIONEEL) Bouw een personeelskamer voor je uitgeputte werknemers
+objective_riot_balancebooks 			(OPTIONEEL) Zorg voor een positief saldo
+objective_riot_balancebooks_balance 	Positief saldo
+objective_riot_balancebooks_cashflow 	Positieve cashflow
+objective_riot_prisonerwork				(OPTIONEEL) Stel een werkprogramma in om te straffen
+
+objective_riot_cleaningcupboard			Bouw een schoonmaakhok
+objective_riot_laundry					Bouw een wasserette
+objective_riot_inmatesincleaning 		Wijs gevangenen aan die moeten schoonmaken
+objective_riot_inmatesinlaundry			Wijs gevangenen aan die in de wasserette moeten werken
+objective_riot_cleanprison 				Maak de gevangenis schoon
+objective_riot_providelaundry			Zorg voor schone was
+
+objective_riot_armoury_research_description		Het pictogram Bureaucratie vind je vlak boven deze takenlijst. Klik om aan de wapenkamer te beginnen: het hoofd beveiliging zal het papierwerk invullen.
+objective_riot_armoury_deploy_description       Om gewapende bewakers in te zetten, ga je naar het scherm 'Werk' en selecteer je 'Gewapende patrouille'. Klik en sleep om de patrouilles op de gewenste plek te zetten. Klik opnieuw op de patrouilles om er gewapende bewakers aan toe te voegen.
+objective_riot_armoury_guardtazers_description  De optie 'Taser-training voor bewakers' vind je onder 'Verslagen'/'Programma's'.\n\nJe bewakers moeten eerst een training volgen voor ze tasers mogen gebruiken. Je moet een klaslokaal bouwen voor deze training.
+objective_riot_prisonerwork_description         Om gevangenen aan het werk te zetten, ga je naar 'Logistiek' en dan naar 'Gevangenisarbeid'. Klik om taken toe te voegen aan groen gemarkeerde ruimtes.\n\nJe moet ook aangeven wanneer de gevangenen moeten werken. Ga naar 'Verslagen'/''Dagrooster' en voeg een aantal uur werktijd toe aan de dag. Als er werk is, zullen de gevangenen aan de slag gaan.
+
+objective_Riot_PlayerExitsMap			Klik op de foto bij de hoofdingang als je klaar bent.
+
+
+# =============================================================================
+# Conviction
+# =============================================================================
+
+campaigncutscene_convictionheist        Overval
+campaigncutscene_convictionmorgan       Morgan
+campaigncutscene_convictionvisitation   Bezoek
+campaigncutscene_convictionsuicide      Zelfmoord
+
+campaignchapter_conviction              Veroordeling
+campaignchapter_conviction_description  Een van onze gevangenen wordt nauwlettend in de gaten gehouden. Henry Morgan, Benedicts handlanger. Hij heeft dertien maanden uitgezeten van een celstraf van vijf jaar. Help ons voor deze mannen te zorgen.
+
+adviser_name_benedictarmed              Benedict
+adviser_name_morgan                     Henry Morgan
+adviser_name_morganarmed				Henry Morgan
+adviser_name_morganhappy                Henry Morgan
+adviser_name_senator                    Senator Walter Hurst
+adviser_name_detective                  Detective
+adviser_name_kerry 						Kerry Morgan
+adviser_name_hurst 						Dokter Walter Hurst
+adviser_name_keane 						Agent Keane
+
+adviser_conviction_heist1               Pak het geld, knul.
+adviser_conviction_heist2               Laat je wapens vallen. Nu!
+adviser_conviction_heist2b				O, shit.
+adviser_conviction_heist3               Schiet dan, verdomme!
+adviser_conviction_heist4               Waar wacht je op? Schiet dan, mietje!
+adviser_conviction_heist6               Stelletje klootzakken.
+adviser_conviction_heist7               Niet schieten! Niet schieten!
+adviser_conviction_heist8               HANDEN OMHOOG, HUFTERS!
+adviser_conviction_heist9               Doe precies wat ik zeg, begrepen?
+adviser_conviction_heist10              Shit, shit, SHIT!
+adviser_conviction_heist11              Niet schieten! NIET SCHIETEN!
+
+conviction_intro_1                      Na de recente tragedie bij Alchemico State Prison zet de politiek ons onder veel druk.
+conviction_intro_2                      Ik wil dat jij de touwtjes in handen neemt, in ieder geval tot we een blijvende vervanger voor de algemeen directeur hebben gevonden.
+conviction_intro_3                      Er hebben al een paar gevangenen zelfmoord gepleegd en het is goed te zien waarom. Maar er is een dringender probleem.
+conviction_intro_4                      Onze meerderen hebben besloten om een nieuwe lading gevangenen te sturen. De eerste groep komt morgenochtend al aan, maar we kunnen ze nergens kwijt.
+conviction_intro_5                      Bouw een gloednieuw celblok met genoeg ruimte voor de nieuwe gevangenen.
+conviction_intro_5b 					Ik heb hier een mogelijk ontwerp voor het nieuwe celblok neergelegd. Dit zijn genoeg nieuwe cellen om de nieuwe gevangenen in kwijt te kunnen. Er zit zelfs een nieuwe doucheruimte bij.
+conviction_intro_5c 					Maar je mag zelf kiezen of je dit ontwerp volgt of iets totaal anders doet.
+conviction_intro_6                      Het is mijn taak om ervoor te zorgen dat deze mannen het goed hebben. Bouw eerst dat nieuwe celblok, daarna kijken we weer verder.
+
+unused_conviction_intro_4                      Een van onze gevangenen wordt nauwlettend in de gaten gehouden. Henry Morgan, Benedicts handlanger. Hij heeft dertien maanden uitgezeten van een celstraf van vijf jaar.
+unused_conviction_intro_7						Ik wil hem spreken. Ik wil niet dat er nog een gevangene zelfmoord pleegt.
+
+conviction_workintro1                   We hebben deze mannen veel te lang schofterig behandeld. Daar komt nu een eind aan.
+conviction_workintro2                   De vorige algemeen directeur was geen voorstander van de hervorming van gevangenen. Ik vind juist dat we deze mannen een nieuwe toekomst moeten gunnen.
+conviction_workintro3                   We moeten ze vaardigheden leren en basisonderwijs aanbieden waarmee ze beter kunnen slagen in de buitenwereld.
+conviction_workintro4                   We moeten stageplekken voor ze creëren. Leer deze mannen handige vaardigheden zodat ze na vrijlating een toekomst hebben.
+
+
+conviction_hurst1 						Het gebrek aan betrokkenheid in deze gevangenis is schokkend. De mannen hebben hebben alle menselijkheid verloren.
+conviction_hurst2 						Niemand leeft met ze mee of heeft respect voor ze.
+conviction_hurst3 						Dit verdienen ze niet.
+conviction_hurst4 						Inderdaad, commandant. Zo behandel je een mens niet. Niemand denkt nog aan ze.
+conviction_hurst4b 						Waarom zouden ze zich aan onze regels houden? Het is niet meer dan vanzelfsprekend dat ze zich zullen verzetten.
+conviction_hurst4c						We hebben klaslokalen en afkickprogramma's nodig. Een werkplaats waar ze iets kunnen leren waar ze trots op zijn.
+conviction_hurst6 						Je begrijpt me niet helemaal, dokter. Deze mannen zijn niet menselijk. Kijk zelf maar.
+conviction_hurst6b 						Opstaan, Morgan.
+conviction_hurst7 						Je hebt bezoek.
+conviction_hurst8 						Rehabiliteren? Je kunt net zo goed apen leren banjo spelen.
+
+conviction_hurst10 						Hoe heet je, jongen?
+conviction_hurst10b                     Hij vroeg je iets.
+conviction_hurst11 						Henry, meneer.
+conviction_hurst12 						Het is hier zeker heel koud, Henry. Trek dit maar aan.
+conviction_hurst13 						Luizen in het bed, meneer. Ze vreten me op. Het shirt houdt de ratten tegen. Ik heb nog nooit zulke grote ratten gezien.
+conviction_hurst14 						Noem me maar Walter.
+conviction_hurst15 						Kun je hier slapen?
+conviction_hurst16 						Ik slaap nooit. Ik kan hier alleen denken. Meer dan genoeg tijd om te denken.
+conviction_hurst16b                     Waar denk je aan?
+conviction_hurst16c                     Meestal aan doodgaan. En aan mijn kleine meisje.
+conviction_hurst17 						Je moet sterk voor haar zijn, Henry. Dit is voor haar ook heel moeilijk.
+conviction_hurst18 						Ik zit al haar hele leven opgesloten. Ze weet niet eens dat ik besta.
+conviction_hurst19 						Het is nooit te laat om te veranderen, Henry.
+conviction_hurst19b 					Ik wil je graag nog een keer bezoeken, als dat mag.
+conviction_hurst20 						Ja, meneer. Dank u wel, meneer.
+conviction_hurst21 						Kunnen we iets aan die ratten doen? We wonen niet in een ontwikkelingsland.
+conviction_hurst22 						Ik zal wat rattengif halen.
+
+conviction_visitationintro_1            Ik heb mijn meerdere overgehaald om een uitzondering te maken voor Morgan. Hij mag familieleden ontvangen.
+
+conviction_visitation_0					Hallo, meneer. Kerry Morgan, ik kom voor Henry Morgan.
+conviction_visitation_1					Achter de streep.
+conviction_visitation_2 				Het spijt me. Ik kom voor Henry. Henry Morgan. Hij is mijn man, meneer.
+conviction_visitation_3 				Ik zeg het niet nog een keer. Achter de streep. Nu.
+conviction_visitation_4 				Ja, meneer. Sorry, meneer.
+conviction_visitation_5 				Oké. Kom maar naar voren. Ik heb niet de hele dag.
+conviction_visitation_6					Naam.
+conviction_visitation_7					Kerry Morgan, meneer. Ik kom voor Henry Morgan. Dit is zijn dochtertje.
+conviction_visitation_8					Ga je dat tegen hem zeggen? Kom maar verder.
+conviction_visitation_8a                Kerry!
+conviction_visitation_9					Ik ben bang dat er een fout is gemaakt. Morgan mag geen bezoek meer ontvangen.
+conviction_visitation_9b 				Wat?
+conviction_visitation_9c 				Het spijt me. We hebben vanmorgen drank in zijn cel gevonden. Ik kan er niets aan veranderen.
+conviction_visitation_10				Ik heb twee uur gereden. Mijn dochtertje moet huilen. Dit is niet eerlijk.
+conviction_visitation_11				Eerlijk? Je bent in een gevangenis. Eerlijkheid is iets wat je in de kleuterklas leert. Hier gaat niets er eerlijk aan toe.
+conviction_visitation_12				Wil je hem dit geven. alsjeblieft?
+conviction_visitation_13                Natuurlijk. Hij mag voorlopig geen bezoek. Kan ik een bericht doorgeven?
+conviction_visitation_14                Nee, niets.
+
+conviction_visitation_angrymorgan0		Nee!
+conviction_visitation_angrymorgan1		Wacht!
+conviction_visitation_angrymorgan2		Dit kun je niet maken!
+conviction_visitation_angrymorgan3		Laat me met haar praten!
+conviction_visitation_angrymorgan4		Stelletje klootzakken!
+
+conviction_helpinmates_1                Dat is een teleurstelling.
+conviction_helpinmates_2                Het is zo lastig om deze mannen echt te kunnen helpen. Ze moeten leren voor zichzelf te kunnen zorgen.
+conviction_helpinmates_3                Het is duidelijk dat we iets aan de bezoekersruimte moeten doen. De families staan buiten in de rij. We kunnen de enorme hoeveelheid bezoekers nu niet aan.
+conviction_helpinmates_4                Bouw een gloednieuwe bezoekersruimte. Het zal de gevangenen goed doen, ondanks de problemen bij Morgan. En hij is niet de enige gevangene met familie.
+conviction_helpinmates_5                Ik heb wat onderzoek gedaan en ik sta ervan versteld dat de meeste gevangenen amper kunnen lezen of rekenen. Hier moeten we meteen wat aan doen.
+conviction_helpinmates_6                Bouw een nieuw klaslokaal en neem leraren aan om ze basislessen te geven. Zonder onderwijs zullen deze gevangenis nooit een vak leren om aan de criminaliteit te ontsnappen.
+conviction_helpinmates_7                We moeten de enorme toestroom gevangenen ergens kwijt. Blijf de gevangenis uitbreiden zodat elke gevangene een fatsoenlijke cel krijgt.
+
+conviction_outro1                       We hebben al veel verbeterd. We hebben de gevangenen een doel gegeven waar ze naartoe kunnen leven: een reden om door te zetten.
+conviction_outro2                       Als je wilt, kun je blijven en zelf zien hoe de eerste groep gevangenen het onderwijs- en werkprogramma volgen.
+conviction_outro3                       Maar ik denk dat wij het zelf ook wel afkunnen. Klik op de polaroid in Morgans cel als je klaar bent om weg te gaan.
+
+conviction_secondvisit_1                Ik hoopte je al bij een van mijn sessies te zien.
+conviction_secondvisit_2                Ik kan het niet meer. Ik kan niet langer in deze hel blijven.
+conviction_secondvisit_3                Bekijk het per dag.
+conviction_secondvisit_4                Ik bedoel alles. Dit hier binnen. En daarbuiten. Ik mag mijn familie niet eens zien. Ik heb het verknald en dat kan ik niet ongedaan maken.
+conviction_secondvisit_5                Henry, het komt wel weer goed. Ik sta altijd achter je.
+conviction_secondvisit_6                Grappig. Dat zei hij toen ook.
+conviction_secondvisit_7                Wie, Henry? Je kunt me alles vertellen.
+conviction_secondvisit_8                Hij beschermde me.
+conviction_secondvisit_9                Al toen we klein waren.
+conviction_secondvisit_10               Ga niet door het lint. Wat er ook gebeurt, knul...
+conviction_secondvisit_11               Ik sta altijd achter je.
+conviction_secondvisit_11b 				Achter me?
+conviction_secondvisit_12               Hij staat er niet meer.
+conviction_secondvisit_13               Ik heb een voorstel. Kom naar de volgende groepssessie. Misschien mag je dan weer bezoek ontvangen.
+conviction_secondvisit_14               Kunt u dat voor me regelen, meneer?
+conviction_secondvisit_15               Niet alleen voor jou, Henry.
+
+conviction_suicide_1 					Sorry meneer, ik vond dat u het moest weten. Er heeft weer een gevangene zelfmoord gepleegd.
+conviction_suicide_2					Zo te zien heeft een van de gevangenen rattengif opgegeten.
+conviction_suicide_3					Dokter Hurst is onderweg om het te bevestigen.
+conviction_suicide_4					Is ze niet het mooiste dat je ooit hebt gezien?
+conviction_suicide_5					Ik denk het wel.
+conviction_suicide_6					Het is nooit te laat om te veranderen.
+
+objective_conviction_expandcapacity50			Leid de toestroom van nieuwe gevangenen in goede banen
+objective_conviction_expandcapacity50_description	Ga naar 'Blauwdrukken' in de taakbalk om een mogelijke indeling van het nieuwe celblok te zien.
+objective_conviction_expandcapacity_cells	 	Bouw cellen voor 40 gevangenen
+objective_conviction_expandcapacity_shower		Bouw een doucheruimte
+objective_conviction_expandcapacity_yard		Bouw een luchtplaats
+objective_conviction_expandcapacity_intake		Wacht tot de volgende groep wordt gebracht
+
+objective_conviction_workprogram 				Start een trainingsprogramma waarbij gevangenen vaardigheden leren
+objective_conviction_unlocklabour				Geef toestemming voor gevangenisarbeid vanuit Bureaucratie.
+objective_conviction_work_trainkitchen			(OPTIONEEL) Geef 5 gevangenen een opleiding in keukenveiligheid en -hygiëne
+objective_conviction_work_kitchen				Wijs gevangenen aan die in de keuken moeten werken
+objective_conviction_work_workshop				Bouw een werkplaats
+objective_conviction_work_trainworkshop			(OPTIONEEL) Laat 10 gevangenen een veiligheidsinstructie in de werkplaats doorlopen
+objective_conviction_work_assignworkshop		Wijs gevangenen aan die in de werkplaats moeten werken
+objective_conviction_work_produceplates			(OPTIONEEL) Produceer 100 nummerborden
+objective_conviction_work_exportszone			Wijs een verkoopzone aan langs de weg
+objective_conviction_work_setintake             Stel het opnameniveau van gevangenen in op 10 per dag
+
+objective_conviction_unlocklabour_description	 Je opent het scherm Bureaucratie door op het pictogram boven deze takenlijst te klikken.
+objective_conviction_work_kitchen_description	 Om gevangenen in de keuken te plaatsen, open je 'Logistiek' en selecteer je 'Gevangenisarbeid'.\n\nLet op: je gevangenen moeten eerst de cursus 'Keukenveiligheid en -hygiëne' afronden voor ze in de keuken mogen werken.
+objective_conviction_work_assignworkshop_description 	Om gevangenen naar de werkplaats te sturen, open je eerst 'Logistiek' en vervolgens 'Gevangenisarbeid.'\n\nJe gevangenen moeten de eerst de veiligheidsinstructie in de werkplaats doorlopen om er te mogen werken.
+objective_conviction_work_trainkitchen_description 		Om trainingen te geven en hervormingsprogramma's uit te voeren, ga je naar 'Verslagen' (rechtsonder in het scherm) en vervolgens naar 'Programma's'. Gevangenen zullen deze programma's bijwonen tijdens hun aangewezen werktijd.\n\nLet op: gevangenen mogen pas deelnemen aan het trainingsprogramma als je minstens twee uur werktijd hebt ingesteld in het dagrooster.
+objective_conviction_work_trainworkshop_description 	Om trainingen te geven en hervormingsprogramma's uit te voeren, ga je naar 'Verslagen' (rechtsonder in het scherm) en vervolgens naar 'Programma's'. Gevangenen zullen deze programma's bijwonen tijdens hun aangewezen werktijd.\n\nLet op: gevangenen mogen pas deelnemen aan het trainingsprogramma als je minstens twee uur werktijd hebt ingesteld in het dagrooster.
+objective_conviction_work_setintake_description         Om te voorkomen dat de gevangenis overvol raakt, open je 'Verslagen' (rechtsonder in het scherm) en klik je op 'Toestroom'. Gebruik de <<-knop om het maximale aantal nieuwe gevangenen te verlagen naar 10.
+
+objective_conviction_visitation				Verbeter de bezoekersvoorzieningen
+objective_conviction_visitationroom	        Bouw een nieuwe bezoekersruimte
+objective_conviction_visitationcount		Maak 20 familiebezoeken van gevangenen mogelijk
+objective_conviction_telephones	 			Plaats telefoons in alle luchtplaatsen
+objective_conviction_mailroom				Bouw een postkamer
+objective_conviction_mailroomwork			Wijs gevangenen aan die in de postkamer moeten werken
+
+objective_conviction_mailroomwork_description           Om gevangenen aan het werk te zetten in de postkamer, ga je naar 'Logistiek' en dan naar 'Gevangenisarbeid'.
+
+objective_conviction_education				Laat je gevangenen onderwijs volgen
+objective_conviction_unlockeducation		Geef toestemming voor 'Onderwijs' via Bureaucratie.
+objective_conviction_education_classroom	Bouw een klaslokaal
+objective_conviction_education_class 		Organiseer een les in het basisonderwijs
+objective_conviction_education_learn		(OPTIONEEL) Laat 5 gevangenen slagen voor het basisonderwijs
+objective_conviction_education_library		Bouw een bibliotheek
+objective_conviction_education_librarywork	Wijs gevangenen aan die in de bibliotheek moeten werken
+objective_conviction_education_chapel		Bouw een kapel
+objective_conviction_education_spiritual	Organiseer een les in spiritualiteit
+
+objective_conviction_expandcapacity100			Vergroot de capaciteit van de gevangenis
+objective_conviction_expandcapacity_cells100	Breid uit tot 80 cellen
+objective_conviction_expandcapacity_cells200	(OPTIONEEL) Breid uit tot 120 cellen
+
+objective_Conviction_PlayerExitsMap         Klik op de polaroid in Morgans cel als je klaar bent.
+
+
+# =============================================================================
+# Epilogue
+# =============================================================================
+
+campaignchapter_epilogue                Op eigen benen
+campaigncutscene_epilogueintro          Terugkeer
+campaigncutscene_epilogueoutro          Epiloog
+
+campaignchapter_epilogue_description    Een historische gevangenis zal worden gesloopt en vervangen. Gebruik al je verkregen vaardigheden om de ultieme gevangenis te bouwen.
+
+adviser_name_reporter 					Verslaggever
+
+epilogue_newsintro1 					Vandaag bij CNDC Nieuws: een speciaal verslag over de toestand in onze gevangenissen.
+epilogue_newsintro2 					Het is alweer twee jaar geleden dat de beruchte belegering van Alchemico meerdere mensen het leven kostte, waaronder algemeen directeur Charles Wallace.
+epilogue_newsintro4 					Vandaag vragen we vooraanstaande experts het hemd van het lijf en vertellen ze ons wat er is precies veranderd na die tragische dag.
+epilogue_newsintro5 					Eerst gaan we naar een van de oudste gevangenissen van de staat die binnenkort gesloopt zal worden.
+epilogue_newsintro6						Live op CNDC Nieuws.
+
+epilogue_reporter1						Bedankt, Sarah. In deze gevangenis hebben de beruchtste criminelen van het land opgesloten gezeten.
+epilogue_reporter2 						Maar nu zullen deze muren worden afgebroken en zal de instelling worden vervangen door een nieuw gevangeniscomplex.
+epilogue_reporter3 						Achter me zie je dat de bouwvakkers er al zijn en dat de sloop reeds is begonnen.
+epilogue_reporter4 						Ik ben hier met de burgemeester, Calvin Heller. Mr Heller, bedankt voor uw tijd.
+epilogue_reporter5 						Geen dank.
+
+epilogue_reporter6 						U bent altijd al een voorstander geweest van zware straffen en meer discipline in de gevangenissen.
+epilogue_reporter6b 					Waarom wordt er een faciliteit gesloopt die het rolmodel was voor andere, strenge gevangenissen?
+epilogue_reporter7 						Zowel de gevangenis zelf als de idealen waren verouderd.
+epilogue_reporter8 						We hebben besloten om het geheel te vervangen door een gloednieuwe instelling. Eén met een modern beleid.
+epilogue_reporter9						Deze gevangenis was een aantal jaren geleden nog in het nieuws omdat het een van de laatste gevangenissen van de staat was waar gevangenen werden geëxecuteerd.
+epilogue_reporter10 					Activisten hebben alles op alles gezet om de doodstraf in deze staat te laten verbieden. Zult u hen in het gelijk stellen of zullen er ook in de nieuwe faciliteit gevangenen geëxecuteerd worden?
+epilogue_reporter12 					Daar zijn we nog niet over uit. Het is een besluit dat we niet halsoverkop willen nemen.
+
+epilogue_reporterend1 					Dank u wel, burgemeester Heller. Terug naar de studio.
+epilogue_newstransition1 				Dit is CNDC Nieuws met een live reportage over de staat van ons gevangenissysteem.
+epilogue_newstransition2 				Na de reclame spreken we dokter Walter Hurst, een specialist in psychologie en rehabilitatie in gevangenissen.
+
+epilogue_parole1 						Nog steeds niets? Hoe lang al?
+epilogue_parole2						Ik ben de tel kwijt. Geen telefoontjes. Geen brieven.
+epilogue_parole3 						Het spijt me, Morgan. Dat is vast pijnlijk. Maar je hebt een kans. Verpest het niet.
+epilogue_parole4 						Henry. Succes.
+epilogue_parole5 						Vertel ze niet wat ze volgens jou willen horen.
+epilogue_parole6 						Ik moet gaan. Ik ben over een minuut live in de uitzending.
+epilogue_parole7                        Burgemeester Heller, wat is uw mening?
+epilogue_parole10 						Dat was snel!
+epilogue_parole11 						En?
+epilogue_parole12                       ...
+
+epilogue_outro_1 						Welkom terug bij deze speciale uitzending van CNDC Nieuws, live met burgemeester Calvin Heller.
+epilogue_outro_2 						Dokter Walter Hurst is ook te gast. Hij wordt ervan beschuldig om grote sommen geld te hebben verkwist aan een nieuw gevangenissysteem.
+epilogue_outro_2b 						Dr Hurst, denkt u dat uw plannen succesvol zijn?
+epilogue_outro_3						Succesvol? Nee, over het algemeen niet.
+epilogue_outro_4						Ik denk echter dat iedereen zijn leven kan beteren. En dat wij hen die kans moeten geven.
+epilogue_outro_4b 						Ik kan met volle overtuiging zeggen dat ik een grote verbetering zie in de houding en hoop van veel gevangenen.
+epilogue_outro_5						Opsluiting moet criminelen afschrikken. Het moet geen mogelijkheid zijn om te ontwikkelen of te veranderen.
+epilogue_outro_6 						Door ze tijdens hun celstraf te straffen en te ontmenselijken voed je alleen maar hun behoefte om misdaden te plegen.
+
+epilogue_outro_7						We leren deze mannen waardevolle vaardigheden en belangrijker nog: we geven ze hoop.
+epilogue_outro_7b  						We helpen ze hun plek te vinden in de maatschappij, waar ze ook aan kunnen bijdragen.
+epilogue_outro_8						Brave burgers krijgen geen gratis opleiding. Gratis onderwijs. Gegarandeerd betaald werk.
+epilogue_outro_8b 						We verwaarlozen de slachtoffers van misdrijven en belonen te daders.
+epilogue_outro_8c 						We geven grote sommen geld uit om deze criminelen meer zelfvertrouwen te geven.
+epilogue_outro_9						We kunnen een verschil maken, zelfs al kunnen we maar één individu per keer helpen.
+epilogue_outro_10						Deze mannen hebben hun vrijheid niet verdiend. Hun onafhankelijkheid.
+epilogue_outro_11						Je kunt je kat wel honderd keer vertellen om de vogeltjes in je tuin met rust te laten, maar hij zal altijd terugkomen.
+epilogue_outro_12 						Dat is de aard van het beestje.
+
+epilogue_sandbox_1                      Gefeliciteerd met uw benoeming tot algemeen directeur. Dit is een grote kans. Een nieuw begin.
+epilogue_sandbox_2                      Jij hebt alle touwtjes in handen. Meer gevangenen. Hogere recidivecijfers. Er staan je veel uitdagingen te wachten.
+epilogue_sandbox_3						Sloop de dodencellen. Of laat ze staan en doe er iets nuttigs mee. Jij beslist. Als jij niemand executeert, doet een ander het wel.
+epilogue_sandbox_4						Wat doelstellingen betreft: ik geef je dezelfde doelen als je voorganger. Winst, recidivecijfers, capaciteit.
+epilogue_sandbox_5 						Je bepaalt zelf hoe je die doelen bereikt.
+epilogue_sandbox_5b                     Nog één ding. De vorige algemeen directeur, Charles Wallace, heeft een brief achtergelaten die hij altijd aan nieuwe architecten gaf.
+epilogue_sandbox_5c                     Hij had een paar goede adviezen. Misschien heb je er wat aan.
+epilogue_sandbox_6						Succes!
+
+objective_epilogue_grants				Zamel geld in met behulp van subsidies.
+objective_epilogue_grants_description   Subsidies vormen een belangrijke manier om grote sommen geld in te zamelen waarmee je je gevangenis kunt bouwen.\n\Onder 'Verslagen' en 'Subsidies' (rechtsonder in het scherm) vind je een hele rits subsidies. Sommige bedrijven geven je geld om bepaalde delen van je gevangenis vanaf het begin op te bouwen.
+
+objective_epilogue_certifiedprison		Bouw een gevangenis
+objective_epilogue_capacity				Minstens 100 gevangenen
+objective_epilogue_bankbalance			Banksaldo van ten minste $ 60.000
+objective_epilogue_cashflow				Positieve netto cashflow
+
+epilogue_outrointro_1                   Je bent meteen goed begonnen.
+epilogue_outrointro_2                   Als je in de buurt van een tv bent, moet je hem nu aanzetten. Ik wil je iets laten zien.
+
+epilogue_basiccompletion_1 				Je voldoet aan de minimumeisen voor een staatsgevangenis. Je mag zelf bepalen wat je nu doet.
+epilogue_basiccompletion_2 				Je mag nu zelf bepalen hoe jij en je bedrijf verdergaan.
+epilogue_basiccompletion_3 				De burgemeester geeft maar om één ding: het recidivecijfer.
+epilogue_basiccompletion_4	 			Als je de recidivecijfers van je gevangenen kunt verlagen, noem ik dat een groot succes.
+epilogue_basiccompletion_5 				Mensen als dokter Hurst denken dat je dat alleen kunt bereiken door middel van onderwijs, rehabilitatie, trainingen, enzovoorts.
+epilogue_basiccompletion_6 				Ik vind dat straffen net zo effectief kunnen zijn.
+epilogue_basiccompletion_8 				Jij beslist. Veel succes!
+epilogue_basiccompletion_9 				Wanneer je klaar bent, klik je op de polaroid op de weg om de gevangenis te verlaten.
+
+objective_epilogue_reoffending			(OPTIONEEL) Verlaag het recidivecijfer van je gevangenen
+objective_epilogue_reoffending_description	Je vind je recidivecijfers terug in het scherm 'Gevangeniscijfers'. Klik op het pictogram linksboven in het scherm.
+
+objective_epilogue_reoffending_rate		Verlaag het recidivepercentage naar 30% of minder
+objective_epilogue_reoffending_released	Laat minstens 10 gevangenen vrij
+
+objective_Epilogue_PlayerExitsMap				Wanneer je denkt dat je genoeg hebt gedaan, klik je op de polaroid op de weg om verder te gaan.
+objective_epilogue_playerexitsmap_description	De polaroid vind je op de weg nabij de leveringszone.
+
+
+# =============================================================================
+# Credits
+# =============================================================================
+
+campaigncutscene_epiloguecredits        Credits
+
+credits_createdby1                      - Ontwikkeld door -
+credits_createdby2                      Chris Delay
+credits_producer1                       - Gemaakt door -
+credits_producer2                       Mark Morris
+credits_art1                            - Illustraties -
+credits_art2                            Ryan Sumo
+credits_sound1                          - Geluid -
+credits_sound2                          Alistair Lindsay
+credits_screenplay1                     - Screenplay -
+credits_screenplay2                     Chris Hastings
+credits_programmers                     - Programmers -
+credits_programmers1                    John Knottenbelt
+credits_programmers2                    Leander Hambley
+credits_programmers3                    Gary Chambers
+credits_programmers4                    Andrew Lim
+credits_programmers5                    Jeffrey Sheen
+credits_programmers6                    Finlay Curran
+credits_graphicdesign1                  - Grafisch ontwerp -
+credits_graphicdesign2                  Morten Pedersen
+credits_special                         - Bijzondere dank aan -
+credits_special1                        Will Morris
+credits_special2                        Sam Morris
+credits_special3                        Jo Stansfield
+credits_special4                        John Cook
+credits_special5                        Alex Chapman
+credits_special6                        Alex Tutty
+credits_special7                        Double Eleven
+credits_introversion                    - INTROVERSION SOFTWARE -
+credits_introversion1                   Chris Delay
+credits_introversion2                   Mark Morris
+credits_introversion3                   John Knottenbelt
+credits_introversion4                   Thomas Arundel
+credits_pa1                             PRISON
+credits_pa2                             ARCHITECT
+
+
+# =============================================================================
+# MCExporter
+# =============================================================================
+
+
+codex_mcexport                          Exporteer gevangenis voor Minecraft
+codex_mcexportname						Minecraft-export
+codex_worldnametitle					Wereldnaam
+codex_seedtitle							Seed
+codex_gamemodetitle						Speltype
+codex_mapfeattitle						Kaarttype
+codex_cheatstitle						Cheats
+codex_timeofdaytitle					Tijdstip
+codex_rainingtitle						Regen
+codex_thunderingtitle					Onweer
+codex_generatortitle					Generator
+codex_scaletitle						Schaal
+codex_exporttomc						Export
+codex_mcexport_default					Standaard
+codex_mcexport_flat						Vlak
+codex_mcexport_largebiomes				Grote klimaten
+codex_mcexport_survival					Overleven
+codex_mcexport_creative					Creatief
+codex_mcexport_adventure				Avontuur
+
+
+# =============================================================================
+# Escape Mode
+# =============================================================================
+
+escapemode_help_title                   Ontsnap - het is je enige uitweg
+escapemode_help                         Stap één: Reputatie: je reputatie is hier ontzettend belangrijk.\n\n• Geef je reputatie een boost door gevechten te beginnen. Door mensen af te tuigen, krijg je veel aandacht. Maar vandalisme is ook een goed begin. Hoe meer schade je aanricht tijdens een gevecht, hoe beter.\n• Laat geen getuigen achter. Als een bewaker je ziet vechten, word je bestraft: tenzij er natuurlijk geen bewaker in de buurt is.\n• Klappen krijgen is nooit leuk. Je kunt een gevecht beter op je eigen voorwaarden beëindigen.\n\nStap twee: Vorm een team: rekruteer anderen om mee te doen met je ontsnappingspoging.\n\n• Fluit om ze te laten komen, dan zullen ze je trouw volgen. (Klik op hun naam linksboven)\n• Ze zullen zelfs met je meevechten zodat je een nog betere reputatie opbouwt.\n• Train je team. Je weet nooit wanneer een ervaren vechtersbaas of een goede hardloper van pas zal komen.\n\nStap drie: Smokkelwaar: je hebt wapens en hulpmiddelen nodig.\n\n• Vind een ruimte met waardevolle spullen. Daar vind je vast iets handigs wat je kunt stelen.\n• Pas op voor metaaldetectoren en bewakers die je willen fouilleren. Als je wordt betrapt met illegale goederen, word je in de eenzame opsluiting gegooid./n• Berg je spullen dus goed op. Je kunt je vondsten verstoppen in je eigen cel of in cellen van anderen, maar vergeet niet waar alles ligt.\n\nStap vier: Tunnels: de geruisloze uitweg.\n\n• Pak iets waarmee je kunt graven en leg een tunnel aan vanaf de wc in je cel.\n• Graven gaat heel langzaam. Vraag of je teamleden je willen helpen met graven.\n• Zorg dat niemand je betrapt. Als een bewaker je tunnel vindt, ben je de klos.\n\nSucces. Je zult alle hulp hard nodig hebben.
+
+codex_escapemode                        Ontsnapping
+codex_escapemode_developer              (Ontwikkelaar) Ontsnapping
+codex_escapemode_new                    Nieuwe ontsnappingspoging
+codex_escapemode_load                   Ontsnappingspoging laden
+codex_escapemode_save                   Ontsnappingspoging opslaan
+codex_escapemode_workshop               Ontsnapping (Steam Workshop)
+codex_escapemode_workshop_star_rating   *S sterren of meer
+
+escapemode_combat_attack                Aanvallen
+escapemode_combat_attack_button         Klik met links
+escapemode_combat_lunge                 Grijpen
+escapemode_combat_lunge_button          Druk op shift
+escapemode_dig_button                   Hou rechterknop ingedrukt
+escapemode_dig                          Graven
+escapemode_surrender                    Overgeven
+escapemode_surrender_safe               Gevecht beëindigen
+escapemode_surrender_button             Druk op spatiebalk
+
+escapemode_helpletter                   Help
+
+escapemode_reputation_points            Reputatiepunten:
+escapemode_reputations_cost             *C reputatiepunten
+escapemode_reputations_max              MAX
+
+escapesquad_squad_member                Teamlid
+escapesquad_recruitment                 Hou de rechterknop ingedrukt om te rekruteren
+escapesquad_recruitment_cost            Kosten reputatiepunten: *C
+escapesquad_toggle_follow               Volgen aan/uit
+escapesquad_nameplate_following         Volgen
+escapesquad_skip_punishments            Straffen overslaan
+escapesquad_skip_punishments_tooltip    Geef een reputatiepunt uit zodat al je teamleden door hun straffen heen slapen en in hun cel wakker worden.
+escapesquad_sleep                       Slapen
+escapesquad_sleep_tooltip               Klik om de hele nacht overal doorheen te slapen.
+escapesquad_reputations                 Reputaties
+escapesquad_reputations_tooltip         Geef reputatiepunten uit aan reputaties zodat je team beter kan vechten.
+escapesquad_follow_mode                 Volgen
+escapesquad_follow_mode_tooltip         Gevangenen die jou volgen, kopiëren je slechte gedrag.\n\Druk op R om deze optie aan of uit te zetten voor alle gevangenen.
+escapesquad_remove_member               Teamlid verwijderen
+escapesquad_remove_member_tooltip       Klik om deze gevangene uit je team te zetten.
+escapesquad_escaped                     Ontsnapt
+
+escapemode_sprint_unlock                \n\nOntgrendelt hardlopen door Shift ingedrukt te houden. Hardlopen is alleen beschikbaar als je niet aan het vechten bent.
+
+escapemode_info_right_click             Klik met rechts
+escapemode_info_hold_right_click        Hou de rechterknop ingedrukt
+escapemode_info_stash                   om smokkelwaar te verstoppen
+escapemode_info_pick_up                 om smokkelwaar op te halen
+escapemode_info_start_tunnel            om een tunnel te graven
+escapemode_info_enter_tunnel            om de tunnel te betreden
+escapemode_info_exit_tunnel             om de tunnel te verlaten
+escapemode_info_dig_up                  om op te graven
+escapemode_info_steal                   om te stelen
+
+escapemode_info_tool                    (graafgereedschap)
+escapemode_info_damage                  Schade: *D
+escapemode_info_recharge                Oplaadtijd: *T
+
+escapemode_gameover                     Game Over
+escapemode_gameover_squad_title         Team
+escapemode_gameover_casualties_title    Slachtoffers
+escapemode_gameover_totalscore_title    Totaalscore:
+escapemode_gameover_totaltime_title     Gebruikte tijd
+escapemode_gameover_time_days           *D dagen, *H uur en *M minuten
+escapemode_gameover_time                *H uur en *M minuten
+
+codex_workshop_select_random_prison     Willekeurige gevangenis uit Workshop
+codex_workshop_searching                Zoeken
+
+
+# =============================================================================
+# Warden Mode
+# =============================================================================
+
+codex_wardenmode_debugstart             Directeurmodus starten
+
+buildtoolbar_inventory                  Inventaris
+buildtoolbar_tooltip_inventory          Snelkoppeling: (TAB)\n\nBeheer de inventaris en het persoonlijke beschermingsteam van de directeur.
+
+wardenmode_combat                       ZELFVERDEDIGING TOEGESTAAN
+wardenmode_combat_caption               Je mag jezelf verdedigen tegen gewelddadige gevangenen.
+
+wardenmode_combatwarning                ZELFVERDEDIGING NIET TOEGESTAAN
+wardenmode_combatwarning_caption        Je mag gevangenen niet kwetsen, tenzij je uit zelfverdediging handelt.
+
+wardenmode_info_pick_up                 oprapen
+
+wardensquad_wardenprotection            Bescherming directeur
+wardensquad_recruitment_cost            Kost per dag: +$*C
+wardensquad_nameplate_following         Volgend
+wardensquad_remove_member               Bescherming directeur verwijderen
+wardensquad_remove_member_tooltip       Klik om deze bewaker uit je persoonlijke beschermingsteam te verwijderen.\nDit bespaart je elke dag $*C.
+
+
+# =============================================================================
+# Collectables
+# =============================================================================
+
+
+codex_gamebible                         Spellenbijbel
+codex_gamebible_next                    >
+codex_gamebible_prev                    <
+codex_gamebible_singlepage              PAGINA *X
+codex_gamebible_doublepage              PAGINA'S *X - *Y
+object_collectable                      Pagina van notitieblok
+

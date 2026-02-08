@@ -1,0 +1,38 @@
+BEGIN Window
+    NAME         ConnectionMenu
+    WIDTH        120
+    HEIGHT       150
+    PANEL        1
+END
+
+BEGIN Canvas
+    NAME        Connect
+    XPOS        Scaled          500
+    YPOS        Scaled          500
+    WIDTH       Scaled          9000
+    HEIGHT      Scaled          2250
+END
+
+BEGIN Canvas
+    NAME        Disconnect
+    XPOS        Scaled          500
+    YPOS        Scaled          2750
+    WIDTH       Scaled          9000
+    HEIGHT      Scaled          2250
+END
+
+BEGIN Canvas
+    NAME        Clear
+    XPOS        Scaled          500
+    YPOS        Scaled          5000
+    WIDTH       Scaled          9000
+    HEIGHT      Scaled          2250
+END
+
+BEGIN Canvas
+    NAME        Done
+    XPOS        Scaled          500
+    YPOS        Scaled          7250
+    WIDTH       Scaled          9000
+    HEIGHT      Scaled          2250
+END

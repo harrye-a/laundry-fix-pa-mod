@@ -1,0 +1,6 @@
+Name        "Hungarian"
+Author      "Introversion Software"
+Date        06/10/2015
+Description "Official Hungarian translation of Prison Architect"
+ThumbnailSprite hungarian
+ContinueSupported false

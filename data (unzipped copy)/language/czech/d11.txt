@@ -1,0 +1,1036 @@
+# June 27th Update
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_viewchangelog							Kompletní seznam změn
+codex_legal									Právní
+codex_privacy								Zásady ochrany osobních údajů
+codex_terms-of-use							Podmínky použití
+codex_eula									licenční smlouvu s koncovým uživatelem
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+													
+interfacemode_wallsanddoors                        			Zdi a dveře
+interfacemode_flooring							Podlahy
+tunnelsearch_underway							PROBÍHÁ VYHLEDÁVÁNÍ TUNELU
+tunnelsearch_found							Tunely
+moveobjects_prompt							DVOJITÉ KLIKNUTÍ: Přesunutí předmětu
+moveobjects_abort							PRAVÉ KLIKNUTÍ: Zrušení přesunu
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_wallsanddoors					Různé typy zdí a dveří
+buildtoolbar_popup_flooring						Různé styly podlah
+buildtoolbar_popup_spawn						Otevři nabídku Zrození.
+buildtoolbar_tunnelsearch						Hledání tunelu
+
+buildtoolbar_tooltip_tunnelsearch					Máš podezření, že někdo plánuje útěk? Nařiď svým dozorcům prohledat všechny toalety.		
+
+buildtoolbar_GuardResponse						Reakce dozorců	
+buildtoolbar_tooltip_GuardResponse					Když je tato možnost aktivní, můžeš kliknutím levým tlačítkem na mapu přivolat okolní dozorce na zvolené místo. Čím víc kliknutí, tím víc dozorců přivoláš. Pravým kliknutím akci zastavíš.
+
+
+# =============================================================================
+# New Materials
+# =============================================================================
+
+
+material_NewTiledWall							Kachlíková zeď
+material_NewBarredWall							Mřížová zeď
+material_NewBBlockWall							Bílá zeď
+material_NewHedgeWall							Plot
+material_NewIronFloor							Železná podlaha
+material_NewCargoFloor							Skládaná podlaha
+material_NewCheckeredFloor						Šachová podlaha
+material_Snow								Sníh
+
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+double_click_select_desc							Dvojitým levým kliknutím sleduj toto *E
+
+quickbuild_intermediatecell							Vylepšená cela
+quickbuild_holdingcell								Vazba
+quickbuild_medical								Ošetřovna
+quickbuild_shop									Obchod
+quickbuild_shower								Sprchy
+quickbuild_staffroom								Místnost pro zaměstnance
+quickbuild_workshop								Dílna
+
+# =============================================================================
+# Main Menu
+# =============================================================================
+
+
+mm_updatenotes_Date								27. června 2019
+mm_updatenotes_Header								Aktualizace lapáku
+mm_updatenotes_01								Byly přidány 4 nové typy podlah a 4 nové typy zdí.
+mm_updatenotes_02								Vylepšení výkonu, která pomohou zkrátit dobu načítání.
+mm_updatenotes_03								Vyšší počet předáků, které lze najmout - pro větší vězení, kde předáci také vyučují.
+mm_updatenotes_04								Existující předměty mají nyní kompletní sadu rotace, přičemž přibyly nové sprity pro chybějící úhly.
+mm_updatenotes_05								Nové tlačítko 'Reakce dozorců', které přikáže stávajícím okolním dozorcům přijít na zvolené místo, než aby si hráči museli najmout další dozorce kvůli řešení incidentů. 
+mm_updatenotes_06								Nové tlačítko 'Hledání tunelu', které přikáže dozorcům konkrétně prohledat všechny toalety kvůli skrytým únikovým tunelům.  
+mm_updatenotes_07								Do nabídky Rychlá stavba přibyly další Rychlé místnosti pro rychlejší a snazší stavbu místností.
+mm_updatenotes_08								Sledování vězňů a zaměstnanců je o dost jednodušší díky dvojitému kliknutí.
+mm_updatenotes_09								Možnost přesouvat předměty je tady! Vyber si předmět a dvakrát na něj klikni.
+mm_updatenotes_10								Doufáme, že se ti hra bude s těmito vylepšeními líbit!
+
+
+
+############################### SLAMMER UPDATE ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+
+material_newmud									Bahno
+material_yutaniwall								Zeď (Yutani)
+
+
+
+
+
+
+
+
+
+
+material_solacofloor							Solaco
+material_gratefloor								Mřížoví
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+
+object_snowyconifertree							Strom (Zasněžený jehličnan)
+
+
+object_palmtree									Strom (Palma)
+object_plant									Rostlina
+
+object_bush										Keř
+
+object_streetlamp								Pouliční lampa
+
+object_floodlight								Světlo (Reflektor)
+
+
+
+
+
+		
+		
+
+object_bleachers								Lavice
+object_smallbench								Lavička (Malá)
+object_smalltable								Stůl (Malý)
+object_showerpillar								Sprchový sloupek
+
+
+object_doorMat									Rohožka
+
+object_GuardPavilion							Pavilon strážných
+object_GuardPavilionCorner						Pavilon strážných (Roh)
+
+object_OfficeChair								Židle (Kancelář)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+object_visitorDoor								Dveře pro návštěvníky
+object_ironingBoardShort						Žehlicí prkno (Malé)
+object_fencegatestaff							Brána plotu (Pro zaměstnance)
+object_fencegatestandard						Brána plotu (Standardní)
+object_fencegatevisitor							Brána plotu (Pro návštěvníky)
+
+
+
+
+
+
+
+
+
+
+
+
+object_walllight								Nástěnné osvětlení
+object_securedoor								Dveře (Zabezpečené)
+object_secretdoor								Dveře (Tajné)
+
+
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_mat_newmud					Je to bahno a je zadarmo!
+buildtoolbar_popup_mat_yutaniwall				Postavte na svých základech zdi s hi-tech vzhledem, abyste vytvořili nové oblasti nebo místnosti. Skvěle se hodí k podlahám Nákladní loď a Solaco.
+
+buildtoolbar_popup_mat_newbblockwall			Postavte na svých základech zdi vyrobené z tvárnic, abyste vytvořili nové oblasti nebo místnosti.
+buildtoolbar_popup_mat_newbarredwall			Postavte na svých základech zamřížované zdi, abyste vytvořili nové oblasti nebo místnosti.
+buildtoolbar_popup_mat_newtiledwall				Postavte na svých základech zdi s kachličkami, abyste vytvořili nové oblasti nebo místnosti.
+buildtoolbar_popup_mat_newhedgewall				Vysoké ale slabé živé ploty. Jsou spíše pro okrasu než pro vážnější zvýšení bezpečnosti.
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_mat_solacofloor				Dodejte podlahám naší věznice hi-tech vzhled. Skvěle se hodí ke zdem Yutani.
+buildtoolbar_popup_mat_gratefloor				Dodejte podlahám naší věznice hi-tech vzhled.
+buildtoolbar_popup_mat_newcargofloor			Dodejte podlahám naší věznice zakázkový vzhled.
+buildtoolbar_popup_mat_newironfloor				Dodejte podlahám naší věznice zakázkový vzhled.
+buildtoolbar_popup_mat_newcheckeredfloor		Tyto budou pravděpodobně vypadat dobře ve vašich kuchyních a jídelnách.
+buildtoolbar_popup_mat_snow						Je to jako voda, jen chladnější a hezčí.
+
+
+
+
+
+buildtoolbar_popup_obj_snowyconifertree			Nejvíce se budou hodit na zasněžené zemi.
+
+
+buildtoolbar_popup_obj_palmtree					Běžně raší v suché zemi, ale nyní se můžete rozhodnout je pěstovat, kdekoliv se vám zamane.
+
+
+buildtoolbar_popup_obj_bush						Dodá venkovním oblastem trochu výzdoby.
+
+buildtoolbar_popup_obj_streetlamp				K osvětlení silnic a cest.
+
+buildtoolbar_popup_obj_floodlight				Vysoké venkovní světlo, které dokáže pokrýt velké oblasti, jako například dvůr.
+
+
+
+
+
+	
+
+
+buildtoolbar_popup_obj_bleachers				Klasické lavice na vězeňském dvoře pro skupiny vězňů, kde mohou sedět a přemýšlet, co dál.
+buildtoolbar_popup_obj_smallbench				Na sezení.
+buildtoolbar_popup_obj_smalltable				Na jezení u.
+buildtoolbar_popup_obj_showerpillar				K umístění do středu sprchové místnosti a poté na každou stranu přidejte sprchovou hlavici.
+
+
+buildtoolbar_popup_obj_doorMat					Laciná gumová rohožka, která by mohla vypadat dobře přede dveřmi.
+
+
+buildtoolbar_popup_obj_guardPavilion			Umístěte na dvoře a v otevřených oblastech, aby strážní a ozbrojení strážní mohli dohlížet na vaše vězně.\n Přiřaďte strážné přes Nabídku rozmístění.\n -Zvyšuje úroveň poslušnosti v oblasti.\n -Strážní jsou chráněni před počasím.
+buildtoolbar_popup_obj_guardPavilionCorner		Umístěte v rozích dvora a v otevřených oblastech, aby strážní a ozbrojení strážní mohli dohlížet na vaše vězně.\n Přiřaďte strážné přes Nabídku rozmístění.\n -Zvyšuje úroveň poslušnosti v oblasti.\n -Strážní jsou chráněni před počasím.
+
+buildtoolbar_popup_obj_officeChair				Židle pro zaměstnance, aby seděli ve středu u psacího stolu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_obj_visitorDoor				Dveře umožňující návštěvníkům věznice projít, aniž by jim strážní museli otevírat dveře. Strážní a zaměstnanci mohou rovněž projít dveřmi, avšak vězni ne.
+buildtoolbar_popup_obj_ironingBoardShort		Kratší žehlicí prkno.
+buildtoolbar_popup_obj_fencegatestaff			Brána, která vypadá skvěle s plotem a funguje stejně jako dveře.
+buildtoolbar_popup_obj_fencegatestandard		Brána, která vypadá skvěle s plotem a funguje stejně jako dveře.
+buildtoolbar_popup_obj_fencegatevisitor			Brána, která vypadá skvěle s plotem a funguje stejně jako dveře.
+
+
+
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_obj_walllight				Světlo ve stylu bunkru k umístění na zdi.
+buildtoolbar_popup_obj_securedoor				Dveře navržené pro samotky obsahující klapku na jídlo. Strážní donášející jídlo mohou prostrčit tác s jídlem skrze dveře, aniž by museli vstoupit do cely.
+
+
+interfacedeployment_guards                      Přidělit strážné
+buildtoolbar_deployment_Guards			Přidělit strážné do sektorů vaší věznice.
+	
+interfacedeployment_Dogs			Přidělit psovody
+buildtoolbar_deployment_Dogs			Přidělit psovody do sektorů vaší věznice.
+
+interfacedeployment_ArmedGuards			Přidělit ozbrojené strážné
+buildtoolbar_deployment_ArmedGuards		Přidělit ozbrojené strážné do sektorů vaší věznice.
+
+interfacedeployment_patrols                     Přidělit strážné
+buildtoolbar_deployment_Patrols			Přidělit strážné k Hlídkovým trasám vaší věznice.
+
+interfacedeployment_dogpatrols                  Přidělit psovody
+buildtoolbar_deployment_DogPatrols		Přidělit psovody k Hlídkovým trasám vaší věznice.
+
+interfacedeployment_armedpatrols                Přidělit ozbrojené strážné
+buildtoolbar_deployment_ArmedPatrols		Přidělit ozbrojené strážné k Hlídkovým trasám vaší věznice.
+
+buildtoolbar_popup_help_Guards_1        Nástroj strážných vám umožní rozmístit strážné v zónách. Rozmístění strážní se budou pohybovat po svých přiřazených zónách náhodně a budou vykonávat jakékoli úkoly strážných v této oblasti, jako například otevírání dveří.\n\n
+buildtoolbar_popup_help_Guards_2        ~Kliknutím levého tlačítka myši zvýšíš počet psovodů zařazených do zóny. Kliknutím pravého tlačítka myši odstraníš stráž.\n\n
+buildtoolbar_popup_help_Guards_3        ^Tipy
+buildtoolbar_popup_help_Guards_4        Pokud máš zpřístupněnou detailní zprávu, budeš mít přístup do plánovače rozmístění. To ti umožní vytvořit časový rozvrh, kdy budou strážím přiděleny určité oblasti. Například pokud chceš přidělit stráže pouze do jídelny během režimu jídla, můžeš kliknout na každý blok plánovače, který tě spojuje s režimem jídla, pak posunout časový posuvník do tohoto bloku a kliknout na jídelnu a přidělit stráže.
+buildtoolbar_popup_help_Guards_5        Pro plánování máš až 7 různých časových bloků, navíc výchozí vždy aktivní režim, které ti umožňují vytvořit komplexní postupy rozmístění vyhovující potřebám vězení.
+buildtoolbar_popup_help_Guards_6        Pokud při přidělování psovodů nezvolíš časový blok manuálně, plánovač použije aktuální čas; dej pozor, aby byl při změně rozmístění zvolený správný čas!
+
+buildtoolbar_popup_help_Dogs_1        Nástroj psovodů vám umožní rozmístit psovody v zónách. Rozmístění strážní se budou pohybovat po svých přiřazených zónách náhodně a budou vykonávat jakékoli úkoly strážných v této oblasti, jako například otevírání dveří.\n\n
+buildtoolbar_popup_help_Dogs_2        ~Kliknutím levého tlačítka myši zvýšíš počet psovodů zařazených do zóny. Kliknutím pravého tlačítka myši odstraníš psovoda.\n\n
+buildtoolbar_popup_help_Dogs_3        ^Tipy
+buildtoolbar_popup_help_Dogs_4        Pokud máš zpřístupněnou detailní zprávu, budeš mít přístup do plánovače rozmístění. To ti umožní vytvořit časový rozvrh, kdy budou psovodům přiděleny určité oblasti. Například pokud chceš přidělit psovody pouze do jídelny během režimu jídla, můžeš kliknout na každý blok plánovače, který tě spojuje s režimem jídla, pak posunout časový posuvník do tohoto bloku a kliknout na jídelnu a přidělit psovoda
+buildtoolbar_popup_help_Dogs_5        Pro plánování máš až 7 různých časových bloků, navíc výchozí vždy aktivní režim, které ti umožňují vytvořit komplexní postupy rozmístění vyhovující potřebám vězení.
+buildtoolbar_popup_help_Dogs_6        Pokud při přidělování psovodů nezvolíš časový blok manuálně, plánovač použije aktuální čas; dej pozor, aby byl při změně rozmístění zvolený správný čas!
+
+buildtoolbar_popup_help_ArmedGuards_1        Nástroj ozbrojených stráží vám umožní rozmístit ozbrojené stráže v zónách. Rozmístění strážní se budou pohybovat po svých přiřazených zónách náhodně a budou vykonávat jakékoli úkoly strážných v této oblasti, jako například otevírání dveří.\n\n
+buildtoolbar_popup_help_ArmedGuards_2        ~Kliknutím levého tlačítka myši zvýšíš počet strážných zařazených do zóny. Kliknutím pravého tlačítka myši odstraníš strážného.\n\n
+buildtoolbar_popup_help_ArmedGuards_3        ^Tipy
+buildtoolbar_popup_help_ArmedGuards_4        Pokud máš zpřístupněnou detailní zprávu, budeš mít přístup do plánovače rozmístění. To ti umožní vytvořit časový rozvrh, kdy budou ozbrojeným strážím přiděleny určité oblasti. Například pokud chceš přidělit ozbrojené stráže pouze do jídelny během režimu jídla, můžeš kliknout na každý blok plánovače, který tě spojuje s režimem jídla, pak posunout časový posuvník do tohoto bloku a kliknout na jídelnu a přidělit ozbrojené stráže.
+buildtoolbar_popup_help_ArmedGuards_5        Pro plánování máš až 7 různých časových bloků, navíc výchozí vždy aktivní režim, které ti umožňují vytvořit komplexní postupy rozmístění vyhovující potřebám vězení.
+buildtoolbar_popup_help_ArmedGuards_6        Pokud při přidělování ozbrojených stráží nezvolíš časový blok manuálně, plánovač použije aktuální čas; dej pozor, aby byl při změně rozmístění zvolený správný čas!
+
+interfacedeployment_PrioritizeArea			Upřednostnit oblast (*X)
+buildtoolbar_deployment_PrioritizeGuard			Použijte tuto možnost k upřednostnění přiřazených strážných k pokrytí určitých sektorů ve vaší věznici. Pokud nemáte dostatek zaměstnanců, strážní se pokusí nejprve pokrýt vaše upřednostněné oblasti. Dostupné jsou dvě priority; "Vysoká" (>>) a "Velice vysoká" (>>>).
+
+interfacedeployment_BluePatrol				Modrá hlídka
+buildtoolbar_deployment_BluePatrol			Barevné hlídkové trasy vám umožňují je překrývat a přidělovat k nim jednotlivé strážné. Kliknutím a přetažením kurzoru vytvoříte modrou hlídkovou trasu. Pravým kliknutím a přetažením kurzoru smažete modrou hlídkovou trasu. Použijte tlačítko k přiřazení strážných, čímž strážné přiřadíte k hlídkové trase.
+
+interfacedeployment_MagentaPatrol			Fialová hlídka
+buildtoolbar_deployment_MagentaPatrol			Barevné hlídkové trasy vám umožňují je překrývat a přidělovat k nim jednotlivé strážné. Kliknutím a přetažením kurzoru vytvoříte fialovou hlídkovou trasu. Pravým kliknutím a přetažením kurzoru smažete fialovou hlídkovou trasu. Použijte tlačítko k přiřazení strážných, čímž strážné přiřadíte k hlídkové trase.
+
+interfacedeployment_PrioritizePatrol			Upřednostnit hlídku
+buildtoolbar_deployment_PrioritizePatrol		Použijte tuto možnost k upřednostnění přiřazených strážných k pokrytí určitých hlídek ve vaší věznici. Pokud nemáte dostatek zaměstnanců, strážní se pokusí nejprve pokrýt vaše upřednostněné hlídkové trasy. Dostupné jsou dvě priority; "Vysoká" (>>) a "Velice vysoká" (>>>).
+
+buildtoolbar_popup_filter_title                 Seznam filtrů
+buiildtoolbar_popup_filter_toggle               Stiskněte tlačítko k přepínání
+buildtoolbar_popup_filter_default               Výchozí
+buildtoolbar_popup_filter_az                    A-Z
+buildtoolbar_popup_filter_owned                 Vlastněno
+buildtoolbar_popup_filter_costhighlow           Náklady (Vysoké - Nízké)
+buildtoolbar_popup_filter_costlowhigh           Náklady (Nízké - Vysoké)
+buildtoolbar_popup_filter_indooroutdoor         Uvnitř-Venku
+buildtoolbar_popup_filter_outdoorindoor         Venku-Uvnitř
+buildtoolbar_popup_filter_quantity               Vlastněné množství
+buildtoolbar_popup_filter_byroom                Podle místnosti
+
+
+
+
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+double_click_move_item							DVAKRÁT KLIKNOUT: Posuňte objekt
+
+double_click_add_door							Dvakrát klikněte levým tlačítkem k přidání dveří.
+
+codex_option_bureaucracyresearched				Správa věznice vyzkoumána
+codex_tooltip_bureaucracyresearched				Zahajte novou hru, ve které bude celá Správa věznice plně vyzkoumána.
+
+codex_option_jungle						Pozemek džungle
+codex_tooltip_jungle						Vytvořte počáteční pozemek, připomínající hustou džungli.
+
+codex_option_snowy						Zasněžený pozemek
+codex_tooltip_snowy						Vytvořte počáteční pozemek, který je pokryt sněhem.
+
+# =============================================================================
+# Misc
+# =============================================================================
+action_WashSmall								Mytí
+
+action_Stretching								Cvičení
+action_PlayChess								Hraní šachů
+
+
+plant_tree_location								Zasaďte strom v *X
+
+report_intake_cat_SuperMax							SuperMax
+
+interface_undo							vrátit
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_save_failed                               Uložení věznice se nezdařilo.
+codex_changelog_next                            Další >
+codex_changelog_prev                            < Předchozí
+codex_credits                                   Titulky
+
+codex_options_screenshotmode					Mód screenshotu
+codex_tooltip_screenshotmode					Když jste v Módu Screenshotu, podržte KLÁVESU [*K] a stiskněte [*E] k vypnutí/zapnutí ALL UI a HUD.
+codex_sso_content_message						Úspěšně jste se přihlásili do účtu Paradox .\n\nJako poděkování jsou ve hře odemčeny nové pavilony strážních věží! Naleznete je v Nabídce objektů.
+codex_options_borderless_windowed               Bez okrajů
+codex_options_monitor                           Monitor
+
+
+# =============================================================================
+# Things from Gaz that we might be able to squeeze in, that would be useful to translate please
+# =============================================================================
+
+codex_options_display_mode              	Mód zobrazení
+codex_options_borderless_fullscreen		Celá obrazovka bez okrajů
+codex_options_display_monitor 			Displej monitoru
+codex_options_windowed_resolution               Rozlišení v okně
+
+############################### PSYCH WARD UPDATE ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+material_artdecowall							Zeď (art deco)
+material_blueWall								Nóbl zeď (modré pruhy)
+material_burgundyWall							Nóbl zeď (vínově červená)
+material_greenWall								Nóbl zeď (zelená)
+material_orientalWall							Zeď (orientální)
+material_cushionedwall							Zeď (polstrovaná)
+
+material_sandstone								Pískovec 
+material_limestonefloor							Vápenec 
+material_blueCarpet								Koberec (modrý)
+material_redCarpet								Koberec (červený)
+material_brownCarpet							Koberec (hnědý)
+material_paddedfloor							Polstrovaná
+material_grassstones							Tráva a kamení
+material_grasscornerfloor						Travnatý roh
+material_grasscornerfloor1						Travnatý roh
+material_grasscornerfloor2						Travnatý roh
+material_grasscornerfloor3						Travnatý roh
+material_lunarfloor								Měsíční
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+object_spookytree								Strom (strašidelný)
+object_cactustree								Strom (kaktus)
+object_sakuratree								Strom (sakura)
+object_plantcactus								Rostlina (kaktus)
+object_tyrestack								Hromada pneumatik
+object_lamp										Světlo (lampa)
+object_bathroomSink								Umyvadlo
+object_bathroomHandDryer						Vysoušeč rukou
+object_chestOfDrawers							Zásuvky
+object_woodenStool								Dřevěná židle
+object_woodenTable								Dřevěný stůl			
+object_bucket									Kýbl
+object_shortbookcase							Knihovnička (krátká)
+object_outdoorTable								Venkovní stůl
+object_mooseHead								Losí hlava
+object_toiletSign								Cedulka (toalety)
+object_rightArrowSign							Cedulka (šipka vpravo)
+object_leftArrowSign							Cedulka (šipka vlevo)
+object_infirmarySign							Cedulka (ošetřovna)
+object_canteenSign								Cedulka (jídelna)
+object_showerSign								Cedulka (sprchy)
+object_armourySign								Cedulka (zbrojnice)
+object_jaildoorred								Vězeňské dveře (červené)
+object_jaildoorgrey								Vězeňské dveře (šedé)
+object_jaildoororange							Vězeňské dveře (oranžové)
+object_jaildoorYellow							Vězeňské dveře (žluté)
+object_jaildoorlargered							Velké vězeňské dveře (červené)
+object_jaildoorlargegrey						Velké vězeňské dveře (šedé)
+object_jaildoorlargeorange						Velké vězeňské dveře (oranžové)
+object_jaildoorlargeyellow						Velké vězeňské dveře (žluté)
+object_coatstand								Věšák na kabáty
+object_dogbowl									Psí miska
+object_footbridge                               Lávka pro pěší
+object_footbridgesteel                          Ocelová lávka pro pěší
+object_footbridgeb                              Lávka pro pěší B
+object_footbridgesteelb                         Ocelová lávka pro pěší B
+object_windowclassy								Nóbl okno
+object_windowclassyLarge						Nóbl okno (velké)
+object_gravestone								Náhrobní kámen
+object_psychiatrist								Psychiatr
+object_orderly									Zřízenec
+object_rorschachTest							Rorschachův test
+object_anatomyModel								Anatomický model
+object_flipboard								Papírová tabule
+object_medicineCabinetPsych						Skříň s léky
+object_leatherchair								Kožené křeslo
+object_leatherSofa								Kožená pohovka
+object_parkbench								Lavice (park)
+object_fencegateguard							Brána v plotu (strážní)
+object_oaktable									Stůl (dub)
+object_oakbench									Lavice (dub)
+object_BoomBoxRoundHouse                        Magnetofon
+
+object_classic									Klasické
+object_dalmation								Dalmatin
+object_husky									Husky
+object_companion								Společník
+object_cat										Kočka
+object_direwoof									Zlohaf
+
+equipment_fountainPen							Plnicí pero
+equipment_goldPocketWatch						Zlaté hodinky
+equipment_sedativeShot							Dávka sedativ (injekce)
+equipment_sedativesyringe						Sedativa (injekce)
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_mat_artdecowall				Postav zdi ve stylu art deco a dodej vězení architektonický vzhled 20. let 20. století.
+buildtoolbar_popup_mat_blueWall					Postav klasické zdi na základech a vytvoř nové oblasti či místnosti pro zaměstnance.
+buildtoolbar_popup_mat_burgundywall				Postav klasické zdi na základech a vytvoř nové oblasti či místnosti pro zaměstnance.
+buildtoolbar_popup_mat_greenwall				Postav klasické zdi na základech a vytvoř nové oblasti či místnosti pro zaměstnance.
+buildtoolbar_popup_mat_orientalwall				Postav orientální zdi a vytvoř ve vězení oblasti nádechem starého Japonska.
+buildtoolbar_popup_mat_cushionedwall			Postav sekce zdí na základech a vytvoř nové oblasti či místnosti, které vypadají zdravě a koženě.
+buildtoolbar_popup_mat_sandstone				Vydláždi venkovní oblasti pískovcovými deskami.
+buildtoolbar_popup_mat_limestonefloor			Podlaha má zašlou limetkovou barvu.
+buildtoolbar_popup_mat_blueCarpet				Polož pohodlný koberec. Skvělý do oblastí pro zaměstnance.
+buildtoolbar_popup_mat_redCarpet				Polož pohodlný koberec. Skvělý do oblastí pro zaměstnance.
+buildtoolbar_popup_mat_brownCarpet				Polož pohodlný koberec. Skvělý do oblastí pro zaměstnance.
+buildtoolbar_popup_mat_paddedfloor				Hodí se k polstrovaným zdím a vytváří dokonalou polstrovanou celu pro choromyslné vězně.
+buildtoolbar_popup_mat_grassstones				Travnatá oblast s dlaždicemi.
+buildtoolbar_popup_mat_grassscornerfloor		Travnatý roh s hlínou. Hodí se pro křivé cestičky.
+buildtoolbar_popup_mat_lunarfloor				Tvrdý kamenný povrch s mezihvězdným vzezřením.
+buildtoolbar_popup_obj_spookytree				Strašidelný starý strom.
+buildtoolbar_popup_obj_cactustree				Nejlépe by se vyjímal na suché zemi.
+buildtoolbar_popup_obj_sakuratree				Nádherná třešeň s růžovými květy.
+buildtoolbar_popup_obj_plant					Hezká pokojová rostlina.
+buildtoolbar_popup_obj_plantcactus				Vnitřní kaktus v květináči.
+buildtoolbar_popup_obj_tyrestack				Funguje jako malá zeď, kterou budou vězni a zaměstnanci obcházet.
+buildtoolbar_popup_obj_lamp						Stojící zdobná lampa, dokonalá pro kanceláře a oblasti pro zaměstnance.
+buildtoolbar_popup_obj_bathroomSink				Bez něj by žádná umývárna nebyla kompletní.
+buildtoolbar_popup_obj_bathroomHandDryer		Skvěle se hodí k umyvadlu.
+buildtoolbar_popup_obj_chestOfDrawers			Dřevěné zásuvky.
+buildtoolbar_popup_obj_woodenStool				Skvěle by se hodila ke dřevěnému stolu.
+buildtoolbar_popup_obj_woodenTable				Skvěle by se hodil ke dřevěné židli.	
+buildtoolbar_popup_obj_bucket					Prostě kýbl.
+buildtoolbar_popup_obj_shortbookcase			Kratší polička na knihy.
+buildtoolbar_popup_obj_outdoorTable				Vězni u něj můžou venku sedět a jíst.
+buildtoolbar_popup_obj_mooseHead				Krásná losí hlava s ručním finišem na plaketě.
+buildtoolbar_popup_obj_toiletSign				Cedulka na zeď se symbolem toalet.
+buildtoolbar_popup_obj_rightArrowSign			Cedulka na zeď se šipkou ukazující vpravo.
+buildtoolbar_popup_obj_leftArrowSign			Cedulka na zeď se šipkou ukazující vlevo.
+buildtoolbar_popup_obj_infirmarySign			Cedulka na zeď se symbolem ošetřovny.
+buildtoolbar_popup_obj_canteenSign				Cedulka na zeď se symbolem jídelny.
+buildtoolbar_popup_obj_showerSign				Cedulka na zeď se symbolem sprch.
+buildtoolbar_popup_obj_armourySign				Cedulka na zeď se symbolem zbrojnice.
+buildtoolbar_popup_obj_jaildoorred				Barevné vězeňské dveře, které ti pomohou označit bloky s maximální ostrahou.
+buildtoolbar_popup_obj_jaildoorgrey				Barevné vězeňské dveře, které ti pomohou označit bloky s nízkou ostrahou.
+buildtoolbar_popup_obj_jaildoororange			Barevné vězeňské dveře, které ti pomohou označit bloky se střední ostrahou.
+buildtoolbar_popup_obj_jaildooryellow			Barevné vězeňské dveře, které ti pomohou označit bloky ochranné vazby.
+buildtoolbar_popup_obj_jaildoorlargered			Velké barevné vězeňské dveře, které ti pomohou označit bloky s maximální ostrahou.
+buildtoolbar_popup_obj_jaildoorlargegrey		Velké barevné vězeňské dveře, které ti pomohou označit bloky s nízkou ostrahou.
+buildtoolbar_popup_obj_jaildoorlargeorange		Velké barevné vězeňské dveře, které ti pomohou označit bloky se střední ostrahou.
+buildtoolbar_popup_obj_jaildoorlargeYellow		Velké barevné vězeňské dveře, které ti pomohou označit bloky ochranné vazby.
+buildtoolbar_popup_obj_coatstand				Místo, na které si zaměstnanci mohou odkládat kabáty a klobouky.
+buildtoolbar_popup_obj_dogbowl					Obsahuje vodu a žrádlo pro unavené služební psy.\nMírně zvyšuje výdrž psa.
+buildtoolbar_popup_obj_secretdoor				Tajné dveře maskované jako knihovna, které se otevírají pro zaměstnance.
+buildtoolbar_popup_obj_parkbench				Venkovní parková lavička.
+buildtoolbar_popup_obj_fencegateguard			Brána, která se skvěle hodí k plotům a kterou mohou otevřít jen stráže.
+buildtoolbar_popup_obj_oaktable					Jí se u něj.
+buildtoolbar_popup_obj_oakbench					Sedí se na ní. Skvěle se hodí k dubovému stolu.
+
+buildtoolbar_popup_obj_classic					Původní služební pes. Starý, ale zkušený.
+buildtoolbar_popup_obj_dalmation				Původně žil na farmě, ale nyní zabraňuje útěkům.
+buildtoolbar_popup_obj_husky					Smrtící past pro každého uprchlého vězně, který poběží přes sníh.
+buildtoolbar_popup_obj_companion				Nejlepší přítel dozorce.
+buildtoolbar_popup_obj_cat						Ne každý má rád psy.
+buildtoolbar_popup_obj_direwoof					Kdo by se vůbec pokoušel utíkat?
+
+buildtoolbar_popup_filter_mostused				Nejpoužívanější
+buildtoolbar_caters_safety						Stará se o potřebu bezpečí.
+
+interfacedeployment_orderly						Přiřadit zřízence
+buildtoolbar_deployment_orderly					Přiděluj zřízencům jednotlivé sektory ve věznici.
+
+interfacedeployment_orderlypatrols				Přiřadit zřízence
+buildtoolbar_deployment_orderlypatrols			Přiděluj zřízencům hlídkovou trasu ve vězení.
+
+room_PaddedCell                                Polstrovaná cela
+room_PaddedHoldingCell                         Polstrovaná společná cela
+room_PsychiatristOffice							Kancelář psychiatra
+
+interfaceplanning_BuildPlan			Realizovat plány
+interfaceplanning_ClearPlan			Vymazat plány
+interfaceplanning_Door				Dveře
+
+buildtoolbar_improvement						- Vylepšuje stupeň pro: *R
+buildtoolbar_improvement_windows				 (když směřuje ven)
+
+buildplan_title					Výběr typu zdi			
+buildplan_message				Chceš postavit svůj plán?\n	Tuto akci nelze vrátit.\n\n	Všechny naplánované zdi se postaví jako stejný typ zdi.\n	Výběr typu zdi můžeš změnit níže.
+clearplan_title					Vymazat plány
+clearplan_message				Opravdu chceš vymazat všechny nakreslené plány?\n \n	Tuto akci nelze vrátit.
+
+d11_custom_planning 				Vlastní plánování
+
+buildtoolbar_popup_planning			Rozvrhni si věznici bez obav, že by se dělníci hned pustili do práce, dokud k tomu nedáš pokyn. V nabídce plánování můžeš postavit všechny naplánované stavby a dveře, mazat části plánů nebo celý plán zahodit a začít znovu.
+
+buildtoolbar_popup_help_planningDoor_1		Když na plán umístíš dveře, použije se zvolený typ dveří.
+buildtoolbar_popup_help_quickBuildWall_1	Při stavbě další rychlé zdi (zdí) se použije zvolený typ zdi.
+
+
+buildtoolbar_popup_mat_blueclassywall			Postav klasické zdi na základech a vytvoř nové oblasti či místnosti pro zaměstnance.
+buildtoolbar_popup_mat_burgundyclassywall		Postav klasické zdi na základech a vytvoř nové oblasti či místnosti pro zaměstnance.
+buildtoolbar_popup_mat_greenclassywall			Postav klasické zdi na základech a vytvoř nové oblasti či místnosti pro zaměstnance.
+
+buildtoolbar_popup_obj_windowclassy				Venek bude vypadat mnohem lépe než ve skutečnosti.
+buildtoolbar_popup_obj_windowclassyLarge		Venek bude vypadat mnohem lépe než ve skutečnosti.
+buildtoolbar_popup_obj_gravestone				Náhrobní kámen dostaneš za každé úmrtí, ke kterému dojde ve tvé věznici.
+
+buildtoolbar_popup_staff_psychiatrist			Pokročilý zaměstnanec, který našim choromyslným vězňům poskytuje pravidelné konzultace.\nPsychiatři nabízejí pravidelná soukromá sezení, aby pomohli uklidnit naše choromyslné vězně, jakmile ve věznici zavedeme program Psychiatrická konzultace.\nPokud budeme mít choromyslných vězňů hodně, měli bychom najmout několik psychiatrů, aby je zvládli všechny. Každý z nich by také měl mít svou kancelář.
+
+buildtoolbar_popup_staff_orderly				Zdravotník, speciálně vycvičený pro jednání s choromyslnými vězni.
+buildtoolbar_popup_obj_leatherchair				Hodí se ke kožené pohovce. Dokonalé pro zaměstnance, kteří si do něj mohou sednout, a samozřejmě až příliš dobré pro vězně.
+
+buildtoolbar_popup_obj_rorschachTest		    Když do kanceláře psychiatra přidáš Rorschachův test, zlepší se psychiatrická péče o choromyslné vězně.
+buildtoolbar_popup_obj_anatomyModel				Když do kanceláře psychiatra přidáš anatomický model, zlepší se psychiatrická péče o choromyslné vězně.
+buildtoolbar_popup_obj_flipboard				Když do kanceláře psychiatra přidáš papírovou tabuli se schématem mozku, zlepší se psychiatrická péče o choromyslné vězně.
+buildtoolbar_popup_obj_medicineCabinetPsych		Když do kanceláře psychiatra přidáš skříň s léky, zlepší se psychiatrická péče o choromyslné vězně.
+buildtoolbar_popup_obj_leatherchair				Hodí se ke kožené pohovce. Dokonalé pro zaměstnance, kteří si do něj mohou sednout, a samozřejmě až příliš dobré pro vězně.
+buildtoolbar_popup_obj_leatherSofa				Když do kanceláře psychiatra přidáš koženou pohovku, zlepší se psychiatrická péče o choromyslné vězně.
+
+buildtoolbar_deployment_insaneseczone			Do tohoto sektoru budou mít povolen vstup pouze choromyslní vězni.
+
+failuremessage_maximumcountreachedgeneric		Maximální umístěné množství
+
+buildtoolbar_popup_locked_PsychiatricConsultation				Odemčeno po ještě *B psychiatrických sezeních
+buildtoobar_PsychConItemImproveInfo 			- Vylepšuje stupeň kanceláře psychiatra.
+buildtoobar_PsychConItemImproveSuppression 		- Po konzultaci se snižuje pocit utiskování choromyslného vězně\na určité potřeby o +5 %
+buildtoobar_PsychConItemImproveGrace 			- Po konzultaci získá choromyslný vězeň období „hájení“\nna další 1 den, než začne pocit utiskování\na určité potřeby opět stoupat.
+buildtoolbar_popup_obj_Footbridge				Umožňuje vězňům a zaměstnancům dostat se přes pozemní a vodní plochy. Nelze postavit přes zdi, ploty a další budovy.
+buildtoolbar_popup_obj_FootbridgeSteel			Umožňuje vězňům a zaměstnancům dostat se přes pozemní a vodní plochy. Nelze postavit přes zdi, ploty a další budovy.
+buildtoolbar_popup_obj_FootbridgeB				Umožňuje vězňům a zaměstnancům dostat se přes pozemní a vodní plochy. Nelze postavit přes zdi, ploty a další budovy.
+buildtoolbar_popup_obj_FootbridgeSteelB			Umožňuje vězňům a zaměstnancům dostat se přes pozemní a vodní plochy. Nelze postavit přes zdi, ploty a další budovy.
+buildtoolbar_popup_obj_BoomBoxRoundHouse		Nech vězně poslouchat jejich oblíbené chlapecké kapely, když se věnují svým věcem. Zařiď, aby byli vězni ve stejné místnosti trochu šťastnější.
+
+# =============================================================================
+# Room - Names
+# =============================================================================
+
+room_PaddedSolitary                            Polstrovaná samotka
+
+# =============================================================================
+# Room - Description
+# =============================================================================
+
+buildtoolbar_popup_room_paddedcell			    Určená pro naše choromyslné vězně, s polstrovanými zdmi, které uklidňují.
+buildtoolbar_popup_room_paddedholdingcell	    Sem se umisťují noví choromyslní vězni, než pro ně bude připravena polstrovaná cela.
+buildtoolbar_popup_room_paddedsolitary			    Izolace pro uvěznění těch nejhorších choromyslných vězňů.
+
+# =============================================================================
+# Quick Build - Names
+# =============================================================================
+
+quickbuild_paddedbasiccell									Polstrovaná (malá)
+quickbuild_paddedintermediatecell							Polstrovaná (střední)
+quickbuild_paddedholdingcell								Polstrovaná společná cela
+quickbuild_paddedsolitarycell								Polstrovaná samotka
+quickbuild_PsychiatristOffice								Kancelář psychiatra
+
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacedeployment_insaneseczone                  Pouze choromyslní
+interfacetopbar_PrisonerCells_insaneSecOnly	Kapacita choromyslných: *X
+
+roomgrading_PsychiatristOffice_info				Odemkni si dodatečné předměty a rozmísti je v kanceláři psychiatra, čímž se zlepší péče o choromyslné vězně.\n
+												Items are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+roomgrading_PsychiatristOffice_Item				Položka : *X
+roomgrading_PsychiatristOffice_Quality			Schopnost psychiatra: *Q
+roomgrading_PsychiatristOffice_Upgrade			Vylepši kancelář psychiatra a zvyš jeho schopnosti.
+
+roomgrading_score_average		PRŮMĚRNÁ
+roomgrading_score_good			LEPŠÍ
+roomgrading_score_verygood		VELMI DOBRÁ
+roomgrading_score_outstanding	VYNIKAJÍCÍ
+
+# =============================================================================
+# Objectives, Grants
+# =============================================================================
+
+objective_grant_firstinsanecellblock				Křídlo pro choromyslné
+objective_grant_firstinsanecellblock_description	Vláda je ochotná poskytnout financování na rozšíření naší věznice za účelem ubytování a ochranu blaha choromyslných vězňů.\n\nTento grant pomůže budovat speciální polstrované cely a najmout cvičené psychiatry.
+objective_grant_firstinsanecellblock_cells			Postav křídlo / blok pro choromyslné s 10 polstrovanými celami
+objective_grant_firstinsanecellblock_prisoners		Přijmi 10 choromyslných vězňů
+objective_grant_firstinsanecellblock_psychiatrist	Najmi 2 psychiatry (každý potřebuje kancelář)
+
+objective_readinsaneletter						Pokyny ředitele ohledně choromyslných vězňů
+objective_readinsaneletter_description			Než do svého vězení začnete přijímat choromyslné vězně, měli byste si pořídit příslušné vybavení a zaměstnance, aby se řádně starali o jejich potřeby. - Ředitel...
+
+# =============================================================================
+# Wardens
+# =============================================================================
+
+warden_wardeninsanehawk_name                     Hawk Hartman
+warden_wardeninsanehawk_desc                     Jakožto bývalý správce kaucí nabízí Hartman cenné školicí techniky pro svůj bezpečnostní tým.\n\n -Všechny stráže upouštějí klíče méně často\n -Výdrž stráže se po příjmu obnovuje
+warden_wardeninsanehawk_desc_short               - Výdrž stráže se po příjmu obnovuje.
+
+warden_wardeninsaneslugworth_name                Dr. Slugworth
+warden_wardeninsaneslugworth_desc                Když je všechny ostatní věznice odmítnou, Slugworth otevře dveře i těm nejhorším choromyslným vězňům, neboť věří, že jim dokáže pomoct.\n\n - Psychiatrická péče má o 20 % lepší výsledky\n - Šance na příjem choromyslných vězňů je vyšší!
+warden_wardeninsaneslugworth_desc_short          - Přijímá víc choromyslných vězňů. Psychiatři poskytují lepší péči.
+
+warden_wardeninsanehudson_name					 Dr. Hudson
+warden_wardeninsanehudson_desc                   Dr. Hudson je připraven udělat to, co nedokáže žádný jiný strážce...\n\n - Tísňové služby fungují o 20 % rychleji a dorazí dříve\n - Náklady za opravy jsou o 10 % nižší
+warden_wardeninsanehudson_desc_short             - Rychlejší reakční doba a nižší náklady na opravy.
+
+# =============================================================================
+# Victory, failures
+# =============================================================================
+
+victory_insaneprisonersdeaths					 Úmrtí choromyslných vězňů
+victory_warning_insaneprisonersdeaths			 Pokud zemře příliš mnoho choromyslných vězňů, dojde k tvému propuštění.
+victory_insaneprisonersdeaths_units				 Úmrtí
+
+victory_insaneprisonersabused					 Napadnutí choromyslní vězni
+victory_warning_insaneprisonersabused			 Pokud stráže napadnou příliš mnoho choromyslných vězňů, dojde k tvému propuštění.
+victory_insaneprisonersabused_units				 Napadení
+
+victory_adviserwarning_insaneprisonersdeaths1	 Musíme učinit přítrž týrání choromyslných vězňů v naší věznici! Jestli situaci nevylepšíme, média si nás vezmou na paškál!
+victory_advisernotice_insaneprisonersdeaths1	 Tak dost! Končíte! Měli jste se postarat o duševně choré, a oni místo toho museli kvůli vám přetrpět nevýslovně kruté zacházení. Můžu vás jen vyhodit, ale podle mě byste měli jít domů a pořádně se zamyslet nad tím, co v životě děláte.
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_option_criminallyinsane					Choromyslní vězni
+
+codex_tooltip_criminallyinsane					Starej se o vězně, kteří se neustále cítí utiskovaní, vyžadují nové polstrované cely a psychiatrickou péči, aby se jim snížily potřeby soukromí, pohodlí, bezpečí a svobody, než se vzbouří. Když toto nastavení zapneš, bude moct pár normálních vězňů ve tvé věznici zešílet, pokud se nebudeš starat o jejich potřeby. Choromyslné vězně můžeš vypnout v nastavení mapy.
+
+codex_prisoner_biography_NITG					Vlastní životopis vytvořený hráčem
+codex_options_InsaneGauge						Ukazatel nad hlavami vězňů
+
+codex_option_desert								Pouštní pozemek
+codex_tooltip_desert							Vygeneruje počáteční políčko, které připomíná písečnou poušť.
+
+codex_options_rendercolours						Barevné překrytí místností
+
+codex_new_selectdog								Vyber si služební psy
+
+codex_option_prisonerTurning					Vězni mohou zešílet
+
+# =============================================================================
+# Rapsheet
+# =============================================================================
+
+rapsheet_category_insane						Choromyslní vězni
+rapsheet_insane_bio_desc                        Choromyslní vězni se cítí neustále utiskovaní a vyžadují polstrované cely a psychiatrickou péči, aby zůstali klidní.\n\nChoromyslní vězni, kteří se vzbouří, mohou napadnout naše zaměstnance, napáchat škody ve věznici, pokusit se utéct nebo podlehnout jinému nepředvídatelnému chování.
+
+reputation_Weak                                 Slabý
+reputation_Insomniac                            Nespavost
+reputation_Depressed                            Depresivní
+reputation_Outbreaks                            Záchvaty
+reputation_Sickness                             Nemocný
+reputation_Hyperactive                          Hyperaktivní
+reputation_Addict                               Závislý
+reputation_Claustrophobic                       Klaustrofobní
+reputation_ExtremelyStoical                     Extrémně stoický
+reputation_ExtremelyVolatile                    Extrémně labilní
+reputation_Psychopathic                         Psychopatický
+reputation_Insane                               Choromyslní vězni
+
+reputationtooltip_Weak                          Tento vězeň je slabší, nepovede si dobře v bitkách, a proto je náchylnější vůči zranění.
+reputationtooltip_Insomniac                     Tento vězeň vyžaduje velmi málo spánku.
+reputationtooltip_Depressed                     Tento vězeň se pohybuje mnohem pomaleji, když se cítí utlačovaně a zanedbaně.
+reputationtooltip_Outbreaks                     Tento vězeň má sklony k násilným záchvatům a poškozování svého okolí, když se cítí utlačovaně a zanedbaně.
+reputationtooltip_Sickness                      Tento vězeň má sklony ke zvracení či pokálení se, když se cítí utlačovaně a zanedbaně.
+reputationtooltip_Hyperactive                   Pohybuje se mnohem rychleji, když se cítí utlačovaně a zanedbaně.
+reputationtooltip_Addict                        Tento vězeň má vyšší šanci, že si navykne na drogy, když se cítí utlačovaně a zanedbaně.
+reputationtooltip_Claustrophobic                Tento vězeň cítí mnohem větší touhu utéct, když se cítí utlačovaně a zanedbaně.
+reputationtooltip_ExtremelyStoical              Zavření na samotku ani přítomnost stráží nepřiměje tohoto vězně k poslušnosti. Je mu to jedno.
+reputationtooltip_ExtremelyVolatile             Na tohohle si dej pozor. Rozčílit ho může cokoliv a může to skončit hodně špatně hodně rychle.
+reputationtooltip_Psychopathic                  Tento vězeň je mnohem nebezpečnější a nepředvídatelnější než ostatní choromyslní vězni.
+reputationtooltip_Insane                        Postarej se, aby měl tento vězeň přístup k psychiatrické konzultaci a k polstrované cele, aby zůstal klidný.
+
+# =============================================================================
+# Reports
+# =============================================================================
+
+report_intake_cat_insane						Choromyslní vězni
+report_intake_list_tooltip_insane				Choromyslní vězni se neustále cítí utlačovaně a vyžadují nové polstrované cely a psychiatrickou péči, aby se jim snížily potřeby soukromí, pohodlí, bezpečí a svobody, než se vzbouří.\n\nChoromyslné vězně si můžeš vyžádat až poté, co budeš mít připravených pár polstrovaných cel nebo polstrovanou společnou celu.\n\nNormální cely můžeš předělat na polstrované v nabídce Místnosti.
+report_intake_insane_intake_empty				Choromyslné vězně momentálně nemůžeš přijímat.\nBudeš muset postavit polstrované cely nebo polstrované společné cely.\nNormální cely můžeš předělat na polstrované v nabídce Místnosti.
+report_staff_group_prisoners_insane				Choromyslní vězni
+report_Criminally_Insane						Choromyslní vězni
+report_Pyschopathic								Psychopatický
+
+report_intake_enable_insane					Povolit
+report_intake_psychward_title					Psych Ward: Warden's Edition
+report_intake_psychward_tooltip					Aktivuj pro tuto věznici herní obsah Psych Ward: Warden's Edition.\n\nPak budeš moct přijímat choromyslné vězně, ale nejdřív na to budeš muset věznici připravit.\n\nMůžeš hledat a najímat psychiatry a zřízence. Můžeš budovat polstrované cely a společné cely.\n\nPsychiatři a polstrované cely ti pomohou udržet choromyslné vězně v klidu a pod kontrolou. 
+
+reformerror_no_psychiatrist					ŽÁDNÍ PSYCHIATŘI
+reform_completion_psychiatrist              - Dokončeno: *X - Vyléčeno: *Y (*P %)
+report_staff_group_orderlies				Zřízenci
+
+# =============================================================================
+# Research
+# =============================================================================
+research_Orderly							Zřízenec
+research_Psychiatrist							Psychiatr
+                     
+researchtooltip_Orderly							Normální stráže nesmějí útočit na choromyslné vězně, protože by je přitom mohly zranit.\nZřízenci mají speciální výcvik, aby choromyslné vězně zkrotili, aniž by je zranili.\nZřízenci navíc dají choromyslným vězňům na noc svěrací kazajky, aby se přes noc sami nezranili.
+researchtooltip_Psychiatrist					Pokročilý zaměstnanec, který našim choromyslným vězňům poskytuje pravidelné konzultace.\nPsychiatři nabízejí pravidelná sezení jeden na jednoho, aby pomohli uklidnit naše choromyslné vězně, jakmile ve věznici zavedeme program Psychiatrická konzultace.\nPokud budeme mít choromyslných vězňů hodně, měli bychom najmout několik psychiatrů, aby je zvládli všechny. Každý z nich by také měl mít svou psychiatrickou kancelář.
+
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+doortimer_security_Insane			            Šílený
+
+buildtoolbar_header_foundationmain				Hlavní
+buildtoolbar_header_foundationmore				Větší
+
+reformprogram_PsychiatricConsultation			Psychiatrická konzultace
+reformprogram_PsychiatricConsultation_text		Všichni choromyslní vězni vyžadují pravidelné soukromé uklidňující sezení s naším psychiatrem, aby se zmírnil jejich rostoucí pocit útlaku. Nedostatek psychiatrů může u těchto vězňů způsobit násilné záchvaty a další jedinečné reakce.
+reform_program_properties_NeedToBeEscorted		Vězni na toto sezení můžou vyžadovat doprovod.
+reform_program_intake_insane				Pouze pro choromyslné vězně.
+
+insane_letter									Vážený pane / Vážená paní,\n\n\nmáme pro vás pár důležitých pokynů, abyste měli jistotu, že máte připravené patřičné zařízení a zaměstnance, abyste se dokázali řádně postarat o choromyslné vězně.\n\n1. Choromyslní vězni musí mít polstrované cely. Polstrované cely můžete udělat ze standardních cel (v nabídce Místnosti). Jakmile budete mít polstrované cely, budete moct přijmout první skupinu vězňů.\n\n2. Nezapomeňte najmout psychiatry a zřízence. Psychiatři budou rovněž potřebovat speciální kancelář.\n\n3. Zaveďte pro své choromyslné vězně program psychiatrických konzultací. Tato soukromá sezení u psychiatra (a polstrované cely) pomáhají udržet vězně pod kontrolou. Pokud kancelář psychiatra vylepšíte, budou se o vězně moct starat ještě lépe.\n\n4. Pokud choromyslné vězně necháte bez péče a bez dozoru, mohou se začít chovat nepředvídatelně, pokusit se o útěk nebo začnou být násilní.\n\n5. Zřízenci budou vězně doprovázet a léčit a nebudou je utiskovat tak jako běžné stráže. Zřízenci budou rovněž zapotřebí k tomu, aby psychopatické choromyslné vězně na konci dne vybavili svěrací kazajkou.\n\n6. Kombinování choromyslných vězňů s ostatními může občas vést k problémům. Je dobrý nápad vybudovat samostatné sektory pro choromyslné vězně, včetně jídelen, dvorů a dalších obalstí. A kanceláře psychiatrů doporučujeme postavit poblíž blokům pro choromyslné vězně.\n\n7. A nakonec, vězni z ostatních sektorů věznice mohou nyní zešílet, takže na ně dávejte pozor.\n\nŘeditel,\nPrison Architects Corp.
+
+job_StraitJacket                         Navléknout/svléknout svěrací kazajku
+job_EscortInsane                         Doprovodit choromyslného vězně
+status_effect_sedated					Pod sedativy
+
+orderly_description                     Zřízenci mají speciální výcvik pro zacházení s choromyslnými vězni a podávání sedativ (pokud je to nutné).
+pyschiatrist_description                VŠICHNI choromyslní vězni vyžadují pravidelné soukromé psychiatrické konzultace u psychiatra. Psychiatrické konzultace přidáš přes nabídku Programy.
+
+insanetooltip_status                    Status: *X
+insanetooltip_status_level0             KLIDNÝ
+insanetooltip_status_level1             ROZRUŠENÝ
+insanetooltip_status_level2             NESTABILNÍ
+insanetooltip_status_level3             ROZZUŘENÝ!
+insanetooltip_behaviour					Chování: *X
+
+mutator_name_ReducedDirtBuildup						Snížit rychlost špinění
+mutator_tooltip_ReducedDirtBuildup					Rychlost, s jakou se kolem věznice tvoří špína a svinstvo, je poloviční.
+administrator_requiresoffice_psychiatrist            Vyžaduje kancelář psychiatra
+
+dlc_insane_upsell				Tato úložná pozice používá obsah z rozšíření „Psych Ward: Warden's Edition“. Jelikož jsme na tvém systému nedokázali toto rozšíření najít, budou některé funkce vypnuté. Zvaž prosím nákup „Psych Ward: Warden's Edition“, ať ze svého zážitku s hrou Prison Architect vytěžíš maximum.
+dlc_insane_upsell_multiplayer 	Hostitel této hry pro více hráčů má zakoupené rozšíření „Psych Ward: Warden's Edition“, ke kterému budeš mít jako jeho host také přístup. Příjemnou zábavu!
+
+regime_work_pyscho              Programy/Volný čas
+regime_worklockdown_pyscho      Programy/Pobyt v cele
+
+regimetooltip_work_pyscho			Poznámka: Šílení vězni nemohou pracovat a během pracovní doby mohou pouze navštěvovat programy
+regimetooltip_worklockdown_pyscho	Poznámka: Šílení vězni nemohou pracovat a během pracovní doby mohou pouze navštěvovat programy
+
+
+# =============================================================================
+# Nameplate status
+# ============================================================================= 
+
+nameplate_sedation_level						Úroveň sedativ
+teacher_teaching_pschiatrist                    Léčí		
+pschiatrist_count_status						*X dokončených psychiatrických konzultací
+
+
+############################### SNEEZER UPDATE ###############################
+
+# =============================================================================
+# Rapsheet
+# ============================================================================= 
+
+action_escortToInfirmary						Doprovodit na ošetřovnu
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacelogistics_cellStatus					Stav cel
+
+buildtoolbar_popup_help_CellStatus_1			Zobrazení stavu cel ukazuje obsazené cely (červené) a volné cely (zelené).
+buildtoolbar_popup_help_CellStatus_2			Můžeš kliknout na obsazenou celu a zobrazit si vězně, který je do ní přiřazen.
+
+freeCell										Volná cela
+freeCell_line0									Tato cela je momentálně neobsazená.
+occupiedCell									Obsazená cela
+occupiedCell_line0								*X *Y, *Z
+occupiedCell_line1								Levým kliknutím si zobrazíš tohoto vězně.
+object_prisoner_freshfish						Vězeň (nová krev)
+
+total_Connections								Celkový počet připojení: *X
+active_Connections								Maximální počet aktivních připojení: *X
+
+interfacedeployment_VisitorDirection			Směr návštěvníků
+
+interface_action_move							Přesunout
+
+equipment_moreContraband						Kontraband
+
+# =============================================================================
+# Reports
+# =============================================================================
+
+report_intake_cat_PrisonerTransfer				Přesun vězňů!
+report_intake_list_tooltip_prisonerTransfer		\n\nObčas dostaneš nabídku na rizikové vězně, kteří jsou na ostatní věznice příliš nebezpeční.\nPozor! Existuje důvod, proč se za ně platí tolik. Jsou to zocelení zločinci, které nechce žádná jiná věznice přijmout.
+rapsheet_category_PrisonerTransfer				Přesun vězňů!
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_tooltip_noUtilities		Vodní potrubí a kabely nelze stavět pod.
+
+buildtoolbar_deployment_VisitorDirection 	Klikni na nápis na podlaze a přetáhni ho.\n\nTak osoby, které nejsou vězni, získají nápovědu, kterým směrem jít.\nPomáhá ovládat pohyb lidí ve vězení.
+
+# =============================================================================
+# Programs
+# =============================================================================
+
+guard_program_requirements             - *X pro každého strážného
+
+schedule_zone_insaneSecOnly						Sektor pro choromyslné
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_option_lunar								Měsíční pozemek
+codex_tooltip_lunar								Vygeneruje počáteční políčko, které připomíná měsíční povrch.
+
+codex_option_doubleClick						Předměty přesouváš dvojím kliknutím
+
+# =============================================================================
+# Clone Tool
+# =============================================================================
+
+BuildCost_CloneRoom								Klonovací místnost
+
+# =============================================================================
+# Missing Strings
+# =============================================================================
+
+codex_startonline                   Jít online
+codex_start                         Založit hru
+codex_joinonline                    Přidat se k online hře
+codex_join                          Přidat se ke hře
+codex_usernamelabel                 Uživatelské jméno:
+codex_namelabel                     Název hry:
+codex_passwordlabel                 Heslo:
+codex_passwordprotectedlabel        Chráněné heslem?
+codex_listedlabel                   Veřejně uvedené?
+codex_roomlistlabel                 Seznam her:
+codex_connectinglabel               Připojuji se k serveru...
+codex_retrievingserverlistlabel     Načítám seznam her...
+codex_datausage                     Využití dat: Odesláno: *SkB/s, přijato: *RkB/s
+codex_multiplayeroptions            Spravovat hráče
+codex_playeroptions                 Hráči
+codex_regionlabel                   Region:
+
+multiplayer_chooseroomname          Zadej název hry
+multiplayer_chooseusername          Zadej uživatelské jméno
+multiplayer_joining                 Připojuji se k: *X
+multiplayer_joiningstate_joining    Připojuji se ke hře
+multiplayer_joiningstate_receiving  Vyhledávám svět
+multiplayer_joiningstate_loading    Načítám svět
+multiplayer_rejoining               Opětovné připojení ke hře po rozšíření pozemku:
+multiplayer_leavegame_confirm       Opravdu chceš odejít z aktuální kooperativní hry?
+multiplayer_hostleft                Hostitel se odpojil.
+multiplayer_joingamefailed          Nepodařilo se připojit ke hře:
+multiplayer_startgamefailed         Nepodařilo se zahájit hru:
+multiplayer_incorrectpassword       Nesprávné heslo
+multiplayer_disconnected            Připojení k serveru se přerušilo.
+multiplayer_syncerror               Došlo k odpojení kvůli chybě synchronizace.\n\nZkus se ke hře připojit znovu.
+multiplayer_hostonly                Dostupné pouze pro hostitele.
+multiplayer_modsdisabled            Modifikace jsou pro online hru vypnuté.
+multiplayer_mutatorsdisabled        Mutátory jsou pro online hru vypnuté.
+multiplayer_kicked                  Vyhodili tě ze hry.
+multiplayer_kick                    Vyhodit
+multiplayer_ban                     Zablokovat
+
+multiplayer_host                    Hostitel:
+
+multiplayer_welcomeanalytics        Vítá tě Prison Architect pro více hráčů.\n\nPracovali jsme na to, abychom zprovoznili kompletní zážitek se hrou Prison Architect ve verzi pro více hráčů. Prison Architect je velká hra a toto je poprvé, co hru více hráčů zpřístupňujeme všem, takže budeme dávat pozor, jestli nedojde k nějakým problémům.\n\nKvůli tomu bychom rádi sbírali anonymní analytická data, která nám pomohou vyřešit problémy, na které mohou hráči ve hře narazit. Tuto funkci můžeš kdykoliv vypnout v nastavení. Na data, která shromažďujeme, se můžeš podívat v souboru metrics.txt.\n\nDoufáme, že si užiješ hraní Prison Architect s kamarády.
+
+region_asia                         Asie
+region_au                           Austrálie
+region_cae                          Kanada, východ
+region_eu                           Evropa
+region_in                           Indie
+region_jp                           Japonsko
+region_ru                           Rusko
+region_rue                          Rusko, východ
+region_sa                           Jižní Amerika
+region_kr                           Jižní Korea
+region_us                           USA, východ
+region_usw                          USA, západ
+
+codex_options_disableattract            Vypnout úvodní obrazovku
+codex_option_escapeplans                Plány na útěk
+buildtoolbar_rollcall                   Kontrola prezence
+buildtoolbar_tooltip_rollcall           Svolej všechny vězně, aby se postavili před cely. Dostupné pouze během spánkových režimů a během noci.
+interfacecontrol_graphs                 Grafy
+interfacecontrol_graphs_tooltip         Otevři obrazovku grafů, na které můžeš porovnat grafy různých aspektů svého vězení.
+
+graph_title                             Grafy
+
+graph_label_1                           Typ dat 1
+graph_label_2                           Typ dat 2
+graph_label_day                         Den
+
+graph_axis_none                         Noc
+graph_axis_profit                       Zisk
+graph_axis_funds                        Prostředky
+graph_axis_prisonsize                   Velikost věznice (m²)
+graph_axis_numprisoners                 Počet vězňů
+graph_axis_numstaff                     Počet zaměstnanců
+graph_axis_releasedprisoners            Propuštění vězni
+graph_axis_totalreleasedprisoners       Propuštění vězni celkem
+graph_axis_escapedprisoners             Uprchlí vězni
+graph_axis_totalescapedprisoners        Uprchlí vězni celkem
+graph_axis_entitydeath                  Úmrtí
+graph_axis_totaldeaths                  Úmrtí celkem
+graph_axis_prisonerdeaths               Úmrtí vězňů
+graph_axis_guarddeaths                  Úmrtí strážných
+graph_axis_securitygrading              Hodnocení strážných
+graph_axis_healthgrading                Hodnocení zdraví
+graph_axis_reformgrading                Hodnocení nápravy
+graph_axis_punishmentgrading            Hodnocení trestů
+graph_axis_reoffendingrate              Pravděpodobnost recidivity
+graph_axis_prisonvalue                  Hodnota věznice
+graph_axis_prisonercapacity             Kapacita věznice
+graph_axis_numincidents                 Počet incidentů
+graph_axis_totalincidents               Incidentů celkem
+
+equipment_Photo				Fotografie	
+equipment_SubMachineGun			Samopal	
+equipment_Soap				Mýdlo

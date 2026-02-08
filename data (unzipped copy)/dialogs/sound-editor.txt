@@ -1,0 +1,327 @@
+BEGIN Window
+    NAME         SoundEditor
+    WIDTH        700
+    HEIGHT       490
+END
+
+BEGIN Container
+    XPOS        Absolute        170
+    YPOS        Absolute        35
+    WIDTH       Absolute        365
+    HEIGHT      Relative        -55
+END
+
+BEGIN DropDownMenu
+    NAME        ObjectType
+    XPOS        Absolute        15
+    YPOS        Absolute        35
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        NewEvent
+    XPOS        Absolute        15
+    YPOS        Relative        -40
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        20
+END
+
+BEGIN Container
+    XPOS        Absolute        15
+    YPOS        Absolute        65
+    WIDTH       Absolute        140
+    HEIGHT      Relative        -115
+END
+
+BEGIN SelectionList
+    NAME        EventList
+    XPOS        Absolute        20
+    YPOS        Absolute        70
+    WIDTH       Absolute        130
+    HEIGHT      Relative        -125
+END
+
+BEGIN Caption
+    NAME        positiontitle
+    XPOS        Absolute        180
+    YPOS        Absolute        105
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        PositionType
+    XPOS        Absolute        305
+    YPOS        Absolute        105
+    WIDTH       Absolute        220
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        instancetitle
+    XPOS        Absolute        180
+    YPOS        Absolute        135
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        looptitle
+    XPOS        Absolute        180
+    YPOS        Absolute        165
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        sourcetypetitle
+    XPOS        Absolute        180
+    YPOS        Absolute        75
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        InstanceType
+    XPOS        Absolute        305
+    YPOS        Absolute        135
+    WIDTH       Absolute        220
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        LoopType
+    XPOS        Absolute        305
+    YPOS        Absolute        165
+    WIDTH       Absolute        220
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        SourceType
+    XPOS        Absolute        305
+    YPOS        Absolute        75
+    WIDTH       Absolute        220
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        soundnametitle
+    XPOS        Absolute        180
+    YPOS        Absolute        45
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        SoundName
+    XPOS        Absolute        305
+    YPOS        Absolute        45
+    WIDTH       Absolute        195
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        SelectSound
+    CAPTION     ...
+    XPOS        Absolute        500
+    YPOS        Absolute        45
+    WIDTH       Absolute        25
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        Volume
+    XPOS        Absolute        305
+    YPOS        Absolute        225
+    WIDTH       Absolute        220
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        VolumeTitle
+    XPOS        Absolute        180
+    YPOS        Absolute        225
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        Attack
+    XPOS        Absolute        305
+    YPOS        Absolute        285
+    WIDTH       Absolute        220
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        Sustain
+    XPOS        Absolute        305
+    YPOS        Absolute        315
+    WIDTH       Absolute        220
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        Release
+    XPOS        Absolute        305
+    YPOS        Absolute        345
+    WIDTH       Absolute        220
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        Frequency
+    XPOS        Absolute        305
+    YPOS        Absolute        255
+    WIDTH       Absolute        220
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        FrequencyTitle
+    XPOS        Absolute        180
+    YPOS        Absolute        255
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        AttackTitle
+    XPOS        Absolute        180
+    YPOS        Absolute        285
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        SustainTitle
+    XPOS        Absolute        180
+    YPOS        Absolute        315
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        ReleaseTitle
+    XPOS        Absolute        180
+    YPOS        Absolute        345
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        LoopDelayTitle
+    XPOS        Absolute        180
+    YPOS        Absolute        195
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        LoopDelay
+    XPOS        Absolute        305
+    YPOS        Absolute        195
+    WIDTH       Absolute        220
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Play
+    XPOS        Absolute        545
+    YPOS        Absolute        35
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        30
+END
+
+BEGIN Button
+    NAME        Save
+    CAPTION     dialog_save
+    XPOS        Absolute        545
+    YPOS        Relative        -40
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        SoundChannels
+    CAPTION     soundchannelviewer_title
+    XPOS        Absolute        545
+    YPOS        Relative        -65
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Delete
+    CAPTION     dialog_delete
+    XPOS        Absolute        385
+    YPOS        Relative        -50
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        20
+END
+
+BEGIN Container
+    XPOS        Absolute        545
+    YPOS        Absolute        105
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        235
+END
+
+BEGIN SelectionList
+    NAME        DspList
+    XPOS        Absolute        550
+    YPOS        Absolute        110
+    WIDTH       Absolute        130
+    HEIGHT      Absolute        225
+END
+
+BEGIN TitleCaption
+    NAME        DspTitle
+    XPOS        Absolute        545
+    YPOS        Absolute        80
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        NewDsp
+    XPOS        Absolute        545
+    YPOS        Absolute        345
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputSlider
+    NAME        MinDistance
+    XPOS        Absolute        305
+    YPOS        Absolute        375
+    WIDTH       Absolute        220
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        MinDistanceTitle
+    XPOS        Absolute        180
+    YPOS        Absolute        375
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        NextEventTitle
+    XPOS        Absolute        180
+    YPOS        Absolute        405
+    WIDTH       Absolute        120
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputField
+    NAME        NextEvent
+    XPOS        Absolute        305
+    YPOS        Absolute        405
+    WIDTH       Absolute        220
+    HEIGHT      Absolute        20
+END
+

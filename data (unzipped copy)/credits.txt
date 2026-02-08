@@ -1,0 +1,881 @@
+﻿# Please make sure this file is saved as UTF8
+<h1>Prison Architect
+
+
+Brought to you by...
+
+<h2>Double 11 Limited
+Middlesbrough, UK
+www.double11.com
+
+and
+
+<h2>Paradox Interactive AB
+Stockholm, Sweden
+www.paradoxinteractive.com
+
+and
+
+<h2>Introversion Software
+London, UK
+www.introversion.co.uk
+
+
+
+<h1>- Double 11 Credits -
+
+In Loving Memory Of James Finlayson 
+1985 - 2017
+Gentleman, Colleague, Friend, And One Hell Of An Artist. 
+
+<h2>Studio Head
+Lee "Unconventional" Hutchinson
+
+<h2>Chief Operating Officer
+Mark "The Chef" South
+
+<h2>Technical Directors
+Matt "Godzilla" Shepcar
+Rob "World's Toughest Vegan" Ware
+
+<h2>Financial Director
+Kimberley "The Head" Turner
+
+<h2>Development Manager
+Wayne "Silent but Deadly" Smithson
+
+<h2>Game Design Manager
+Gareth "G-Baller" Wright
+
+<h2>Art Manager
+Gurmita "Bacon Boss" Singh
+
+<h2>Publishing Ops Manager
+Kirsten "Bibliomaniac" Cummins
+
+<h2>Design
+Matthew "Kitten Whisperer" Dunthorne
+Tom "The Text Engine" Pedalino
+Ross "Decoy" Neal
+Curtis "Jon Snow" Wicks
+Natalie "Old S#@% Eyes" Wicks
+Giovanna "Sneak Attack" Mateus
+Maria "Bunny" Cerqueira
+Cara "Why is She Still Here" Hudson
+Joe "Choke and Stroke" Parker
+Adam "I was 9 when this game came out" Al-Taie
+
+<h2>Art
+Nick "I Wish I Wasn't Related To Phil Sedgeman" Patrick
+Coral "Jungle Bae" South
+Bruno "Nib Stabber" Henriques
+Cara "Nickname" Ho
+Rebecca "I'm A Wizard, Harry" McKie-Coils
+Stephen "The Stone" Sharples
+Fang "Sweet Tooth" Jing Tay
+Ste “Pixel Pusher“ Pickford
+James Finlayson
+
+<h2>Technical Artist
+Matthew "Go Go Gadget" Gates
+
+<h2>Audio
+Anthony "The Tone Deaf Destroyer" Putson
+Andy "Infernal" George
+Abbie "The Reaper of Souls" Howard
+
+<h2>Programming Lead
+Phil "The Artist" Sedgeman
+Thang "Tano" Phung Dinh
+Giang "It works on my machine" Tong
+
+<h2>Programming
+Dan "The Enforcer" Bardsley
+Dave "Dave" Buckley
+Richard "The Raging..." Bull
+Adam "Gecko Tamer" Clarkson
+Steven "Karambit" Clayton
+Ryan "Deadeye" Coughlan
+Nigel (Fred) "Three Legged" Conroy
+Pedro "Big Tackle" Costa
+Thomas "I Hate Trains" Edgar
+Lewis "Prison Pocket" Graydon
+Matthew "The Bookworm" Grierson
+Damien "Hendog" Henderson
+Adrian "Ey Up" Hirst
+Samuel "Low Rolls" Hirst
+Lee "LJ" Jones
+Charlie "The Dave" Maxwell
+Gabriel "The Rookie" Menezes
+Greg "No Idea" Michael
+Samuel "Walking Problem" Neesam
+James "You're not calling me The Jock" Noble
+Jay "Not the Intern" Peet
+Jordan "The Phoenix" Phoenix
+Phil "The Artist" Sedgeman
+Matt "Yorkshire!!" Shepcar
+Keenan "Tripeboy" Sice
+Rob "CCTV" Ware
+John "You Wot!?" Waring
+Jack "The Brown Bear" Brown
+Marin "The Fixer" Jelica
+K. Komal "The Exterminator" Shashank
+Craig "Escapee Power Man" Palmer
+Alex "Corn Addict" Parcell
+Tieran "Caulkhead" Wightman
+Bethan "I don't wanna break it" Symes
+James "The Mothman" Sneyd-Gomm
+Toby “The Arsonist” Cotton
+
+<h2>Production
+Adrien "Parmo Hater" Dugue
+Ryan "Grave Robber" Wolfe
+Barry “Bounty Hunter” Hindmarsh
+
+<h2>Production Assistant
+Ross "Bobbiest Ross" Scott
+
+<h2>QA Leads
+Dave "RTFM" Saville
+Daniel "Innocent" Schwendener
+Rob "The Penguin" Doughty
+Ben "The Diplomat" Hitchinson
+Steph "Teacake" McStea
+
+<h2>QA Team
+Darren "World Champion" Arquette
+David "The Wizard" Miller
+Abby "End Me" Cleverdon
+Callum “Jellybeans” Giles
+Joe "Silent Wispa" Rybak
+Danielle "Enabler" Sinclair
+Rob "The Penguin" Doughty 
+Andy "Kickpuncher" Nisbet
+John "Shifty" Barker-Challenor
+Kalem "Soap Dropper" Frost
+Jack "Schwendener stole my nickname" Watson
+Neil "Small Off-Duty Czechoslovakian Traffic Warden" Arnison
+Joshua "Rehabilitated" Barker-Challenor
+Chris "Gotta go fast" Nichols
+Adrian "The Hedgehog" Kwan
+Michael "Is this sassy enough?" Smith
+Courtney "Borowski" Raine
+Lewis "The Drunk Cthulhu" Ahmed
+Callum "Googly Eyes" Leach
+Jonathon "This is my favourite prison on the citadel" Goodall
+Jack "Please don't call me daddy" Richards
+
+<h2>IT
+David "I Love Being Naked" Cumbor
+Nikitas "I Hate Seeing Cumbor Naked" Skemvris
+Lewis "Ticketmaster" Rafferty
+Ace "Keyboard Connoisseur" Angkasuwapala
+Nathan "Welshcakes" Williams
+
+<h2>Junior Release Associate
+Jake "Don" Donbavand
+
+<h2>Junior Marketing Associate
+Ryan "RyDog" Smith
+
+<h2>Human Resources
+Andrea "The Jailbird" Wearmouth
+
+<h2>Domestic Assistance
+Marie "Where's My Tortoise" Horkan
+
+<h2> Kuala Lumpur Office
+
+<h2>Production
+Ian "Master Jedi" Ng Siong Yoong
+Calvin "No Parole" Chong Ho Aun
+
+<h2>QA Team
+Jing "Cousin Johnny" Han
+Kevin "Kebs Chicken Rice" Lau Lee Yong
+Eugene "There is only 1 Laksa" Tam You Jun
+Martin "The Death Thouser" Chu Chee Loong
+Eu "Mass Murderer Ishikawa" Wai Him
+Ong "MerimacMac" Ban Hoe
+Jian Wei "TamagoSushi" Hoh
+
+<h2>Special Thanks
+James Finlayson
+Alex "Sheldon" Cummins
+Raymond "Sakaru" Tan
+Mark "Bang Tidy" Raymond
+
+<h2>Very Special Thanks
+Karen, Evelyn, Tigger & Spock
+Lauren, Kye & Karter Sedgeman
+Marie & Karenza Miller
+Michelle Courtley & Adam Ronin William Clayton
+Lauren, Violet, Squish, Coco & Gracie
+Samantha, Austin & Emilia Hutchinson
+Sarah, Grace, Daisy & Remy Pedalino
+The Whole Rybak Family
+The Tate family
+Spencer & Dexter
+Rosie Morris, Manny, Pepper & Boo Cat (RIP)
+Pambo, Lola & Biscuit
+Matthew and Olivia Mckie, Grace, Abbie and Lacey Hart
+Kate Vaks & Alfie Vaks Pugh
+Suzie & Romy Wood
+Ceilidh Sudworth & George, Gizmo and Horace.
+Giselle, Gary, Gareth, Daisy and Auri 
+Mama, Glen, & Yoyo Wicks
+Kuma & Ragnar Scott
+Diggle Nisbet
+Teddie Sinclair
+Hades & Juno 
+
+
+<h2> Additional Code Support
+
+<h2>SockMonkey Studios
+
+Bob "Pug Dealer" Makin 
+Darren "Lord of the Chimps" Cuthbert
+David "Alpha Chimpanzee" McCann
+Alex "Tiny Hands" Pearson
+Chris "Beta Chimpanzee" Taylor
+Neil "Daft Lad" Maven
+Brad "Beans" Beals
+
+
+<h1>Paradox Prison Architect team
+
+<h2>Product Manager
+Farida Gazizova
+Steacy McIlwham
+
+<h2>Producer
+Robin Cederholm 
+Tess Lindholm
+Véronique Rattaire
+Sebastian Schlyter
+Martin Tosta
+Zsolt Suto
+
+<h2>Product Marketing Manager
+Christian Daflos
+Jakob Jorstedt
+Marine Mazel
+
+<h2>Partner Account Manager
+Albert Banda
+Viktor Stadler
+
+<h2>Community Developer
+Davide Ghelli
+Daria Ilyina
+Jonathan Whitley
+
+<h2>Community Ambassador
+Joanna Benjaminsson
+
+<h2>Digital Marketing
+Kimberly Trapnell
+
+<h2>DevOps
+Daan Broekhof
+Oleg Lindvin
+
+<h2>Data Scientist
+Katya Boestad
+Kayle Sneed 
+
+<h2>Creative Marketing Producer
+Steven K Wells
+Yali Murillo
+Moush Angre
+Simon Zickbauer
+
+<h2>Marketing Creative Production Coordinator
+Anna Boujard
+
+<h2>Quality Assurance by The Most Games
+<h2>QA Manager
+Dmitry Klimov
+
+<h2>QA Leads
+Anastasia Khudikova
+Tatiana Saienko
+
+<h2>QA Testers
+Anna Abaeva
+Lyudmila Pechenkina
+Elizaveta Ishmulkina
+Ekaterina Podsevalova
+Polina Sharikova
+Kristina Belyakova
+Anton Korsakov
+Sana Miller
+Victoria Lavrenteva
+Andrei Antonov
+Daniil Tsoev
+Yulia Omelchenko
+Konstantin Maslov
+Dmitry Bormatenkov
+Yehor Teleha
+Artem Zabrodskyi
+Eugene Liakhov
+Aleksei Moroz
+Maksim Kalinin
+Alex Osovets
+Dmitriy Kuchma
+Kateryna Nikitina
+Evgeniy Bilitskiy
+Aleksey Ivanickiy
+
+<h2>Localisation by The Most Games
+<h2>Project Manager
+Ekaterina Dyakonenko
+Valentina Krylova
+Alexander Loktionov
+
+<h2>Translator
+Jakob Kandel
+Frederic Brunet
+Pedro Cortázar
+Alba Salgado
+Lorenzo Bertolucci
+Barbara Monti
+Matteo Scarabelli
+Yuko Kasahara
+Tomoko Takahashi
+Kim Ye Ji
+Lee  Jong Min
+Choi Yu Hyeon
+Wojciech Brudziński
+Karolina Todorska
+Asia Mleczak
+Thiago Araujo
+Alexander Sukhanov
+Dmitry Kulchitsky
+Anna Noskova
+Elif Ozkaya
+Kim Jin
+Miller Mei
+Yiching Chou
+
+
+<h1>Paradox Interactive
+<h2>Management 
+ 
+<h2>Chief Executive Officer
+Fredrik Wester
+
+<h2>Chief Finance Officer
+Alexander Bricca
+
+<h2>Chief Operations Officer
+Charlotta Nilsson
+
+<h2>Chief Technical Officer
+Mina Boström Nakicenovic
+
+<h2>Chief Marketing Officer
+Johan Bolin
+
+<h2>Chief Business Development Officer
+Shams Jorjani
+
+<h2>Chief HR Officer
+Marina Hedman
+
+<h2>Product Management Team
+
+<h2>Vice President Product
+Sandra Neudinger
+
+<h2>Product Managers
+Marco Behrmann
+Leonard Carpentier
+Stefan Eld
+Farida Gazizova
+Anna Goliakova
+Gustav Groth
+Ross Kaminskyi
+Magnus Lysell
+Kenneth Mei
+Jakob Munthe
+Fabricio Santos
+Ryan Sumo
+
+<h2>Legacy Portfolio Manager 
+Juney Dijkstra
+
+<h2>Product Business Developers 
+Nils Brolin
+
+<h2>Head of Production
+Nils Löf
+Mattias Köhlmark
+
+<h2> Producers
+Mats Holm
+Tess Lindholm
+Loke Norman
+Christian Petersen
+Sebastian Schlyter
+Bart Schouten
+Micael Sjölund
+Heikki Suvanto
+Martin Tosta
+Anya Zielinska
+
+<h2>Head of Product Launch
+Adrian Irimiea
+
+<h2>Release Managers
+Fang Chen
+Stefana Prozan
+Kristina Schtollova
+Oscar Beiroa
+
+<h2>Compliance Designer
+Lars Minkkinen
+
+<h2>Release Coordinator
+Rebecca Gelson
+
+<h2>Game Platform Specialist
+David Karlsson Lille
+
+<h2>Localization Producer
+Michael Radnitz
+
+<h2>Product Managers - Player Services
+Arvid Klingström
+Anders Törlind
+Mikael Palmér
+Fredrik Bodin
+
+<h2>UX Designers - Player Services
+Alecio Calixto
+David Zardini
+João Duduch
+Magdalena Reyman
+
+<h2> Marketing 
+
+<h2>Product Marketing Team Lead 
+Filip Sirc
+
+<h2>Product Marketing Management
+Alan Mahmodian
+Christian Daflos
+Christoffer Ring
+Davide Ghelli
+Elena Medvedeva
+Iryna Pyrih
+Jakob Jorstedt
+Marine Mazel
+Pontus Rundqvist
+Rodrigue Delrue
+Thomas Detaevernier
+
+
+<h2>Head of Marketing Creative
+Matias Civit
+
+<h2>Marketing Creative Production
+Jennie Nyström
+John Ahlbäck
+Max Collin
+Billy Malmström
+Adam Skarin
+Oskar Petrén
+Simon Zickbauer
+Rachel Oratis
+Yali Murillo
+Sebastian Weidenhielm Linden
+Axel Ullberger
+Moushimi Angre
+
+
+
+<h2>Head of Digital Marketing
+Stefan Wallin
+
+<h2>Performance Marketing
+Hampus Erlandsson
+Henrik Bonnichsen
+Michiel Van Loo
+
+
+<h2>Head of Communications
+Loïc Fontaine
+
+<h2>Public Relations
+Jesse Henning
+
+<h2>Corporate Communications
+Marcus Hallberg
+
+<h2>Community Management
+Laureline Petit
+Björn Blomberg
+Dale Emasiri
+Emma Kujansuu
+Krzysztof Biernat
+Ann-Charlotte Mörk
+Martyna Zych
+Patrycja Gajda
+Maciej Kozlowski
+Troy Pruitt
+Daria Ilyina
+Helena Grayson
+Benjamin Kajfasz
+Preethi Doddy
+
+<h2>Live Content
+Anders Carlsson
+Jimmy Tisell
+Madeleine Jonsson
+
+<h2>Events Management
+Paula Thelin
+Veronica Gunlycke
+Cissi Ramsby
+Ylva von Zweigbergk
+
+<h2>Influencer Relations
+Jonathan Whitley
+
+<h2>Customer Support
+Christian Arvidsson
+Debbie Lane
+
+<h2>Marketing Automation Specialist
+Annie Alström
+Karola Kiessling
+
+<h2>CRM Content Producer
+Christopher Borén
+
+<h2>Insights Manager
+Mathias von Plato
+
+<h2>Research Manager
+Mikaela Dyhlén
+
+<h2>Researchers
+Henrik Edlund
+Hanna Löhman
+Yinyi Luo
+Cherno Jallow
+Jenny Wickman
+Jeanin Day
+Joshua Marchand
+Victor Nihlwing
+William Herner
+
+<h2>User Research Administrator
+Anna Ström
+
+<h2>Data Scientists
+Viktor Stenström
+Katya Boestad
+Stephen White
+Fatemeh Seifan
+Eduarda Oliveira
+
+<h2>BI Specialist
+Max Bertilsson
+
+<h2>Manager of Partner Relations
+Viktor Stadler
+
+<h2>Partner Account Managers
+James Gardiner
+Albert Banda
+Daniel Hjelmtorp
+
+<h2>Trade Marketing Manager
+Jackson Downing
+
+<h2>Commercial Manager
+Sofie Siggelin
+Mattias Rengstedt
+
+<h2>E-commerce Manager
+Luciana Oliveira
+
+<h2>Store Coordinator
+Josef Widoff
+
+<h2>Brand Manager
+Sean Greaney 
+Luca Kling 
+Freddy Tu
+
+<h2>Editor
+Karim Muammar
+
+<h2>Art Director
+Tomas Arfert
+
+<h2>Marketing
+Jason Carl
+
+<h2>Business Development
+
+<h2>Business Developers 
+Mats Karlöf
+Dhaunae De Vir
+Daniel Grigorov
+
+<h2>Head of Music 
+Tobias Gustavsson
+
+<h2>Project Management
+Andreas Renström
+
+
+<h2>DevOps & Data
+
+<h2>Vice President Technology
+Kristian Laustsen
+
+<h2>Data Manager
+Anabel Silva Rojas
+
+<h2>Cloud Operations Manager
+Kim Wahlsten
+
+<h2>Development Manager
+Mehdi Dadashpour
+Ciaran Kelly
+Ida Hedberg
+Kate Traver Berggren
+
+<h2>Project Manager
+Andrew Gomes
+
+<h2>OEM Tech Relations Manager
+Jonathan Cole
+
+<h2>Infrastructure & Automation Engineer
+Philip Adams
+Anton Wermelin
+Matthew Hines
+Guilherme Lopes
+
+
+<h2>Software Engineer
+Alexander Altanis
+Ellen Andersson
+Ales Bolka
+Mikael Berg
+William Goh
+Alexander Hofstede
+Daniel Karlsson
+Anna Erkers
+Fredrik Julin
+Mai-Khanh Lê
+Oleg Lindvin
+Matthew Price
+Jakob Skwarski
+Eylem Uğurel
+Mikolaj Trzeciecki
+Etki Gur
+
+<h2>Data Engineer
+Fredrik Hilding
+Jason Guldbrandsen
+Vlad Caciula
+James Gibbs
+Vi Lyn Tann
+
+<h2>Developer Relations Specialist
+Erik Boman-Börjesson
+Zsolt Sütő
+
+<h2>Game Programming Specialist
+Roman Fadeev
+
+<h2>QA Lead
+Michaela Ulvhammar
+    
+<h2>Technical Writer
+Johanna Vaher
+
+
+<h2>IT 
+
+<h2>Head of IT
+Thomas Ekholm
+
+<h2>IT Systems Engineer
+Mathias Dahlberg
+
+<h2>IT Security Engineer
+Thomas Sjögren
+
+<h2>IT Application Manager
+Anna Kärrstrand
+
+<h2>IT Project Manager
+Sarah Lager
+
+<h2>IT Support Team Lead
+Richard Lindkvist
+
+<h2>IT Support Technician
+Marcus Bose Holmqvist
+Robin Ljung Bjuggfält
+David Östlund
+Michael Selin
+
+
+<h2>Facility & Office
+
+Malin Hjortenmark
+Johanna Holmlund
+
+
+<h2>Finance & Legal
+
+<h2>Finance
+Gabriel Andersson
+Angelica Halme
+Daniel Barkenäs
+Kim Danell
+
+<h2>Legal
+Fredrik Eklund
+Denis Ilecic
+Emma Helgesson
+
+
+<h1>- QLOC S.A. -
+
+<h2>President of the Board
+Adam "Nubarus" Piesiak
+
+<h2>Vice President, Business Development Director
+Paweł "Tramer" Ziajka
+
+<h2>Business Development Deputy Director
+Jakub Trudzik
+
+<h2>Business Development Manager
+Adrian "DonCartagina" Czerwiński
+
+<h2>Director of Quality Assurance
+Sergiusz "Killian" Ślosarczyk
+
+<h2>QA Project Manager
+Marcin "Tata" Górniak
+Paweł Szczęsny
+Andrzej "Sarius" Tsupko
+
+<h2>QA Lab Managers
+Łukasz "Leszy" Mirosławski
+Paweł "Pain" Strzelczyk
+
+<h2>QA Training Manager
+Michał "Raczyn" Raczyński
+
+<h2>QA Team Leaders
+Piotr "Badoor" Badurek
+Emil "Hawk" Lubowicki
+Kamil "Kusza" Uszyński
+Wiktor  Dudkiewicz
+
+<h2>QA Testers
+Kamil "Kiwi" Walkowiak
+Andrzej "The Sheep" Weremczuk
+Igor "Scrawler" Gardeychik
+Chuhao "The Chainsmoker" Lim
+Michał Durzyński
+Mateusz Dziuba
+Maciej Florysiak
+Tomasz Gawryś
+Arash Golzad
+Kinga Górska
+Mariusz Jarotek
+Dominik Komorowski
+Mateusz Koziarz
+Bianka Kromolicka
+Maciej Kwiatkowski
+Jiacheng Li
+Jia-Syuan Lin
+Adrian Manowski
+Andrzej Nędzusiak
+Igor Niewiadomski
+Jakub Nowakowski
+Piotr Piotrowski
+Emilia Pokorowska
+Piotr Skierkowski
+Szymon Stankiewicz
+Aleksandra Szewczuk
+Konstanty Szymichowski
+Remigiusz Woźniak
+Błażej Wróblewski
+Oliwia Nike Morawiec
+Patrycja 'Cethanna' Lecińska
+Jaśmina Rożek
+Kamil Kirklewski
+
+<h2>Head of Communications
+Miłosz "Neq" Białas
+
+
+<h1>- Introversion Software Credits -
+
+<h2>The Introversion Team
+Chris Delay
+Mark Morris
+John Knottenbelt
+Thomas Arundel
+
+<h2>Game Created By
+Chris Delay
+
+<h2>Game Produced By
+Mark Morris
+
+<h2>Art
+Ryan Sumo
+
+<h2>Sound
+Alistair Lindsay
+
+<h2>Screenplay
+Chris Hastings
+
+<h2>Programmers
+John Knottenbelt
+Leander Hambley
+Gary Chambers
+Andrew Lim
+Jeffrey Sheen
+Finlay Curran
+
+<h2>Graphic Design
+Morten Pedersen
+
+<h2>Special Thanks
+Will Morris
+Sam Morris
+Jo Stansfield
+John Cook
+Alex Chapman
+Alex Tutty
+
+
+
+
+This game is a work of fiction. 
+
+Names, characters, businesses, places, events, 
+locales, and incidents are either the products
+of our imagination or used in a fictitious manner. 
+
+Any resemblance to actual persons, living or dead, 
+or actual events is purely coincidental.
+
+## FILE END

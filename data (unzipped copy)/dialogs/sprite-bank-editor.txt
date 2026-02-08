@@ -1,0 +1,103 @@
+BEGIN Window
+    NAME         SpriteBankEditor
+    WIDTH        800
+    HEIGHT       600
+END
+
+BEGIN Container
+    XPOS        Absolute        15
+    YPOS        Absolute        35
+    WIDTH       Absolute        190
+    HEIGHT      Relative        -210
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Absolute        20
+    YPOS        Absolute        60
+    WIDTH       Absolute        180
+    HEIGHT      Relative        -220
+END
+
+BEGIN Container
+    XPOS        Absolute        215
+    YPOS        Absolute        35
+    WIDTH       Relative        -230
+    HEIGHT      Relative        -50
+END
+
+BEGIN DropDownMenu
+    NAME        SpriteBank
+    XPOS        Absolute        20
+    YPOS        Absolute        35
+    WIDTH       Absolute        180
+    HEIGHT      Absolute        20
+END
+
+BEGIN Canvas
+    NAME        Canvas
+    XPOS        Absolute        220
+    YPOS        Absolute        40
+    WIDTH       Relative        -240
+    HEIGHT      Relative        -60
+END
+
+BEGIN Button
+    NAME        Save
+    CAPTION     dialog_save
+    XPOS        Absolute        15
+    YPOS        Relative        -35
+    WIDTH       Absolute        190
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputField
+    NAME        Name
+    XPOS        Absolute        15
+    YPOS        Relative        -145
+    WIDTH       Absolute        135
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Create
+    CAPTION     spritebankeditor_create
+    XPOS        Absolute        155
+    YPOS        Relative        -145
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        Rotate
+    XPOS        Absolute        15
+    YPOS        Relative        -115
+    WIDTH       Absolute        190
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Sort
+    XPOS        Absolute        15
+    YPOS        Relative        -60
+    WIDTH       Absolute        190
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Delete
+    CAPTION     dialog_delete
+    XPOS        Absolute        15
+    YPOS        Relative        -85
+    WIDTH       Absolute        190
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        Mode
+    XPOS        Absolute        15
+    YPOS        Relative        -170
+    WIDTH       Absolute        180
+    HEIGHT      Absolute        20
+END
+

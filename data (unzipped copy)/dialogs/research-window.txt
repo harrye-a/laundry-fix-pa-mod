@@ -1,0 +1,42 @@
+BEGIN Window
+    NAME         Research
+    BACKGROUND   orgchart_blank.png
+    WIDTH        800
+    HEIGHT       600
+    PANEL        1
+END
+
+BEGIN Canvas
+    NAME        Canvas
+    XPOS        Absolute        0
+    YPOS        Absolute        0
+    WIDTH       Relative        0
+    HEIGHT      Relative        0
+END
+
+BEGIN Button
+    NAME        Save
+    CAPTION     dialog_save
+    XPOS        Scaled          9062
+    YPOS        Scaled          9249
+    WIDTH       Scaled          625
+    HEIGHT      Scaled          333
+END
+
+BEGIN CheckBox
+    NAME        DebugMode
+    XPOS        Scaled          8750
+    YPOS        Scaled          9249
+    WIDTH       Scaled          250
+    HEIGHT      Scaled          332
+END
+
+BEGIN Button
+    NAME        CloseScreen
+    CAPTION     X
+    XPOS        Scaled          9499
+    YPOS        Scaled          415
+    WIDTH       Scaled          250
+    HEIGHT      Scaled          333
+END
+

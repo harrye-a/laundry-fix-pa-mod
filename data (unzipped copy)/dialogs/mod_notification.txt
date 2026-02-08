@@ -1,0 +1,55 @@
+BEGIN Window
+    NAME         ModNotification
+    BACKGROUND   clipboard.png
+    WIDTH        555
+    HEIGHT       750
+END
+
+BEGIN SelectionList
+    NAME        ModList
+    XPOS        Scaled          1351
+    YPOS        Scaled          3200
+    WIDTH       Scaled          7297
+    HEIGHT      Scaled          4900
+END
+
+BEGIN Button
+    NAME        PlayNow
+    XPOS        Scaled          5134
+    YPOS        Scaled          8700
+    WIDTH       Scaled          3648
+    HEIGHT      Scaled          500
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          1350
+    YPOS        Scaled          1100
+    WIDTH       Scaled          7297
+    HEIGHT      Scaled          600
+END
+
+BEGIN Custom
+    NAME        Heading
+    XPOS        Scaled          1350
+    YPOS        Scaled          2800
+    WIDTH       Scaled          7297
+    HEIGHT      Scaled          400
+END
+
+BEGIN Custom
+    NAME        Warning
+    XPOS        Scaled          1351
+    YPOS        Scaled          8100
+    WIDTH       Scaled          7297
+    HEIGHT      Scaled          500
+END
+
+BEGIN Canvas
+    NAME        Info
+    XPOS        Scaled          1351
+    YPOS        Scaled          1900
+    WIDTH       Scaled          7297
+    HEIGHT      Scaled          866
+END
+

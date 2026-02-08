@@ -1,0 +1,29 @@
+BEGIN Window
+    NAME         SampleBankEditor
+    WIDTH        250
+    HEIGHT       330
+END
+
+BEGIN Container
+    XPOS        Absolute        15
+    YPOS        Absolute        35
+    WIDTH       Relative        -30
+    HEIGHT      Relative        -85
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Absolute        15
+    YPOS        Absolute        35
+    WIDTH       Relative        -30
+    HEIGHT      Relative        -85
+END
+
+BEGIN Button
+    NAME        AddSample
+    XPOS        Absolute        15
+    YPOS        Relative        -35
+    WIDTH       Relative        -30
+    HEIGHT      Absolute        20
+END
+

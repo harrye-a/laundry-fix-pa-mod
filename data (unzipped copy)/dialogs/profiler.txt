@@ -1,0 +1,85 @@
+BEGIN Window
+    NAME         Profiler
+    WIDTH        500
+    HEIGHT       700
+END
+
+BEGIN Caption
+    NAME        Name
+    XPOS        Absolute        20
+    YPOS        Absolute        35
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        Timings
+    XPOS        Absolute        185
+    YPOS        Absolute        35
+    WIDTH       Absolute        100
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        TotalTime
+    XPOS        Absolute        300
+    YPOS        Absolute        35
+    WIDTH       Absolute        80
+    HEIGHT      Absolute        20
+END
+
+BEGIN Container
+    NAME        FrameTimes
+    XPOS        Absolute        15
+    YPOS        Relative        -125
+    WIDTH       Relative        -30
+    HEIGHT      Absolute        110
+END
+
+BEGIN Caption
+    NAME        glFinishCaption
+    XPOS        Absolute        420
+    YPOS        Absolute        35
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        15
+END
+
+BEGIN CheckBox
+    NAME        glFinish
+    XPOS        Relative        -30
+    YPOS        Absolute        35
+    WIDTH       Absolute        15
+    HEIGHT      Absolute        15
+END
+
+BEGIN Container
+    XPOS        Absolute        15
+    YPOS        Absolute        55
+    WIDTH       Relative        -30
+    HEIGHT      Relative        -190
+END
+
+BEGIN Canvas
+    NAME        Container
+    XPOS        Absolute        20
+    YPOS        Absolute        60
+    WIDTH       Relative        -40
+    HEIGHT      Relative        -200
+END
+
+BEGIN DropDownMenu
+    NAME        Mode
+    XPOS        Relative        -120
+    YPOS        Relative        -160
+    WIDTH       Absolute        100
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Reset
+    XPOS        Relative        -200
+    YPOS        Relative        -160
+    WIDTH       Absolute        75
+    HEIGHT      Absolute        20
+END
+

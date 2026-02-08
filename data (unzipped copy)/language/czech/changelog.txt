@@ -1,0 +1,118 @@
+"Clink"
+>27. června 2019
+	Aktualizace lapáku
+<->Byly přidány 4 nové typy podlah a 4 nové typy zdí.
+<->Vylepšení výkonu, která pomohou zkrátit dobu načítání.
+<->Vyšší počet předáků, které lze najmout - pro větší vězení, kde předáci také vyučují.
+<->Existující předměty mají nyní kompletní sadu rotace, přičemž přibyly nové sprity pro chybějící úhly.
+<->Nové tlačítko 'Reakce dozorců', které přikáže stávajícím okolním dozorcům přijít na zvolené místo, než aby si hráči museli najmout další dozorce kvůli řešení incidentů. 
+<->Nové tlačítko 'Hledání tunelu', které přikáže dozorcům konkrétně prohledat všechny toalety kvůli skrytým únikovým tunelům.  
+<->Do nabídky Rychlá stavba přibyly další Rychlé místnosti pro rychlejší a snazší stavbu místností.
+<->Sledování vězňů a zaměstnanců je o dost jednodušší díky dvojitému kliknutí.
+
+
+Doufáme, že se ti hra bude s těmito vylepšeními líbit!
+
+~~~~~
+
+﻿Aktualizace “Basa”
+>17. září 2019
+
+Drazí hráči Prison Architect,
+
+Jménem Paradoxu a Double Eleven doufáme, že si užijete veškerý nový obsah z této aktualizace. 
+Děkujeme za všechny vaše dosavadní návrhy a nápady. Velké množství toho, co jsme udělali, je založeno na vaší zpětné vazbě.
+Zavedli jsme spoustu vylepšeních pro komunitu. Některá jsou zde uvedena a další naleznete ve hře.
+
+Prosím, ukažte nám na @PrisonArchitect, jak tyto novinky využíváte ve svých vlastních věznicích! 
+
+Gaz, manažer herního designu v Double Eleven.
+
+
+>[1/3] Nové položky
+
+<->Nové typy podlah; Mřížoví, Bahno, Sci-Fi.
+<->Nové bezpečností dveře s klapkou na tác s jídlem.
+<->Nová světla; Pouliční lampy, Reflektory, Nástěnné osvětlení.
+<->Nové Stromy; Zasněžený strom, Palma.
+<->Plus další nové objekty.
+
+
+>Pro více informací klikněte na DALŠÍ...
+
+
+
+>[2/3] Nové prvky
+
+<->Možnost hrát v okně bez okrajů.
+<->Možnost přemisťovat/pohybovat s objekty!
+<->Filtry v nabídce položek a tlačítko k řazení.
+<->Dveře mohou být nyní rychle vestavěny do zdí.
+<->Služební psi a ozbrojené stráže mohou být přiřazeni k hlídkovým trasám a zónám!
+<->Extra rychlost hry x10.
+<->Vězni ze supermax. ostrahy přidáni k příjmu vězňů.
+<->Možnost mít 2 různé protínající se hlídkové trasy.
+<->Otáčení většího množství objektů a nábytku.
+<->Vylepšený vzhled Rozmístění a Logistiky.
+<->Rozšířena oblast klonování.
+<->Možnost výzkumu Správy věznice při začátku nové hry.
+<->Mutátory (nabídka) jsou nyní přístupné a pozměnitelné uprostřed hry.
+<->Spousta položek!
+<->Možnost zvolit na začátku hry nové pozemky Sníh a Džungle.
+<->Strážní věže chrání odstřelovače před počasím.
+<->Jména zaměstnanců a psů.
+<->V nabídce objektů lze vyhledávat místnosti.
+<->Možnost mít čistší vězení.
+<->Nové zkratky z horní HUD lišty.
+<->!
+
+
+>[3/3] A navíc...
+
+<->Odstřelovači nyní nosí klíče od vězení.
+<->Vězni upřednostňují sprchové místnosti před sprchami v celách ostatních vězňů.
+<->Bezpečnostní kamery ukazují vězně a zaměstnance v režimu Správce věznice.
+<->Strážní umístění u strojů neopustí svá stanoviště kvůli hledání a prohlídkám cel.
+<->Strážní otevřou dveře ztraceným psům.
+<->Knihovna vyhovuje potřebám gramotnosti.
+<->Klávesové zkratky pro procházení v nabídce během hry [Z] a [X], a k uzavření nabídky [C].
+<->Dveře od rychlé místnosti zůstávají otevřené, dokud není místnost hotová.
+<->Sprity bezpečnostních kamer nyní ukazují směr, kterým jsou otočeny.
+<->Opravy vzhledu živých plotů.
+<->Opravy detektorů kovů.
+<->Opravy varných konvic, které se ne vždy připojovaly k potrubí.
+<->Podpora pro modding.
+
+~~~~~~
+
+Aktualizace „Kejchal“
+>21. listopadu 2019
+
+Kolegové dozoric,
+
+Doufáme, že se vám tato aktualizace pro Prison Architect líbí.
+Níže najdete souhrn těch nejdůležitějších předmětů, mezi které patří nové mosty, klonování a vylepšení plánování.
+
+>[1/2] Nové předměty
+
+<->Nové zdi: Art deco a orientální.
+<->Nové podlahy: Vápenec, tráva a kamení, pískovec, měsíční.
+<->Nové předměty: Dřez, sušák na ruce, cedulky na zdi, strašidelné stromy a sakury, kaktusy, lavičky do parku, losí hlava, cedule, tajná knihovnička a daší...
+
+Kliknutím na DALŠÍ uvidíte víc...
+
+>[2/2] Nové funkce
+
+<->Několik nových druhů psů na výběr před hrou i během ní!
+<->Možnost vybrat si typ zdi pro rychlé místnosti.
+<->Konečně jsou tady MOSTY! Položte je přes cesty, vodu a další plochy, aby po nich mohli chodit zaměstnanci a vězni.
+<->Vyvážené denní platby za rizikové vězně: Za maximální ostrahu, ochrannou vazbu, celu smrti a choromyslné vězně získáte víc.
+<->V Logistice uvidíte prázdné a obsazené cely díky novému tlačítku „Stav cel“.
+<->Do popisků přibyla nová akce: „Doprovodit na ošetřovnu“
+<->Na příjmu jsou v nabídce převážení vězni.
+<->Do Rozmístění přibyla jedinečná možnost Směr návštěvníků.
+<->Základy je nyní možné stavět s více typy zdí.
+<->Klonovací nástroj byl přepracován! Nyní můžete zdi a předměty otáčet a naklánět, klonovací oblast nyní může pokrýt celou věznici! A dokonce můžete klonovat mezi uloženými pozicemi (BETA)! Rychlost stavby byla také vylepšena.
+<->Přepracované plánování! Navrhněte si plány, přidávejte dveře a vyberte si typ zdi. 
+<->Vylepšená prezentace rychlých místností, nyní zobrazuje, kde se zdi postaví.
+<->Nová možnost Pouštní pozemek při založení nové hry.

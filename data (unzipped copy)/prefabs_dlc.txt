@@ -1,0 +1,1547 @@
+BEGIN Prefab
+    Name        PaddedBasicCell
+    w           4
+    h           5
+    RoomType    PaddedCell
+	VersionAdded	2000
+    BEGIN Object    Type    Bed         x   1   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Toilet      x   2   y   1   orX 0   orY 1   END    
+    BEGIN Object    Type    JailDoor    x   1   y   4   orX 0   orY 1   END    
+END
+
+BEGIN Prefab
+    Name        PaddedIntermediateCell
+    w           5
+    h           6
+    RoomType    PaddedCell
+	Icon		PaddedMediumCell
+	VersionAdded	2000
+    BEGIN Object    Type    Bed         x   1   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Toilet      x   3   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Drain    	x   1   y   3   orX 0   orY 1   END
+    BEGIN Object    Type    Drain    	x   1   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    Drain  		x   2   y   4   orX 0   orY 1   END        
+	BEGIN Object    Type    ShowerHead  x   1   y   4   orX 2   orY 1   END        
+	BEGIN Object    Type    Tv  		x   2   y   1   orX 0   orY 1   END        
+	BEGIN Object    Type    JailDoor  	x   3   y   5   orX 0   orY 1   END        
+	BEGIN Object    Type    Window  	x   1   y   0   orX 0   orY 1   END       
+END
+
+BEGIN Prefab
+    Name        PaddedHoldingCell
+    w           12
+    h           7
+    RoomType    PaddedHoldingCell
+	VersionAdded	2000
+    BEGIN Object    Type    Bench       	x   1   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Bench       	x   7  y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Toilet      	x   5   y   1   orX 0   orY 1   END    
+    BEGIN Object    Type    Toilet      	x   6   y   1   orX 0   orY 1   END    
+    BEGIN Object    Type    Bed    			x   1   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   2   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   3   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   4   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   7   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   8   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   9   y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    Bed    			x   10  y   4   orX 0   orY -1   END    
+    BEGIN Object    Type    JailDoorLarge   x   5  	y   6   orX 0   orY 1   END    
+END
+
+BEGIN Prefab
+    Name        PaddedSolitaryCell
+    w           3
+    h           4
+    RoomType    PaddedSolitary
+    BEGIN Object    Type    Toilet          x   1   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    SolitaryDoor    x   1   y   3   orX 0   orY 1   END 
+END
+
+BEGIN Prefab
+    Name        PsychiatristOffice
+    w           6
+    h           6
+    RoomType    PsychiatristOffice
+	
+	BEGIN Material	Type	RedCarpet		x	1	y	1	w	5	h	5	END
+	BEGIN Material	Type	RedCarpet		x	2	y	5	w	1	h	1	END
+
+    BEGIN Object    Type    OfficeDesk      x   1   y   1   orX 0   orY 1  END
+    BEGIN Object    Type    OfficeChair     x   1   y   2   orX 0   orY -1  END
+	BEGIN Object    Type    LeatherChair    x   2   y   3   orX 1   orY 0  END
+	BEGIN Object    Type    SofaChairDouble x   4   y   3   orX -1  orY 0  END
+    BEGIN Object    Type    FilingCabinet   x   4   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Door			x   2   y   5   orX 0   orY 1   END 
+END
+
+
+BEGIN Prefab
+    Name    Armoury
+    w       8
+    h       8
+    RoomType    Armoury
+	Research	Armoury
+    VersionAdded	3000
+	BEGIN Object    Type    SmallTable      x   1   y   6   orX 0   orY 1   END
+	BEGIN Object    Type    SmallTable      x   5   y   6   orX 0   orY 1   END
+	BEGIN Object    Type    SmallTable      x   3   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    SmallTable      x   3   y   2   orX 0   orY 1   END
+	
+	BEGIN Object    Type    GuardLocker     x   1   y   1   orX 1   orY 0   END
+	BEGIN Object    Type    GuardLocker     x   1   y   2   orX 1   orY 0   END
+	BEGIN Object    Type    GuardLocker     x   1   y   3   orX 1   orY 0   END
+	BEGIN Object    Type    GuardLocker     x   1   y   4   orX 1   orY 0   END
+	BEGIN Object    Type    GuardLocker     x   1   y   5   orX 1   orY 0   END
+	BEGIN Object    Type    GuardLocker     x   6   y   1   orX -1   orY 0   END
+	BEGIN Object    Type    GuardLocker     x   6   y   2   orX -1   orY 0   END
+	BEGIN Object    Type    GuardLocker     x   6   y   3   orX -1   orY 0   END
+	BEGIN Object    Type    GuardLocker     x   6   y   4   orX -1   orY 0   END
+	BEGIN Object    Type    GuardLocker     x   6   y   5   orX -1   orY 0   END
+	
+	BEGIN Object    Type    WeaponRack      x   2   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    WeaponRack      x   4   y   1   orX 0   orY 1   END
+	
+    BEGIN Object    Type    JailDoorLarge   x   3   y   7   orX 0   orY 1   END  
+END
+
+BEGIN Prefab
+    Name    Infirmary
+    w       10
+    h       7
+    RoomType    MedicalWard
+    Research    Health  
+    VersionAdded	3000
+	BEGIN Material	Type	WhiteTiles		x	1	y	1	w	8	h	5	END
+	BEGIN Object    Type    MedicalBed      x   1   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    MedicalBed      x   4   y   1   orX 0   orY 1   END	
+	BEGIN Object    Type    MedicalBed      x   7   y   1   orX 0   orY 1   END	
+	BEGIN Object    Type    MedicalBed      x   1   y   4   orX 0   orY -1   END
+	BEGIN Object    Type    MedicalBed      x   4   y   4   orX 0   orY -1   END
+	BEGIN Object    Type    OfficeDesk      x   7   y   4   orX 0   orY 1   END
+	BEGIN Object    Type    OfficeChair     x   7   y   5   orX 0   orY -1   END
+	
+    BEGIN Object    Type    Door  			x   6   y   6   orX 0   orY 1   END  
+END
+
+BEGIN Prefab
+    Name    Laundry
+    w       7
+    h       7
+    RoomType    Laundry
+	Research	PrisonLabour
+    VersionAdded	3000
+	BEGIN Material	Type	CeramicFloor    x	1	y	1	w	5	h	5	END
+	
+	BEGIN Object    Type    LaundryMachine  x   1   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    LaundryMachine  x   2   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    LaundryMachine  x   3   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    LaundryMachine  x   4   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    LaundryMachine  x   5   y   1   orX 0   orY 1   END
+	
+	BEGIN Object    Type    LaundryBasket  x   1   y   5   orX 0   orY 1   END
+	BEGIN Object    Type    LaundryBasket  x   2   y   5   orX 0   orY 1   END
+	BEGIN Object    Type    LaundryBasket  x   4   y   5   orX 0   orY 1   END
+	BEGIN Object    Type    LaundryBasket  x   5   y   5   orX 0   orY 1   END
+	
+	BEGIN Object    Type    IroningBoardShort   x   1   y   3   orX 0   orY -1  END
+	BEGIN Object    Type    IroningBoardShort   x   4   y   3   orX 0  orY 1   END
+	
+    BEGIN Object    Type    Door  			x   3   y   6   orX 0   orY 1   END  
+END
+
+BEGIN Prefab
+    Name    Library
+    w       10
+    h       9
+    RoomType    Library
+	Research	PrisonLabour
+    VersionAdded	3000
+	BEGIN Material	Type	WoodenFloor    x	1	y	1	w	8	h	7	END
+	
+	BEGIN Object    Type    LibraryBookshelf  x   1   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    LibraryBookshelf  x   1   y   3   orX 0   orY 1   END
+	BEGIN Object    Type    LibraryBookshelf  x   1   y   5   orX 0   orY 1   END
+	BEGIN Object    Type    LibraryBookshelf  x   6   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    LibraryBookshelf  x   6   y   3   orX 0   orY 1   END
+	BEGIN Object    Type    LibraryBookshelf  x   6   y   5   orX 0   orY 1   END
+
+	BEGIN Object    Type    SortingTable   x   1   y   6   orX 0   orY 1   END
+	BEGIN Object    Type    SortingTable   x   6   y   6   orX 0   orY 1   END
+	BEGIN Object    Type    Chair		  x   2   y   7   orX 0   orY -1   END
+	BEGIN Object    Type    Chair		  x   7   y   7   orX 0   orY -1   END
+	
+    BEGIN Object    Type    Door  			x   5   y   8   orX 0   orY 1   END  
+END
+
+BEGIN Prefab
+    Name    MailRoom
+    w       7
+    h       7
+    RoomType    MailRoom
+	Research	PrisonLabour
+    VersionAdded	3000
+	BEGIN Material	Type	WoodenFloor    x	1	y	1	w	5	h	5	END
+	
+	BEGIN Object    Type    SmallTable  x   1   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    SmallTable  x   4   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    SmallTable  x   1   y   5   orX 0   orY 1   END
+	BEGIN Object    Type    SmallTable  x   4   y   5   orX 0   orY 1   END
+	BEGIN Object    Type    Chair       x   2   y   3   orX -1   orY 0   END
+	BEGIN Object    Type    Chair       x   4   y   3   orX 1   orY 0   END
+	BEGIN Object    Type    SortingTable  x   1   y   2   orX 1   orY 0   END
+	BEGIN Object    Type    SortingTable  x   5   y   2   orX -1   orY 0   END
+		
+    BEGIN Object    Type    Door  			x   3   y   6   orX 0   orY 1   END  
+END
+
+BEGIN Prefab
+    Name    Visitation
+    w       7
+    h       13
+    RoomType    Visitation
+    VersionAdded	3000
+	BEGIN Material	Type	WoodenFloor    x	1	y	1	w	5	h	11	END
+	
+	BEGIN Object    Type    VisitorTable   x   1   y   1   orX 1   orY 0   END
+	BEGIN Object    Type    VisitorTable   x   1   y   5   orX 1   orY 0   END
+	BEGIN Object    Type    VisitorTable   x   1   y   9   orX 1   orY 0   END
+	BEGIN Object    Type    VisitorTable   x   4   y   1   orX -1   orY 0   END
+	BEGIN Object    Type    VisitorTable   x   4   y   5   orX -1   orY 0   END
+	BEGIN Object    Type    VisitorTable   x   4   y   9   orX -1   orY 0   END
+		
+    BEGIN Object    Type    Door  			x   3   y   12   orX 0   orY 1   END  
+END
+
+BEGIN Prefab
+	Name	OutdoorLake
+	w	13
+	h	12
+	Icon		OutdoorLake
+	CustomArea 1
+	VersionAdded 4000
+	
+	BEGIN Material	Type	Grass		x	0	y	0	w 	3	h	3	END
+	BEGIN Material	Type	Grass		x	0	y	3	w 	2	h	6	END
+	BEGIN Material	Type	Grass		x	0	y	9	w 	3	h	3	END
+	BEGIN Material	Type	Grass		x	3	y	0	w 	7	h	2	END
+	BEGIN Material	Type	Grass		x	10	y	0	w 	3	h	3	END
+	BEGIN Material	Type	Grass		x	12	y	3	w 	1	h	9	END
+	BEGIN Material	Type	Grass		x	3	y	10	w 	9	h	2	END
+	BEGIN Material	Type	Grass		x	9	y	9	w 	3	h	1	END
+	BEGIN Material	Type	Grass		x	10	y	8	w 	2	h	1	END
+	
+	BEGIN Material	Type	Dirt		x	3	y	9	w 	6	h	1	END
+	BEGIN Material	Type	Dirt		x	8	y	8	w 	2	h	1	END
+	BEGIN Material	Type	Dirt		x	2	y	8	w 	2	h	1	END
+	BEGIN Material	Type	Dirt		x	3	y	2	w 	7	h	1	END
+	BEGIN Material	Type	Dirt		x	9	y	3	w 	3	h	1	END
+	BEGIN Material	Type	Dirt		x	2	y	3	w 	2	h	1	END
+	BEGIN Material	Type	Dirt		x	9	y	7	w 	3	h	1	END
+	BEGIN Material	Type	Dirt		x	2	y	4	w 	1	h	4	END
+	BEGIN Material	Type	Dirt		x	11	y	4	w 	1	h	3	END
+	
+	BEGIN Material	Type	WaterShallow	x	3	y	4	w 	1	h	4	END
+	BEGIN Material	Type	WaterShallow	x	4	y	3	w 	5	h	5	END
+	BEGIN Material	Type	WaterShallow	x	4	y	8	w 	4	h	1	END
+	BEGIN Material	Type	WaterShallow	x	9	y	4	w 	2	h	3	END
+	
+	BEGIN Object    Type    Bench       	x   4   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    Light       	x   3	y   1   orX 0   orY 1   END
+	BEGIN Object    Type    Light       	x   8   y   1   orX 0   orY 1   END
+	
+	BEGIN Object    Type    Bench       	x   1   y   4   orX -1  orY 0   END
+	BEGIN Object    Type    Light       	x   1	y   3   orX 0   orY 1   END
+	BEGIN Object    Type    Light       	x   1   y   8   orX 0   orY 1   END
+	
+	BEGIN Object    Type    SmallBench     	x   5   y   10  orX 0  	orY -1  END
+	BEGIN Object    Type    Light       	x   4	y   10  orX 0   orY 1   END
+	BEGIN Object    Type    Light       	x   7   y   10  orX 0   orY 1   END
+	
+	BEGIN Object    Type    Tree       	x   0   y   0   orX 0  	orY 1   END
+	BEGIN Object    Type    Tree       	x   10	y   0   orX 0   orY 1   END
+	BEGIN Object    Type    Tree       	x   0   y   9   orX 0   orY 1   END
+	BEGIN Object    Type    Tree       	x   10  y   9   orX 0   orY 1   END
+	
+END
+
+
+BEGIN Prefab
+	Name	River
+	w	8
+	h	36
+	Icon		River
+	CustomArea 1
+	VersionAdded 4000
+	
+	BEGIN Material 	Type	Dirt	x	0	y	7	w	1	h	22 	END
+	BEGIN Material 	Type	Dirt	x	1	y	8	w	1	h	2	END
+	BEGIN Material 	Type	Dirt	x	1	y	20	w	1	h	5	END
+	BEGIN Material 	Type	Dirt	x	6	y	12	w	1	h	4	END
+	BEGIN Material 	Type	Dirt	x	7	y	0	w	1	h	36	END
+	
+	BEGIN Material 	Type	Gravel	x	1	y	6	w	1	h	2	END
+	BEGIN Material 	Type	Gravel	x	2	y	8	w	1	h	2	END
+	BEGIN Material 	Type	Gravel	x	1	y	10	w	1	h	10	END
+	BEGIN Material 	Type	Gravel	x	2	y	20	w	1	h	5	END
+	BEGIN Material 	Type	Gravel	x	1	y	25	w	1	h	5	END
+	BEGIN Material 	Type	Gravel	x	6	y	1	w	1	h	11	END
+	BEGIN Material 	Type	Gravel	x	5	y	12	w	1	h	4	END
+	BEGIN Material 	Type	Gravel	x	6	y	16	w	1	h	19	END	
+	
+	BEGIN Material 	Type	WaterShallow	x	2	y	5	w	1	h	3	END
+	BEGIN Material 	Type	WaterShallow	x	2	y	10	w	1	h	10	END
+	BEGIN Material 	Type	WaterShallow	x	2	y	25	w	1	h	6	END
+	BEGIN Material 	Type	WaterShallow	x	3	y	4	w	1	h	28	END
+	BEGIN Material 	Type	WaterShallow	x	4	y	3	w	1	h	30	END
+	BEGIN Material 	Type	WaterShallow	x	5	y	2	w	1	h	10	END
+	BEGIN Material 	Type	WaterShallow	x	5	y	16	w	1	h	18	END
+END
+
+
+BEGIN Prefab
+	Name	SmallIsland
+	w	22
+	h	24
+	Icon		Island
+	CustomArea 1
+	PlaceOnWater 2
+	
+	BEGIN Material	Type	Grass		x	10	y	5	w 	2	h	1	END
+	BEGIN Material	Type	Grass		x	11	y	6	w 	2	h	1	END
+	BEGIN Material	Type	Grass		x	10	y	7	w 	3	h	10	END
+	BEGIN Material	Type	Grass		x	9	y	11	w 	1	h	6	END
+	BEGIN Material	Type	Grass		x	13	y	11	w 	2	h	5	END
+	BEGIN Material	Type	Grass		x	7	y	12	w 	2	h	2	END
+	BEGIN Material	Type	Grass		x	8	y	14	w 	1	h	4	END
+	BEGIN Material	Type	Grass		x	6	y	16	w 	2	h	1	END
+	BEGIN Material	Type	Grass		x	13	y	16	w 	1	h	1	END
+	BEGIN Material	Type	Grass		x	7	y	17	w 	1	h	1	END
+	BEGIN Material	Type	Grass		x	10	y	17	w 	2	h	3	END
+	BEGIN Material	Type	Grass		x	13	y	17	w 	3	h	3	END
+	BEGIN Material	Type	Grass		x	6	y	18	w 	1	h	2	END
+	
+	BEGIN Material	Type	Dirt		x	6	y	2	w 	2	h	1	END
+	BEGIN Material	Type	Dirt		x	9	y	3	w 	5	h	2	END
+	BEGIN Material	Type	Dirt		x	12	y	5	w 	3	h	1	END
+	BEGIN Material	Type	Dirt		x	10	y	6	w 	1	h	1	END
+	BEGIN Material	Type	Dirt		x	13	y	6	w 	2	h	4	END
+	BEGIN Material	Type	Dirt		x	9	y	7	w 	1	h	3	END
+	BEGIN Material	Type	Dirt		x	15	y	7	w 	1	h	4	END
+	BEGIN Material	Type	Dirt		x	7	y	10	w 	2	h	2	END
+	BEGIN Material	Type	Dirt		x	15	y	12	w 	2	h	4	END
+	BEGIN Material	Type	Dirt		x	6	y	13	w 	1	h	1	END
+	BEGIN Material	Type	Dirt		x	5	y	14	w 	3	h	2	END
+	BEGIN Material	Type	Dirt		x	5	y	16	w 	1	h	5	END
+	BEGIN Material	Type	Dirt		x	14	y	16	w 	2	h	1	END
+	BEGIN Material	Type	Dirt		x	17	y	16	w 	1	h	5	END
+	BEGIN Material	Type	Dirt		x	6	y	17	w 	1	h	1	END
+	BEGIN Material	Type	Dirt		x	9	y	17	w 	1	h	1	END
+	BEGIN Material	Type	Dirt		x	12	y	17	w 	1	h	3	END
+	BEGIN Material	Type	Dirt		x	16	y	17	w 	1	h	1	END
+	BEGIN Material	Type	Dirt		x	18	y	17	w 	2	h	2	END
+	BEGIN Material	Type	Dirt		x	2	y	18	w 	3	h	1	END
+	BEGIN Material	Type	Dirt		x	4	y	19	w 	1	h	2	END
+	BEGIN Material	Type	Dirt		x	7	y	18	w 	3	h	3	END
+	BEGIN Material	Type	Dirt		x	10	y	20	w 	5	h	2	END
+	BEGIN Material	Type	Dirt		x	15	y	20	w 	1	h	1	END
+	BEGIN Material	Type	Dirt		x	6	y	21	w 	1	h	1	END
+	BEGIN Material	Type	Dirt		x	16	y	21	w 	1	h	1	END
+
+	BEGIN Material	Type	Sand		x	6	y	1	w 	3	h	1	END
+	BEGIN Material	Type	Sand		x	5	y	2	w 	1	h	1	END
+	BEGIN Material	Type	Sand		x	8	y	2	w 	6	h	1	END
+	BEGIN Material	Type	Sand		x	7	y	3	w 	2	h	3	END
+	BEGIN Material	Type	Sand		x	14	y	3	w 	2	h	2	END
+	BEGIN Material	Type	Sand		x	9	y	5	w 	1	h	2	END
+	BEGIN Material	Type	Sand		x	15	y	5	w 	1	h	2	END
+	BEGIN Material	Type	Sand		x	16	y	6	w 	1	h	5	END
+	BEGIN Material	Type	Sand		x	8	y	6	w 	1	h	1	END
+	BEGIN Material	Type	Sand		x	7	y	7	w 	2	h	3	END
+	BEGIN Material	Type	Sand		x	6	y	8	w 	1	h	5	END
+	BEGIN Material	Type	Sand		x	13	y	9	w 	2	h	2	END
+	BEGIN Material	Type	Sand		x	9	y	10	w 	1	h	1	END
+	BEGIN Material	Type	Sand		x	5	y	11	w 	1	h	3	END
+	BEGIN Material	Type	Sand		x	5	y	11	w 	1	h	3	END
+	BEGIN Material	Type	Sand		x	15	y	11	w 	4	h	1	END
+	BEGIN Material	Type	Sand		x	17	y	12	w 	2	h	4	END
+	BEGIN Material	Type	Sand		x	19	y	13	w 	1	h	4	END
+	BEGIN Material	Type	Sand		x	19	y	13	w 	1	h	4	END
+	BEGIN Material	Type	Sand		x	4	y	14	w 	1	h	4	END
+	BEGIN Material	Type	Sand		x	20	y	14	w 	1	h	8	END
+	BEGIN Material	Type	Sand		x	16	y	16	w 	1	h	1	END
+	BEGIN Material	Type	Sand		x	16	y	18	w 	1	h	3	END
+	BEGIN Material	Type	Sand		x	2	y	17	w 	2	h	1	END
+	BEGIN Material	Type	Sand		x	1	y	18	w 	1	h	3	END
+	BEGIN Material	Type	Sand		x	2	y	19	w 	2	h	3	END
+	BEGIN Material	Type	Sand		x	18	y	16	w 	1	h	1	END
+	BEGIN Material	Type	Sand		x	18	y	19	w 	2	h	3	END
+	BEGIN Material	Type	Sand		x	6	y	20	w 	1	h	1	END
+	BEGIN Material	Type	Sand		x	4	y	21	w 	2	h	1	END
+	BEGIN Material	Type	Sand		x	7	y	21	w 	3	h	1	END
+	BEGIN Material	Type	Sand		x	15	y	21	w 	1	h	1	END
+	BEGIN Material	Type	Sand		x	17	y	21	w 	1	h	2	END
+	BEGIN Material	Type	Sand		x	6	y	22	w 	11	h	1	END
+
+	BEGIN Material	Type	WaterShallow	x	5	y	0	w 	5	h	1	END
+	BEGIN Material	Type	WaterShallow	x	3	y	1	w 	3	h	1	END
+	BEGIN Material	Type	WaterShallow	x	9	y	1	w 	6	h	1	END
+	BEGIN Material	Type	WaterShallow	x	3	y	2	w 	2	h	2	END	
+	BEGIN Material	Type	WaterShallow	x	14	y	2	w 	3	h	1	END
+	BEGIN Material	Type	WaterShallow	x	16	y	3	w 	1	h	3	END
+	BEGIN Material	Type	WaterShallow	x	3	y	4	w 	4	h	1	END	
+	BEGIN Material	Type	WaterShallow	x	17	y	5	w 	2	h	6	END
+	BEGIN Material	Type	WaterShallow	x	6	y	5	w 	1	h	3	END
+	BEGIN Material	Type	WaterShallow	x	7	y	6	w 	1	h	1	END
+	BEGIN Material	Type	WaterShallow	x	5	y	7	w 	1	h	4	END
+	BEGIN Material	Type	WaterShallow	x	3	y	9	w 	2	h	5	END
+	BEGIN Material	Type	WaterShallow	x	19	y	9	w 	1	h	4	END
+	BEGIN Material	Type	WaterShallow	x	2	y	13	w 	1	h	1	END
+	BEGIN Material	Type	WaterShallow	x	20	y	12	w 	1	h	2	END
+	BEGIN Material	Type	WaterShallow	x	21	y	13	w 	1	h	10	END
+	BEGIN Material	Type	WaterShallow	x	2	y	14	w 	2	h	3	END
+	BEGIN Material	Type	WaterShallow	x	1	y	16	w 	1	h	2	END
+	BEGIN Material	Type	WaterShallow	x	0	y	17	w 	1	h	5	END
+	BEGIN Material	Type	WaterShallow	x	1	y	21	w 	1	h	2	END
+	BEGIN Material	Type	WaterShallow	x	2	y	22	w 	4	h	1	END
+	BEGIN Material	Type	WaterShallow	x	19	y	22	w 	2	h	1	END
+	BEGIN Material	Type	WaterShallow	x	5	y	23	w 	15	h	1	END
+
+END
+	
+BEGIN Prefab
+	Name	MediumIsland
+	w		17
+	h		30
+	Icon	Island
+	CustomArea 1
+	PlaceOnWater 2
+	
+	BEGIN Material 	Type	WaterShallow	x	0	y	7	w	1	h	4 	END
+	BEGIN Material 	Type	WaterShallow	x	0	y	23	w	1	h	5 	END
+	BEGIN Material 	Type	WaterShallow	x	1	y	6	w	1	h	2 	END
+	BEGIN Material 	Type	WaterShallow	x	1	y	10	w	1	h	7 	END
+	BEGIN Material 	Type	WaterShallow	x	1	y	22	w	1	h	2 	END
+	BEGIN Material 	Type	WaterShallow	x	1	y	27	w	1	h	2 	END
+	BEGIN Material 	Type	WaterShallow	x	2	y	5	w	1	h	2 	END
+	BEGIN Material 	Type	WaterShallow	x	2	y	16	w	1	h	5 	END
+	BEGIN Material 	Type	WaterShallow	x	2	y	22	w	4	h	1 	END
+	BEGIN Material 	Type	WaterShallow	x	2	y	28	w	1	h	2 	END
+	BEGIN Material 	Type	WaterShallow	x	3	y	4	w	1	h	2 	END
+	BEGIN Material 	Type	WaterShallow	x	3	y	20	w	1	h	2 	END
+	BEGIN Material 	Type	WaterShallow	x	3	y	29	w	5	h	1 	END
+	BEGIN Material 	Type	WaterShallow	x	4	y	2	w	1	h	3 	END
+	BEGIN Material 	Type	WaterShallow	x	4	y	21	w	2	h	1 	END
+	BEGIN Material 	Type	WaterShallow	x	5	y	1	w	1	h	2 	END
+	BEGIN Material 	Type	WaterShallow	x	6	y	0	w	1	h	2 	END
+	BEGIN Material 	Type	WaterShallow	x	7	y	0	w	3	h	1 	END
+	BEGIN Material 	Type	WaterShallow	x	7	y	28	w	6	h	1 	END
+	BEGIN Material 	Type	WaterShallow	x	9	y	1	w	4	h	1 	END
+	BEGIN Material 	Type	WaterShallow	x	12	y	2	w	3	h	1 	END
+	BEGIN Material 	Type	WaterShallow	x	12	y	27	w	3	h	1 	END
+	BEGIN Material 	Type	WaterShallow	x	13	y	11	w	1	h	3 	END
+	BEGIN Material 	Type	WaterShallow	x	14	y	3	w	1	h	2 	END
+	BEGIN Material 	Type	WaterShallow	x	14	y	9	w	1	h	3 	END
+	BEGIN Material 	Type	WaterShallow	x	14	y	13	w	1	h	5 	END
+	BEGIN Material 	Type	WaterShallow	x	14	y	25	w	1	h	2 	END
+	BEGIN Material 	Type	WaterShallow	x	15	y	4	w	1	h	2 	END
+	BEGIN Material 	Type	WaterShallow	x	15	y	8	w	1	h	2 	END
+	BEGIN Material 	Type	WaterShallow	x	15	y	17	w	1	h	3 	END
+	BEGIN Material 	Type	WaterShallow	x	15	y	23	w	1	h	3 	END
+	BEGIN Material 	Type	WaterShallow	x	16	y	4	w	1	h	4 	END
+	BEGIN Material 	Type	WaterShallow	x	16	y	19	w	1	h	5 	END
+	
+	BEGIN Material 	Type	Sand	x	1	y	8	w	2	h	2 	END
+	BEGIN Material 	Type	Sand	x	1	y	24	w	2	h	3 	END
+	BEGIN Material 	Type	Sand	x	2	y	7	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	2	y	10	w	1	h	6 	END
+	BEGIN Material 	Type	Sand	x	2	y	23	w	4	h	1 	END
+	BEGIN Material 	Type	Sand	x	2	y	27	w	3	h	1 	END
+	BEGIN Material 	Type	Sand	x	3	y	6	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	3	y	12	w	1	h	8 	END
+	BEGIN Material 	Type	Sand	x	3	y	28	w	4	h	1 	END
+	BEGIN Material 	Type	Sand	x	4	y	5	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	4	y	13	w	1	h	1 	END
+	BEGIN Material 	Type	Sand	x	4	y	19	w	2	h	2 	END
+	BEGIN Material 	Type	Sand	x	5	y	3	w	1	h	3 	END
+	BEGIN Material 	Type	Sand	x	6	y	2	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	6	y	20	w	1	h	3 	END
+	BEGIN Material 	Type	Sand	x	7	y	1	w	2	h	2 	END
+	BEGIN Material 	Type	Sand	x	7	y	21	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	7	y	27	w	5	h	1 	END
+	BEGIN Material 	Type	Sand	x	9	y	2	w	3	h	1 	END
+	BEGIN Material 	Type	Sand	x	9	y	26	w	1	h	1 	END
+	BEGIN Material 	Type	Sand	x	11	y	3	w	3	h	1 	END
+	BEGIN Material 	Type	Sand	x	12	y	4	w	3	h	1 	END
+	BEGIN Material 	Type	Sand	x	12	y	9	w	1	h	5 	END
+	BEGIN Material 	Type	Sand	x	12	y	26	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	13	y	5	w	3	h	1 	END
+	BEGIN Material 	Type	Sand	x	13	y	7	w	2	h	2 	END
+	BEGIN Material 	Type	Sand	x	13	y	9	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	13	y	14	w	1	h	4 	END
+	BEGIN Material 	Type	Sand	x	13	y	25	w	1	h	1 	END
+	BEGIN Material 	Type	Sand	x	14	y	6	w	2	h	2 	END
+	BEGIN Material 	Type	Sand	x	14	y	18	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	14	y	23	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	15	y	20	w	1	h	3 	END
+	
+	BEGIN Material 	Type	Dirt	x	3	y	8	w	1	h	4 	END
+	BEGIN Material 	Type	Dirt	x	3	y	24	w	3	h	3 	END
+	BEGIN Material 	Type	Dirt	x	4	y	7	w	1	h	6 	END
+	BEGIN Material 	Type	Dirt	x	4	y	14	w	1	h	5 	END
+	BEGIN Material 	Type	Dirt	x	5	y	6	w	1	h	3 	END
+	BEGIN Material 	Type	Dirt	x	5	y	12	w	1	h	4 	END
+	BEGIN Material 	Type	Dirt	x	5	y	18	w	2	h	1 	END
+	BEGIN Material 	Type	Dirt	x	5	y	27	w	2	h	1 	END
+	BEGIN Material 	Type	Dirt	x	6	y	4	w	1	h	3 	END
+	BEGIN Material 	Type	Dirt	x	6	y	19	w	2	h	1 	END
+	BEGIN Material 	Type	Dirt	x	6	y	23	w	2	h	2 	END
+	BEGIN Material 	Type	Dirt	x	6	y	26	w	3	h	1 	END
+	BEGIN Material 	Type	Dirt	x	7	y	3	w	1	h	3 	END
+	BEGIN Material 	Type	Dirt	x	7	y	20	w	2	h	1 	END
+	BEGIN Material 	Type	Dirt	x	8	y	3	w	3	h	2 	END
+	BEGIN Material 	Type	Dirt	x	8	y	21	w	1	h	3 	END
+	BEGIN Material 	Type	Dirt	x	8	y	25	w	1	h	1 	END
+	BEGIN Material 	Type	Dirt	x	9	y	24	w	4	h	2 	END
+	BEGIN Material 	Type	Dirt	x	10	y	10	w	1	h	5 	END
+	BEGIN Material 	Type	Dirt	x	10	y	26	w	2	h	1 	END
+	BEGIN Material 	Type	Dirt	x	11	y	4	w	1	h	2 	END
+	BEGIN Material 	Type	Dirt	x	11	y	8	w	1	h	9 	END
+	BEGIN Material 	Type	Dirt	x	11	y	23	w	2	h	1 	END
+	BEGIN Material 	Type	Dirt	x	12	y	5	w	1	h	4 	END
+	BEGIN Material 	Type	Dirt	x	12	y	14	w	1	h	4 	END
+	BEGIN Material 	Type	Dirt	x	12	y	18	w	2	h	2 	END
+	BEGIN Material 	Type	Dirt	x	12	y	22	w	3	h	1 	END
+	BEGIN Material 	Type	Dirt	x	13	y	6	w	1	h	1 	END
+	BEGIN Material 	Type	Dirt	x	13	y	20	w	2	h	2 	END
+	BEGIN Material 	Type	Dirt	x	13	y	23	w	1	h	2 	END
+	
+	BEGIN Material 	Type	Grass	x	5	y	9	w	1	h	3 	END
+	BEGIN Material 	Type	Grass	x	5	y	16	w	1	h	2 	END
+	BEGIN Material 	Type	Grass	x	6	y	7	w	4	h	11 	END
+	BEGIN Material 	Type	Grass	x	6	y	25	w	2	h	1 	END
+	BEGIN Material 	Type	Grass	x	7	y	6	w	3	h	1 	END
+	BEGIN Material 	Type	Grass	x	7	y	18	w	3	h	1 	END
+	BEGIN Material 	Type	Grass	x	8	y	5	w	3	h	1 	END
+	BEGIN Material 	Type	Grass	x	8	y	19	w	2	h	1 	END
+	BEGIN Material 	Type	Grass	x	8	y	24	w	1	h	1 	END  
+	BEGIN Material 	Type	Grass	x	9	y	20	w	2	h	4 	END
+	BEGIN Material 	Type	Grass	x	10	y	6	w	2	h	2 	END
+	BEGIN Material 	Type	Grass	x	10	y	8	w	1	h	2 	END
+	BEGIN Material 	Type	Grass	x	10	y	15	w	1	h	5 	END
+	BEGIN Material 	Type	Grass	x	11	y	17	w	1	h	6 	END
+	BEGIN Material 	Type	Grass	x	12	y	20	w	1	h	2 	END
+END
+
+BEGIN Prefab
+	Name	LargeIsland
+	w	47
+	h	30
+	Icon		Island	
+	CustomArea 1
+	PlaceOnWater 2
+
+	BEGIN Material 	Type	WaterShallow	x	3	y	3	w	6	h	1	END
+	BEGIN Material 	Type	WaterShallow	x	6	y	4	w	1	h	1	END
+	BEGIN Material 	Type	WaterShallow	x	8	y	4	w	4	h	1	END
+	BEGIN Material 	Type	WaterShallow	x	11	y	5	w	2	h	2	END
+	BEGIN Material 	Type	WaterShallow	x	12	y	7	w	1	h	4	END
+	BEGIN Material 	Type	WaterShallow	x	13	y	9	w	1	h	1	END
+	BEGIN Material 	Type	WaterShallow	x	13	y	8	w	4	h	1	END
+	BEGIN Material 	Type	WaterShallow	x	15	y	5	w	1	h	3	END
+	BEGIN Material 	Type	WaterShallow	x	16	y	5	w	2	h	1	END
+	BEGIN Material 	Type	WaterShallow	x	17	y	4	w	7	h	1	END
+	BEGIN Material  Type    WaterShallow    x   22  y   5   w   1   h   1   END
+	BEGIN Material  Type    WaterShallow    x   23  y   3   w   4   h   1   END
+	BEGIN Material  Type    WaterShallow    x   26  y   4   w   9   h   1   END
+	BEGIN Material  Type    WaterShallow    x   28  y   6   w   2   h   1   END
+	BEGIN Material  Type    WaterShallow    x   27  y   5   w   1   h   2   END
+	BEGIN Material  Type    WaterShallow    x   30  y   5   w   2   h   1   END
+	BEGIN Material  Type    WaterShallow    x   34  y   5   w   3   h   1   END
+	BEGIN Material  Type    WaterShallow    x   36  y   4   w   5   h   1   END
+	BEGIN Material  Type    WaterShallow    x   39  y   5   w   3   h   1   END
+	BEGIN Material  Type    WaterShallow    x   40  y   6   w   1   h   1   END
+	BEGIN Material  Type    WaterShallow    x   41  y   6   w   2   h   3   END
+	BEGIN Material  Type    WaterShallow    x   40  y   3   w   2   h   1   END
+	BEGIN Material  Type    WaterShallow    x   41  y   1   w   1   h   2   END
+	BEGIN Material  Type    WaterShallow    x   42  y   1   w   3   h   1   END
+	BEGIN Material  Type    WaterShallow    x   44  y   2   w   2   h   1   END
+	BEGIN Material  Type    WaterShallow    x   45  y   3   w   2   h   1   END
+	BEGIN Material  Type    WaterShallow    x   46  y   4   w   1   h   3   END
+	BEGIN Material  Type    WaterShallow    x   45  y   6   w   1   h   2   END
+	BEGIN Material  Type    WaterShallow    x   43  y   7   w   2   h   1   END
+	BEGIN Material  Type    WaterShallow    x   2  y   4   w   2   h   1   END
+	BEGIN Material  Type    WaterShallow    x   2  y   5   w   1   h   3   END
+	BEGIN Material  Type    WaterShallow    x   3  y   7   w   1   h   17   END
+	BEGIN Material  Type    WaterShallow    x   4  y   10   w   2   h   1   END
+	BEGIN Material  Type    WaterShallow    x   4  y   20   w   1   h   2   END
+	BEGIN Material  Type    WaterShallow    x   4  y   14   w   1   h   2   END
+	BEGIN Material  Type    WaterShallow    x   2  y   23   w   1   h   3   END
+	BEGIN Material  Type    WaterShallow    x   3  y   25   w   1   h   3   END
+	BEGIN Material  Type    WaterShallow    x   4  y   25   w   1   h   1   END
+	BEGIN Material  Type    WaterShallow    x   4  y   27   w   1   h   2   END
+	BEGIN Material  Type    WaterShallow    x   5  y   28   w   1   h   2   END
+	BEGIN Material  Type    WaterShallow    x   5  y   29   w   2   h   1   END
+	BEGIN Material  Type    WaterShallow    x   7  y   27   w   1   h   2   END
+	BEGIN Material  Type    WaterShallow    x   8  y   27   w   3   h   1   END
+	BEGIN Material  Type    WaterShallow    x   10  y   28   w   4   h   1   END
+	BEGIN Material  Type    WaterShallow    x   13  y   27   w   2   h   1   END	
+	BEGIN Material  Type    WaterShallow    x   14  y   26   w  2   h   1  END
+	BEGIN Material  Type    WaterShallow    x   15  y   24   w  1   h   2  END
+	BEGIN Material  Type    WaterShallow    x   16  y   24  w  2   h   1  END
+	BEGIN Material  Type    WaterShallow    x   17  y   23  w  4   h   1  END
+	BEGIN Material  Type    WaterShallow    x   19  y   22  w  1   h   1  END
+	BEGIN Material  Type    WaterShallow    x   20  y   24  w  3   h   2  END
+	BEGIN Material  Type    WaterShallow    x   19  y   25  w  1   h   2  END
+	BEGIN Material  Type    WaterShallow    x   18  y   26  w  1   h   3  END
+	BEGIN Material  Type    WaterShallow    x   19  y   28  w  1   h   2  END
+	BEGIN Material  Type    WaterShallow    x   20  y   29  w  3   h   1  END
+	BEGIN Material  Type    WaterShallow    x   21  y   28  w  3   h   1  END
+	BEGIN Material  Type    WaterShallow    x   22  y   27  w  1   h   1  END
+	BEGIN Material  Type    WaterShallow    x   23  y   25  w  2   h   3  END
+	BEGIN Material  Type    WaterShallow    x   22  y   22  w  1   h   2  END
+	BEGIN Material  Type    WaterShallow    x   23  y   22  w  2   h   1  END
+	BEGIN Material  Type    WaterShallow    x   22  y   19  w  5   h   1  END
+	BEGIN Material  Type    WaterShallow    x   23  y   18  w  1   h   1  END
+	BEGIN Material  Type    WaterShallow    x   24  y   20  w  1   h   2  END
+	BEGIN Material  Type    WaterShallow    x   26  y   18  w  3   h   1  END
+	BEGIN Material  Type    WaterShallow    x   27  y   17  w  1   h   1  END
+	BEGIN Material  Type    WaterShallow    x   28  y   19  w  1   h   2  END
+	BEGIN Material  Type    WaterShallow    x   30  y   18  w  1   h   3  END
+	BEGIN Material  Type    WaterShallow    x   29  y   20  w  1   h   4  END
+	BEGIN Material  Type    WaterShallow    x   30  y   23  w  1   h   6  END
+	BEGIN Material  Type    WaterShallow    x   29  y   25  w  1   h   2  END
+	BEGIN Material  Type    WaterShallow    x   28  y   24  w  1   h   2  END
+	BEGIN Material  Type    WaterShallow    x   25  y   24  w  3   h   1  END
+	BEGIN Material  Type    WaterShallow    x   25  y   25  w  1   h   1  END
+	BEGIN Material  Type    WaterShallow    x   25  y   28  w  1   h   1  END
+	BEGIN Material  Type    WaterShallow    x   26  y   27  w  2   h   2  END
+	BEGIN Material  Type    WaterShallow    x   27  y   29  w  3   h   1  END
+	BEGIN Material  Type    WaterShallow    x   29  y   28  w  1   h   1  END
+	BEGIN Material  Type    WaterShallow    x   31  y   25  w  2   h   1  END
+	BEGIN Material  Type    WaterShallow    x   32  y   26  w  2   h   1  END
+	BEGIN Material  Type    WaterShallow    x   33  y   27  w  2   h   1  END
+	BEGIN Material  Type    WaterShallow    x   34  y   28  w  5   h   1  END
+	BEGIN Material  Type    WaterShallow    x   38  y   27  w  3   h   1  END
+	BEGIN Material  Type    WaterShallow    x   40  y   26  w  3   h   1  END
+	BEGIN Material  Type    WaterShallow    x   41  y   25  w  3   h   1  END
+	BEGIN Material  Type    WaterShallow    x   43  y   23  w  1   h   2  END
+	BEGIN Material  Type    WaterShallow    x   44  y   23  w  2   h   1  END
+	BEGIN Material  Type    WaterShallow    x   45  y   22  w  2   h   1  END
+	BEGIN Material  Type    WaterShallow    x   46  y   13  w  1   h   9  END
+	BEGIN Material  Type    WaterShallow    x   45  y   16  w  1   h   1  END
+	BEGIN Material  Type    WaterShallow    x   42  y   9  w  1   h   2  END
+	BEGIN Material  Type    WaterShallow    x   43  y   10  w  1   h   3  END
+	BEGIN Material  Type    WaterShallow    x   44  y   12  w  2   h   1  END
+	BEGIN Material  Type    WaterShallow    x   45  y   13  w  1   h   1  END
+	
+	BEGIN Material  Type    Sand    x   3	 y   5  w  2   h   2  END
+	BEGIN Material  Type    Sand    x   4	 y   4  w  2   h   1  END
+	BEGIN Material  Type    Sand    x   5	 y   5  w  6   h   1  END
+	BEGIN Material  Type    Sand    x   7	 y   4  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   10	 y   6  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   4	 y   7  w  1   h   3  END
+	BEGIN Material  Type    Sand    x   5	 y   8  w  1   h   2  END
+	BEGIN Material  Type    Sand    x   11	 y   7  w  1   h   3  END
+	BEGIN Material  Type    Sand    x   6	 y   10  w  1   h   3  END
+	BEGIN Material  Type    Sand    x   4	 y   11  w  2   h   3  END
+	BEGIN Material  Type    Sand    x   5	 y   14  w  1   h   2  END
+	BEGIN Material  Type    Sand    x   4	 y   16  w  1   h   4  END
+	BEGIN Material  Type    Sand    x   5	 y   18  w  1   h   10  END
+	BEGIN Material  Type    Sand    x   6	 y   23  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   4	 y   22  w  1   h   3  END
+	BEGIN Material  Type    Sand    x   3	 y   24  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   4	 y   26  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   6	 y   25  w  4   h   2  END
+	BEGIN Material  Type    Sand    x   8	 y   24  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   6	 y   27  w  1   h   2  END
+	BEGIN Material  Type    Sand    x   10	 y   26  w  4   h   1  END
+	BEGIN Material  Type    Sand    x   11	 y   27  w  2   h   1  END
+	BEGIN Material  Type    Sand    x   13	 y   25  w  2   h   1  END
+	BEGIN Material  Type    Sand    x   14	 y   23  w  1   h   2  END
+	BEGIN Material  Type    Sand    x   15	 y   23  w  2   h   1  END
+	BEGIN Material  Type    Sand    x   16	 y   21  w  3   h   2  END
+	BEGIN Material  Type    Sand    x   19	 y   20  w  5   h   2  END
+	BEGIN Material  Type    Sand    x   13	 y   11  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   13	 y   10  w  2   h   1  END
+	BEGIN Material  Type    Sand    x   14	 y   9   w  2   h   1  END
+	BEGIN Material  Type    Sand    x   16	 y   6   w  1   h   2  END
+	BEGIN Material  Type    Sand    x   17	 y   6   w  1   h   1  END
+	BEGIN Material  Type    Sand    x   18	 y   5   w  4   h   1  END
+	BEGIN Material  Type    Sand    x   20	 y   22  w  2   h   1  END
+	BEGIN Material  Type    Sand    x   21	 y   23  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   20	 y   19  w  2   h   1  END
+	BEGIN Material  Type    Sand    x   21	 y   18  w  2   h   1  END
+	BEGIN Material  Type    Sand    x   22	 y   17  w  2   h   1  END
+	BEGIN Material  Type    Sand    x   24	 y   16  w  2   h   3  END
+	BEGIN Material  Type    Sand    x   26	 y   16  w  1   h   2  END
+	BEGIN Material  Type    Sand    x   27	 y   15  w  3   h   2  END
+	BEGIN Material  Type    Sand    x   28	 y   17  w  4   h   1  END
+	BEGIN Material  Type    Sand    x   29	 y   18  w  1   h   2  END
+	BEGIN Material  Type    Sand    x   31	 y   18  w  1   h   7  END
+	BEGIN Material  Type    Sand    x   30	 y   21  w  1   h   2  END
+	BEGIN Material  Type    Sand    x   32	 y   23  w  1   h   2  END
+	BEGIN Material  Type    Sand    x   33	 y   24  w  1   h   2  END
+	BEGIN Material  Type    Sand    x   34	 y   24  w  2   h   1  END
+	BEGIN Material  Type    Sand    x   34	 y   25  w  6   h   2  END
+	BEGIN Material  Type    Sand    x   35	 y   27  w  3   h   1  END
+	BEGIN Material  Type    Sand    x   38	 y   24  w  5   h   1  END
+	BEGIN Material  Type    Sand    x   40	 y   25  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   40	 y   23  w  3   h   1  END
+	BEGIN Material  Type    Sand    x   42	 y   22  w  3   h   1  END
+	BEGIN Material  Type    Sand    x   43	 y   21  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   44	 y   19  w  2   h   3  END
+	BEGIN Material  Type    Sand    x   45	 y   18  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   44	 y   17  w  2   h   1  END
+	BEGIN Material  Type    Sand    x   42	 y   13  w  3   h   4  END
+	BEGIN Material  Type    Sand    x   45	 y   14  w  1   h   2  END
+	BEGIN Material  Type    Sand    x   42	 y   11  w  1   h   2  END
+	BEGIN Material  Type    Sand    x   41	 y   9   w  1   h   5  END
+	BEGIN Material  Type    Sand    x   40	 y   7   w  1   h   4  END
+	BEGIN Material  Type    Sand    x   39	 y   6   w  1   h   3  END
+	BEGIN Material  Type    Sand    x   37	 y   5   w  2   h   3  END
+	BEGIN Material  Type    Sand    x   32	 y   5   w  2   h   3  END
+	BEGIN Material  Type    Sand    x   34	 y   6   w  3   h   1  END
+	BEGIN Material  Type    Sand    x   36	 y   7   w  1   h   1  END
+	BEGIN Material  Type    Sand    x   30	 y   6   w  2   h   1  END
+	BEGIN Material  Type    Sand    x   28	 y   5   w  2   h   1  END
+	BEGIN Material  Type    Sand    x   26	 y   7   w  4   h   1  END
+	BEGIN Material  Type    Sand    x   25	 y   5   w  2   h   2  END
+	BEGIN Material  Type    Sand    x   24	 y   4   w  2   h   1  END
+	BEGIN Material  Type    Sand    x   23	 y   5   w  2   h   1  END
+	BEGIN Material  Type    Sand    x   30	 y   7   w  1   h   1  END
+	BEGIN Material  Type    Sand    x   6	 y   6   w  1   h   1  END
+	
+	BEGIN Material  Type    Sand    x   42	 y   2   w  2   h   1  END
+	BEGIN Material  Type    Sand    x   44	 y   3   w  1   h   1  END
+	BEGIN Material  Type    Sand    x   45	 y   4   w  1   h   2  END
+	BEGIN Material  Type    Sand    x   43	 y   6   w  2   h   1  END
+	BEGIN Material  Type    Sand    x   41	 y   4   w  1   h   1  END
+	
+	BEGIN Material  Type    Sand    x   26	 y   25  w  2   h   1  END
+	BEGIN Material  Type    Sand    x   25	 y   26  w  1   h   2  END
+	BEGIN Material  Type    Sand    x   28	 y   26  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   28	 y   28  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   29	 y   27  w  1   h   1  END
+	
+	BEGIN Material  Type    Sand    x   21	 y   26  w  2   h   1  END
+	BEGIN Material  Type    Sand    x   19	 y   27  w  1   h   1  END
+	BEGIN Material  Type    Sand    x   20	 y   28  w  1   h   1  END
+	
+	BEGIN Material  Type    Dirt    x   5	 y   6   w  1   h   2  END
+	BEGIN Material  Type    Dirt    x   7	 y   6   w  3   h   2  END
+	BEGIN Material  Type    Dirt    x   10	 y   7   w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   6	 y   7   w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   6	 y   8   w  2   h   2  END
+	BEGIN Material  Type    Dirt    x   9	 y   8   w  2   h   4  END
+	BEGIN Material  Type    Dirt    x   7	 y   10  w  1   h   3  END
+	BEGIN Material  Type    Dirt    x   8	 y   12  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   8	 y   9   w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   6	 y   13  w  3   h   5  END
+	BEGIN Material  Type    Dirt    x   5	 y   16  w  1   h   2  END
+	BEGIN Material  Type    Dirt    x   9	 y   15  w  1   h   6  END
+	BEGIN Material  Type    Dirt    x   10	 y   16  w  1   h   2  END
+	BEGIN Material  Type    Dirt    x   6	 y   18  w  1   h   5  END
+	BEGIN Material  Type    Dirt    x   10	 y   19  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   10	 y   21  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   8	 y   20  w  1   h   4  END
+	BEGIN Material  Type    Dirt    x   7	 y   21  w  1   h   4  END
+	BEGIN Material  Type    Dirt    x   6	 y   24  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   9	 y   22  w  1   h   3  END
+	BEGIN Material  Type    Dirt    x   10	 y   23  w  1   h   3  END
+	BEGIN Material  Type    Dirt    x   11	 y   24  w  2   h   2  END
+	BEGIN Material  Type    Dirt    x   11	 y   22  w  2   h   1  END
+	BEGIN Material  Type    Dirt    x   11	 y   10  w  1   h   4  END
+	BEGIN Material  Type    Dirt    x   12	 y   11  w  1   h   5  END
+	BEGIN Material  Type    Dirt    x   12	 y   19  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   13	 y   12  w  2   h   1  END
+	BEGIN Material  Type    Dirt    x   13	 y   14  w  1   h   2  END
+	BEGIN Material  Type    Dirt    x   13	 y   19  w  1   h   6  END
+	BEGIN Material  Type    Dirt    x   14	 y   11  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   14	 y   13  w  2   h   1  END
+	BEGIN Material  Type    Dirt    x   14	 y   19  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   14	 y   21  w  2   h   2  END
+	BEGIN Material  Type    Dirt    x   15	 y   10  w  3   h   2  END
+	BEGIN Material  Type    Dirt    x   15	 y   20  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   16	 y   9   w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   16	 y   12  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   16	 y   19  w  2   h   2  END
+	BEGIN Material  Type    Dirt    x   17	 y   7   w  1   h   3  END
+	BEGIN Material  Type    Dirt    x   18	 y   6   w  1   h   3  END
+	BEGIN Material  Type    Dirt    x   18	 y   10  w  4   h   1  END
+	BEGIN Material  Type    Dirt    x   18	 y   17  w  1   h   2  END
+	BEGIN Material  Type    Dirt    x   18	 y   20  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   19	 y   6   w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   19	 y   8   w  1   h   2  END
+	BEGIN Material  Type    Dirt    x   19	 y   18  w  1   h   2  END
+	BEGIN Material  Type    Dirt    x   20	 y   6   w  5   h   2  END
+	BEGIN Material  Type    Dirt    x   20	 y   8   w  2   h   1  END
+	BEGIN Material  Type    Dirt    x   20	 y   18  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   20	 y   26  w  1   h   2  END
+	BEGIN Material  Type    Dirt    x   21	 y   9   w  4   h   1  END
+	BEGIN Material  Type    Dirt    x   21	 y   17  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   21	 y   27  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   22	 y   13  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   22	 y   16  w  2   h   1  END
+	BEGIN Material  Type    Dirt    x   23	 y   8   w  16  h   1  END
+	BEGIN Material  Type    Dirt    x   24	 y   14  w  2   h   2  END
+	BEGIN Material  Type    Dirt    x   25	 y   7   w  2   h   1  END
+	BEGIN Material  Type    Dirt    x   26	 y   9   w  3   h   1  END
+	BEGIN Material  Type    Dirt    x   26	 y   10  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   26	 y   11  w  3   h   4  END
+	BEGIN Material  Type    Dirt    x   26	 y   15  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   26	 y   26  w  2   h   1  END
+	BEGIN Material  Type    Dirt    x   28	 y   27  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   29	 y   9   w  11  h   2  END
+	BEGIN Material  Type    Dirt    x   29	 y   13  w  1   h   2  END
+	BEGIN Material  Type    Dirt    x   30	 y   11  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   30	 y   15  w  2   h   2  END
+	BEGIN Material  Type    Dirt    x   31	 y   7   w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   32	 y   16  w  1   h   7  END
+	BEGIN Material  Type    Dirt    x   33	 y   11  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   33	 y   18  w  2   h   6  END
+	BEGIN Material  Type    Dirt    x   34	 y   7   w  2   h   1  END
+	BEGIN Material  Type    Dirt    x   35	 y   11  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   35	 y   18  w  2   h   2  END
+	BEGIN Material  Type    Dirt    x   35	 y   20  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   35	 y   22  w  5   h   2  END
+	BEGIN Material  Type    Dirt    x   36	 y   24  w  2   h   1  END
+	BEGIN Material  Type    Dirt    x   37	 y   12  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   38	 y   11  w  3   h   1  END
+	BEGIN Material  Type    Dirt    x   38	 y   13  w  3   h   1  END
+	BEGIN Material  Type    Dirt    x   39	 y   12  w  2   h   1  END
+	BEGIN Material  Type    Dirt    x   39	 y   14  w  3   h   1  END
+	BEGIN Material  Type    Dirt    x   39	 y   21  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   40	 y   15  w  2   h   1  END
+	BEGIN Material  Type    Dirt    x   40	 y   20  w  2   h   3  END
+	BEGIN Material  Type    Dirt    x   41	 y   16  w  1   h   2  END
+	BEGIN Material  Type    Dirt    x   42	 y   3   w  2   h   3  END
+	BEGIN Material  Type    Dirt    x   42	 y   17  w  2   h   1  END
+	BEGIN Material  Type    Dirt    x   42	 y   19  w  2   h   2  END
+	BEGIN Material  Type    Dirt    x   42	 y   21  w  1   h   1  END
+	BEGIN Material  Type    Dirt    x   43	 y   18  w  2   h   1  END
+	BEGIN Material  Type    Dirt    x   44	 y   4   w  1   h   2  END
+	
+	BEGIN Material 	Type	Grass	x	8	y	8	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	7	y	18	w	2	h	2 	END
+	BEGIN Material 	Type	Grass	x	7	y	20	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	8	y	10	w	1	h	2 	END
+	BEGIN Material 	Type	Grass	x	9	y	12	w	2	h	2 	END
+	BEGIN Material 	Type	Grass	x	9	y	14	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	10	y	14	w	2	h	2 	END
+	BEGIN Material 	Type	Grass	x	9	y	21	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	11	y	23	w	2	h	1 	END  
+	BEGIN Material 	Type	Grass	x	10	y	22	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	11	y	20	w	2	h	2 	END
+	BEGIN Material 	Type	Grass	x	10	y	20	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	11	y	19	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	10	y	18	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	11	y	16	w	7	h	3 	END
+	BEGIN Material 	Type	Grass	x	14	y	20	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	15	y	19	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	13	y	13	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	18	y	17	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	15	y	12	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	14	y	14	w	2	h	2 	END
+	BEGIN Material 	Type	Grass	x	16	y	13	w	2	h	3 	END
+	BEGIN Material 	Type	Grass	x	17	y	12	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	18	y	9	w	1	h	1 	END  
+	BEGIN Material 	Type	Grass	x	19	y	7	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	20	y	9	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	22	y	8	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	18	y	11	w	4	h	6 	END
+	BEGIN Material 	Type	Grass	x	19	y	17	w	2	h	1 	END
+	BEGIN Material 	Type	Grass	x	22	y	14	w	2	h	2 	END
+	BEGIN Material 	Type	Grass	x	22	y	10	w	1	h	3 	END
+	BEGIN Material 	Type	Grass	x	23	y	10	w	3	h	4 	END
+	BEGIN Material 	Type	Grass	x	25	y	9	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	27	y	10	w	2	h	1 	END
+	BEGIN Material 	Type	Grass	x	29	y	11	w	1	h	2 	END
+	BEGIN Material 	Type	Grass	x	30	y	12	w	7	h	3 	END
+	BEGIN Material 	Type	Grass	x	33	y	15	w	7	h	3 	END
+	BEGIN Material 	Type	Grass	x	37	y	18	w	3	h	3 	END
+	BEGIN Material 	Type	Grass	x	35	y	21	w	4	h	1 	END  
+	BEGIN Material 	Type	Grass	x	36	y	20	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	32	y	15	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	31	y	11	w	2	h	1 	END
+	BEGIN Material 	Type	Grass	x	34	y	11	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	36	y	11	w	2	h	1 	END
+	BEGIN Material 	Type	Grass	x	38	y	12	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	37	y	13	w	1	h	2 	END
+	BEGIN Material 	Type	Grass	x	38	y	14	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	40	y	18	w	2	h	2 	END
+	BEGIN Material 	Type	Grass	x	42	y	18	w	1	h	1 	END
+	BEGIN Material 	Type	Grass	x	40	y	16	w	1	h	2 	END
+	BEGIN Material 	Type	Grass	x	18	y	19	w	1	h	1 	END
+		
+END
+ 
+BEGIN Prefab
+	Name	SmallLand
+	w		14
+	h		14
+	Icon		Land	
+	CustomArea 1
+	PlaceOnWater 1
+	
+	BEGIN Material 	Type	Sand	x	5	y	0	w	4	h	1 	END
+	BEGIN Material 	Type	Sand	x	3	y	1	w	3	h	1 	END
+	BEGIN Material 	Type	Sand	x	8	y	1	w	3	h	1 	END
+	BEGIN Material 	Type	Sand	x	2	y	2	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	10	y	2	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	1	y	3	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	11	y	3	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	1	y	4	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	12	y	4	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	0	y	5	w	1	h	4 	END
+	BEGIN Material 	Type	Sand	x	13	y	5	w	1	h	4 	END
+	BEGIN Material 	Type	Sand	x	1	y	8	w	1	h	3 	END
+	BEGIN Material 	Type	Sand	x	12	y	8	w	1	h	3 	END
+	BEGIN Material 	Type	Sand	x	2	y	10	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	11	y	10	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	3	y	11	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	10	y	11	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	4	y	12	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	8	y	12	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	5	y	13	w	4	h	1 	END
+	
+	BEGIN Material 	Type	Dirt	x	6	y	1	w	2	h	1 	END
+	BEGIN Material 	Type	Dirt	x	4	y	2	w	6	h	1 	END
+	BEGIN Material 	Type	Dirt	x	3	y	3	w	2	h	1 	END
+	BEGIN Material 	Type	Dirt	x	9	y	3	w	2	h	1 	END
+	BEGIN Material 	Type	Dirt	x	2	y	4	w	2	h	1 	END
+	BEGIN Material 	Type	Dirt	x	10	y	4	w	2	h	1 	END
+	BEGIN Material 	Type	Dirt	x	2	y	5	w	1	h	5 	END
+	BEGIN Material 	Type	Dirt	x	1	y	6	w	1	h	2 	END
+	BEGIN Material 	Type	Dirt	x	11	y	5	w	1	h	5 	END
+	BEGIN Material 	Type	Dirt	x	12	y	6	w	1	h	2 	END
+	BEGIN Material 	Type	Dirt	x	3	y	9	w	1	h	2 	END
+	BEGIN Material 	Type	Dirt	x	10	y	9	w	1	h	2 	END
+	BEGIN Material 	Type	Dirt	x	4	y	10	w	1	h	2 	END
+	BEGIN Material 	Type	Dirt	x	9	y	10	w	1	h	2 	END
+	BEGIN Material 	Type	Dirt	x	5	y	11	w	4	h	1 	END
+	BEGIN Material 	Type	Dirt	x	6	y	12	w	2	h	1 	END
+	
+	BEGIN Material	Type	Grass	x	3	y	5	w 	8	h	4	END
+	BEGIN Material	Type	Grass	x	4	y	4	w 	6	h	1	END
+	BEGIN Material	Type	Grass	x	5	y	3	w 	4	h	1	END
+	BEGIN Material	Type	Grass	x	4	y	9	w 	6	h	1	END
+	BEGIN Material	Type	Grass	x	5	y	10	w 	4	h	1	END
+		
+END
+   
+BEGIN Prefab
+	Name	LargeLand
+	w		24
+	h		24
+	Icon	Land
+	CustomArea 1
+	PlaceOnWater 1
+	
+	BEGIN Material 	Type	Sand	x	9	y	1	w	6	h	2 	END
+	BEGIN Material 	Type	Sand	x	7	y	2	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	15	y	2	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	5	y	3	w	3	h	1 	END
+	BEGIN Material 	Type	Sand	x	16	y	3	w	3	h	1 	END
+	BEGIN Material 	Type	Sand	x	4	y	4	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	18	y	4	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	3	y	5	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	19	y	5	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	3	y	6	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	20	y	6	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	2	y	7	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	21	y	7	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	1	y	9	w	2	h	6 	END
+	BEGIN Material 	Type	Sand	x	21	y	9	w	2	h	6 	END
+	BEGIN Material 	Type	Sand	x	2	y	15	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	21	y	15	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	3	y	16	w	1	h	3 	END
+	BEGIN Material 	Type	Sand	x	20	y	16	w	1	h	3 	END
+	BEGIN Material 	Type	Sand	x	4	y	18	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	19	y	18	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	5	y	19	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	18	y	19	w	1	h	2 	END
+	BEGIN Material 	Type	Sand	x	6	y	20	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	16	y	20	w	3	h	1 	END
+	BEGIN Material 	Type	Sand	x	7	y	21	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	15	y	21	w	2	h	1 	END
+	BEGIN Material 	Type	Sand	x	9	y	21	w	6	h	2 	END
+	
+	BEGIN Material 	Type	Dirt	x	9	y	3	w	6	h	2 	END
+	BEGIN Material 	Type	Dirt	x	8	y	3	w	1	h	3 	END
+	BEGIN Material 	Type	Dirt	x	15	y	3	w	1	h	3 	END
+	BEGIN Material 	Type	Dirt	x	6	y	4	w	2	h	2 	END
+	BEGIN Material 	Type	Dirt	x	16	y	4	w	2	h	2 	END
+	BEGIN Material 	Type	Dirt	x	6	y	6	w	1	h	1 	END
+	BEGIN Material 	Type	Dirt	x	17	y	6	w	1	h	1 	END
+	BEGIN Material 	Type	Dirt	x	5	y	5	w	1	h	4 	END
+	BEGIN Material 	Type	Dirt	x	18	y	5	w	1	h	4 	END
+	BEGIN Material 	Type	Dirt	x	4	y	6	w	1	h	12 	END
+	BEGIN Material 	Type	Dirt	x	19	y	6	w	1	h	12 	END
+	BEGIN Material 	Type	Dirt	x	3	y	8	w	1	h	8 	END
+	BEGIN Material 	Type	Dirt	x	20	y	8	w	1	h	8 	END
+	BEGIN Material 	Type	Dirt	x	5	y	15	w	1	h	4 	END
+	BEGIN Material 	Type	Dirt	x	18	y	15	w	1	h	4 	END
+	BEGIN Material 	Type	Dirt	x	6	y	17	w	1	h	3 	END
+	BEGIN Material 	Type	Dirt	x	17	y	17	w	1	h	3 	END
+	BEGIN Material 	Type	Dirt	x	7	y	18	w	2	h	2 	END
+	BEGIN Material 	Type	Dirt	x	15	y	18	w	2	h	2 	END
+	BEGIN Material 	Type	Dirt	x	9	y	19	w	6	h	1 	END
+	BEGIN Material 	Type	Dirt	x	8	y	20	w	8	h	1 	END
+	
+	BEGIN Material	Type	Grass	x	5	y	9	w 	14	h	6	END
+	BEGIN Material	Type	Grass	x	6	y	7	w 	12	h	2	END
+	BEGIN Material	Type	Grass	x	7	y	6	w 	10	h	1	END
+	BEGIN Material	Type	Grass	x	9	y	5	w 	6	h	1	END
+	BEGIN Material	Type	Grass	x	6	y	15	w 	12	h	2	END
+	BEGIN Material	Type	Grass	x	7	y	17	w 	10	h	1	END
+	BEGIN Material	Type	Grass	x	9	y	18	w 	6	h	1	END
+		
+END    
+    
+BEGIN Prefab
+	Name	Grove
+	w	9
+	h	9
+	Icon		Grove
+	Research        GroundsKeeping
+	CustomArea 1
+	
+	BEGIN Material	Type	Grass		x	0	y	0	w 	9	h	9	END
+	
+	BEGIN Object    Type    Tree		x   0   y   0   orX 0   orY 1   END
+	BEGIN Object    Type    Tree		x   3   y   0   orX 0   orY 1   END		
+	BEGIN Object    Type    Tree		x   6   y   0   orX 0   orY 1   END
+	BEGIN Object    Type    Tree		x   0   y   3   orX 0   orY 1   END	
+	BEGIN Object    Type    Tree		x   3   y   3   orX 0   orY 1   END
+	BEGIN Object    Type    Tree		x   6   y   3   orX 0   orY 1   END	
+	BEGIN Object    Type    Tree		x   0   y   6   orX 0   orY 1   END
+	BEGIN Object    Type    Tree		x   3   y   6   orX 0   orY 1   END
+	BEGIN Object    Type    Tree		x   6   y   6   orX 0   orY 1   END
+END
+
+BEGIN Prefab
+	Name	FlowerGarden
+	w	10
+	h	10
+	Icon		FlowerField  
+	RoomType	FlowerGarden
+	Research        GroundsKeeping
+	CustomArea 1
+	
+	BEGIN Material Type	FlowerField 		x   1	y   1	w 	8	h	8	END
+	BEGIN Material Type	FenceAndGrass		x   0	y   0	w 	10	h	1	END
+	BEGIN Material Type	FenceAndGrass		x   0	y   1	w 	1	h	8	END	
+	BEGIN Material Type	FenceAndGrass		x   9	y   1	w 	1	h	8	END		
+	BEGIN Material Type	FenceAndGrass		x   0	y   9	w 	4	h	1	END
+	BEGIN Material Type	FenceAndGrass		x   6	y   9	w 	4	h	1	END
+	BEGIN Material Type	Grass			x   4	y   9	w 	2	h	1	END
+
+	BEGIN Object   Type	Shed			x   4   y   1   	orX  1    orY 0   	 END
+	BEGIN Object   Type   	FlowerHydrangeaPlant	x   1   y   3           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerHydrangeaPlant	x   1   y   4           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerRoseBush	        x   1   y   6           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerRoseBush	        x   1   y   7           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerMixedBegonias	x   3   y   3           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerMixedBegonias	x   3   y   4           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerSunflower		x   3   y   6           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerSunflower		x   3   y   7           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerRoseBush	        x   6   y   3           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerRoseBush	        x   6   y   4           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerMixedBegonias	x   6   y   6           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerMixedBegonias	x   6   y   7           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerHydrangeaPlant	x   8   y   3           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerHydrangeaPlant	x   8   y   4           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerHeatherBushes	x   8   y   6           orX  0    orY 0          END
+	BEGIN Object   Type   	FlowerHeatherBushes	x   8   y   7           orX  0    orY 0          END
+    VersionAdded        4000
+END
+
+BEGIN Prefab
+	Name	Yard
+	w	19
+	h	14
+	Icon		RoomYard
+	RoomType	Yard
+	CustomArea 1
+	
+	BEGIN Material Type	Fence			x   0	y   0	w 	19	h	1	END
+	BEGIN Material Type	Fence			x   0	y   1	w 	1	h	13	END
+	BEGIN Material Type	Fence			x   18	y   1	w 	1	h	13	END
+	BEGIN Material Type	Fence			x   1	y   13	w 	8	h	1	END
+	BEGIN Material Type	Fence			x   10	y   13	w 	8	h	1	END
+	BEGIN Material 	Type	Dirt			x   1	y   1	w	1	h	1 	END
+	BEGIN Material 	Type	Dirt			x   1	y   12	w	1	h	1 	END
+	BEGIN Material 	Type	Dirt			x   17	y   1	w	1	h	1 	END
+	BEGIN Material 	Type	Dirt			x   17	y   12	w	1	h	1 	END
+	BEGIN Material 	Type	RunningTrack  		x   2	y   1	w	15	h	2 	END
+	BEGIN Material 	Type	RunningTrack  		x   1	y   2	w	1	h	1	END
+	BEGIN Material 	Type	RunningTrack  		x   17	y   2	w	1	h	1	END
+	BEGIN Material 	Type	RunningTrack  		x   1	y   3	w	2	h	9 	END
+	BEGIN Material 	Type	RunningTrack  		x   3	y   3	w	1	h	1 	END
+	BEGIN Material 	Type	RunningTrack  		x   15	y   3	w	1	h	1 	END
+	BEGIN Material 	Type	RunningTrack  		x   16	y   3	w	2	h	9 	END
+	BEGIN Material 	Type	RunningTrack  		x   15	y   10	w	1	h	1 	END
+	BEGIN Material 	Type	RunningTrack  		x   3	y   10	w	1	h	1 	END
+	BEGIN Material 	Type	RunningTrack  		x   3	y   11	w	13	h	2	END
+	BEGIN Material 	Type	RunningTrack  		x   2	y   12	w	1	h	1 	END
+	BEGIN Material 	Type	RunningTrack  		x   16	y   12	w	1	h	1 	END
+	BEGIN Material 	Type	Sand			x   4	y   3	w	11	h	1 	END
+	BEGIN Material 	Type	Sand			x   4	y   10	w	11	h	1 	END
+	BEGIN Material 	Type	Sand			x   3	y   4	w	13	h	6 	END
+
+
+
+	BEGIN Object    Type    FenceGateStandard	x   9   y   13   orX 0   orY 1   END
+	BEGIN Object    Type    SmallBench		x   4   y   3   orX 0  orY 1    END
+	BEGIN Object    Type    SmallBench		x   4   y   5   orX 0   orY 1    END
+	BEGIN Object    Type    SmallBench		x   4   y   8   orX 0   orY 1    END
+	BEGIN Object    Type    SmallBench		x   4   y   10   orX 0   orY 1    END
+	BEGIN Object    Type    SmallTable   		x   4   y   4   orX 0   orY 1    END
+	BEGIN Object    Type    SmallTable  		x   4   y   9   orX 0   orY 1    END
+	BEGIN Object    Type    WeightsBench  		x   9   y   3   orX 0   orY 1    END
+	BEGIN Object    Type    WeightsBench  		x   10   y   3   orX 0   orY 1    END
+	BEGIN Object    Type    WeightsBench  		x   11  y   3   orX 0   orY 1    END
+	BEGIN Object    Type    WeightsBench  		x   12  y   3   orX 0   orY 1    END
+	BEGIN Object    Type    WeightsBench  		x   13   y   3   orX 0   orY 1    END
+	BEGIN Object    Type    WeightsBench  		x   14   y   3   orX 0   orY 1    END
+	BEGIN Object    Type    WeightsBench  		x   9   y   5   orX 0   orY 1    END
+	BEGIN Object    Type    WeightsBench  		x   10   y   5   orX 0   orY 1    END
+	BEGIN Object    Type    WeightsBench  		x   11  y   5  orX 0   orY 1    END
+	BEGIN Object    Type    WeightsBench  		x   12  y   5   orX 0   orY 1    END
+	BEGIN Object    Type    WeightsBench  		x   13   y   5   orX 0   orY 1    END
+	BEGIN Object    Type    WeightsBench  		x   14   y   5   orX 0   orY 1    END
+	BEGIN Object    Type    PhoneBooth      	x   9   y   8   orX 1   orY 0    END
+	BEGIN Object    Type    PhoneBooth      	x   9   y   9   orX 1   orY 0    END
+	BEGIN Object    Type    PhoneBooth      	x   9   y   10   orX 1   orY 0    END
+	BEGIN Object    Type    PhoneBooth      	x   11   y   8   orX -1   orY 0    END
+	BEGIN Object    Type    PhoneBooth      	x   11   y   9   orX -1   orY 0    END
+	BEGIN Object    Type    PhoneBooth      	x   11   y   10   orX -1   orY 0    END
+	BEGIN Object    Type    PhoneBooth      	x   12   y   8   orX 1   orY 0    END
+	BEGIN Object    Type    PhoneBooth      	x   12   y   9   orX 1   orY 0    END
+	BEGIN Object    Type    PhoneBooth      	x   12   y   10   orX 1   orY 0    END
+	BEGIN Object    Type    PhoneBooth      	x   14   y   8   orX -1   orY 0    END
+	BEGIN Object    Type    PhoneBooth      	x   14   y   9   orX -1   orY 0    END
+	BEGIN Object    Type    PhoneBooth      	x   14   y   10   orX -1   orY 0    END
+	
+
+END
+
+BEGIN Prefab
+	Name	HedgeMaze
+	w	20
+	h	10
+	Icon		HedgeMaze
+	CustomArea 1
+	
+	BEGIN Material Type	Grass			x   0	y   5	w 	1	h	1	END
+	BEGIN Material Type	Grass			x   1	y   1	w 	3	h	1	END
+	BEGIN Material Type	Grass			x   1	y   2	w 	1	h	7	END
+	BEGIN Material Type	Grass			x   2	y   3	w 	4	h	1	END
+	BEGIN Material Type	Grass			x   2	y   8	w 	1	h	1	END
+	BEGIN Material Type	Grass			x   3	y   4	w 	1	h	3	END
+	BEGIN Material Type	Grass			x   4	y   6	w 	1	h	3	END
+	BEGIN Material Type	Grass			x   5	y   1	w 	1	h	2	END
+	BEGIN Material Type	Grass			x   5	y   5	w 	6	h	1	END
+	BEGIN Material Type	Grass			x   5	y   8	w 	2	h	1	END
+	BEGIN Material Type	Grass			x   6	y   7	w 	3	h	1	END
+	BEGIN Material Type	Grass			x   7	y   1	w 	3	h	1	END
+	BEGIN Material Type	Grass			x   7	y   3	w 	6	h	1	END
+	BEGIN Material Type	Grass			x   7	y   4	w 	1	h	1	END
+	BEGIN Material Type	Grass			x   7	y   6	w 	1	h	1	END
+	BEGIN Material Type	Grass			x   8	y   8	w 	1	h	1	END
+	BEGIN Material Type	Grass			x   9	y   2	w 	1	h	1	END
+	BEGIN Material Type	Grass			x   10	y   6	w 	1	h	1	END
+	BEGIN Material Type	Grass			x   10	y   8	w 	3	h	1	END
+	BEGIN Material Type	Grass			x   11	y   1	w 	8	h	1	END
+	BEGIN Material Type	Grass			x   11	y   2	w 	1	h	1	END
+	BEGIN Material Type	Grass			x   12	y   5	w 	1	h	3	END
+	BEGIN Material Type	Grass			x   13	y   5	w 	1	h	1	END
+	BEGIN Material Type	Grass			x   14	y   2	w 	1	h	7	END
+	BEGIN Material Type	Grass			x   15	y   8	w 	2	h	1	END
+	BEGIN Material Type	Grass			x   16	y   3	w 	1	h	2	END
+	BEGIN Material Type	Grass			x   16	y   6	w 	1	h	2	END
+	BEGIN Material Type	Grass			x   17	y   4	w 	1	h	1	END
+	BEGIN Material Type	Grass			x   17	y   7	w 	1	h	1	END
+	BEGIN Material Type	Grass			x   18	y   2	w 	1	h	7	END
+	BEGIN Material Type	Grass			x   19	y   4	w 	1	h	1	END
+
+	
+	BEGIN Material Type	NewHedgeWall			x   0	y   0	w 	20	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   0	y   1	w 	1	h	4	END
+	BEGIN Material Type	NewHedgeWall			x   0	y   6	w 	1	h	4	END
+	BEGIN Material Type	NewHedgeWall			x   1	y   9	w 	19	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   2	y   2	w 	3	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   2	y   4	w 	1	h	4	END
+	BEGIN Material Type	NewHedgeWall			x   3	y   7	w 	1	h	2	END
+	BEGIN Material Type	NewHedgeWall			x   4	y   1	w 	1	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   4	y   4	w 	1	h	2	END
+	BEGIN Material Type	NewHedgeWall			x   5	y   4	w 	2	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   5	y   6	w 	2	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   5	y   7	w 	1	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   6	y   1	w 	1	h	3	END
+	BEGIN Material Type	NewHedgeWall			x   7	y   2	w 	2	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   7	y   8	w 	1	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   8	y   4	w 	6	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   8	y   6	w 	1	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   9	y   6	w 	1	h	3	END
+	BEGIN Material Type	NewHedgeWall			x   10	y   7	w 	1	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   10	y   1	w 	1	h	2	END
+	BEGIN Material Type	NewHedgeWall			x   11	y   5	w 	1	h	3	END
+	BEGIN Material Type	NewHedgeWall			x   12	y   2	w 	1	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   13	y   2	w 	1	h	2	END
+	BEGIN Material Type	NewHedgeWall			x   13	y   6	w 	1	h	3	END
+	BEGIN Material Type	NewHedgeWall			x   15	y   2	w 	1	h	6	END
+	BEGIN Material Type	NewHedgeWall			x   16	y   2	w 	1	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   16	y   5	w 	1	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   17	y   2	w 	1	h	2	END
+	BEGIN Material Type	NewHedgeWall			x   17	y   5	w 	1	h	2	END
+	BEGIN Material Type	NewHedgeWall			x   17	y   8	w 	1	h	1	END
+	BEGIN Material Type	NewHedgeWall			x   19	y   1	w 	1	h	3	END
+	BEGIN Material Type	NewHedgeWall			x   19	y   5	w 	1	h	4	END
+
+END
+
+BEGIN Prefab
+    Name        Reception
+    w           10
+    h           8
+    RoomType    Intake
+    BEGIN Material	Type	ConcreteFloor		x	1	y	1	w 	8	h	6	END
+    BEGIN Object    Type    Table       x   1   y   1   orX 0   orY 1   END 
+    BEGIN Object    Type    Table       x   1   y   6   orX 0   orY 1   END    
+    BEGIN Object    Type    Table       x   5   y   6   orX 0   orY 1   END     
+    BEGIN Object    Type    Chair 	x   7   y   1   orX 0   orY 1   END    
+    BEGIN Object    Type    OfficeDesk	x   7   y   2   orX 0   orY -1   END
+    BEGIN Object    Type    JailDoorLarge   x   0   y   3   orX 1   orY 0   END
+    BEGIN Object    Type    JailDoorLarge   x   9   y   3   orX 1   orY 0   END
+	VersionAdded	5000
+END
+
+BEGIN Prefab
+	Name		Therapy
+	w		7
+	h		7
+	RoomType    	TherapyRoom
+	
+	BEGIN Material	Type	MosaicFloor		x   1	y   1	w   5	h   5	END
+	BEGIN Object    Type    Chair			x   1   y   1	orX 1   orY 0	END
+	BEGIN Object    Type    Chair			x   1   y   2	orX 1   orY 0	END
+	BEGIN Object    Type    Chair			x   1   y   3	orX 1   orY 0	END
+	BEGIN Object    Type    Chair			x   1   y   4	orX 1   orY 0	END
+	BEGIN Object    Type    Chair			x   5   y   1	orX -1   orY 0	END
+	BEGIN Object    Type    Chair			x   5   y   2	orX -1   orY 0	END
+	BEGIN Object    Type    Chair			x   5   y   3	orX -1   orY 0	END
+	BEGIN Object    Type    Chair			x   5   y   4	orX -1   orY 0	END
+	BEGIN Object    Type    Chair			x   2   y   5	orX 0   orY -1	END
+	BEGIN Object    Type    Chair			x   3   y   5	orX 0   orY -1	END
+	BEGIN Object    Type    Chair			x   4   y   5	orX 0   orY -1 	END
+	BEGIN Object    Type    Plant			x   1   y   5	END
+	BEGIN Object    Type    Plant			x   5   y   5	END
+	BEGIN Object    Type    Door			x   3   y   0	END
+	VersionAdded	5000
+END
+
+BEGIN Prefab
+	Name		Restaurant
+	w		10
+	h		14
+	RoomType	Restaurant
+	Research             PrisonLabour
+
+	BEGIN Material	Type	NewCheckeredFloor	x   1	y   1	w   8	h   12	END
+	BEGIN Object    Type	WallPanelWood		x   1   y   5	orX 0   orY 1	END
+	BEGIN Object    Type	WallPanelWood		x   2   y   5	orX 0   orY 1	END
+	BEGIN Object    Type	WallPanelWood		x   3   y   5	orX 0   orY 1	END
+	BEGIN Object    Type	WallPanelWood		x   4   y   5	orX 0   orY 1	END
+	BEGIN Object    Type	WallPanelWood		x   5   y   5	orX 0   orY 1	END
+	BEGIN Object    Type	WallPanelWood		x   6   y   5	orX 0   orY 1	END
+	BEGIN Object    Type    Fridge			x   1   y   1	orX 0   orY 1	END
+	BEGIN Object    Type    Fridge			x   7   y   1	orX 0   orY 1	END
+	BEGIN Object    Type    Cooker			x   3   y   1	orX 0   orY 1	END
+	BEGIN Object    Type    Cooker			x   5   y   1	orX 0   orY 1	END
+	BEGIN Object    Type    Sink			x   1   y   4	orX 0   orY -1	END
+	BEGIN Object    Type    Sink			x   4   y   4	orX 0   orY -1	END
+	BEGIN Object    Type    DinerBooth		x   1   y   9	orX 1   orY 0	END
+	BEGIN Object    Type    DinerBooth		x   1   y   11	orX 1   orY 0	END
+	BEGIN Object    Type    DinerBooth		x   6   y   9	orX 1   orY 0	END
+	BEGIN Object    Type    DinerBooth		x   6   y   11	orX 1   orY 0	END
+	BEGIN Object    Type    DisplayCounter		x   1   y   6	orX 0   orY 1	END
+	BEGIN Object    Type    ShopCounter		x   7   y   7	orX 0   orY 1	END
+	BEGIN Object    Type    Door  			x   7   y   5   orX 0   orY 1	END
+	BEGIN Object    Type    Door  			x   8   y   5   orX 0   orY -1	END
+	BEGIN Object    Type    Door  			x   4   y   13   orX 0   orY 1	END
+	BEGIN Object    Type    Door  			x   5   y   13   orX 0   orY -1	END
+	VersionAdded	5000
+END
+
+BEGIN Prefab
+	Name		Bakery
+	w		10
+	h		14
+	RoomType 	Bakery
+        Research             PrisonLabour
+	
+	BEGIN Material	Type	WoodenFloor		x   1	y   1	w   8	h   12	EN
+	BEGIN Object    Type    Oven			x   1   y   1	orX 0   orY 1	END
+	BEGIN Object    Type    Oven			x   7   y   1	orX 0   orY 1	END
+	BEGIN Object    Type    Oven			x   3   y   1	orX 0   orY 1	END
+	BEGIN Object    Type    Oven			x   5   y   1	orX 0   orY 1	END
+	BEGIN Object    Type    Fridge			x   1   y   4	orX 1   orY 0	END
+	BEGIN Object    Type    Fridge			x   8   y   4	orX -1  orY 0	END
+	BEGIN Object    Type    DoughMixer		x   3   y   4	orX 0   orY 1	END
+	BEGIN Object    Type    DoughMixer		x   4   y   4	orX 0   orY 1	END
+	BEGIN Object    Type    DoughMixer		x   5   y   4	orX 0   orY 1	END
+	BEGIN Object    Type    DoughMixer		x   6   y   4	orX 0   orY 1	END
+	BEGIN Object    Type	WallPanelWood		x   1   y   6	orX 0   orY 1	END
+	BEGIN Object    Type	WallPanelWood		x   2   y   6	orX 0   orY 1	END
+	BEGIN Object    Type	WallPanelWood		x   7   y   6	orX 0   orY 1	END
+	BEGIN Object    Type	WallPanelWood		x   8   y   6	orX 0   orY 1	END
+	BEGIN Object    Type    Door  			x   3   y   6   orX 0   orY 1	END
+	BEGIN Object    Type    Door  			x   6   y   6   orX 0   orY -1	END
+	BEGIN Object    Type    ShopCounter		x   4   y   6	orX 0   orY 1	END
+	BEGIN Object    Type    DisplayCounter		x   1   y   7	orX 1   orY 0	END
+	BEGIN Object    Type    DisplayCounter		x   1   y   10	orX 1   orY 0	END
+	BEGIN Object    Type    DisplayCounter		x   8   y   7	orX -1   orY 0	END
+	BEGIN Object    Type    DisplayCounter		x   8   y   10	orX -1   orY 0	END
+	BEGIN Object    Type    CakeStand		x   4   y   8	orX 0   orY 1	END
+	BEGIN Object    Type    CakeStand		x   5   y   8	orX 0   orY 1	END
+	BEGIN Object    Type    CakeStand		x   4   y   9	orX 0   orY 1	END
+	BEGIN Object    Type    CakeStand		x   5   y   9	orX 0   orY 1	END
+	BEGIN Object    Type    CakeStand		x   4   y   10	orX 0   orY 1	END
+	BEGIN Object    Type    CakeStand		x   5   y   10	orX 0   orY 1	END
+	BEGIN Object    Type    Door  			x   4   y   13   orX 0   orY 1	END
+	BEGIN Object    Type    Door  			x   5   y   13   orX 0   orY -1	END
+	VersionAdded	5000	
+END
+
+BEGIN Prefab
+	Name		WeatherCentre
+	w		5
+	h		4
+	RoomType 	WeatherCentre
+	
+	BEGIN Material	Type	WhiteTiles		x   1	y   1	w   3	h   2	EN
+	BEGIN Object    Type    WeatherMachine		x   1   y   1	orX 0   orY 1	END
+	BEGIN Object    Type    Door  			x   2   y   3   orX 0   orY 1	END
+	BEGIN Object    Type    Light			x   2   y   2   orX 0   orY 1	END
+
+	VersionAdded	5000	
+END
+
+BEGIN Prefab
+    Name        TheCage
+    w           3
+    h           4
+    RoomType    TheCage
+	CustomArea 1
+
+	BEGIN Material	Type	Dirt	x   1	y   1	w   1	h   2	END
+	BEGIN Material 	Type	CageFence				x   0	y   0	w 	3	h	1	END
+	BEGIN Material 	Type	CageFence				x   0	y   1	w 	1	h	3	END
+	BEGIN Material 	Type	CageFence				x   2	y   1	w 	1	h	3	END
+    BEGIN Object    Type    CageGate    			x   1   y   3   orX 0   orY 1   END 
+ END
+
+ BEGIN Prefab
+    Name        TattooRemovalRoom
+    w           5
+    h           6
+    RoomType    TattooRemovalRoom
+
+	BEGIN Material	Type	WhiteTiles	x   1	y   1	w   3	h   4	END
+	BEGIN Material	Type	WhiteTiles	x   2	y   5	w   1	h   1	END
+	BEGIN Object 	Type	TattooRemovalMachine	x   1	y   1	orX 0   orY 1	END
+	BEGIN Object 	Type	Light	x   2	y   3	orX 0   orY 1	END
+	BEGIN Object 	Type	Plant	x   1	y   4	w 	1	h	1	END
+	BEGIN Object 	Type	CoatStand	x   3	y   4	w 	1	h	1	END
+    BEGIN Object    Type    Door	x   2   y   5   orX 0   orY 1   END 
+ END
+ 
+  BEGIN Prefab
+    Name        FightClubRoom
+    w           8
+    h           8
+    RoomType    FightClubRoom
+
+	BEGIN Material	Type	WoodenFloor		x   1	y   1	w   6	h   6	END
+	BEGIN Object 	Type	BoomBoxRoundhouse	x   1	y   1	orX 0   orY 1	END
+	BEGIN Object 	Type	TrainingDummy	x   1	y   3	orX	1	orY	1	END
+	BEGIN Object 	Type	PunchBag		x   2	y   4	orX	1	orY	1	END
+    BEGIN Object    Type    FightRing		x   3   y   3   orX 0   orY 1   END 
+    BEGIN Object    Type    ChairYellow		x   4   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    SofaChairBrown	x   5   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    WaterCooler		x   6   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Chair			x   6   y   2   orX -1  orY 0   END
+    BEGIN Object    Type    Door			x   3   y   0   orX 0   orY 1   END
+ END
+
+BEGIN Prefab
+   Name        Gymnasium
+   w           9
+   h           9
+   RoomType    Gymnasium
+        
+        BEGIN Material Type  ReclaimedRubberFloor      x   1  y  1  w 7  h 7  END
+        BEGIN Object   Type  SmallBench                x   1  y  1  orX 0  orY 1 END
+        BEGIN Object   Type  BoomBoxRoundhouse         x   3  y  1  orX 0  orY 1 END
+        BEGIN Object   Type  WaterCooler               x   6  y  1  orX 0  orY 1 END
+        BEGIN Object   Type  DrinkMachine              x   7  y  1  orX 0  orY 1 END
+        BEGIN Object   Type  PunchBag                  x   4  y  4  orX 1  orY 1 END
+        BEGIN Object   Type  GymMat                    x   1  y  3  orX 1  orY 0 END
+	BEGIN Object   Type  GymMat                    x   1  y  5  orX 1  orY 0 END
+	BEGIN Object   Type  GymMat                    x   3  y  3  orX 1  orY 0 END
+	BEGIN Object   Type  GymMat                    x   3  y  5  orX 1  orY 0 END
+	BEGIN Object   Type  DumbbellRack              x   1  y  6  orX -1 orY 0 END
+	BEGIN Object   Type  DumbbellRack              x   1  y  7  orX -1 orY 0 END
+	BEGIN Object   Type  WeightsBench              x   7  y  3  orX -1 orY 0 END
+	BEGIN Object   Type  WeightsBench              x   7  y  5  orX -1 orY 0 END
+	BEGIN Object   Type  WeightsBench              x   7  y  7  orX -1 orY 0 END
+	BEGIN Object   Type  Treadmill		       x   3  y  6  orX 0  orY 1 END
+	BEGIN Object   Type  Treadmill		       x   5  y  6  orX 0  orY 1 END
+        BEGIN Object   Type  Door                      x   4  y  0  orX 0  orY 1 END
+END
+
+BEGIN Prefab
+	Name        Security
+	w           7
+	h           9
+	RoomType    Security
+	Research	Security
+
+	BEGIN Material	Type	CeramicFloor		x   1	y   1	w   5	h   7	END
+	BEGIN Material	Type	CeramicFloor		x   3	y   8	w   1	h   1	END
+	BEGIN Object 	Type	SofaChairDouble		x   5	y   6	orX -1   orY 0	END
+	BEGIN Object 	Type	Light				x   3	y   4	orX 0   orY 1	END
+	BEGIN Object 	Type	FilingCabinet		x   1	y   6	orX 1   orY 0	END
+	BEGIN Object 	Type	FilingCabinet		x   1	y   7	orX 1   orY 0	END
+	BEGIN Object 	Type	Chair				x   1	y   2	orX 0   orY -1	END
+	BEGIN Object 	Type	CoffeeMachine		x   3	y   5	orX 1   orY 0	END
+	BEGIN Object 	Type	OfficeDesk			x   1	y   1	orX 0   orY 1	END
+	BEGIN Object 	Type	PhoneMonitor		x   3	y   4	orX 0   orY -1	END
+	BEGIN Object 	Type	DoorControlSystem	x   4	y   4	orX 0   orY -1	END
+	BEGIN Object 	Type	CctvMonitor			x   3	y   1	orX 0   orY 1	END
+	BEGIN Object    Type    SecureDoor			x   3   y   8   orX 0   orY 1   END 
+END
+
+BEGIN Prefab
+	Name        Parole
+	w           7
+	h           7
+	RoomType    ParoleRoom
+
+	BEGIN Material	Type	WoodenFloor		x   1	y   1	w   5	h   5	END
+	BEGIN Material	Type	WoodenFloor		x   3	y   6	w   1	h   1	END
+	BEGIN Object 	Type	Light			x   3	y   3	orX 0   orY 1	END
+	BEGIN Object 	Type	MetalDetector	x   3	y   5	orX 0   orY 1	END
+	BEGIN Object 	Type	FilingCabinet	x   1	y   1	orX 0   orY 1	END
+	BEGIN Object 	Type	VisitorTable	x   2	y   2	orX 0   orY 1	END
+	BEGIN Object 	Type	Plant			x   1	y   5	w 	1	h	1	END
+	BEGIN Object 	Type	CoatStand		x   5	y   5	w 	1	h	1	END
+	BEGIN Object    Type    Door			x   3   y   6   orX 0   orY 1   END 
+END
+
+BEGIN Prefab
+	Name        Kennel
+	w           7
+	h           7
+	RoomType    Kennel
+	Research	Dogs
+
+	BEGIN Material	Type	WhiteTiles		x   1	y   1	w   5	h   5	END
+	BEGIN Material	Type	WhiteTiles		x   3	y   6	w   1	h   1	END
+	BEGIN Object 	Type	DogCrate		x   1	y   1	orX 0   orY 1	END
+	BEGIN Object 	Type	DogCrate		x   2	y   1	orX 0   orY 1	END
+	BEGIN Object 	Type	DogCrate		x   3	y   1	orX 0   orY 1	END
+	BEGIN Object 	Type	DogCrate		x   4	y   1	orX 0   orY 1	END
+	BEGIN Object 	Type	DogCrate		x   5	y   1	orX 0   orY 1	END
+	BEGIN Object 	Type	Light			x   3	y   3	orX 0   orY 1	END
+	BEGIN Object 	Type	SofaChairDouble	x   1	y   5	orX 0   orY -1	END
+	BEGIN Object 	Type	DogBowl			x   4	y   5	orX 0   orY 1	END
+	BEGIN Object 	Type	DogBowl			x   5	y   5	orX 0   orY 1	END
+	BEGIN Object    Type    SecureDoor		x   3   y   6   orX 0   orY 1   END 
+END
+
+BEGIN Prefab
+	Name        Graveyard
+	w           10
+	h           9
+	RoomType    Graveyard
+	CustomArea 1
+
+	BEGIN Material Type	FenceWall			x   0	y   0	w 	10	h	1	END
+	BEGIN Material Type	FenceWall			x   0	y   1	w 	1	h	8	END
+	BEGIN Material Type	FenceWall			x   9	y   1	w 	1	h	8	END
+	BEGIN Material Type	FenceWall			x   1	y   8	w 	4	h	1	END
+	BEGIN Material Type	FenceWall			x   6	y   8	w 	3	h	1	END
+	BEGIN Material Type	FenceWall			x   5	y   1	w 	1	h	3	END
+	BEGIN Material Type	FenceWall			x   6	y   3	w 	1	h	1	END
+	BEGIN Material Type	FenceWall			x   8	y   3	w 	1	h	1	END
+	BEGIN Material	Type	Dirt			x   1	y   1	w   5	h   7	END
+	BEGIN Material	Type	Dirt			x   5	y   8	w   1	h   1	END
+	BEGIN Material	Type	Dirt			x   6	y   4	w   4	h   4	END
+	BEGIN Material	Type	TaintedFloor			x   6	y   1	w   3	h   3	END
+	BEGIN Object    Type    Gate			x   5   y   8   orX 0   orY 1   END 
+	BEGIN Object    Type    OrnamentalGravestone	x   1   y   6   orX 0   orY 1   END 
+	BEGIN Object    Type    OrnamentalGravestone	x   4   y   5   orX -1   orY 0   END 
+	BEGIN Object    Type    OrnamentalGravestone	x   8   y   4   orX 0   orY 1   END 
+	BEGIN Object    Type    ParkBench	x   4   y   1   orX -1   orY 0   END
+	BEGIN Object    Type    Bookshelf	x   6   y   2   orX 1   orY 0   END
+	BEGIN Object    Type    FilingCabinetFancy	x   6   y   1   orX 0   orY 1   END
+	BEGIN Object    Type    ChairYellow	x   8   y   1   orX -1   orY 0   END
+	BEGIN Object    Type    ChairYellow	x   8   y   2   orX -1   orY 0   END
+	BEGIN Object    Type    OrnateLantern	x   6   y   4   orX 0   orY 1   END
+END
+
+BEGIN Prefab
+	Name		GlassCell
+	w			4
+	h			5
+	RoomType	Cell
+
+	BEGIN Material	Type	GlassWall	x	0	y	0	w	4	h	1	END
+	BEGIN Material	Type	GlassWall	x	0	y	1	w	1	h	4	END
+	BEGIN Material	Type	GlassWall	x	3	y	1	w	1	h	4	END
+	BEGIN Material	Type	GlassWall	x	2	y	4	w	1	h	1	END
+	BEGIN Object	Type	Bed			x	1	y	1	orX	0	orY	1	END
+	BEGIN Object	Type	Toilet		x	2	y	1	orX	0	orY	1	END
+	BEGIN Object	Type	JailDoor	x	1	y	4	orX	0	orY	1	END
+	BEGIN Object	Type	Drain		x	2	y	3	orX	0	orY	1	END
+	BEGIN Object	Type	ShowerHead	x	2	y	3	orX	-1	orY	0	END
+END
+
+BEGIN Prefab
+	Name			Cinema
+	w				9
+	h				10
+	RoomType		Cinema
+	CustomArea 1
+	
+	BEGIN Material Type	Fence			x   0	y   0	w 	9	h	1	END
+	BEGIN Material Type	Fence			x   0	y   1	w 	1	h	9	END
+	BEGIN Material Type	Fence			x   8	y   1	w 	1	h	9	END
+	BEGIN Material Type	Fence			x   1	y   9	w 	8	h	1	END
+
+	BEGIN Material	Type	LongGrass	x   1	y   1	w   7	h   8	END
+	BEGIN Object    Type    FenceGateStandard		x   0   y   3   orX 1   orY 0   END 
+	BEGIN Object	Type	DeckChair	x   1   y   4   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   2   y   4   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   3   y   4   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   5   y   4   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   6   y   4   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   7   y   4   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   1   y   6   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   2   y   6   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   3   y   6   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   5   y   6   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   6   y   6   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   7   y   6   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   1   y   8   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   2   y   8   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   3   y   8   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   5   y   8   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   6   y   8   orX 0   orY -1   END
+	BEGIN Object	Type	DeckChair	x   7   y   8   orX 0   orY -1   END
+	
+	BEGIN Object	Type	CinemaScreen	x   3   y   1  orX 0   orY 1   END
+	BEGIN Object	Type	CinemaProjector	x   4   y   8  orX 0   orY 1   END
+END

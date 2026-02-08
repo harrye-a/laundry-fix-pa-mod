@@ -1,0 +1,23 @@
+BEGIN Window
+    NAME         Gangs
+    WIDTH        300
+    HEIGHT       175
+    PANEL        1
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Scaled          332
+    YPOS        Scaled          1724
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          7714
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          0
+    YPOS        Scaled          47
+    WIDTH       Scaled          10000
+    HEIGHT      Scaled          1250
+END
+

@@ -1,0 +1,7 @@
+BEGIN Window
+    NAME         PolaroidWindow
+    WIDTH        400
+    HEIGHT       486
+    PANEL        1
+END
+

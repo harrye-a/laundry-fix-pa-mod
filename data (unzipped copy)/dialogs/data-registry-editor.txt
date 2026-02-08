@@ -1,0 +1,29 @@
+BEGIN Window
+    NAME         DataRegistryEditor
+    WIDTH        320
+    HEIGHT       700
+END
+
+BEGIN Button
+	NAME	SaveButton
+	Caption	Save
+	XPOS	Scaled		468
+	YPOS	Scaled		500
+	WIDTH	Scaled		2100
+	HEIGHT	Scaled		500
+END
+
+BEGIN Container
+    XPOS        Scaled          468
+    YPOS        Scaled          1000
+    WIDTH       Scaled          9062
+    HEIGHT      Scaled          9285
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Scaled          625
+    YPOS        Scaled          1071
+    WIDTH       Scaled          8750
+    HEIGHT      Scaled          9142
+END

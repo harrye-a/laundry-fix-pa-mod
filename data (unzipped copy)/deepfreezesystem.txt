@@ -1,0 +1,26 @@
+
+PipeFreeze_ProbabilityL1 0.07000000  
+PipeFreeze_ProbabilityL2 0.1700000  
+PipeFreeze_ProbabilityL3 0.3000000  
+PipeFreeze_AdjoiningExtraProbability 0.05000000  
+PipeFreeze_UpdateDuration 6.000000  
+ValveFreeze_ProbabilityL1 0.3500000  
+ValveFreeze_ProbabilityL2 0.6500000  
+ValveFreeze_ProbabilityL3 0.9000000  
+PumpFreeze_ProbabilityL3 0.5000000  
+MinutesToFrozenBreath 50  
+MinutesToBlueSkin    120  
+MinutesToWalkSpeedReduction 180  
+MinutesToDeath       230  
+RecoveryRates        5.000000  
+WorkRateReduction_Construction_L1 0.5000000  
+WorkRateReduction_Construction_L2 0.2500000  
+WorkRateReduction_Construction_L3 0.1000000  
+WorkRateReduction_Gardening_L1 0.5000000  
+WorkRateReduction_Gardening_L2 0.2500000  
+WorkRateReduction_Gardening_L3 0.01000000  
+FluInfectRate        0.2000000  
+FluDeathChance       0.001000000  
+FrozenTunnel_DigRateL1 1.600000  
+FrozenTunnel_DigRateL2 1.800000  
+FrozenTunnel_DigRateL3 1.950000  

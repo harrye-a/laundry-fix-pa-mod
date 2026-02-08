@@ -1,0 +1,86 @@
+BEGIN Window
+    NAME         BoilingPoint
+    WIDTH        300
+    HEIGHT       200
+    PANEL        1
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          0
+    YPOS        Scaled          47
+    WIDTH       Scaled          10000
+    HEIGHT      Scaled          1250
+END
+
+BEGIN Custom
+    NAME        OverallTemperature
+    XPOS        Scaled          332
+    YPOS        Scaled          1706
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END
+
+BEGIN Custom
+    NAME        OverallTemperature_Alt
+    XPOS        Scaled          332
+    YPOS        Scaled          1914
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END
+
+BEGIN Custom
+    NAME        Needs
+    XPOS        Scaled          332
+    YPOS        Scaled          3370
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END
+
+BEGIN Custom
+    NAME        Needs_Alt
+    XPOS        Scaled          332
+    YPOS        Scaled          3994
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END
+
+BEGIN Custom
+    NAME        ProgramCompletion
+    XPOS        Scaled          332
+    YPOS        Scaled          5034
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END
+
+BEGIN Custom
+    NAME        ProgramCompletion_Alt
+    XPOS        Scaled          332
+    YPOS        Scaled          6074
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END
+
+BEGIN Custom
+    NAME        StatusEffects
+    XPOS        Scaled          332
+    YPOS        Scaled          6698
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END
+
+BEGIN Custom
+    NAME        StatusEffects_Alt
+    XPOS        Scaled          332
+    YPOS        Scaled          8154
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END
+
+BEGIN Custom
+    NAME        RoomQuality
+    XPOS        Scaled          332
+    YPOS        Scaled          8362
+    WIDTH       Scaled          9333
+    HEIGHT      Scaled          1280
+END

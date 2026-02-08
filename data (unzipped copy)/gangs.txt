@@ -1,0 +1,156 @@
+BEGIN Gang
+    Name                    None 
+    LocName                 gangNone
+    Colour                  0x969696 
+END
+
+BEGIN Gang
+    Name                    Guards 
+    LocName                 interfaceproperty_territoryguard
+    Colour                  0xFFFFFF 
+END
+
+#-------------------------------------------
+# Legacy gangs 
+
+BEGIN Gang
+    Name                    Red 
+    LocName                 gang_red
+    Colour                  0xFA0000 
+    UiSprite                GangSymbol_Red 
+    TattooFaceSprite        TattooHead3 
+    TattooBodySprite        TattooBody1 
+END
+
+BEGIN Gang
+    Name                    Green 
+    LocName                 gang_green
+    Colour                  0x00FA00 
+    UiSprite                GangSymbol_Green 
+    TattooFaceSprite        TattooHead 
+    TattooBodySprite        TattooBody1 
+END
+
+BEGIN Gang
+    Name                    Blue 
+    LocName                 gang_blue
+    Colour                  0x0000FA 
+    UiSprite                GangSymbol_Blue 
+    TattooFaceSprite        TattooHead2 
+    TattooBodySprite        TattooBody1 
+END
+
+#-------------------------------------------
+# Enhanced gangs 
+
+BEGIN Gang
+    Name                    Vipers 
+    LocName                 gang_vipers
+    Colour                  0x34FFB2
+    PreferredMisbehaviour   Fighting 
+    
+    DesiredTrait            Controlling 
+    DesiredTrait            Fraud 
+    DesiredTrait            Violent 
+	
+    PromotionRep            Supplier
+    PromotionRep            Dealer
+    
+    SpecialRep              CunninglyBrutal
+    SpecialRep              UnderCoverDon
+    
+    TargetCrime             DrivingUnderInfluence 
+    
+    PreferredContraband     Narcotics 
+    PreferredContraband     Produced 
+
+    BandanaSprite           BandanaViper1
+    BandanaSprite           BandanaViper2
+	
+    UiSprite                GangSymbol_Vipers 
+	GraffitiSprite			d_Graffiti1
+    TattooFaceSprite        TattooHeadViper 
+    TattooBodySprite        TattooBodyViper1 
+
+    PrimaryBodyTypeMale     Prisoner 
+    PrimaryBodyTypeFemale   PrisonerFemale4 
+END
+
+
+BEGIN Gang
+    Name                    BoneBreakers 
+    LocName                 gang_bonebreakers 
+    Colour                  0xB21A01 
+    PreferredMisbehaviour   Destroying 
+    
+    DesiredTrait            Destructive 
+    DesiredTrait            RisksLife 
+    DesiredTrait            Petty 
+	
+    UpgradeRep              Tough
+    UpgradeRep              Strong
+    UpgradeRep              Deadly
+    
+    SpecialRep              GymRat
+    SpecialRep              DisrepectSurroundings
+    
+    TargetCrime             FalseAccounting
+    
+    PreferredContraband     Weapons 
+    PreferredContraband     Tools 
+    
+    BandanaSprite           BandanaBoneBreaker1
+    BandanaSprite           BandanaBoneBreaker2
+	
+    UiSprite                GangSymbol_BoneBreakers 
+	GraffitiSprite			d_Graffiti2
+    TattooFaceSprite        TattooHeadBoneBreaker 
+    TattooBodySprite        TattooBodyBoneBreaker1 
+
+    PrimaryBodyTypeMale     Prisoner2 
+    PrimaryBodyTypeFemale   PrisonerFemale2 
+END
+
+
+BEGIN Gang
+    Name                    Jackals 
+    LocName                 gang_jackals
+    Colour                  0x7827FF 
+    PreferredMisbehaviour   Escaping 
+    
+    DesiredTrait            Lethal 
+    DesiredTrait            Theft 
+    DesiredTrait            Clever 
+	
+    PromotionRep            Instigator
+    PromotionRep            Dealer
+    
+    SpecialRep              BattleTendency
+    SpecialRep              SneakThief
+    
+    TargetCrime             Kidnapping
+    
+    PreferredContraband     Luxuries 
+    
+    BandanaSprite           BandanaJackal1
+    BandanaSprite           BandanaJackal2
+	
+    UiSprite                GangSymbol_Jackals 
+	GraffitiSprite			d_Graffiti3
+    TattooFaceSprite        TattooHeadJackal 
+    TattooBodySprite        TattooBodyJackals1 
+
+    PrimaryBodyTypeMale     Prisoner4 
+    PrimaryBodyTypeFemale   PrisonerFemale 
+END
+
+
+BEGIN Gang
+    Name                    Yellow 
+    LocName                 gang_yellow
+    Colour                  0xFCEA10 
+    
+    UiSprite                GangSymbol_Yellow
+    TargetCrime             VideoGamePiracy 
+    TargetCrime             IndieVideoGamePiracy 
+END

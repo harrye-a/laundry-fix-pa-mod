@@ -1,0 +1,12 @@
+Name                "Laundry Fix - Hand Wash Clothes"
+Author              "Q9E"
+Description         "I got fed up with the broken Laundry rooms, baskets, 
+and other sillines that meant the clothing need wasn't being fulfilled.
+\r\nThis mod aims to fix that, by allowing prisoners to reduce their own clothing need
+by hand-washing their clothes at a sink and mirror, bathroom sink or shower head.
+\r\n I have no idea if this mod is compatible with others, this mod was produced out of sheer annoyance,
+and I considered just disabling clothing needs altogether, but hopefully this adds a more 'in-world' solution."
+/r/n Thumbnail is AI generated because I'm lazy.
+Version             "v1.0"
+Date                "08/02/2026"
+URL                 "https://github.com/harryE-A"

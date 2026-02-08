@@ -1,0 +1,471 @@
+"Clink"
+>27 juni 2019
+	Clink-uppdateringen
+<->Fyra nya golv och fyra nya väggar tillagda.
+<->Prestandaförbättringar som kortar ner laddningstiderna.
+<->Ökade antalet förmän som kan anställas, för större fängelser där förmän även håller kurser.
+<->Befintliga föremål har fått fullständiga rotationsuppsättningar, med sprites tillagda för saknade rotationer.
+<->Ny knapp för vaktanrop som beordrar befintliga vakter i närheten till en plats, så spelaren slipper anställa nya vakter för att hantera indicenter.
+<->Ny knapp för tunnelsökning som beordrar vakter att genomsöka alla toaletter efter flykttunnlar.
+<->Fler snabbrum tillagda i menyn med snabbyggen, för enklare och snabbare konstruktion av rum.
+<->Dubbelklicka på fångar och personal för att följa dem. Smidigt!
+
+
+Vi hoppas att ni gillar förbättringarna!
+
+~~~~~
+
+﻿Uppdatering av ”Finkan”
+>17 sept 2019
+
+Kära Prison Architect-spelare.
+
+Vi, Paradox och Double Eleven hoppas att ni kommer att gilla det nya innehållet i den här uppdateringen. 
+Tack för alla era förslag och idéer så här långt! Många av uppdateringarna har utvecklats från de synpunkter och den återkoppling som vi fått av er.
+Massor med community-uppdateringar har införts. Några listas nedan och fler finns i spelet.
+
+Visa gärna, via @PrisonArchitect, hur du använder de nya föremålen i dina fängelser! 
+
+Gaz, speldesignchef på Double Eleven.
+
+
+>[1/3] Nya föremål
+
+<->Nya golvtyper: galler, lera och sci-fi.
+<->Ny säkerhetsdörr med lucka för matbricka.
+<->Ny belysning: gatulyktor, strålkastare, murlyktor.
+<->Nya trädsorter: snötäckt träd, palm.
+<->Plus många andra nya föremål.
+
+
+>Klicka på NÄSTA för att se mer ...
+
+
+
+>[2/3] Nya funktioner
+
+<->Kantlöst fönsterläge.
+<->Den nya funktionen Flytta föremål!
+<->Menyfilter för föremål och sorteringsknapp.
+<->Dörrar kan nu snabbt byggas in i väggar.
+<->Vakthundar och Beväpnade vakter kan tilldelas patrullrutter och zoner!
+<->Extra x10 spelhastighet.
+<->Nya SuperMax-interner i intaget.
+<->Möjlighet att välja två olika patrullrutter som korsar varandra.
+<->Rotationer för fler föremål och möbler.
+<->Förbättrade visuella inställningar för utplaceringsrutiner och logistik.
+<->Klonverktygsområdet har förstorats.
+<->Möjlighet att undersöka Byråkratin när ett nytt spel startar.
+<->Nu kan man komma åt och justera mutatorer (meny) mitt i spelet.
+<->Massor med nya föremål!
+<->Nya snö- och djungeltomter att välja mellan när ett nytt spel startar.
+<->Vakttorn som skyddar prickskyttarna från väder och vind.
+<->Namn på personal och hundar.
+<->Föremålsmenyn har nu en rumsökfunktion.
+<->Renare fängelser som tillval.
+<->Nya snabblänkar från HUD-fliken längst upp på skärmen.
+<->!
+
+
+>[3/3] Och mycket mer ...
+
+<->Prickskyttarna bär nu fängelsenycklar.
+<->Internerna kan prioritera duschrum framför andra interners cellduschar.
+<->Övervakningskameror visar interner och personal i Direktörsläget.
+<->Vakter som stationerats vid maskiner kommer inte att överge sina poster för att utföra stickkontroller och genomsökningar.
+<->Vakter kommer att öppna dörrar för borstsprungna hundar.
+<->Bokhyllan tillgodoser Läsbehovet.
+<->Snabbtangenten för cirkulerande spelmenyer [Z] & [X] och stängningsmenyer [C].
+<->Celldörrar för Expressrum hålls öppna tills rummet är klart.
+<->Övervakningssystemets Kamerasprites visar nu i vilken riktning de är vända.
+<->Fäster vid Häckar.
+<->Fäster vid Metalldetektorer.
+<->Fäster vid Varmvattenpannor som inte alltid är anslutna till rör.
+<->Support for moddare.
+
+~~~~~~
+
+Uppdateringen ”The Sneezer”
+>21 nov 2019
+
+Hej, alla fängelsedirektörer.
+
+Vi önskar er mycket nöje med den här uppdateringen av Prison Architect.
+Här kommer en sammanfattning av det viktigaste, bland annat nya broar, kloning och bättre planering.
+
+>[1/2] Nya föremål
+
+<->Nya väggar: Art déco och orientaliska.
+<->Nya golv: Kalksten, gräs och sten, sandsten, måne.
+<->Nya objekt: Diskbänk, handtork, väggskyltar, kusligt träd, körsbärsträd, kaktus, parkbänk, älghuvud, skyltar, lönndörr med mera.
+
+Klicka på Nästa för att se mer.
+
+>[2/2] Nytt innehåll
+
+<->Flera nya hundraser att välja mellan innan och under spelet!
+<->Möjlighet att välja väggtyp till snabba rum.
+<->Äntligen finns det broar! Lägg dem över vägar, vatten och land så personal och interner kan gå över.
+<->Ombalanserad betalning för högriskinterner: du får mer betalt för högsäkerhet, skyddshäkte, dödscell och psykiskt störda.
+<->Gå till Logistik och klicka på den nya knappen Cellstatus för att se vilka celler som är tomma respektive upptagna.
+<->En till internhandling har lags till i biografier: ”Eskortera till sjukstugan”.
+<->Överförda interner erbjuds vid intag.
+<->Lägg ut unika besökarriktningar från Utplacering.
+<->Fundament kan byggas med fler väggtyper.
+<->Klonverktyget har gjorts om! Nu kan du rotera och vända saker, väggar och objekt visas och du kan klona i hela fängelset! Dessutom kan du klona mellan sparfiler (BETA)! Bygghastigheten har också optimerats.
+<->Omgjord planering! Bygg dina planer, lägg till dörrar och välj väggtyp. 
+<->Nu visar snabbrumspresentationen var väggarna kommer att byggas.
+<->Nu kan du välja en ökentomt när du skapar ett nytt spel.
+
+~~~~~~
+
+UPPDATERING AV ”HINK” OCH “KLAR FÖR FÖRFLYTTNING” DLC
+>DATE 14/05/20
+
+>”Klar för förflyttning” – Gratis DLC 
+Du har just utlöst den gratis ”Klar för förflyttning” DLC som gör det möjligt för dig att ställa in privilegier för dina interner enligt säkerhetssektor. Internerna kommer att uppmuntras att ändra sitt beteende för att uppfylla dina kriterier och förflyttas till en fängelseavdelning med en lägre säkerhetsnivå.
+
+Hämta ”Klar för förflyttning” DLC nu, den är gratis!
+
+Gaz, chef för speldesign på Double Eleven.
+
+>Uppdateringen ”Hinken”
+Den gratis uppdateringen ”Hinken” är ett komplement till ”Klar för förflyttning” DLC tillsammans med fler av dina communityönskemål, nytt innehåll, förbättringar m.m. Några exempel: 
+
+>[1/2] Nya föremål
+
+<->Nya föremål: Löpband, inomhuskruka för träd, boxningsring, fotbollsspelbord, glasfönster, staty av fängelsedirektören and mycket mer ..
+<->Nya murar: Förfallet, slitet, slum- och bambustaket, säkerhetssektorer m.m.
+<->Nya dörrar: Bambugrind med vita ränder.
+<->Nya golv: Blomsteräng, löpbana (snabb), bambu.
+<->Nytt staket med gräs under.
+
+>[2/2] Nytt innehåll
+
+<-GYM som ny rumtyp.
+<->De snabba rummen inbegriper vapenförråd, sjukstuga och bibliotek.
+<->Bestraffningar och sökningar kan nu startas från en enskild säkerhetssektor! 
+<->Anpassade säkerhetssektorer kan nu skapas i Utplacering.
+<->Utplacering tillåter nu kockar, läkare och annan personal att bli utplacerade.
+<->Menyn “Nya skyltar” innehåller nu fler skyltar med bokstäver och siffror att hänga på fängelsets väggar.
+<->Policyanvändargränssnittet tillåter nu att valen Måltid och Villkorlig frigivning regleras enligt säkerhetssektor.
+<->Autofundament kan nu växlas mellan av/på-läge i Planering.
+<->Skogsbruk, nyhet i Fängelsearbete.
+
+~~~~~~
+
+Expansionerna “ÖFÄNGELSE” 
+och “UPPDATERING TILL KLIPPAN”
+>
+
+> “Öfängelse” – Ny DLC 
+<->Den senaste expansionen för Prison Architect finns i handeln nu!
+<->Med expansionen Öfängelse kan spelare fritt skapa sina egna isolerade fängelseöar dit leveranser, interner och andra tjänster transporteras antingen vattenvägen eller via luften.
+<->Öfängelseexpansionen introducerar flera nya handlingsalternativ när du börjar bygga ditt öfängelse, där alla anslutningar till fastlandet tas bort. Du kan till och med spela utan en väganslutning! 
+<->Båtar, helikoptrar, hamnar och helikopterplattor är andra tillägg som kan länkas till fängelsets leverans- och exportzoner. Nu kan du välja att transportera interner separat till en viss del av fängelset eller ön och föra in varor via luften till andra zoner.
+<->Då fler införselstationer innebär fler möjligheter att föra in smuggelgods kan kontrollstationer också byggas där vakter kan kroppsvisitera interner och besökare. Även skannrar kan införskaffas för att skanna av packlårar med leveranser där smuggelgods kan dölja sig. 
+<->Öfängelseexpansionen innehåller dessutom flera färdiga kartor inspirerade av Alcatraz, nya föremål, nya golvmaterial, färjetrafik, flygburen brandbekämpning, nya specialförband med elitsoldater och mycket mer!
+
+Gaz, chef för speldesign på Double Eleven.
+
+Klicka på NÄSTA för att se mer ...
+
+> Uppdateringen “Klippan”
+Gratisuppdateringen "Klippan" är ett tillägg till Öfängelseexpansionen tillsammans med andra förbättringar.
+
+<->Vattenplattor – Vatten kan läggas intill land och land intill vatten för att skapa öar, kustlinjer, vallgravar och mycket mer.
+
+<->Dynamiska fängelserykten – När den här nya funktionen aktiveras kan interner förbättra eller försämra sitt rykte genom sina aktiviteter i ditt fängelse. De kan vinna rykte som "stark", "tuff" eller "skicklig kämpe" under sin tid på gården eller i gymmet, men också förlora i rykte om de till exempel hamnar i isoleringscell. Många andra rykten kan också vinnas eller förloras genom olika erfarenheter.
+
+~~~~~~
+
+"TÄNK GRÖNT!" DLC OCH 
+UPPDATERING AV "GLASSHOUSE”
+>Dags att smutsa ner händerna, direktörer!
+
+>Tänk grönt! - Ny DLC
+>   Arbetets frukter:
+<->Jordbruk introducerar en ny slags fängelsearbete, så att interner att odla potatis, vete, äpplen m.m. Grödor kan exporteras eller användas i fängelseköket.
+>
+>   Rum att växa i:
+<->Tre utomhusrum underlättar jordbruket – fruktodling, åker och grönsaksland. Spelare kan rekrytera jordbruksarbetare, bygga ett skafferi för grödor och ett skjul för jordbruksredskapen.
+>
+>   Dolt i buskagen:
+<->Nya grödor innebär nya smuggelgods. Interner kan nu odla narkotika i smyg och stjäla grödor för att brygga sprit. Åkrar kan också bli gängrevir, så se till att vakterna är på sin vakt!
+>
+>   En grönare ny giv:
+<->Nya grödor innebär nya smuggelgods. Interner kan nu odla narkotika i smyg och stjäla grödor för att brygga sprit. Åkrar kan också bli gängrevir, så se till att vakterna är på sin vakt!
+
+
+Klicka på NÄSTA för att se mer ...
+
+
+>Uppdateringen “Glasshouse”
+<->Den kostnadsfria Glasshouse-uppdateringen sätter stämningen för expansionen Tänk grönt! och innehåller några av de förbättringar som varit mest efterfrågade av spelcommunityn:
+<->Nytt återvinningssystem, inklusive objektet Återvinningskärl.
+<->Nya snabbrum: gård, lund och häcklabyrint.
+<->Förbättringar av dumpa- och förstörfunktionen.
+<->Nya sorteringsmetoder i objektsmenyn.
+
+~~~~~~
+
+Uppdateringar till “ANDRA CHANSEN” DLC 
+och “Finkan”
+>Öppna portarna!
+
+>Andra chansen – Nya DLC:
+>   Skapa livsfärdigheter:
+<->Tre nya rum där internerna kan arbeta och lära: ett bageri och en restaurang där de kan servera mat till de civila besökarna och en möteslokal där internerna kan ha sina lektioner inom ramen för fängelsets olika program
+<->Vissa interner har tidigare arbetslivserfarenhet som passar för ett visst jobb på fängelset
+<->Fängelsejobben har nu flera olika lönenivåer
+>
+>   Föreberedelser inför villkorlig frigivning:
+<->Fem nya rehabiliteringsprogram för interner: Möte med en reformerad intern, Program och utbildning för tredjegångsförbrytare, Konfliktlösning och Djurterapi!
+<->Straff kan avkortas eller förlängas beroende på den enskilde internens beteende
+<->En meny för reformering och rehabilitering för att övervaka samtliga interners återfallsgrad, deras arbetserfarenhetsnivåer och antalet återfallsförbrytare
+
+
+
+
+
+Klicka på NÄSTA för att se mer ...
+
+
+>Andra chansen – Nya DLC:
+>   Frisläpp:
+<->Få bonus för varje intern som framgångsrikt har reformerats och återintegrerats i samhället. Böter kommer att tas ut för interner som återfaller i brott och som kanske även återvänder till fängelset med ännu värre karaktärsdrag än förra gången!
+
+>   Och dessutom ...
+<->Välj färgen på internernas fängelseuniformer för varje säkerhetsnivå
+<->Dra fördel av olika anslag för att hjälpa till att täcka reformeringsutgifter
+<->Snabbrum: Bageri, Restaurang och Möteslokal
+<->Informationsflik för DLC har lagts till på Att göra-listan
+
+
+
+
+
+
+
+
+
+Klicka på NÄSTA för att se mer ...
+
+
+>Uppdatering av “Finkan”
+<->Narkotikasökning! En ny säkerhetsorder som tillåter hundskötare att göra specifika sökningar efter droger
+<->En personalnyckelpolicy som gör det möjligt för all personal att bära nycklar
+<->Nytt Snabbrum: Reception
+<->Anpassat intag: Gör det möjligt att välja när de intagna ska anlända till fängelset
+<->Begränsningarna för utomhusrummen har lättats för Klassrum och Matsal
+<->Flera nya föremål
+
+~~~~~~
+
+UPPDATERINGARNA "DEN PERFKETA STORMEN" DLC
+OCH “TORNET” 
+>Lita aldrig på lugnet före stormen!
+
+>Den perfekta stormen – Nytt DLC:
+>   Att förbereda sig på det värsta:
+<->Nya alternativ är nu tillgängliga som kan aktivera såväl väderbaserade händelser som råttinvasioner av olika allvarlighetsgrad
+<->Flera supportalternativ finns nu, liksom nya föremål och anläggningar, utbildningsprogram, räddningstjänst och täckningsplaner
+<->Du kan även placera ut ljudskrämmare mot råttor, brandsläckare och brandlarm och apparater som hjälper till att upptäcka och förbereda för extremväder och snabba väderombyten
+>
+>   Se upp för råttor:
+<->Efter att vissa mindre villkor uppfyllts kan råttor börja dyka upp i fängelset, så håll rent och försök hitta alla eventuella tunnlar som internerna kan ha grävt
+<->Fall inte för deras gulliga charm! Till en början knaprar de kanske bara lite maten, men i större antal kan råttor orsaka sjukdomar, skada elledningar och stängsel och till och med gräva tunnlar
+>
+>   Farliga oväder – del 1:  
+<->Tre typer av extremväder har lagts till som alla ha tre intensitetsnivåer och innehåller underordnade händelser där risknivån trappas upp gradvis.
+Klicka på NÄSTA för att se mer ...
+
+>
+>   Farliga oväder – del 2: 
+<->Superköldknäppar – kylan kan skada el-, gas- och vattenförsörjningen, skada andra föremål, få mark och väggar att frysa till is och vara farlig för de intagna också
+<->Åskoväder – åskoväder kan vara både farliga och destruktiva. De kan skada elutrustning och elledningar, orsaka bränder, skada byggnader och även hota internernas och personalens liv och hälsa
+<->Värmebölja – extremt varmt väder gör att personal och interner behöver mer vätska och kan leda till värmeslag om den inte hanteras på rätt sätt. Hetta kan även påverka föremål, så håll dina delvis förblindade ögon öppna!
+>
+>   Uppdatering till “TORNET” – del 1: 
+<->Två nya vakthundar av raserna shiba och svart setter finns nu. Det finns även ett alternativ som tillåter hundarna att lämna ”små presenter” runt om i fängelset
+<->Besökstiderna kan nu anpassas för att ge mer tid för internerna med familj och vänner, vilket påverkar deras behov positivt
+<->Prickskyttarna har nu ett icke-dödligt alternativ som gör det möjligt att stoppa rymningsförsök och hotfulla interner utan att orsaka allvarlig skada
+<->Förutom de här nya valen har även flera nya föremål och golvtyper lagts till
+
+>
+>   Uppdatering till “TORNET” – del 2: 
+<->Ett urval nya färgade personaldörrar
+<->Soffa, Exklusivt skrivbord, trästolar och snurrstolar
+<->Fönster med träkarm och färgade glasfönster
+<->Ormbunke, Murgröna, Pilträd och Träd (bart)	 
+<->Laminatgolv, Matta (brandhärdig) och Fältgräs
+
+>	Särskilt tack till 
+8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
+
+
+
+~~~~~
+
+"""GÄNG"" DLC & 
+UPPDATERING TILL “KITE” 
+>Tuffare, smartare och nu med matchande uniformer
+
+>Gäng – Ny DLC:
+>   Nya fängelsegäng:
+<->Tre nya gängtyper har anlänt till fängelset och tar med sig sina speciella typer av besvär för fängelseledningen. 
+<->Varje gäng har sina speciella egenskaper och mål, från att sprida sitt inflytande till andra i fängelset till att ta kontroll över smuggelmarknaden.
+<->För att hjälpa till att kontrollera svårighetsnivån för varje gäng har vi lagt till alternativ, så att både deras medlemsantal och antalet gängkaptener kan kontrolleras, vilket i sin tur påverkar vad gängen har möjlighet att göra i fängelset.
+>
+>   Nya gäng innebär nya beteenden:
+<->Varje nytt gäng har sina egna förehavanden, från att föra in mer narkotika i fängelset, till att använda våld för att visa andra vilka som bestämmer.
+<->Gängen kan nu ta över nya områden, tvinga andra interner att betala dem under alla typer av arbeten, eller skaffa sin egen ”gänglangare” i sina upprättade gäntterritorier för att hjälpa dem sälja allt de kommer över.
+<->När ett gäng har rekryterat tillräckligt med medlemmar kan de dessutom börja ställa krav för att göra sin tid i fängelset bekvämare, och konsekvenserna om dessa krav inte accepteras kan bli katastrofala.
+Klicka på NÄSTA för att se mer ...
+
+>   Korrumperade vakter:
+<->När ett gäng har blivit tillräckligt dominerande kan de börja ha en negativ effekt på dina vakter.
+<->Vakter kan då bli mutade av gängmedlemmar för att de ska ”se åt ett annat håll” när ett gäng planerar att göra något otillåtet.
+<->Vissa vakter kan även ta emot pengar för att smuggla smuggelgods för gängens räkning.
+>
+>   Förvaltning och säkerhet:
+<->För att kunna ta itu med misstänkt personal kan informatörer användas som kan peka ut de vakter som blivit korrumperade.
+<->Nya program är dessutom tillgängliga, både för att träna vakter och för att hjälpa gängmedlemmar lämna gänglivet och leva ett lugnt och normalt liv under resten av sin fängelsevistelse.
+<->Före detta gängmedlemmar kommer att bli måltavlor för gängmedlemmar, så det är bäst att försöka separera tidigare medlemmar från gängen när det är möjligt.
+<->För de gängmedlemmar som är svårare att hantera finns nya säkerhetsalternativ nu tillgängliga – från att markera vissa individer för att synliggöra dem, till att skicka iväg de mest problematiska till en annan anstalt.
+Klicka på NÄSTA för att se mer ...
+
+
+>   Uppdatering till “KITE”
+<->Nya fängelseföreståndare och hundraser: Dylan Cook och kapten J. Locks är två nya föreståndare som för med sig ett nytt ”slumpvalsalternativ” och därtill fyra nya vakthundsraser!
+<->Internerna kan nu byta sina tilldelade celler manuellt, så att du kan placera dem vart du vill. Gängledarna brukar dock stå först i kö till de bästa cellerna inom de områden som tillhör deras gäng.
+<->Intagssystemet har också uppdaterats, bl.a. genom att internerna som väntar på handläggning nu kan vänta i receptionen istället för ute i kylan. Dessutom finns det nya alternativet ”Flytt av interner” som hjälper till att upprätthålla en stabil fängelsepopulationen baserad på det aktuella säkerhetsnivåförhållandet.
+<->Förutom de här nya funktionerna finns även en möjlighet att ändra rum genom att ta bort kraven för rumsstorlek, plus vissa förbättringar av övervakningskamerorna så att de kan ställas in via utplaceringsmenyn."
+
+
+~~~~~
+
+Uppdatering till Fri för livet
+>Nya tillägg baserade på återkoppling från communityt
+
+En grupp av såväl nya funktioner som livskvalitetsförbättringar, där de flesta har valts av communityt, baserat på popularitet. Din återkoppling tas alltid emot och välkomnas av oss eftersom den hjälper oss att förbättra allas spelupplevelse.
+ 
+> Nya funktioner
+<->Internen åldras: Interner med långa fängelsestraff kommer nu att förändras med tiden, genom att åldras. Det innebär att deras utseende förändras och att de blir lugnare, fysiskt svagare och till slut dör av hög ålder.
+<->Vakternas befattningsgrad: Vissa av dina vakter kommer att kunna få en befordran, vilket kommer att förbättra deras status och ge högre lön. Om de befordras till den högsta befattningen, specialistpersonal, kommer de även att få bära skjutvapen.
+<->Byggnadsvägledningar: Några olika alternativ har lagts till för att underlätta designprocessen. Ett rutnätsöverlägg har aktiverats tillsammans med koordinater för varje kartruta. Dessutom har en ny textruta tillkommit som beskriver måtten när du ritar upp byggnadsplaner. 
+<->Anpassade snabbyggen: Genom att använda klonverktyget kan du nu spara avdelningar i ditt fängelse för att använda senare.
+<->En händelselogg har lagts till där du kan lista allt som händer i ditt fängelse. Varje intern har också en personlig logg som finns på deras individuella menysidor.
+Klicka på NÄSTA för att se fler ...
+ 
+> Livskvalitetsförbättringar
+<->För att underlätta installeringen av service som el, vatten och avlopp har de delats in i tre grupper, efter föremål kopplade till antingen el, vatten eller lednignsnät.
+<->Ordningsalternativen har uppdaterats. Vissa befintliga alternativ har ändrats och nya har lagts till för att minska antalet interner i farliga utrymmen, som matsalar och duschrum. När internerna har ätit eller duschat färdigt kan de nu fortsätta till antingen fritidsaktiviteter (Fritid) eller tillbaka till cellen (Inlåsning).
+<->Programschemaläggaren har uppdaterats för att underlätta och tydliggöra hanteringen av dina program.
+<->Menyn Skapa fängelse har också uppdaterats med inställningar som nu har separerats mellan de som hör till basspelet och de som är kopplade till DLC:er. Innehåller ett nytt alternativ som möjliggör sparande av dina föredragna inställningar för att skapandeprocessen ska gå enklare och snabbare.
+<->Policymenyn kommer också spara alla eventuella ändringar när du stänger spelet och alla sådana ändringar kommer att sparas som dina föredragna inställningar för skapandet av framtida fängelser.
+>
+<->Det har även tillkommit flera mindre tillägg som vi hoppas att du kommer att uppskatta!
+
+~~~~~~
+
+"UNDEAD" DLC OCH 
+UPPDATERINGEN “THE KICKSTAND” 
+>Något ondskefullt lurar i mörkret
+
+> Undead – Ny DLC
+>Nya funktioner
+<->De odöda: Med det nya tillvalet kan odöda dyka upp inom fängelsets murar, antingen pga smitta eller via det nya begravningsplatsrummet.
+<->Nivåer av odöda: Det finns tre nivåer av odöda, från låg till hög. Odöda på den högre nivån är snabbare, starkare och lite smartare.
+<->Begravningplats: Begravningsplatsen kan användas av interner som ett ställe för rekreation, men det finns andra som håller till där som ibland vill komma fram och hälsa.
+<->Odödas beteende: De söker alltid efter nya vänner till sin lilla grupp. Men de flesta de försöker rekrytera springa därifrån i panik. 
+<->Betalningar: De betalar hyra för sin logi, så även om de är lite bitska kan det vara ett intressant alternativ, så länge du ser till att avskärma dem ordentligt från övriga invånare.
+<->Hantering: Vi har lagt till två nya föremål till din hjälp; ett bete och en superpraktisk anordning som lockar till sig alla odöda i närheten. 
+<->Prisjägare: En ny larmtjänst som söker igenom hela anläggningen och rensar undan alla ovälkomna gäster.
+<->Nytt i bild: Överlägg, en ny klocka, dekorföremål och ett nytt uniformspaket för personalen som matchar spelets tema. Ja, och så en motorsåg också. Ha så trevligt! 
+Klicka på NÄSTA för att se mer ...
+
+>
+>The Kickstand - Gratis uppdatering
+>Livskvalitetsförbättringar
+<->Nya hundar! - En majestätisk corgi och en sibirisk husky. Vilken är din favorit? Vi har inga fördomar.
+<->Nya snabbrum - Ett nytt skyddsrum, en kennel och ett förhörsrum för villkorliga frigivningar har lagts till.
+<->Övervakningskamerorna har förbättrats. Du kan nu låsa fast dem och den nya spelpolicyn ger också möjlighet att ställa in monitorerna så att de prioriteras av vakterna.
+<->Det finns även ett nytt tomt rum som kan användas för att underlätta indelningen av fängelset i olika sektorer utan korridorer.
+<->På tal om indelning så har vi lagt till betongplattor med linjer som gör det lättare att se de olika sektorerna medan du spelar.
+>
+<->Efter återkoppling från er spelare har vi dessutom lagt till fler små livskvalitetsförbättringar som vi hoppas att ni kommer att uppskatta.
+
+~~~~~~
+
+"FUTURE TECH PACK" DLC OCH 
+UPPDATERINGEN “THE SLAM” 
+>Framtiden är nu! 
+
+"FUTURE TECH PACK"– Nytt DLC
+> Nya funktioner
+<->Uniformpaket: Det andra uniformspaketet är här. I linje med det futuristiska temat kommer din personal och internerna att få en science fiction-uppgradering.
+<->Fängelsespårning: Behöver du få pli på dina interner? Med spårningsmonitorn, spårningsmenyn och de andra stödenheterna kan du hålla bättre koll på valda interner.
+<->Väggtyper: Elstängslet stoppar alla klättringsförsök, medan glasväggen förbättrar vakternas insyn och ger internerna en viss frihetskänsla, men inkräktar samtidigt på deras privatliv.
+<->Nyckelkortsdörrar: Dörrar som bara kan låsas upp av vakter med nyckelkort eller av interner med ett spårningsbälte. Internernas tillträde kan dock dras tillbaka för enskilda dörrar.
+<->Avancerade söklyktor: Kan upptäcka allt ljusskyggt uppförande och aktivera ett alarm. 
+<->Elbatonger: En förbättring av vakternas utrustning som gör det möjligt att ge interner en elektrisk stöt för att förhindra eller dämpa bråk och undvika besvärliga situationer.
+<->Bås för videosamtal: Gör det möjligt för interner att se sina familjer utan de risker som ett fysiskt möte kan innebära.
+<->Blandat: Dekorgolv, en ny klockdesign, ny fängelsedirektör och mycket mer!
+Klicka på NÄSTA för att se mer ...
+
+>The Slam - Gratis uppdatering
+>Livskvalitetsförbättringar
+<->Område reserverat för besökare – En ny sektor som är reserverad för allmänheten, där de kan komma in och ut ur fängelset via särskilda in- och utgångar.
+>
+<->Personalrast – Istället för en allmän inställning som täcker hela personalstyrkan, kan du nu ställa in hur många i personalen som får ta rast och specificera om det gäller vakter, arbetare eller kockar.
+>
+<->Avskiljning från gäng – Genom det här alternativet kan personer som inte är med i något gäng utestängas från cellavdelningar och sovsalar som har anvisats ett gäng. 
+>
+<->Blandade förbättringar –Fler schemalagda tider för utstationeringar, snävare föremålsfilter, ett förbättrat snabbanslutningsverktyg för ledningsnät, plus massor av andra småförbättringar och buggfixar!
+
+~~~~~~
+
+UPPDATERING till ""Jungle Pack"" DLC och 
+""Jailhouse""
+>Välkommen till djungeln, här finns gott om träd!
+
+>Jungle Pack - Ny DLC
+> Nytt innehåll
+<->Uniformpaket: Nu är det dags igen – det tredje uniformspaketet har anlänt! Byt stil på dina interner och personalen ännu en gång – den här gången har vi valt ett grönt tema.
+<->Träexport: Har du tröttnat på att hugga ner samma slags träd om och om igen? Bra, för nu kan du hugga ner lyxiga exotiska träd istället! 
+<->Tropisk feber: Den här nya sjukdomen sprids till interner via smittade leveranser och besökare. Den kan sprida sig som en löpeld, så var på din vakt mot allt som kommer utifrån!
+<->Besökarmottagning: När de kommer till fängelset kommer alla besökare först att tas emot i det här rummet där de kontrolleras av läkare, som undersöker om de har feber, samtidigt som vakterna letar efter smuggelgods.
+<->Bio: Ibland är en TV-skärm helt enkelt inte tillräckligt stor. För alla som håller med om det finns nu en biosal som håller dina interner lugna och på gott humör under sin lediga tid.
+<->Annat: Nya golv, väggar, dörrar, trädsorter, träföremål, en mer diskret övervakningskamera, en ny urtavla och en fängelsedirektör som ser vagt bekant ut ...
+
+Klicka på NÄSTA för att se mer ...
+
+>""Jailhouse"" - Gratis uppdatering
+> Livskvalitetsförbättringar
+
+<->Ny hund - Det vore orättvist av oss att inte dela med oss av den här lilla solstrålen. Härlige Toby gör allas vardag i djungeln så mycket mer uthärdlig.
+>
+<->Inaktiva vakter - Istället för att ett stort antal vakter sitter sysslolösa i området för leveranser, kommer de nu att prioritera viktigare delar av fängelset istället.
+>
+<->Material för snabbbyggen - Från och med nu kommer det senaste materialet som användes vid ett snabbygge att sparas, så att det enkelt kan användas igen.
+>
+<->Schemaläggning av utplaceringar - Schemamenyn har fått en uppdaterat utseende för att förbättra användarupplevelsen och göra menyn tydligare och enklare att använda.
+>
+<->Övriga förbättringar - Vi har ombalanserat identitetstjuvens rykte, effekterna som dämpande åtgärder har på interner som förlorat förståndet samt andra förbättringar och fixar!
+
+~~~~~~
+
+Uppdateringen ”Sunset”
+>Full av livskvalitetsförbättringar och buggfixar!
+
+> Livskvalitetsförbättringar/funktioner
+<->Superhundmuterare: Eftersom vi är så oerhört förtjusta i våra hundar har vi lagt till en ny mutationsfunktion, baserad på supervaktmuteraren, med hjälp av vilken vi kan ge våra pälsklädda vänner en uppgradering.
+<->Kondensator 2.0: Låt mig presentera Kondensator Max Plus: en uppgraderad version av kondensatorn som gör det möjligt för dina kraftstationer att producera dubbelt så mycket el.
+<->Fjärrstyrda dörrar: Vi har lagt till en färgglad variant av de fjärrstyrda dörrarna på två säkerhetsnivåer: dödscellerna och supermaxavdelningen.
+<->Kravallbusshastighet: När vi märkte hur effektiva de luftburna utryckningsenheterna är bestämde vi oss för att höja kravallbussarnas hastighet för att korta deras utryckningstid. 
+<->Uppdaterade beskrivningar: Efter att ha gått igenom spelet har vi bestämt oss för att uppdatera eller lägga till flera nya textsträngar. Vi har uppdaterat beskrivningstexterna för Föremål, Personal och Behov.
+
+<->I den här uppdateringen ville vi förbättra spelarupplevelsen så mycket som möjligt. 
+Stort tack till alla er som spelar Prison Architect.
+

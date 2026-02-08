@@ -1,0 +1,21 @@
+BEGIN Window
+    NAME         SoundChannelViewer
+    WIDTH        600
+    HEIGHT       500
+END
+
+BEGIN Container
+    XPOS        Absolute        15
+    YPOS        Absolute        35
+    WIDTH       Relative        -30
+    HEIGHT      Relative        -50
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Absolute        20
+    YPOS        Absolute        40
+    WIDTH       Relative        -40
+    HEIGHT      Relative        -60
+END
+

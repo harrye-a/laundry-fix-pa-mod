@@ -1,0 +1,215 @@
+BEGIN Reward
+	CalamityType	DeepFreeze
+	CalamityLevel 1
+	RewardType ReducedCoveragePlanCost
+	Amount 100
+	RewardDuration 7200
+	Cooldown 10000
+	
+	AdviserKey		DF_1_advisor
+
+	BEGIN Requirement
+		ReqType MaintainGrounds
+		Threshold 50
+	END
+END
+
+BEGIN Reward
+	CalamityType	DeepFreeze
+	CalamityLevel 2
+	RewardType StaffBoost
+	RewardDuration 4320
+	Cooldown 10000
+
+	AdviserKey		DF_2_advisor
+
+	BEGIN Requirement
+		ReqType MaintainFacilities
+		Threshold 10
+	END
+END
+
+BEGIN Reward
+	CalamityType	DeepFreeze
+	CalamityLevel 3
+	RewardType IncreasedCalamityCooldown
+	RewardDuration 14400
+	Cooldown 10000
+
+
+	AdviserKey		DF_3_advisor
+
+	BEGIN Requirement
+		ReqType Health
+		Threshold 100
+	END
+END
+
+BEGIN Reward
+	CalamityType	LightningStorm
+	CalamityLevel 1
+	RewardType PositiveEvent
+	EventName CrateFellOfTruck
+	Cooldown 7200
+
+	AdviserKey		LS_1_advisor
+
+	BEGIN Requirement
+		ReqType MajorityPowered
+		Threshold 0.5
+	END
+	BEGIN Requirement
+		ReqType LandBasedPrison
+	END
+END
+
+BEGIN Reward
+	CalamityType	LightningStorm
+	CalamityLevel 2
+
+	RewardType ReducedCoveragePlanCost
+	Amount 100
+	RewardDuration 21600
+	Cooldown 22000
+
+	AdviserKey		LS_2_advisor
+
+	BEGIN Requirement
+		ReqType MaintainSecurity
+		Threshold 100
+	END
+END
+
+BEGIN Reward
+	CalamityType	LightningStorm
+	CalamityLevel 3
+
+	RewardType IncreasedCalamityCooldown
+	RewardDuration 14400
+	Cooldown 7200
+
+	AdviserKey		LS_3_advisor
+
+	BEGIN Requirement
+		ReqType Health
+		Threshold 100
+	END
+	BEGIN Requirement
+		ReqType MaintainSecurity
+		Threshold 15
+	END
+END
+
+
+
+BEGIN Reward
+	CalamityType	Heatwave
+	CalamityLevel 1
+	RewardType Money
+	Amount 10000
+	Cooldown 7200
+
+	AdviserKey		HW_1_advisor
+
+	BEGIN Requirement
+		ReqType MaintainRoad
+		Threshold 50
+	END
+END
+
+BEGIN Reward
+	CalamityType	Heatwave
+	CalamityLevel 2
+
+	RewardType PrisonerNeedBoost
+	RewardDuration 7200
+	Cooldown 10000
+
+	PrisonerBoostAll 0.35
+	PrisonerBoostSpecific 0.5
+	PrisonerNeedsBoostName Eat
+	PrisonerNeedsBoostName Sleep
+	PrisonerNeedsBoostName Consume
+
+	AdviserKey		HW_2_advisor
+
+	BEGIN Requirement
+		ReqType AvoidDamage
+		Threshold 100
+	END
+END
+
+BEGIN Reward
+	CalamityType	Heatwave
+	CalamityLevel 3
+	AdviserKey		HW_3_advisor
+
+	RewardType IncreasedCalamityCooldown
+	RewardDuration 28800
+	Cooldown 10000
+
+	BEGIN Requirement
+		ReqType Health
+		Threshold 100
+	END
+	BEGIN Requirement
+		ReqType MaintainSecurity
+		Threshold 15
+	END
+END
+
+BEGIN Reward
+	CalamityType	Rat
+	CalamityLevel 1
+	RewardType Money
+	Amount 10000
+	Cooldown 7200
+
+	AdviserKey		R_1_advisor
+
+	BEGIN Requirement
+		ReqType Hygiene
+		Threshold 50
+	END
+END
+
+BEGIN Reward
+	CalamityType	Rat
+	CalamityLevel 2
+
+	RewardType PrisonerNeedBoost
+	RewardDuration 7200
+	Cooldown 10000
+
+	PrisonerBoostAll 0.35
+	PrisonerBoostSpecific 0.5
+	PrisonerNeedsBoostName Eat
+	PrisonerNeedsBoostName Sleep
+	PrisonerNeedsBoostName Consume
+
+	AdviserKey		R_2_advisor
+
+	BEGIN Requirement
+		ReqType Health
+		Threshold 100
+	END
+END
+
+BEGIN Reward
+	CalamityType	Rat
+	CalamityLevel 3
+	AdviserKey		R_3_advisor
+
+	RewardType IncreasedCalamityCooldown
+	RewardDuration 28800
+	Cooldown 10000
+
+	BEGIN Requirement
+		ReqType Health
+		Threshold 100
+	END
+	BEGIN Requirement
+		ReqType Hygiene
+		Threshold 50
+	END
+END

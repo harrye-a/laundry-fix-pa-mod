@@ -1,0 +1,127 @@
+BEGIN Window
+    NAME         CustomSectorWindow
+    WIDTH        200
+    HEIGHT       250
+    PANEL        1
+END
+
+BEGIN Canvas
+    NAME        message
+    XPOS        Absolute        9
+    YPOS        Absolute        7
+    WIDTH       Absolute        185
+    HEIGHT      Absolute        60
+END
+
+BEGIN CheckBox
+    NAME        MinSec
+    XPOS        Absolute        7
+    YPOS        Absolute        73
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        MinSecCaption
+    XPOS        Absolute        34
+    YPOS        Absolute        73
+    WIDTH       Absolute        160
+    HEIGHT      Absolute        20
+END
+
+BEGIN CheckBox
+    NAME        MedSec
+    XPOS        Absolute        7
+    YPOS        Absolute        97
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        MedSecCaption
+    XPOS        Absolute        34
+    YPOS        Absolute        98
+    WIDTH       Absolute        160
+    HEIGHT      Absolute        20
+END
+
+BEGIN CheckBox
+    NAME        MaxSec
+    XPOS        Absolute        7
+    YPOS        Absolute        122
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        MaxSecCaption
+    XPOS        Absolute        34
+    YPOS        Absolute        122
+    WIDTH       Absolute        160
+    HEIGHT      Absolute        20
+END
+
+BEGIN CheckBox
+    NAME        SuperMax
+    XPOS        Absolute        7
+    YPOS        Absolute        147
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        SuperMaxCaption
+    XPOS        Absolute        34
+    YPOS        Absolute        147
+    WIDTH       Absolute        160
+    HEIGHT      Absolute        20
+END
+
+BEGIN CheckBox
+    NAME        DeathRow
+    XPOS        Absolute        7
+    YPOS        Absolute        198
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        DeathRowCaption
+    XPOS        Absolute        34
+    YPOS        Absolute        198
+    WIDTH       Absolute        160
+    HEIGHT      Absolute        20
+END
+
+BEGIN CheckBox
+    NAME        Protective
+    XPOS        Absolute        7
+    YPOS        Absolute        174
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        ProtectiveCaption
+    XPOS        Absolute        34
+    YPOS        Absolute        174
+    WIDTH       Absolute        160
+    HEIGHT      Absolute        20
+END
+
+BEGIN CheckBox
+    NAME        Insane
+    XPOS        Absolute        7
+    YPOS        Absolute        225
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        InsaneCaption
+    XPOS        Absolute        34
+    YPOS        Absolute        225
+    WIDTH       Absolute        160
+    HEIGHT      Absolute        20
+END
+

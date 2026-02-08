@@ -1,0 +1,158 @@
+BEGIN Window
+    NAME         Codex
+    BACKGROUND   codex.png
+    CAPTION      codex_new
+    WIDTH        1000
+    HEIGHT       650
+    PANEL        1
+END
+
+BEGIN Button
+    NAME        Close
+    CAPTION     X
+    XPOS        Scaled          9594
+    YPOS        Scaled          396
+    WIDTH       Scaled          222
+    HEIGHT      Scaled          333
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          975
+    YPOS        Scaled          750
+    WIDTH       Scaled          3500
+    HEIGHT      Scaled          1166
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Scaled          5555
+    YPOS        Scaled          1125
+    WIDTH       Scaled          3600
+    HEIGHT      Scaled          8150
+END
+
+BEGIN Custom
+    	NAME       UniformContentBox
+    	XPOS       Scaled          1275
+    	YPOS       Scaled          2125
+    	WIDTH      Scaled          2875
+    	HEIGHT     Scaled          3250
+END
+
+BEGIN Custom
+    NAME        UniformPickerSelect
+    CAPTION     codex_new_uniformpicker
+    XPOS        Scaled          1965
+    YPOS        Scaled          2225
+    WIDTH       Scaled          1500
+    HEIGHT      Scaled          300
+END
+
+BEGIN IconBox
+    NAME        UniformPickerRow
+    XPOS        Scaled        1550
+    YPOS        Scaled        2525
+    WIDTH       Scaled        2375
+    HEIGHT      Scaled        900
+END
+
+BEGIN Custom
+    NAME        UniformSelect
+    CAPTION     codex_new_uniformColour
+    XPOS        Scaled          1965
+    YPOS        Scaled          3500
+    WIDTH       Scaled          1500
+    HEIGHT      Scaled          300
+END
+
+BEGIN IconBox
+    NAME        UniformRow
+    XPOS        Scaled        1550
+    YPOS        Scaled        3875
+    WIDTH       Scaled        2375
+    HEIGHT      Scaled        600
+END
+
+BEGIN Custom
+    NAME        SecurityCategoryName
+    XPOS        Scaled          1965
+    YPOS        Scaled          4500
+    WIDTH       Scaled          1500
+    HEIGHT      Scaled          200
+END
+
+BEGIN IconBox
+    NAME        ColourRow
+    XPOS        Scaled        1575
+    YPOS        Scaled        4750
+    WIDTH       Scaled        2280
+    HEIGHT      Scaled        450
+END
+
+BEGIN Custom
+    	NAME       WardenContentBox
+    	XPOS       Scaled          750
+    	YPOS       Scaled          5525
+    	WIDTH      Scaled          4000
+    	HEIGHT     Scaled          1800
+END
+
+BEGIN Custom
+    NAME        WardenSelect
+    CAPTION     codex_new_selectwarden
+    XPOS        Scaled          2000
+    YPOS        Scaled          5535
+    WIDTH       Scaled          1500
+    HEIGHT      Scaled          400
+END
+
+BEGIN IconBox
+    NAME        WardenRow
+    XPOS        Scaled        1250
+    YPOS        Scaled        5925
+    WIDTH       Scaled        3000
+    HEIGHT      Scaled        1200
+END
+
+BEGIN Custom
+    NAME        WardenName
+    XPOS        Scaled          2000
+    YPOS        Scaled          7075
+    WIDTH       Scaled          1500
+    HEIGHT      Scaled          200
+END
+
+BEGIN Custom
+    	NAME       DogContentBox
+    	XPOS       Scaled          750
+    	YPOS       Scaled          7525
+    	WIDTH      Scaled          4000
+    	HEIGHT     Scaled          1800
+END
+
+BEGIN Custom
+    NAME        DogSelect
+    CAPTION     codex_new_selectdog
+    XPOS        Scaled          2000
+    YPOS        Scaled          7535
+    WIDTH       Scaled          1500
+    HEIGHT      Scaled          400
+END
+
+BEGIN IconBox
+    NAME        GuardDogRow
+    XPOS        Scaled        1250
+    YPOS        Scaled        7925
+    WIDTH       Scaled        3000
+    HEIGHT      Scaled        1200
+END
+
+BEGIN Custom
+    NAME        GuardDogName
+    XPOS        Scaled          2000
+    YPOS        Scaled          9075
+    WIDTH       Scaled          1500
+    HEIGHT      Scaled          200
+END
+

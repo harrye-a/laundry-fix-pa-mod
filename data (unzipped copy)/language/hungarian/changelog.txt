@@ -1,0 +1,118 @@
+"Clink"
+>2019. június 27.
+Börtönfrissítés
+<->x4 új padlólap és x4 új fal típussal bõvült.
+<->Teljesítménybeli javítások, hogy csökkenjen a betöltési idõ.
+<->Több felbérelhetõ mûvezetõ a nagyobb börtönökhöz, ahol a mûvezetõk programokat is tanítanak.
+<->A meglévõ tárgyak most teljesen elforgathatók, új sprite-okkal a hiányzó irányokhoz.
+<->Új 'Õr reakciója' gomb, amely egy adott helyre parancsolja a közelben lévõ meglévõ õröket ahelyett, hogy a játékosnak új õröket kellene felbérelnie az incidensek kezelésére. 
+<->Új 'Alagút keresés' gomb, amely parancsba adja az õröknek, hogy minden WC mögött keressenek rejtett szökési alagutakat.  
+<->Újabb Gyors helyiségekkel bõvült a Gyosr építés menü, hogy gyorsabb és egyszerûbb legyen a helyiségek kialakítása.
+<->A rabok és a személyzet követése sokkal egyszerûbbé vált: csak kétszer rájuk kell kattintani.
+
+
+Reméljük, élvezetesebb lesz a játék ezekkel az új fejlesztésekkel!
+
+~~~~~
+
+﻿„The Slammer” frissítés
+>2019. szeptember 17.
+
+Kedves Prison Architect-játékosok!
+
+A Paradox és a Double Eleven minden munkatársa nevében jó szórakozást kívánunk, és őszintén reméljük, hogy tetszeni fognak a frissítéssel érkező új tartalmak. 
+Köszönünk minden megosztott javaslatot és ötletet! A legtöbb munkánk a ti visszajelzéseitek alapján készült.
+A közösség számtalan ötletét beépítettük a játékba. Néhányat itt is felsorolunk közülük, de a többségüket a játékban lehet megtapasztalni.
+
+Osszátok meg velünk is a @PrisonArchitect Twitter-fiókban, hogyan alkalmazzátok az új cuccokat a saját börtöneitekben! 
+
+Gaz, a Double Eleven játékdizájnért felelős vezetője
+
+
+>[1/3] Új dolgok
+
+<->Újféle padlótípusok: rács, sár, sci-fi.
+<->Újféle biztonsági ajtó, ételbeadó nyílással.
+<->Újféle lámpák: utcai lámpák, reflektorok, fali lámpák.
+<->Újféle fák: havas fa, pálmafa.
+<->És további új dolgok.
+
+
+>Kattints a TOVÁBB gombra a továbbiak megtekintéséhez...
+
+
+
+>[2/3] Új funkciók
+
+<->Keret nélküli ablakban való megjelenítési mód.
+<->Objektumok áthelyezésének/mozgatásának lehetősége.
+<->Szűrők és rendezési gomb a tárgymenüben.
+<->Az ajtók mostantól könnyedén kialakíthatók a falakon.
+<->Mostantól őrkutyák és fegyveres őrök is beoszthatók az őrjárati útvonalakra és zónákra!
+<->Extra x10-szeres játéksebesség.
+<->SzuperMax őrizetesek az érkező rabszállítmányokban.
+<->Mostantól két eltérő, egymást átfedő őrjárati útvonal is kialakítható.
+<->Több objektum és berendezés is forgatható lett.
+<->Látványosabb lett a Bevetés és a Logisztika.
+<->Megnöveltük a klónozó eszköz méretét.
+<->Lehetőség új játék indítására a Bürokrácia ismeretével.
+<->A Mutátorok menü mostantól játék közben is elérhető és beállítható.
+<->Tárgyak bőséggel!
+<->Újféle hófödte és esőerdős területek új játék indításakor.
+<->Az őrtornyok védelmet nyújtanak a mesterlövészeknek az időjárás viszontagságaitól.
+<->Új személyzet- és kutyanevek.
+<->Szobakeresési funkció az Objektumok menüben.
+<->Tisztább börtönök beállítási lehetőség.
+<->Új gyorshivatkozások a felső HUD-sávon.
+<->!
+
+
+>[3/3] És egyebek...
+
+<->A mesterlövészek tartanak maguknál börtönkulcsot.
+<->Az őrizetesek előnyben részesítik a közös zuhanyzókat a más őrizetesek cellájában lévő zuhanyzókkal szemben.
+<->Börtönigazgató módban a CCTV-n az őrizetesek és a személyzet is látható.
+<->A gépekhez beosztott őrök nem hagyják el a posztjukat a felkutatások és razziák során.
+<->Az őrök ajtót nyitnak az eltévedt kutyáknak.
+<->A könyvespolc hozzájárul a műveltségi igény kielégítéséhez.
+<->Új gyorsbillentyűk a játék menüinek váltásához ([Z] és [X]), illetve a menük bezárásához ([C]).
+<->A Gyors szobák cellaajtajai nyitva maradnak a szoba befejezéséig.
+<->A CCTV kamerán látható alakzatoknak mostantól az iránya is megjelenik.
+<->Javítva a sövények megjelenése.
+<->Javítva a fémdetektorok megjelenése.
+<->Javítva a hiba, amely miatt a vízmelegítők nem csatlakoztak minden esetben a csővezetékekhez.
+<->Moddolás támogatása.
+
+~~~~~~
+
+„The Sneezer” frissítés
+>2019. november 21.
+
+Kedves börtönigazgatók!
+
+Reméljük, sok örömet leltek majd a Prison Architect legújabb frissítésében!
+Az alábbiakban röviden összefoglaljuk a legfontosabb változásokat, úgymint a hidak, illetve a tervezési és a klónozási funkció érkezését.
+
+>[1/2] Új dolgok
+
+<->Új falak: Art déco és keleti stílus.
+<->Új padlók: Mészkő, gyep és kő, homokkő, holdbéli.
+<->Új tárgyak: Csaptelep, kézszárító, fali jelzőtáblák, rémséges és sakura fa, kaktusz, parkot idéző pad, rénszarvasfej, táblák, titkos könyvespolc ajtó és sok más...
+
+Kattints a TOVÁBB gombra a továbbiak megtekintéséhez...
+
+>[2/2] Új funkciók
+
+<->Új fajta őrkutyák, akik a játék elején és közben is választhatók!
+<->Lehetőség a faltípus megválasztására gyors szobaépítéskor.
+<->Végre, HIDAT is emelhetsz! Utak, víz és földterületek fölé építhetők, hogy a rabok és a személyzet tagjai átkelhessenek rajta.
+<->Átdolgoztuk a napi pénzfizetés mértékét a nagyobb kockázatú rabok esetében: a max. bizt., a védőőrizetben lévő, a halálsoron lévő és a közveszélyes őrült rabok után több pénz jár.
+<->Az üres és a foglalt cellák könnyedén áttekinthetővé váltak a Logisztika felületen az új „Cellaállapot” gombnak köszönhetően.
+<->Őrizeteseken végrehajtható újféle tevékenység: „Átkísérés a gyengélkedőre”
+<->Más intézményből átszállított őrizetesek is befogadhatók.
+<->Egyedi megoldás a látogatók irányítására a Bevetés képernyőn.
+<->Az alapok mostantól többféle faltípussal is felépíthetők.
+<->Átdolgoztuk a klónozó eszközt! Elérhetővé vált a forgatás és a tükrözés, megjelennek a falak és a tárgyak, illetve a klónozható terület kiterjed immár az egész börtönre! ÉS mostantól már különálló mentések között is klónozhatsz! (BÉTA állapotban) Az építési sebességet szintén optimalizáltuk.
+<->Átdolgoztuk a Tervezést! Jelöld ki az ajtók helyét és válassz faltípust, majd csak a végleges terv fog felépülni. 
+<->Jobbá tettük a Gyors szobaépítés megjelenését, mostantól jobban látszik, hova kerülnek a falak.
+<->Újféle sivatagos terület új játék indításakor.

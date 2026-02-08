@@ -1,0 +1,110 @@
+BEGIN Window
+    NAME         SoundParameterEditor
+    WIDTH        300
+    HEIGHT       420
+END
+
+BEGIN Container
+    XPOS        Absolute        15
+    YPOS        Absolute        160
+    WIDTH       Relative        -30
+    HEIGHT      Relative        -205
+END
+
+BEGIN DropDownMenu
+    NAME        Type
+    XPOS        Absolute        100
+    YPOS        Absolute        35
+    WIDTH       Relative        -115
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        LinkType
+    XPOS        Absolute        100
+    YPOS        Absolute        65
+    WIDTH       Relative        -115
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        UpdateType
+    XPOS        Absolute        100
+    YPOS        Absolute        95
+    WIDTH       Relative        -115
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        TypeTitle
+    XPOS        Absolute        15
+    YPOS        Absolute        35
+    WIDTH       Absolute        80
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        LinkTitle
+    XPOS        Absolute        15
+    YPOS        Absolute        65
+    WIDTH       Absolute        80
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        UpdateTitle
+    XPOS        Absolute        15
+    YPOS        Absolute        95
+    WIDTH       Absolute        80
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        Graph
+    XPOS        Absolute        15
+    YPOS        Absolute        160
+    WIDTH       Relative        -30
+    HEIGHT      Relative        -205
+END
+
+BEGIN InputSlider
+    NAME        Smooth
+    XPOS        Absolute        100
+    YPOS        Absolute        125
+    WIDTH       Relative        -115
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        Smoothing
+    XPOS        Absolute        15
+    YPOS        Absolute        125
+    WIDTH       Absolute        80
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    NAME        ChainTitle
+    XPOS        Absolute        15
+    YPOS        Relative        -35
+    WIDTH       Absolute        80
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        Chain
+    XPOS        Absolute        100
+    YPOS        Relative        -35
+    WIDTH       Relative        -135
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        DeleteChain
+    CAPTION     X
+    XPOS        Relative        -35
+    YPOS        Relative        -35
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+

@@ -1,0 +1,138 @@
+BEGIN Window
+    NAME         Codex
+    CAPTION      codex_startonline
+    BACKGROUND   codex.png
+    WIDTH        1000
+    HEIGHT       650
+    PANEL        1
+END
+
+BEGIN Button
+    NAME        Close
+    CAPTION     X
+    XPOS        Scaled          9594
+    YPOS        Scaled          395
+    WIDTH       Scaled          222
+    HEIGHT      Scaled          333
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          5447
+    YPOS        Scaled          1132
+    WIDTH       Scaled          3700
+    HEIGHT      Scaled          1153
+END
+
+BEGIN TitleCaption
+    NAME        UsernameLabel
+    XPOS        Scaled          5600
+    YPOS        Scaled          7227
+    WIDTH       Scaled          1450
+    HEIGHT      Scaled          615
+END
+
+BEGIN InputField
+    NAME        Username
+    XPOS        Scaled          7149
+    YPOS        Scaled          7228
+    WIDTH       Scaled          1750
+    HEIGHT      Scaled          615
+END
+
+BEGIN InputField
+    NAME        Name
+    XPOS        Scaled          5850
+    YPOS        Scaled          3229
+    WIDTH       Scaled          3050
+    HEIGHT      Scaled          846
+END
+
+BEGIN Button
+    NAME        Start
+    XPOS        Scaled          7550
+    YPOS        Scaled          8383
+    WIDTH       Scaled          1550
+    HEIGHT      Scaled          615
+END
+
+BEGIN CheckBox
+    NAME        PasswordProtected
+    XPOS        Scaled          8450
+    YPOS        Scaled          5307
+    WIDTH       Scaled          350
+    HEIGHT      Scaled          461
+END
+
+BEGIN TitleCaption
+    NAME        PasswordProtectedLabel
+    XPOS        Scaled          5600
+    YPOS        Scaled          5230
+    WIDTH       Scaled          2750
+    HEIGHT      Scaled          615
+END
+
+BEGIN TitleCaption
+    NAME        PasswordLabel
+    XPOS        Scaled          5600
+    YPOS        Scaled          5999
+    WIDTH       Scaled          1450
+    HEIGHT      Scaled          615
+END
+
+BEGIN TitleCaption
+    NAME        NameLabel
+    XPOS        Scaled          6050
+    YPOS        Scaled          2538
+    WIDTH       Scaled          2600
+    HEIGHT      Scaled          692
+END
+
+BEGIN TitleCaption
+    NAME        ListedLabel
+    XPOS        Scaled          5600
+    YPOS        Scaled          4537
+    WIDTH       Scaled          2750
+    HEIGHT      Scaled          615
+END
+
+BEGIN CheckBox
+    NAME        PublicListed
+    XPOS        Scaled          8450
+    YPOS        Scaled          4614
+    WIDTH       Scaled          350
+    HEIGHT      Scaled          461
+END
+
+BEGIN InputField
+    NAME        Password
+    XPOS        Scaled          7149
+    YPOS        Scaled          5999
+    WIDTH       Scaled          1750
+    HEIGHT      Scaled          615
+END
+
+BEGIN TitleCaption
+    NAME        ConnectingLabel
+    XPOS        Scaled          5600
+    YPOS        Scaled          8384
+    WIDTH       Scaled          1750
+    HEIGHT      Scaled          615
+END
+
+BEGIN TitleCaption
+    NAME        RegionLabel
+    XPOS        Scaled          950
+    YPOS        Scaled          8537
+    WIDTH       Scaled          1600
+    HEIGHT      Scaled          461
+END
+
+BEGIN DropDownMenu
+    NAME        Region
+    XPOS        Scaled          2800
+    YPOS        Scaled          8537
+    WIDTH       Scaled          1550
+    HEIGHT      Scaled          461
+END
+

@@ -1,0 +1,475 @@
+"Clink"
+>27 Haziran 2019
+	Kodes Güncellemesi
+<->4 yeni yer kaplaması ve 4 yeni duvar çeşidi eklendi.
+<->Yükleme sürelerini kısaltmak için performans iyileştirmeleri yapıldı.
+<->Ustabaşıların eğitim de verdiği daha büyük hapishaneler için, işe alınabilen ustabaşı sayısı arttırıldı.
+<->Var olan nesneler artık her yöne döndürülebiliyor, eksik yönlerin görselleri eklendi.
+<->Yeni 'Gardiyan Müdahalesi' düğmesi, olay çıktığında konumun yakınındaki gardiyanları oraya yönlendirerek yeni gardiyan işe alma gerekliliğini ortadan kaldırıyor. 
+<->Yeni 'Tünel Ara' düğmesiyle gardiyanlara tuvaletleri özellikle gizli kaçış tüneli için bulma emri verilebiliyor.  
+<->Odaların daha kolay ve hızlı inşa edilebilmesi için Hızlı İnşaat bölümüne yeni odalar eklendi.
+<->Mahkumları ve personeli takip etmek, üstlerine çift tıklayınca çok daha kolay.
+
+
+Umarız yaptığımız geliştirmelerle oynamaktan keyif alırsınız!
+
+~~~~~
+
+﻿“Mapusane” Güncellemesi
+>17 Eylül 2019
+
+Sevgili Prison Architect oyuncuları,
+
+Paradox ve Double Eleven adına umarız ki güncellemeyle gelen yeni içerikleri beğenmişsinizdir. 
+Şu ana kadar bize yaptığınız öneriler ve verdiğiniz fikirler için teşekkürler. Yaptıklarımızın çoğu sizin geribildirimlerinizi temel alıyor.
+Topluluktan gelen bir sürü iyileştirmeyi oyuna uyguladık. Bazılarından burada bahsettik, oyunda da dahası var.
+
+Yeni eşyaları hapishanelerinizde nasıl kullandığınızı lütfen bize (@PrisonArchitect) gösterin! 
+
+Gaz, Double Eleven Oyun Tasarım Müdürü
+
+
+> [1/3] Yeni Eşyalar
+
+<->Yeni Zemin Çeşitleri; Kafes, Çamur, Bilim Kurgu
+<->Yiyecek tepsisi kapaklı yeni Güvenli Kapı
+<->Yeni Aydınlatma; Sokak Lambası, Projektör, Duvar Lambası
+<->Yeni Ağaçlar; Karlı Ağaç, Palmiye
+<->Ayrıca çeşitli yeni nesneler.
+
+
+>Dahasını görmek için İLERİ'ye tıklayın...
+
+
+
+>[2/3] Yeni Özellikler
+
+<->Çerçevesiz Pencere Modu seçeneği
+<->Nesneleri taşıma-yerlerini değiştirme özelliği!
+<->Eşya menüsü filtreleri ve sıralama düğmeleri.
+<->Kapılar duvarlara artık hızla yapılabiliyor.
+<->Bekçi Köpekleri ve Silahlı Gardiyanlar devriye güzergâhlarına ve bölgelere atanabiliyor!
+<->Fazladan x10 oyun hızı.
+<->SüperMaks mahkûmlar Alım'a eklendi.
+<->Birbiriyle kesişen 2 farklı devriye güzergâhı oluşturma olanağı.
+<->Daha çok nesne ve mobilya döndürülebiliyor.
+<->Yerleştirme ve Lojistik görselleri geliştirildi.
+<->Klon aracı alanı genişletildi.
+<->Yeni oyuna, Bürokrasi araştırması tamamlanmış olarak başlama seçeneği.
+<->Dönüştürücüler menüsüne artık oyunun ortasında erişilebiliyor ve ayarlama yapılabiliyor.
+<->Bir dolu eşya!
+<->Oyuna yeni Karlı ya da Cangıl arsalarda başlama seçeneği.
+<->Gardiyan Kuleleri, keskin nişancıları hava koşullarından koruyacak.
+<->Personel ve Köpek isimleri.
+<->Nesneler menüsüne oda arama özelliği eklendi.
+<->Daha temiz hapishanelere sahip olma seçeneği.
+<->Üst HUD çubuğunda yeni hızlı bağlantılar.
+<->!
+
+
+>[3/3] Ve dahası...
+
+<->Keskin nişancılar artık hapishane anahtarı taşıyabiliyor.
+<->Mahkûmlar diğer mahkûmların hücrelerindeki duşlardansa genel duşlara öncelik veriyor.
+<->CCTV Müdür Modu'nda mahkûmları ve personeli gösteriyor.
+<->Makinelere atanmış Gardiyanlar, aramalar ve hücre aramaları için yerlerini terk etmeyecek.
+<->Gardiyanlar, kayıp köpekler için kapıları açacak.
+<->Kitaplık, Okuryazarlık ihtiyacını karşılayacak.
+<->Oyun menülerinde [Z] ve [X] kısayol tuşlarıyla ileri-geri gidilebilecek, menüler [C]'yle kapatılabilecek.
+<->Hızlı Oda hücre kapıları, oda tamamlanana kadar açık kalacak.
+<->CCTV Kamera grafikleri artık kameranın gösterdiği yöne dönük olacak.
+<->Çalı Çit görsellerinde düzenleme.
+<->Metal Dedektörü görsellerinde düzenleme.
+<->Su Kazanı'nın bazen borulara bağlanmaması düzeltildi.
+<->Oyunu modlayanlara destek.
+
+
+~~~~~~
+
+"Mapus Damı" Güncellemesi
+>21 Kasım 2019
+
+Sevgili hapishane müdürleri,
+
+Umarız bu Prison Architect güncellemesini beğenirsiniz.
+Belli başlı eşyaların özeti aşağıda. Bunların arasında yeni Köprüler; Klonlama ve Planlama geliştirmeleri yer alıyor.
+
+> [1/2] Yeni eşyalar
+
+<->Yeni Duvarlar: Art Deco ve Asya.
+<->Yeni Zeminler: Kireçtaşı, Çimenler ve Taşlar, Kumtaşı, Ay.
+<->Yeni Nesneler: Lavabo, El Kurutucu, Duvar Tabelaları, Korkunç ağaç, Sakura ağacı, Kaktüs, Park Bankı, Geyik Başı, İşaret Tabelaları, Gizli Kitaplık Kapı ve dahası...
+
+Dahasını görmek için İLERİ'ye tıklayın...
+
+>[2/2] Yeni Özellikler
+
+<->Oyundan önce ve oyun sırasında seçilebilecek birden fazla yeni köpek cinsi!
+<->Hızlı odalarda duvar türünü seçme olanağı.
+<->Köprüler SONUNDA geldi! Yolların, suyun ve diğer yer şekillerinin üstüne kurun, personel ve mahkumlar geçsin.
+<->Riski yüksek mahkumların günlük ödemeleri yükseldi. Maks Güv, Korumalı Gözaltı, Ölüm Hücresi ve Suç İşleyebilen Deli mahkumlar daha çok kazanç getiriyor.
+<->Boş ve dolu hücreler, Lojistik'teki yeni Hücre Durumu düğmesi sayesinde görülebilir.
+<->Biyografiler bölümüne yeni bir mahkum eylemi eklendi: "Revire Kadar Eşlik Et"
+<->Transfer edilen mahkumlar "Alım"da sunuluyor.
+<->Yerleştirme'ye "Özel Ziyaretçi Yönü" seçeneği eklendi.
+<->Temeller artık daha çok duvar türüyle yapılabiliyor.
+<->Klon aracı geliştirildi! Artık döndürüp çevirebiliyorsunuz, duvarlar ve nesneler görüntüleniyor ve bütün bir hapishaneyi klonlayabiliyorsunuz! Hatta iki farklı kayıt dosyası arasında klonlama yapabiliyorsunuz (BETA AŞAMASINDA)! İnşaat hızı da optimize edildi.
+<->Planlama yeniden planlandı! Planlarınızı inşa edin, kapı ekleyin ve duvar tipini seçin. 
+<->Hızlı Odalar sunumu geliştirildi. Artık duvarların nereye yapılacağını gösteriyor.
+<->Yeni Çöl Arsa seçeneği yeni oyuna başlarken seçilebilir.
+
+~~~~~~
+
+
+"KOVA" GÜNCELLEMESİ VE "TRANSFER İZNİ" DLC'si
+>DATE 14/05/20
+
+>"Transfer İzni" - Ücretsiz DLC 
+Farklı Güvenlik Bölümlerinde mahkumlarına farklı ayrıcalıklar tanımanı sağlayan "Transfer İzni" DLC'sini yayınladık. Mahkumlar kriterlerini karşılayıp daha düşük güvenlikli (ve konforlu) bir hapishane kanadına geçmek için davranışlarını düzeltmeye teşvik edilecek.
+
+Hadi "Transfer İzni" DLC'sini hemen ücretsiz indir!
+
+Gaz, Double Eleven Oyun Tasarım Müdürü
+
+>"Kova" Güncellemesi
+Ücretsiz "Kova" güncellemesi hem "Transfer İzni" DLC'sini tamamlıyor hem de oyuna yeni topluluk istekleri, yeni özellikler, iyileştirmeler ve daha pek çok şey ekliyor. Örnekler: 
+
+>[1/2] Yeni Eşyalar
+
+<->Yeni Eşyalar: Koşu Bandı, İç Mekân Ağaç Saksısı, Boks Ringi, Langırt, Cam Pencere, Müdür Heykeli ve dahası.
+<->Yeni Duvarlar: Çürük, Metruk, Paslı, Gecekondu, Bambu Çit, Güvenlik Bölümleri ve dahası.
+<->Yeni Kapılar: Bambu Kapı, Beyaz Çizgili
+<->Yeni Zeminler: Çiçekli Çayır, Koşu Pisti (hızlı), Bambu.
+<->Altı çimenli yeni çit seçeneği.
+
+>[2/2] Yeni Özellikler
+
+<->Yeni Spor Salonu oda çeşidi.
+<->Cephanelik, Revir ve Kütüphane'yi içeren yeni Hızlı Odalar.
+<->Cezalar ve Aramalar artık Güvenlik Bölümlerine göre başlatılabilir! 
+<->Artık Yerleştirme'den özelleştirilmiş Güvenlik Bölümleri yapılabilir!
+<->Artık Yerleştirme'den Aşçılar, Doktorlar ve diğer personel atanabilir.
+<->Duvarlarınıza rakamlı ve harfli tabelalar eklemenizi sağlayan yeni "Tabelalar" menüsü.
+<->Politika arayüzü artık Yemek ve Şartlı Tahliye seçeneklerinin Güvenlik Bölümlerine göre eklenmesine olanak tanıyor.
+<->Otomatik Temel artık Planlama'dan açılıp kapabılabilir.
+<->Yeni Hapishane İşçiliği: Ormancılık
+
+~~~~~~
+
+"ADA YOLUNDA" VE 
+"ROCK UPDATE" Genişleme Paketleri
+>
+
+>"Ada Yolunda" - Yeni DLC 
+<->Prison Architect'in yeni genişleme paketi çıktı!
+<->Ada Yolunda paketiyle oyuncular dünyadan yalıtılmış hapishaneler yapıp buralara deniz ve hava yoluyla mal, mahkum ve diğer hizmetleri getirtebilecek.
+<->Ada Yolunda'la hapishanenizi kurmaya başlarken seçebileceğiniz ek arsa seçenekleri ve ana karayla bağlantıyı koparma seçeneği geliyor. Yol olmadan bile oynayabilirsiniz. 
+<->Teslimat ve dışsatım alanlarınıza bağlanacak Tekneler, Helikopterler, İskeleler ve Helikopter pistleri yapmak da mümkün. Artık mahkumları deniz yoluyla adanızın ya da hapishanenizin bir tarafına getirtip teslimatları hava yoluyla başka yönden alabilirsiniz.
+<->Kaçak malların gireceği yeni yollar olacağı için yeni Kontrol Noktası istastyonları da inşa edilebilir. Gardiyanlar buralarda mahkumların ve ziyaretçilerin üstünü arayabilir, tarayıcı cihazları da tahta kasaları tarayıp teslimatların içine saklanmış kaçak malları bulabilir! 
+<->Ada Yolunda ayrıca Alcatraz hapishanesinden ilham alan önceden hazırlanmış haritalarla, yeni nesnelerle, zeminlerle, adaları birbirine bağlayan Vapurlarla, Hava İtfaiyecileriyle, yeni bir Seçkin Operasyon Timi'yle ve daha pek çok içerikle geliyor!
+
+Gaz, Double Eleven Oyun Tasarım Müdürü
+
+Dahasını görmek için İLERİ'ye tıklayın...
+
+>"The Rock" Güncellemesi
+"The Rock", "Ada Yolunda" genişleme paketini tamamlayan ve başka iyileştirmeler de getiren ücretsiz bir güncelleme.
+
+<->Su Kareleri - Kendi adalarınıza, kıyılarınıza, hendeklerinize şekil vermek için karaya su, suya kara ekleyebilirsiniz.
+
+<->Dinamik Mahkum Şöhretleri - Bu yeni seçenek, etkinleştirildiğinde mahkumların hapishanelerinizin içindeki etkinliklerine bağlı şöhret özellikleri kazanmasını sağlar. Örneğin Avlu'da ya da Spor Salonu'nda vakit geçirilerek "Güçlü", "Sert" ya da "Yetenekli Dövüşçü" gibi özellikler kazanılıp tecritte vakit geçirilince kaybedilebilir. Farklı deneyimlerle pek çok Şöhret özelliği kazanılıp kaybedilebilir.
+
+~~~~~~
+
+"YEŞILLE DOST" DLC'si VE 
+"SERA" GÜNCELLEMESI
+>Ellerinizi kirletmeye hazır olun Müdürler!
+
+>Yeşille dost - Yeni DLC 
+>   Toprağın Bereketi:
+<->Yeni hapishane işi Tarım'la ekin yetiştir. Ekinleri sat veya mahkum yemeklerinde kullan.
+>
+>   Gelişime Yer Var:
+<->Üç dış mekan odasıyla tarım yap, Çiftçi personel al, Kiler yapıp ürünlerini burada sakla ve tarım aletlerini koymak için Baraka inşa et.
+>
+>   Bela Filizleniyor: 
+<->Ekinlerle yeni kaçak mallar geliyor. Mahkumlar artık gizlice Narkotik yetiştirip İçki üretmek için malzeme araklayabilir. Tarlalar çete yuvasına dönebilir. Gardiyanlar gözünü açsın!
+>
+>   Yeşil Yeni Dünya:
+<->Güneş, Rüzgar ve Güneş-Rüzgar Hibrit enerji kaynaklarıyla hapishaneler doğa dostu oluyor. Bu sürdürülebilir enerjinin fazlası, Enerji İhracatı Göstergesi'yle şebekeye satılabiliyor.
+
+
+
+
+Dahasını görmek için İLERİ'ye tıklayın...
+
+
+>"Sera" güncellemesi
+<->Sera (The Glasshouse) güncellemesi Going Green genişleme paketinin atmosferini pekiştiriyor ve oyuncu topluluğumuzun çok istediği bazı geliştirmeleri getiriyor:
+<->Geri Dönüşüm Kutusu nesnesini de içeren yeni geri dönüşüm sistemi.
+<->Yeni Hızlı Odalar: Avlu, Koru ve Çalı Labirent.
+<->Çöpe At ve yıkım işlevlerinde geliştirmeler.
+<->Nesneler menüsü için yeni sıralama yöntemleri.
+
+~~~~~~
+
+"İKİNCİ ŞANS" DLC'si ve 
+"Kafes" Güncellemesi
+>Kapıları açın!
+
+>İkinci Şans - Yeni DLC:
+>   Yaşam Becerileri kazandırmak:
+<->Mahkumların çalışıp eğitim alabileceği üç yeni oda, ziyaret eden sivillere yiyecek üreten bir fırın ve bir restoran, yeni Program seanslarının yapılabileceği bir Toplantı Odası
+<->Bazı mahkumların hapishane işlerine uygun iş tecrübesi olacak
+<->Hapishane işlerinin yevmiyeleri artık ayarlanabilecek
+>
+>   Şartlı Tahliyeye Hazırlık:
+<->Kayıt olunabilecek beş yeni rehabilitasyon programı: Islah Olmuş Mahkum Danışmanlığı, Üçüncü Suç Eğitimi ve Programı, Anlaşmazlık Çözümleme ve Hayvanlı Terapi!
+<->Cezalar mahkumun davranışlarına göre azalabilecek ya da artabilecek
+<->Tüm mahkumların yeniden suç işleme oranlarının, iş tecrübesi düzeylerinin ve yeniden suç işleyen mahkum sayısının takip edilebileceği bir Islah ve Rehabilitasyon menüsü
+
+
+
+
+
+
+Dahasını görmek için İLERİ'ye tıklayın...
+
+>İkinci Şans - Yeni DLC:
+>   Özgürsün:
+<->Başarıyla ıslah olan her mahkum topluma yeniden adapte oldukça ikramiye kazan. Yeniden suç işleyen mahkumlar içinse para cezası kesilecek, üstelik bu mahkumlar hapishanene eskisinden daha kötü özelliklerle dönebilecekler!
+
+>   Ve dahası...
+<->Mahkumların üniforma renklerini güvenlik düzeyine göre özelleştir
+<->Islah maliyetlerini karşılamak için yeni Hibelerden yararlan
+<->Hızlı odalar: Fırın, Restoran ve Toplantı Odası
+<->Yapılacaklar listesine DLC Bilgileri sekmesi eklendi
+
+
+
+
+
+
+
+
+
+
+
+Dahasını görmek için İLERİ'ye tıklayın...
+
+>"Kafes" Güncellemesi
+<->Narkotik Araması! Köpekli Gardiyanların özellikle uyuşturucu aramasını sağlayan yeni bir güvenlik emri
+<->Tüm personelin anahtar taşımasını sağlayan bir anahtar politikası
+<->Yeni Hızlı Oda: Resepsiyon
+<->Alım Özelleştirme: Mahkum alım saatlerini özelleştirmeni sağlar
+<->Sınıf ve Kantin için dış mekan oda kısıtlamaları gevşetildi
+<->Çeşitli yeni nesneler
+
+~~~~~~
+
+"KUSURSUZ FIRTINA" DLC'Sİ
+ VE "KULE" GÜNCELLEMESİ
+>Fırtına öncesi sessizlik bu!
+
+> Kusursuz Fırtına - Yeni DLC:
+>    En kötü ihtimale karşı hazırlan:
+<->3 farklı şiddeti bulunan hava durumu temelli etkinlikleri ve bir fare istilası sistemini etkinleştirmek için yeni seçenekler geldi.
+<->Yeni eşyalar ve tesisler, eğitim programları, acil durum hizmetleri ve sigorta planları gibi birden çok destek seçeneği şimdi mevcut.
+<->Ayrıca fareler için kovucu aletler, yangınlar için yangın söndürücü ve alarmlar ve hava durumundaki değişiklikleri tespit edip hazırlık yapmak için başka eşyalar kurabilirsin. 
+>
+>   Farelere dikkat et:
+<->Bazı minimum gereksinimleri karşıladıktan sonra hapishanene fareler girmeye başlayabilir, bu yüzden hapishaneni temiz tut ve tüneller için gözünü açık tut.
+<->Tatlı suratlarına aldanma, başta etrafı kirletip yiyecekleri kemirirler ama daha büyük sayılara ulaşırlarsa hastalıklara sebep olabilir, elektrik kablolarına ve çitlere hasar verebilir ve hatta tünel bile kazabilirler.
+>
+>   Felaket Hava Durumu - 1. bölüm:  
+<-> Her birinin üç şiddeti bulunan üç tür ekstrem hava koşulu eklendi ve hepsi durumu daha da tehlikeli kılan ufak etkinlikler içeriyor.
+Dahasını görmek için İLERİ'ye tıklayın...
+
+>
+>    Felaket Hava Durumu - 2. bölüm:  
+<->Derin Dondurucu - Soğuklar yardımcı birimlere ve diğer eşyalara hasar verebilir, yerleri ve duvarları dondurabilir ve mahkumların için tehlikeli olabilir.
+<-> Şimşek Fırtınası - Fırtınalar tehlikeli ve yıkıcı olabilir, elektrik devrelerine ve cihazlara hasar verebilir, yangınlara sebep olabilir, yapısal bütünlüğü bozabilir ve hatta mahkumların ile personelin için belirli tehlikeler teşkil edebilir.
+<->Sıcak Hava Dalgası - Bu türden sıcak havalar personelin ve mahkumların için yeni sıvı alma ihtiyacını beraberinde getiriyor. Bu ihtiyaç, karşılanmadığı takdirde sıcaklık çarpmasına yol açabilir. Sıcaklık ayrıca eşyaları da etkileyebilir, bu yüzden sıcaktan mayışmış gözlerini açık tut!
+>
+>    "KULE" Güncellemesi - 1. bölüm: 
+<->Sırasıyla Shiba Inu ve siyah Setter köpeklerinden ilham alınan iki yeni bekçi köpeği. Ayrıca bu güncelleme köpeklerin hapishane alanlarına "ufak hediyeler" bırakması için bir seçenek de sunuyor.
+<->Görüş süreleri artık özelleştirilebilir. Aile ve arkadaşlarla daha fazla vakit geçirmek mahkumun ihtiyaçları konusunda daha güçlü bir etki sağlar.
+<-> Artık keskin nişancıların öldürücü olmayan bir alternatifi var ve bu sayede firar girişimleri ve saldırgan mahkumlar ciddi bir zarara sebebiyet verilmeden durdurulabilecek.
+<->Bütün bu seçeneklerin yanı sıra yeni eşyalar ve zemin türleri de eklendi.
+
+>
+>    "KULE" Güncellemesi - 2. bölüm:
+<->Renkli Personel Kapıları
+<->Kanepe, Lüks masa, Ahşap ve Döner Sandalyeler
+<->Ahşap ve Dekoratif Pencereler
+<->Eğreltiotu, Sarmaşık, Söğüt Ağacı, Ağaç (Yapraksız)	 
+<->Laminat Parke, Halı, Çimenlik
+
+>	 Özel teşekkürler: 
+8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
+
+
+~~~~~~
+
+"""ÇETELER"" DLC'Sİ VE 
+""UÇURTMA"" GÜNCELLEMESİ 
+>Daha sertler, daha akıllılar, üstelik uyumlu üniformaları da var!
+
+>Çeteler - Yeni DLC:
+>   Yeni hapishane çeteleri:
+<->Hapishaneye üç yeni çete daha geldi. Her türlü belayı ve yönetim sorununu da beraberlerinde getirdiler. 
+<->Bu çetelerin hepsinin kendilerine özgü karakteristik özellikleri ve hedefleri var. Bu hedefler, hapishanede nam salmaktan kaçak mal pazarını tekellerine almaya kadar sıralanıyor.
+<->Yeni çetelerin gelişiyle hapishanenin zorluk seviyesi de artacak. Bu yüzden çetelerin ve elebaşlarının sayısını kontrol edebilmek için seçenekler ekledik. Böylece çetelerin çevirebileceği dolapların sayısı ayarlanabilecek.
+>
+>   Yeni çeteler, yeni davranışlar:
+<->Yeni çetelerin, hapishaneye daha fazla uyuşturucu sokmaktan tut da diğerlerine kimin patron olduğunu göstermek için güç kullanmaya kadar değişen kendilerine özgü eylemleri de var.
+<->Çeteler artık yeni bölgeleri işgal edebilir, diğer mahkumlardan herhangi bir iş için para alabilir, ayrıca ele geçirdikleri şeyleri satmak için kendi bölgelerine çete ""torbacısı"" koyabilirler.
+<->Bir çetenin üye sayısı yeterince arttığında, içeride geçirdikleri zamanı biraz daha konforlu hale getirmek için taleplerde bulunmaya başlayabilirler. Bu talepleri kabul etmemenin sonuçları felaket olabilir.
+Dahasını görmek için İLERİ'ye tıklayın...
+
+>   Yozlaşmış Gardiyanlar:
+<->Çeteler yaygınlaştıkça, gardiyanların üzerinde bıraktıkları olumsuz etkiler de artar.
+<->Çeteler, gardiyanlara rüşvet verebilir. Böylece yapmamaları gereken bir şey yaptıklarında gardiyanlar ""başka tarafa bakabilir"".
+<->Çeteler, bazı gardiyanlara içeri kaçak mal sokmaları için de para yedirebilir.
+>
+>   Yönetim ve Güvenlik:
+<->Şüpheli personellerle başa çıkmak için mahkumlar muhbir olarak kullanılabilir. Yozlaşmış gardiyanları gösterirler.
+<->Hem gardiyanları eğitmek hem de çete üyelerini çetelerinden uzaklaştırmak ve hapishanede normal, huzurlu bir hayata dönmelerine yardımcı olmak için yeni programlarımız var.
+<->Eski çete üyeleri, mevcut çetelerin hedefinde olacaktır. Bu yüzden çeteleri, eski çete üyelerinden mümkün olduğunda uzaklaştırmak en iyisi.
+<->Hapishanede hizaya getirmesi zor mahkumlar için, belirli mahkumları görünürlük için işaretlemekten sorun çıkaranları başka bir tesise göndermeye kadar birçok yeni güvenlik seçeneğimiz de var.
+Dahasını görmek için İLERİ'ye tıklayın...
+
+>
+>   ""UÇURTMA"" Güncellemesi:
+<->Yeni müdürler ve köpek cinsleri! Dylan Cook ve Yüzbaşı J. Locks müdürlerimiz arasına katıldılar. Ayrıca yeni bir ""rastgele"" seçim özelliği ve 4 yeni bekçi köpeği cinsi de var!
+<->Mahkumların hücrelerini artık belirlenebilir. Böylece hangi mahkumun hangi hücreye gideceği seçilebilir. Yine de çetelerinin sözünün geçtiği alanlarda çete liderleri en iyi hücreleri alır.
+<->Alım sistemini de güncelledik. Artık giriş işlemleri sırasında mahkumlar soğukta beklemek yerine resepsiyon odasında bekleyecek. Ayrıca mevcut güvenlik seviyesi oranına göre hapishane nüfusunu korumaya yardımcı olacak yeni bir ""Mahkum Yer Değişimi"" seçeneği ekledik.
+<->Bu yeni özelliklerin yanı sıra, oda boyutu gerekliliğini kaldırmak için yeni bir dönüştürücü seçeneği ekledik ve yerleştirme menüsünden açılıp kapatılabilen CCTV kameralarında bazı iyileştirmeler yaptık."
+
+
+~~~~~~
+
+Ömür Boyu Özgür Güncellemesi
+>Topluluğun geribildirimlerine uygun yeni eklemeler
+
+Çoğunluğu topluluğun talebine göre seçilen yeni özellikler ve oynanışı kolaylaştıran geliştirmeler. Herkesin deneyimini geliştirmemizi sağladığı için geribildirimlerini daima dikkate alıyoruz ve memnuniyetle karşılıyoruz.
+ 
+> Yeni Özellikler
+<->Mahkum Yaşlanması: Uzun süreli mahkumlar artık zamanın geçişinden etkilenecek, yaşlanacak, daha sakin olacak, güçten düşecek ve son olarak da yaşlılıktan ölecek.
+<->Gardiyan Rütbeleri: Gardiyanlarının birkaçı terfi kazanabilecek ve böylece istatistikleri ile ücretleri artabilecek. Uzman Subay rütbesine kadar terfi edildiklerinde ateşli silah kullanmalarına izin verilebilecek.
+<->İnşa Rehberleri: Tasarım sürecinin daha kolay olmasını sağlamak için birkaç seçenek eklendi. Haritadaki her hücrenin koordinatlarıyla birlikte bir ızgara arayüzü de etkinleştirilebilecek. Ayrıca binalarını çizerken boyutları listeleyen yeni bir bilgi metni de görüntülenebilecek. 
+<->Özel Hızlı İnşalar: Klon aracıyla artık daha sonra kullanmak üzere hapishanenin bölmelerini kaydedebileceksin.
+<->Hapishanende yaşanan olayları listelemek üzere bir olay defteri eklendi. Bunun yanı sıra her mahkumun kendi menüsünde mevcut olan bireysel defterleri de bulunuyor.
+Dahasını görmek için İLERİ'ye tıkla...
+ 
+> Oynanışı Kolaylaştıran Geliştirmeler
+<->Yardımcı Birimler kurulumlarını daha kolaylaştırmak için elektrik, su ve kablolama eşyaları olmak üzere 3 gruba ayrıldı.
+<->Rejim seçenekleri, kantin ve duş gibi tehlikeli alanlardaki mahkum trafiğin azaltmak için mevcut olan bazılarının değiştirilmesi ve yenilerinin eklenmesiyle birlikte güncellendi. Artık mahkumlar yemek yemeyi veya duş almayı bitirdikten sonra Serbest Zaman ya da Kilit seçeneklerinden biriyle devam edebilecekler.
+<->Program planlayıcı, programlarının yönetimini daha kolay ve daha açık kılacak şekilde güncellendi.
+<->Hapishane Oluştur menüsü, temel oyun ve DLC'lerle ilgili ayarların birbirinden ayrı olduğu bir şekilde güncellendi. Hapishane oluşturma sürecini daha akıcı ve hızlı kılmak adına tercihlerini kaydetmek için yeni bir seçenek de bulunuyor.
+<->Politika menüsü de kapatıldığında, yapılan değişiklikleri kaydedecek ve bu değişiklikler yeni hapishanelerin için varsayılan tercihin olarak korunacak.
+>
+<->Daha birçok küçük ekleme de var. Umarız her birinden keyif alırsın!
+
+~~~~~~
+
+"UNDEAD" DLC'Sİ VE 
+"THE KICKSTAND" GÜNCELLEMESİ 
+>Karanlıkta uğursuz bir şey saklanıyor
+
+>"Undead" - Yeni DLC
+> Yeni Özellikler
+<->Hortlaklar: Yeni bir seçenek sayesinde hortlaklar bir enfeksiyon olayı veya yeni Mezarlık odasıyla duvarlarının içinde ortaya çıkabilirler.
+<->Hortlak Kademeleri: Hortlakların düşükten yükseğe 3 kademesi bulunacak ve daha yüksek kademeli hortlaklar daha hızlı, daha güçlü ve biraz daha akıllı olacak.
+<->Mezarlık: Mezarlık, mahkumlar tarafından rahatlamak için kullanılabilecek ama mezarlığın bazen selam vermek isteyen başka sakinleri de var.
+<->Hortlak Davranışları: Sürekli küçük gruplarına yeni arkadaşlar katmaya çalışırlar. Çoğu insan çığlıklar atarak kaçsa bile. 
+<->Ödemeler: Isırmaya meyilli olabilirler ama onların bölgesini güvenli bir şekilde ayırdığın sürece en azından barınma için kira öderler.
+<->Yönetme: Yardım etmesi için bir yemden ve etrafındaki hortlakları en pratik şekilde zapt eden yeni bir cihazdan oluşan 2 yeni eşya ekledik. 
+<->Ödül Avcısı: İstenmeyen işgalcileri ortadan kaldırmak üzere arazini gezen yeni bir acil durum hizmeti.
+<->Görseller: Hortlak temasına uymak için kaplamalar, yeni bir saat, estetik eşyalar ve yeni bir personel üniforma paketi. Heh, bir de Testere. Keyfini çıkar. 
+Dahasını görmek için İLERİ'ye tıkla...
+
+>
+>Dayanak - Ücretsiz Güncelleme
+> Oynanışı Kolaylaştıran Geliştirmeler
+<->Yeni Köpekler! Şahane bir Corgi ve görebileceğin en tatlı köpek olan bir Sibirya Kurdu. Yüzde yüz tarafsız yorumumuz.
+<->Yeni hızlı odalar! Yeni birer Güvenlik, Köpek Kulübesi ve Şartlı Tahliye hızlı odaları eklendi.
+<->CCTV kameraları geliştirildi ve artık sabitlenebiliyorlar. Ayrıca yeni bir politikayla kameraların monitörlerini gardiyanların için bir öncelik olarak belirleyebilirsin.
+<->Hapishanelerini farklı koridorlar gerekmeden farklı bölümlere ayırmana yardımcı olması için kullanabileceğin yeni bir boş oda da eklendi.
+<->Bölümlere ayırmak demişken normal oynanış sırasında bölümlerini gözünde canlandırmaya yardımcı olmak için çizgili beton fayanslar ekledik.
+>
+<->Topluluğun geribildirimlerine uygun olarak oynanışı kolaylaştıran başka ufak geliştirmeler de ekledik, umarız hoşuna gider.
+
+~~~~~~
+
+"FUTURE TECH PACK" DLC'Sİ VE 
+"THE SLAM" GÜNCELLEMESİ 
+>Gelecek burada! 
+
+>Future Tech Pack - Yeni DLC
+> Yeni Özellikler
+<->Üniforma Paketi: İkinci üniforma paketi burada. Gelecek temasına uyabilmek için personel ve mahkumların bir bilimkurgu geliştirmesi alacak.
+<->Mahkum Takibi: Mahkumlarını kontrol altında tutmak için yardıma mı ihtiyacın var? Takip Monitörü ve Menüsü'nün yanı sıra diğer destek eşyalarını da kullanarak artık seçtiğin mahkumları her daim gözünün önünde tutabilirsin.
+<->Duvar Türleri: Elektrikli Çit tırmanmayı aklından geçiren herkesi durdururken Cam Duvar gardiyanların görüş mesafesini arttırıyor. Ayrıca mahkumlara bir özgürlük hissi verse de onların mahremiyetini azaltıyor.
+<->Kartlı Kapılar: Bu kapıları yalnızca Anahtar Kart'ı olan gardiyanlar ya da takip kemeri giyen mahkumlar açabilir. Ancak mahkumların erişimi her kapıda ayrı ayrı kısıtlanabilir.
+<->Gelişmiş Arama Işıkları: Her türlü yanlış davranışı tespit edebilir ve müdahale için alarm çalabilir. 
+<->Elektrikli Coplar: Standart Gardiyan ekipmanlarına şok edici bir geliştirme. Her türlü sorunu çok daha kolayca bastırabilir.
+<->Görüntülü Konuşma Kabinleri: Mahkumların aileleriyle yüz yüze ziyaretin tehlikeleri olmadan görüşebilmelerini sağlar.
+<->Diğer: Dekoratif zeminler, yeni bir saat tipi, yeni bir müdür ve daha fazlası!
+Dahasını görmek için İLERİ'ye tıkla...
+
+>The Slam - Ücretsiz Güncelleme
+> Oynanışı Kolaylaştıran Geliştirmeler
+<->Sadece Ziyaretçiler Bölgesi - Sivillere öncelik veren ve onların belirli noktalardan hapishaneye girip çıkabilmelerini sağlayan yeni bir bölge.
+>
+<->Personel Molası - Artık tüm personeller için tek bir seçenek yerine kaç tane Gardiyan'ın, İşçi'nin ve Aşçı'nın molaya çıkacağını ayrı ayrı seçebilirsin.
+>
+<->Çete Ayrımı - Artık bu seçenek, çetelere ayrılmış hücre bloklarını ya da koğuşlarını çetenin üyesi olmayan mahkumların kullanımına kapatabilmeyi sağlıyor.
+>
+<->Diğer Geliştirmeler - Daha fazla yerleştirme planlaması zaman aralıkları, iyileştirilmiş nesne filtreleri, kablolama için geliştirilmiş bir Hızlı Bağla aracı ve çok daha fazla küçük iyileştirme ve düzeltmeler!
+
+~~~~~~
+
+""Jungle Pack"" DLC'si ve
+""Jailhouse"" GÜNCELLEMESİ
+>Ormana hoş geldin, ağaçlarımız falan var!
+
+>Jungle Pack - Yeni DLC
+> Yeni Özellikler
+<->Üniforma paketi: Üçüncü üniforma paketi geldi, hoş geldi! Bu sefer de yeşil temayla mahkumlarının ve personellerinin tarzını değiştir.
+<->Ağaç İhracatı: Hep aynı ağaçları kesmek sana hiç sıkıcı hissettirdi mi? Öyleyse endişelenme, artık havalı egzotik ağaçlar kesebilirsin. 
+<->Tropikal Ateş: Bu yeni hastalık mahkumlara mikroplu teslimatlar ve ziyaretçilerle ulaşacak ve bir anda yayılabilecek, bu yüzden bu yabancı tehlikeye hazırlıklı ol.
+<->Ziyaretçi Kabul: Hapishanene gelirken ziyaretçiler önce bu odaya gidecek ve gardiyanlar veya doktorlar tarafından ateşleri kontrol edilecek. Bir yandan da üzerlerinde kaçak mal araması yapılacak.
+<->Sinema: Bazen televizyon ekranı yeterince büyük gelmez. Buna katılanlara sinema odasını sunuyoruz. Boş zamanlarında bu odayla mahkumlarını mutlu ve sakin tut.
+<->Diğer: Yeni zemin, duvarlar, kapılar, ağaçlar, ahşap nesneler, daha gizli duran bir CCTV kamerası, yeni bir saat tipi ve hafiften tanıdık gelen bir Müdür...
+
+Daha fazlası için İLERİ'ye tıkla...
+
+>""Jailhouse"" - Ücretsiz Güncelleme
+> Oynayışı Kolaylaştıran Geliştirmeler
+
+<->Yeni Köpek - Bu neşeli oğlanı seninle tanıştırmasak olmazdı. Bu harika kuçu Toby'ye iyi bak!
+>
+<->Boştaki Gardiyanlar - Çok sayıda Muhafız teslimat alanında boşta duracağına artık hapishanenin daha önemli bölgelerine öncelik verecekler.
+>
+<->Hızlı İnşaat Malzemeleri - Artık hızlı inşaat kullanırken seçilen son malzeme o hızlı inşaat tekrar kullanıldığında kaydedilecek.
+>
+<->Yerleştirme Planlayıcısı - Planlayıcı menüsü kullanıcı deneyimini iyileştirmek için güncellendi, artık daha anlaşılabilir ve kullanımı daha kolay.
+>
+<->Diğer İyileştirmeler - Kimlik Hırsızı şöhretini yeniden dengeledik, mahkumların üzerindeki bastırma etkisinin aşırı olması gibi çeşitli düzeltmeler ve birtakım iyileştirmeler yaptık!
+
+~~~~~~
+
+""Sunset"" Güncellemesi
+> Oynanışı kolaylaştıran geliştirmeler ve hata düzeltmeleriyle dolu!
+
+> Oynayışı Kolaylaştıran Geliştirmeler / Özellikler
+<->Süper Köpek Dönüştürücü: Tükenmek bilmeyen köpek sevdamızdan ötürü Süper Gardiyan dönüştürücüden esinlenerek tüylü dostlarımızı üst seviyeye taşımana yardımcı olacak yeni bir dönüştürücü ekledik.
+<->Kapasitör 2.0: İşte karşında; Kapasitör MaksPlus! Elektrik Santrallerinin önceden ürettiğinin iki katı kadar elektrik üretmesini sağlayacak yükseltilmiş kapasitör.
+<->Kumandalı Kapılar: Ölüm Hücresi ve SüperMaks güvenlik seviyeleri için renkli bir kumandalı kapı seçeneği ekledik.
+<->Polis Panzerlerinin Hızı: Havadan ulaşım sağlayan acil durum birimlerinin verimliliği nedeniyle, İsyan Gardiyanlarını taşıyan Polis Panzerlerinin varış süresini azaltmak için hareket hızını arttırdık. 
+<->Güncellenmiş Açıklamalar: Oyunumuzda genel bir tarama yaparak bazı metinleri güncellemeye ve yeni metinler eklemeye karar verdik. Eşya, Personel ve İhtiyaç açıklaması metinlerinin bazılarını güncelledik.
+
+<->Bu güncellemede oyuncu deneyimini olabildiğince geliştirmeye odaklandık. 
+Prison Architect oynayan herkese teşekkürler.
+

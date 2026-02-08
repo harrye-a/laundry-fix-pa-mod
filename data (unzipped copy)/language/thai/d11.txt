@@ -1,0 +1,1035 @@
+# June27th Update
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_viewchangelog							รายการบันทึกการเปลี่ยนแปลงทั้งหมด
+codex_legal									ถูกกฎหมาย
+codex_privacy								นโยบายความเป็นส่วนตัว
+codex_terms-of-use							ข้อตกลงในการใช้งาน
+codex_eula									ข้อตกลงใบอนุญาตผู้ใช้ปลายทาง
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+													
+interfacemode_wallsanddoors                        			ผนังและประตู
+interfacemode_flooring							การปูพื้น
+tunnelsearch_underway							อยู่ระหว่างค้นหาอุโมงค์
+tunnelsearch_found							ช่อง
+moveobjects_prompt							คลิกสองครั้ง: ย้ายวัตถุ
+moveobjects_abort							คลิกขวา: ยกเลิกการย้าย 
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_wallsanddoors					ผนังและประตูประเภทต่าง ๆ
+buildtoolbar_popup_flooring						ลายพื้นต่าง ๆ
+buildtoolbar_popup_spawn						เปิดเมนูสร้างวัตถุ
+buildtoolbar_tunnelsearch						ค้นหาอุโมงค์
+
+buildtoolbar_tooltip_tunnelsearch					สงสัยว่าจะมีการพยายามหลบหนีเกิดขึ้น? สั่งให้ผู้คุมค้นหาด้านหลังห้องน้ำทุกห้อง 
+
+buildtoolbar_GuardResponse						การตอบสนองของผู้คุม 
+buildtoolbar_tooltip_GuardResponse					เมื่อทำงาน คุณสามารถคลิกซ้ายที่แผนที่เพื่อสั่งให้ผู้คุมที่อยู่ใกล้เคียงเดินไปตำแหน่งที่กำหนด คลิกเพิ่มเพื่อเพิ่มจำนวนผู้คุมที่ต้องการสั่ง คลิกขวาเพื่อหยุด
+
+
+# =============================================================================
+# New Materials
+# =============================================================================
+
+
+material_NewTiledWall							ผนังปูกระเบื้อง
+material_NewBarredWall							ผนังติดกรง
+material_NewBBlockWall							ผนังสีขาว
+material_NewHedgeWall							เครื่องกั้น
+material_NewIronFloor							พื้นเหล็ก
+material_NewCargoFloor							พื้นลำเลียง
+material_NewCheckeredFloor						พื้นลายหมากรุก
+material_Snow								หิมะ
+
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+double_click_select_desc							คลิกสองครั้งเพื่อตาม *E
+
+quickbuild_intermediatecell							 ห้องขังที่ปรับปรุงแล้ว
+quickbuild_holdingcell								ห้องขังชั่วคราว
+quickbuild_medical								หน่วยพยาบาล
+quickbuild_shop									 ร้านค้า
+quickbuild_shower							 	 ห้องอาบน้ำ
+quickbuild_staffroom								 ห้องเจ้าหน้าที่
+quickbuild_workshop								 สถานีงาน
+
+# =============================================================================
+# Main Menu
+# =============================================================================
+
+
+mm_updatenotes_Date								27 มิถุนายน 2019
+mm_updatenotes_Header อัปเดค Clink
+mm_updatenotes_01								เพิ่มกระเบื้องปูพื้นใหม่ 4 แผ่นและลายผนังใหม่ 4 ลายแล้ว
+mm_updatenotes_02								ปรับปรุงระบบการทำงานของเกมเพื่อลดเวลาในการโหลด
+mm_updatenotes_03								เพิ่มขีดกำจัดในการจ้างหัวหน้าคนงานสำหรับเรือนจำขนาดใหญ่ที่ให้หัวหน้าคนงานสอนหลักสูตรต่าง ๆ
+mm_updatenotes_04								วัตถุที่มีอยู่สามารถหมุนได้ครบทุกทิศทางและเพิ่มสไปนต์ใหม่สำหรับทิศทางที่ขาดไป
+mm_updatenotes_05								ปุ่ม 'การตอบสนองของผู้คุม' ใหม่ทำหน้าที่สั่งการผู้คุมที่อยู่ใกล้เคียงให้ไปที่ตำแหน่งที่กำหนด แทนที่จะให้ผู้เล่นจ้างผู้คุมเพิ่มเพื่อจัดการกับเหตุการณ์ 
+mm_updatenotes_06								ปุ่ม 'ค้นหาอุโมงค์' ทำหน้าที่สั่งการผู้คุมให้ค้นหาห้องน้ำทุกห้องที่ซ่อนอุโมงค์หลบหนี 
+mm_updatenotes_07								เพิ่ม 'ห้องด่วน' ไปที่เมนู 'สร้างด่วน' เพื่อสร้างห้องเร็วและง่ายขึ้น
+mm_updatenotes_08								ติดตามนักโทษและเจ้าหน้าที่ง่ายขึ้นด้วยการคลิกไปที่พวกเขาสองครั้ง
+mm_updatenotes_09								สามารถย้ายและเปลี่ยนตำแหน่งวัตถุได้แล้ว! เลือกและคลิกที่วัตถุสองครั้ง
+mm_updatenotes_10								เราหวังว่าคุณจะเพลิดเพลินกับข้อปรับปรุงใหม่เหล่านี้!
+
+﻿
+
+############################### SLAMMER UPDATE ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+
+material_newmud									โคลน
+material_yutaniwall								กำแพงยูทานิ
+
+
+
+
+
+
+
+
+
+
+material_solacofloor							โซลาโค
+material_gratefloor								ชั้นตะแกรง
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+
+object_snowyconifertree							ต้นไม้ (ต้นสนหิมะ)
+
+
+object_palmtree									ต้นไม้ (ต้นปาล์ม)
+object_plant									พื้ช
+
+object_bush										พุ่มไม้
+
+object_streetlamp								ไฟถนน
+
+object_floodlight								ไฟ (แสงไฟกำลังไฟสูง)
+
+
+
+
+
+		
+		
+
+object_bleachers								อัฒจันทร์
+object_smallbench								ม้ายาว (เล็ก)
+object_smalltable								โต๊ะ (เล็ก)
+object_showerpillar								เสาฝักบัว
+
+
+object_doorMat									ผ้าเช็ดเท้าหน้าประตู
+
+object_GuardPavilion							ศาลายาม
+object_GuardPavilionCorner						ศาลายาม (มุม)
+
+object_OfficeChair								เก้าอี้ (ออฟฟิศ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+object_visitorDoor								ประตูผู้มาเยือน
+object_ironingBoardShort						กระดานรีดผ้า (เล็ก)
+object_fencegatestaff							ประตูรั้ว (พนักงาน)
+object_fencegatestandard						ประตูรั้ว (มาตรฐาน)
+object_fencegatevisitor							ประตูรั้ว (ผู้มาเยือน)
+
+
+
+
+
+
+
+
+
+
+
+
+object_walllight								ไฟผนัง
+object_securedoor								ประตู (ปลอดภัย)
+object_secretdoor								ประตู (ลับ)
+
+
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_mat_newmud					มันคือโคลน และมันฟรี
+buildtoolbar_popup_mat_yutaniwall				สร้างกำแพงที่มีรูปร่างหน้าตาไฮเท็คบนรากฐาน เพื่อสร้างพื้นที่หรือห้องใหม่ เหมาะกับพื้นคาร์โกหรือโซลาโค
+
+buildtoolbar_popup_mat_newbblockwall			สร้างกำแพงที่ทำจากบรีซบล็อคบนรากฐาน เพื่อสร้างพื้นที่หรือห้องใหม่
+buildtoolbar_popup_mat_newbarredwall			สร้างกำแพงที่มีส่วนผนังกั้นบนรากฐาน เพื่อสร้างพื้นที่หรือห้องใหม่
+buildtoolbar_popup_mat_newtiledwall				สร้างกำแพงที่ทำจากบรีซบล็อค เพื่อสร้างพื้นที่หรือห้องใหม่
+buildtoolbar_popup_mat_newhedgewall				พุ่มไม้ที่สูงแต่ไ่มแข็งแรง เป็นของตกแต่งสวยงามมากกว่าจะเป็นกลไกป้องกันความปลอดภัยที่่มีประสิทธิภาพ
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_mat_solacofloor				ให้ภาพลักษณ์ไฮเท็คกับพื้นห้องคุมขังของเรา ไปได้ดีกับกำแพงยูทานิ
+buildtoolbar_popup_mat_gratefloor				ให้ภาพลักษณ์ไฮเท็คกับพื้นห้องคุมขังของเรา 
+buildtoolbar_popup_mat_newcargofloor			ให้ภาพลักษณ์แบบผลิตตามสั่งกับพื้นห้องคุมขังของเรา 
+buildtoolbar_popup_mat_newironfloor				ให้ภาพลักษณ์แบบผลิตตามสั่งกับพื้นห้องคุมขังของเรา 
+buildtoolbar_popup_mat_newcheckeredfloor		มันน่าจะดูดีในครัวหรือโรงอาหารของคุณ
+buildtoolbar_popup_mat_snow						มันเป็นเหมือนน้ำ เพียงแค่เย็นกว่าและสวยงามกว่า
+
+
+
+
+
+buildtoolbar_popup_obj_snowyconifertree			จะดูเหมาะที่สุดบนผืนแผ่นดินที่ปกคลุมไปด้วยหิมะ
+
+
+buildtoolbar_popup_obj_palmtree					โดยปกติจะงอกในดินแห้ง แต่ตอนนี้คุณสามารถ ตัดสินใจปลูกมันที่ไหนก็ได้ที่ต้องการ
+
+
+buildtoolbar_popup_obj_bush						ให้การตกแต่งเล็กน้อยกับพื้นที่กลางแจ้ง
+
+buildtoolbar_popup_obj_streetlamp				เพื่อส่องแสงสว่างถนนและทางเดิน
+
+buildtoolbar_popup_obj_floodlight				ไฟกลาแจ้งสูงที่สามารถครอบคลุมพื้นที่ขนาดใหญ่เช่นสวนต่างๆ
+
+
+
+
+
+	
+
+
+buildtoolbar_popup_obj_bleachers				อัฒจันทร์ในสนามเรือนจำ สำหรับให้กลุ่มนักโทษนั่งและวางแผนเคลื่อนไหวต่อไป
+buildtoolbar_popup_obj_smallbench				สำหรับนั่ง
+buildtoolbar_popup_obj_smalltable				สำหรับนั่งกินข้าว
+buildtoolbar_popup_obj_showerpillar				เพื่อวางรตำแหน่งตรงกลางห้องอาบน้ำ และติดตั้งหัวฝักบัวในแต่ละด้าน
+
+
+buildtoolbar_popup_obj_doorMat					พรมเช็ดเท้ายางหน้าประตูถูกๆที่อาจดูดีข้างหน้าทางเข้าประตู
+
+
+buildtoolbar_popup_obj_guardPavilion			วางในสนามหรือพื้นที่โล่งสำหรับให้ยามและยามติดอาวุธคอยเฝ้าระวังนักโทษของคุณ \n มอบหมายยามผ่านทางเมนูสั่งงาน \n -เพิ่มระดับการควบคุมในพื้นที่ \n – ให้พวกยามได้หลบจากสภาพอากาศ
+buildtoolbar_popup_obj_guardPavilionCorner		วางในมุมต่างๆของสนามและพื้นที่โล่ง สำหรับให้ยามและยามติดอาวุธคอยเฝ้าระวังนักโทษของคุณ \n มอบหมายยามผ่านทางเมนูสั่งงาน \n -เพิ่มระดับการควบคุมในพื้นที่ \n – ให้พวกยามได้หลบจากสภาพอากาศ
+
+buildtoolbar_popup_obj_officeChair				เก้าอี้สำหรับเจ้าหน้าที่ไว้นั่งรวมกันตรงกลางที่โต๊ะออฟฟิศ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_obj_visitorDoor				ประตูที่ให้แขกผู้มาเยือนเรื่อนจำผ่านเข้ามา โดยที่ยามไม่ต้องเปิดประตูให้ ยามและเจ้าหน้าที่อาจใช้ประตูนี้ แต่ไม่ใช่สำหรับนักโทษ
+buildtoolbar_popup_obj_ironingBoardShort		กระดานรีดผ้าแบบสั้น
+buildtoolbar_popup_obj_fencegatestaff			ประตูรั้วที่ดูดีมากกับรั้วแบบต่างๆ  และใช้งานในแบบเดียวกับประตูทั่วไป
+buildtoolbar_popup_obj_fencegatestandard		ประตูรั้วที่ดูดีมากกับรั้วแบบต่างๆ และใช้งานในแบบเดียวกับประตูทั่วไป
+buildtoolbar_popup_obj_fencegatevisitor			ประตูรั้วที่ดูดีมากกับรั้วแบบต่างๆ และใช้งานในแบบเดียวกับประตูทั่วไป
+
+
+
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_obj_walllight				ไฟแบบบังค์เกอร์สำหรับติดบนผนัง
+buildtoolbar_popup_obj_securedoor				ประตูที่ออกแบบห้องคุมขังเดี่ยวที่มีช่องส่งอาหาร  ยามสามารถส่งถาดอาหารผ่านประตู โดยไม่ต้องเข้าไปข้างในห้องขัง
+
+
+interfacedeployment_guards                      มอบหมายยาม
+buildtoolbar_deployment_Guards			มอบหมายยามไปยังส่วนต่างๆของเรือนจำของคุณ
+	
+interfacedeployment_Dogs			มอบหมายผู้ดูแลสุนัข
+buildtoolbar_deployment_Dogs			มอบหมายผู้ดูแลสุนัขไปยังส่วนต่างๆของเรือนจำของคุณ
+
+interfacedeployment_ArmedGuards			มอบหมายยามติดอาวุธ
+buildtoolbar_deployment_ArmedGuards		มอบหมายยามติดอาวุธไปยังส่วนต่างๆของเรือนจำของคุณ 
+
+interfacedeployment_patrols                     มอบหมายยาม
+buildtoolbar_deployment_Patrols			มอบหมายยามไปยังเส้นทางลาดตระเวนในเรือนจำของคุณ
+
+interfacedeployment_dogpatrols                  มอบหมายผู้ดูแลสุนัข
+buildtoolbar_deployment_DogPatrols		มอบหมายผู้ดูแลสุนัขไปยังเส้นทางลาดตระเวนในเรือนจำของคุณ
+
+interfacedeployment_armedpatrols                มอบหมายยามติดอาวุธ
+buildtoolbar_deployment_ArmedPatrols		มอบหมายยามติดอาวุธไปยังเส้นทางลาดระเวนในเรือนจำของคุณ
+
+buildtoolbar_popup_help_Guards_1        เครื่องมือยามช่วยให้คุณวางตำแหน่งยามในโซนต่างๆ ยามที่ได้รับการวางตำแหน่งจะเคลื่่อนย้ายแบบสุ่้มไปรอบๆโซนที่ได้รับมอบหมาย และจะทำหน้าที่รักษาความปลอดภัยต่้างๆในพื้นที่ เช่นการเปิดประตู 
+buildtoolbar_popup_help_Guards_2        ~คลิกซ้ายเพื่อเพิ่มจำนวนผู้ดูแลสุนัขที่สั่งลงปฏิบัติงานในพื้นที่หนึ่ง คลิกขวาเพื่อเอายามออกคนหนึ่ง \n\n
+buildtoolbar_popup_help_Guards_3        ^เคล็ดลับ
+buildtoolbar_popup_help_Guards_4        - หากคุณปลดล็อคการบริหารแบบจุลภาค คุณจะสามารถใช้เครื่องกำหนดเวลาการเคลื่อนกำลังพลได้ ซึ่งจะทำให้คุณสามารถสร้างตารางเวลาที่ผู้คุมจะได้รับมอบหมายให้ดูแลบางพื้นที่ ตัวอย่างเช่น หากคุณต้องการให้ผู้คุมอยู่ในโรงอาหารในระหว่างที่มีการควบคุมการรับประทานอาหาร คุณสามารถคลิกแต่ละบล็อคของเครื่องกำหนดเวลาที่สอดคล้องกับการควบคุมการรับประทานอาหารของคุณ แล้วเลื่อนตัวสไลด์เวลาเข้าไปในบล็อคนั้นแล้วคลิกที่โรงอาหารของคุณเพื่อมอบหมายผู้คุม
+buildtoolbar_popup_help_Guards_5        - คุณมีถึง 7 บล็อคเวลาต่างๆที่มีให้จัดตารางเวลา บวกกับโหมดแอคทีฟตลอดเวลาเป็นโหมดตั้งต้น ซึ่งช่วยให้คุณสร้างรูปแบบการสั่งปฏิบัติการที่ซับซ้อนที่สอดคล้องกับความต้องการของเรือนจำของคุณ
+buildtoolbar_popup_help_Guards_6        - หากคุณไม่เลือกบล็อคเวลาด้วยตัวเองเมื่อมอบหมายผู้ดูแลสุนัข ระบบจัดตารางเวลาจะใช้เวลาปัจจุบัน; ตรวจสอบให้แน่ใจว่าคุณเลือกเวลาที่ถูกต้องเมื่่อเปลี่่ยนการสั่งงาน!
+
+buildtoolbar_popup_help_Dogs_1        เครื่องมือผู้ดูแลสุนัขให้คุณวางตำแหน่งผู้ดูแลสุนัขในโซน ยามที่ถูกวางตำแหน่งจะเคลื่่อนย้ายแบบสุ่้มไปรอบๆโซนที่ได้รับมอบหมาย และจะทำหน้าที่รักษาความปลอดภัยต่้างๆในพื้นที่ เช่นการเปิดประตู 
+buildtoolbar_popup_help_Dogs_2        ~คลิกซ้ายเพื่อเพิ่มจำนวนผู้ดูแลสุนัขที่สั่งลงปฏิบัติงานในพื้นที่หนึ่ง คลิกขวาเพื่อเอาผู้ดูแลสุนัขออกคนหนึ่ง \n\n
+buildtoolbar_popup_help_Dogs_3        ^เคล็ดลับ
+buildtoolbar_popup_help_Dogs_4        - หากคุณปลดล็อคการบริหารแบบจุลภาค คุณจะสามารถใช้เครื่องกำหนดเวลาการเคลื่อนกำลังพลได้ ซึ่งจะทำให้คุณสามารถสร้างตารางเวลาที่ผู้ควบคุมสุนัขจะได้รับมอบหมายให้ดูแลบางพื้นที่ ตัวอย่างเช่น หากคุณต้องการให้ผู้ควบคุมสุนัขอยู่ในโรงอาหารในระหว่างที่มีการควบคุมการรับประทานอาหาร คุณสามารถคลิกแต่ละบล็อคของเครื่องกำหนดเวลาที่สอดคล้องกับการควบคุมการรับประทานอาหารของคุณ แล้วเลื่อนตัวสไลด์เวลาเข้าไปในบล็อคนั้นแล้วคลิกที่โรงอาหารของคุณเพื่อมอบหมายผู้ควบคุมสุนัข
+buildtoolbar_popup_help_Dogs_5        - คุณมีถึง 7 บล็อคเวลาต่างๆที่มีให้จัดตารางเวลา บวกกับโหมดแอคทีฟตลอดเวลาเป็นโหมดตั้งต้น ซึ่งช่วยให้คุณสร้างรูปแบบการสั่งปฏิบัติการที่ซับซ้อนที่สอดคล้องกับความต้องการของเรือนจำของคุณ
+buildtoolbar_popup_help_Dogs_6        - หากคุณไม่เลือกบล็อคเวลาด้วยตัวเองเมื่อมอบหมายผู้ดูแลสุนัข ระบบจัดตารางเวลาจะใช้เวลาปัจจุบัน; ตรวจสอบให้แน่ใจว่าคุณเลือกเวลาที่ถูกต้องเมื่่อเปลี่่ยนการสั่งงาน!
+
+buildtoolbar_popup_help_ArmedGuards_1        เครื่องมือยามติดอาวุธให้คุณวางตำแหน่งผู้ยามติดอาวุธในโซน ยามที่ถูกวางตำแหน่งจะเคลื่่อนย้ายแบบสุ่้มไปรอบๆโซนที่ได้รับมอบหมาย และจะทำหน้าที่รักษาความปลอดภัยต่้างๆในพื้นที่ เช่นการเปิดประตู 
+buildtoolbar_popup_help_ArmedGuards_2        ~คลิกซ้ายเพื่อเพิ่มจำนวนยามที่สั่งลงปฏิบัติงานในพื้นที่หนึ่ง คลิกขวาเพื่อเอาผู้ยามออกคนหนึ่ง \n\n
+buildtoolbar_popup_help_ArmedGuards_3        ^เคล็ดลับ
+buildtoolbar_popup_help_ArmedGuards_4        - หากคุณปลดล็อคการบริหารแบบจุลภาค คุณจะสามารถใช้เครื่องกำหนดเวลาการเคลื่อนกำลังพลได้ ซึ่งจะทำให้คุณสามารถสร้างตารางเวลาที่ผู้คุมติดอาวุธจะได้รับมอบหมายให้ดูแลบางพื้นที่ ตัวอย่างเช่น หากคุณต้องการให้ผู้คุมติดอาวุธอยู่ในโรงอาหารเท่านั้นในระหว่างที่มีการควบคุมการรับประทานอาหาร คุณสามารถคลิกแต่ละบล็อคของเครื่องกำหนดเวลาที่สอดคล้องกับการควบคุมการรับประทานอาหารของคุณ แล้วเลื่อนตัวสไลด์เวลาเข้าไปในบล็อคนั้นแล้วคลิกที่โรงอาหารของคุณเพื่อมอบหมายผู้คุมติดอาวุธ
+buildtoolbar_popup_help_ArmedGuards_5        - คุณมีถึง 7 บล็อคเวลาต่างๆที่มีให้จัดตารางเวลา บวกกับโหมดแอคทีฟตลอดเวลาเป็นโหมดตั้งต้น ซึ่งช่วยให้คุณสร้างรูปแบบการสั่งปฏิบัติการที่ซับซ้อนที่สอดคล้องกับความต้องการของเรือนจำของคุณ
+buildtoolbar_popup_help_ArmedGuards_6        - หากคุณไม่เลือกบล็อคเวลาด้วยตัวเองเมื่อมอบหมายยามติดอาวุธ ระบบจัดตารางเวลาจะใช้เวลาปัจจุบัน; ตรวจสอบให้แน่ใจว่าคุณเลือกเวลาที่ถูกต้องเมื่่อเปลี่่ยนการสั่งงาน!
+
+interfacedeployment_PrioritizeArea			จัดลำดับความสัำคัญพื้นที่ (*X)
+buildtoolbar_deployment_PrioritizeGuard			ใช้ตัวเลือกนี้เพื่อจัดลำดับความสำคัญยามที่มอบหมายให้ดูแลส่วนตา่งๆรอบๆเรือนจำของคุณ หากคุณขาดบุคลากร ยามจะพยายามดูแลพื้นที่ที่ให้ความสำคัญมากที่สุดของคุณก่อน มีสองระดับความสำคัญ; “สูง” (>>) และ “สูงมาก” (>>>)
+
+interfacedeployment_BluePatrol				เส้นทางลาดตระเวนสีน้ำเงิน
+buildtoolbar_deployment_BluePatrol			เส้นทางลาดตระเวนที่มีสีช่วยให้คุณสามารถมอบหมายพื้นที่ทับซ้อนกันและมอบหมายยามเฉพาะสำหรับเส้นทางนั้นๆ คลิกเพื่อลากและสร้างเส้นทางลาดตระเวนสีน้ำเงิน คลิกขวาเพื่อลากและลบเส้นทางลาดตระเวนสีน้ำเงิน ใช้ปุ่มมอบหมายยามเพื่อเพิ่มยามไปยังเส้นทางลาดตระเวน
+
+interfacedeployment_MagentaPatrol			เส้นทางลาดตระเวนสีม่วง
+buildtoolbar_deployment_MagentaPatrol			เส้นทางลาดตระเวนที่มีสีช่วยให้คุณสามารถมอบหมายพื้นที่ทับซ้อนกันและมอบหมายยามเฉพาะสำหรับเส้นทางนั้นๆ คลิกเพื่อลากและสร้างเส้นทางลาดตระเวนสีม่วง คลิกขวาเพื่อลากและลบเส้นทางลาดตระเวนสีม่วง ใช้ปุ่มมอบหมายยามเพื่อเพิ่มยามไปยังเส้นทางลาดตระเวน
+
+interfacedeployment_PrioritizePatrol			จัดลำดับความสัำคัญเส้นทางลาดตระเวน
+buildtoolbar_deployment_PrioritizePatrol		ใช้ตัวเลือกนี้เพื่อจัดลำดับความสำคัญยามที่มอบหมายให้ดูแลเส้นทางลาดตระเวนต่างๆรอบๆเรือนจำของคุณ หากคุณขาดบุคลากร ยามจะพยายามดูแลพื้นที่ที่ให้ความสำคัญมากที่สุดของคุณก่อน มีสองระดับความสำคัญ; “สูง” (>>) และ “สูงมาก” (>>>)
+
+buildtoolbar_popup_filter_title                 ลิสต์ตัวกรอง
+buiildtoolbar_popup_filter_toggle               คลิกปุ่มเพื่อเลือกสลับ
+buildtoolbar_popup_filter_default               ค่าตั้งต้น
+buildtoolbar_popup_filter_az                    A-Z
+buildtoolbar_popup_filter_owned                 มีเจ้าของ
+buildtoolbar_popup_filter_costhighlow           ต้นทุน (สูง-ต่ำ)
+buildtoolbar_popup_filter_costlowhigh           ต้นทุน (ต่ำ-สูง)
+buildtoolbar_popup_filter_indooroutdoor         ในร่ม-กลางแจ้ง
+buildtoolbar_popup_filter_outdoorindoor         กลางแจ้ง-ในร่ม
+buildtoolbar_popup_filter_quantity               ประมาณที่มีในครอบครอง
+buildtoolbar_popup_filter_byroom                ตามห้อง
+
+
+
+
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+double_click_move_item							คลิกดับเบิ้ล:เคลื่อนย้ายวัตถุ
+
+double_click_add_door							คลิกซ้ายดับเบิ้ลเพื่อเพิ่มประตู
+
+codex_option_bureaucracyresearched				ได้มีการศึกษาระบบราชการแล้ว
+codex_tooltip_bureaucracyresearched				เริ่มเกมใหม่โดยมีการศึกษาแผนผังระบบราชการทั้งหมดแล้ว
+
+codex_option_jungle						ที่ดินป่าดงดิบ
+codex_tooltip_jungle						สร้างบริเวณที่ดินเริ่มต้นที่มีความคล้ายป่ารกทึบ
+
+codex_option_snowy						พื้นที่หิมะ
+codex_tooltip_snowy						สร้างบริเวณที่ดินเริ่มต้นที่ปกคลุมไปด้วยหิมะ
+
+# =============================================================================
+# Misc
+# =============================================================================
+action_WashSmall								การล้าง
+
+action_Stretching								การออกกำลังกาย
+action_PlayChess								การเล่นหมากรุก
+
+
+plant_tree_location								ปลูกต้นไม้ใน *X
+
+report_intake_cat_SuperMax							SuperMax
+
+interface_undo							เลิกทำ
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_save_failed                               รักษาเรื่อนจำไว้ไม่สำเร็จ
+codex_changelog_next                            ต่อไป >
+codex_changelog_prev                            < ก่อนหน้า
+codex_credits                                   เครดิต
+
+codex_options_screenshotmode					โหมดจับภาพหน้าจอ
+codex_tooltip_screenshotmode					ขณะอยู่ในโหมดจับภาพหน้าจอ กดปุ่ม [*K] ค้างไว้ และกด [*E] เพื่อเปิดปิด UI และ HUD
+codex_sso_content_message						คุณได้ลงชื่อสมัครบัญชี Paradox แล้ว \n\n เพื่อเป็นการขอบคุณ หอคอยการ์ดพาวิลเลี่ยนใหม่ได้ถูกปลดล็อคในเกมแล้ว! หามันได้ในเมนูวัตถุ
+codex_options_borderless_windowed               ไม่มีเขตแดน
+codex_options_monitor                           จอแสดงผล
+
+
+# =============================================================================
+# Things from Gaz that we might be able to squeeze in, that would be useful to translate please
+# =============================================================================
+
+codex_options_display_mode              	โหมดแสดงภาพ
+codex_options_borderless_fullscreen		เต็มหน้าจอแบบไร้ขอบ
+codex_options_display_monitor 			จอแสดงผล
+codex_options_windowed_resolution               ความละเอียดของหน้าต่าง
+
+############################### PSYCH WARD UPDATE ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+material_artdecowall							กำแพง (อาร์ตเดโค)
+material_blueWall								กำแพงแบบหรูหรา (ลายคาดสีฟ้า)
+material_burgundyWall							กำแพงแบบหรูหรา (เบอร์กันดี)
+material_greenWall								กำแพงแบบหรูหรา (สีเขียว)
+material_orientalWall							กำแพง (ศิลปะตะวันออก)
+material_cushionedwall							กำแพง (กันกระแทก)
+
+material_sandstone								หินทราย 
+material_limestonefloor							หินปูน 
+material_blueCarpet								พรม (สีฟ้า)
+material_redCarpet								พรม (สีแดง)
+material_brownCarpet							พรม (สีน้ำตาล)
+material_paddedfloor							กันกระแทก
+material_grassstones							หญ้า และ หิน
+material_grasscornerfloor						หญ้า
+material_grasscornerfloor1						หญ้า
+material_grasscornerfloor2						หญ้า
+material_grasscornerfloor3						หญ้า
+material_lunarfloor								ดวงจันทร์
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+object_spookytree								ต้นไม้ (น่ากลัว)
+object_cactustree								ต้นไม้ (กระบองเพชร)
+object_sakuratree								ต้นไม้ (ซากุระ)
+object_plantcactus								พืช (กระบองเพชร)
+object_tyrestack								ล้อซ้อน
+object_lamp										ไฟส่องสว่าง (ตะเกียง)
+object_bathroomSink								อ่างล้างมือห้องน้ำ
+object_bathroomHandDryer						ที่เป่าแห้งมือ
+object_chestOfDrawers							ลิ้นชัก
+object_woodenStool								เก้าอี้ไม้
+object_woodenTable								โต๊ะไม้			
+object_bucket									ถัง
+object_shortbookcase							ตู้หนังสือ (เตี้ย)
+object_outdoorTable								โต๊ะกลางแจ้ง
+object_mooseHead								หัวกวางมูส
+object_toiletSign								ป้าย (ห้องน้ำ)
+object_rightArrowSign							ป้าย (ลูกศรขวา)
+object_leftArrowSign							ป้าย (ลูกศรซ้าย)
+object_infirmarySign							ป้าย (ห้องพยาลาล)
+object_canteenSign								ป้าย (ห้องครัว)
+object_showerSign								ป้าย (ห้องอาบน้ำ)
+object_armourySign								ป้าย (คลังอาวุธ)
+object_jaildoorred								ประตูเรือนจำ (แดง)
+object_jaildoorgrey								ประตูเรือนจำ (เทา)
+object_jaildoororange							ประตูเรือนจำ (ส้ม)
+object_jaildoorYellow							ประตูเรือนจำ (เหลือง)
+object_jaildoorlargered							ประตูเรือนจำขนาดใหญ่ (แดง)
+object_jaildoorlargegrey						ประตูเรือนจำขนาดใหญ่ (เทา)
+object_jaildoorlargeorange						ประตูเรือนจำขนาดใหญ่ (ส้ม)
+object_jaildoorlargeyellow						ประตูเรือนจำขนาดใหญ่ (เหลือง)
+object_coatstand								ที่แขวนเสื้อ
+object_dogbowl									ชามอาหารสุนัข
+object_footbridge                               สะพานลอย
+object_footbridgesteel                          สะพานลอยข้างถนน
+object_footbridgeb                              สะพานลอย B
+object_footbridgesteelb                         สะพานลอยข้างถนน B
+object_windowclassy								หน้าต่างหรูหรา
+object_windowclassyLarge						หน้าต่างหรูหรา (ใหญ่)
+object_gravestone								ป้ายสุสาน
+object_psychiatrist								จิตแพทย์
+object_orderly									เรียงตามลำดับ
+object_rorschachTest							แบบทดสอบรอร์ชัค
+object_anatomyModel								หุ่นจำลองกายวิภาค
+object_flipboard								ฟลิปบอร์ด
+object_medicineCabinetPsych						ตู้ยา
+object_leatherchair								เก้าอี้หนัง
+object_leatherSofa								โซฟาหนัง
+object_parkbench								เก้าอี้ยาว (สวน)
+object_fencegateguard							ประตูรั้ว (ของผู้คุม)
+object_oaktable									โต๊ะ (โอ๊ค)
+object_oakbench									เก้าอี้ยาว (โอ๊ค)
+object_BoomBoxRoundHouse						วิทยุ
+
+object_classic									คลาสสิค
+object_dalmation								แดลเมเชียน
+object_husky									ฮัสกี้
+object_companion								เพื่อนคู่กาย
+object_cat										แมว
+object_direwoof									ไดร์วูล์ฟ
+
+equipment_fountainPen							ปากกาหมึกซึม
+equipment_goldPocketWatch						นาฬิกาพกสีทอง
+equipment_sedativeShot							ยากล่อมประสาทแบบช็อต (เข็มฉีดยา)
+equipment_sedativesyringe						ยากล่อมประสาท (เข็มฉีดยา)
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_mat_artdecowall				สร้างกำแพงอาร์ตเดโคเพื่อตกแต่งเรือนจำให้เหมือนสถาปัตยกรรมสมัยปี 1920
+buildtoolbar_popup_mat_blueWall					สร้างกำแพงหรูหราที่ด้านบนของฐานรากเพื่อสร้างพื้นที่พนักงานและห้องใหม่ๆ
+buildtoolbar_popup_mat_burgundywall				สร้างกำแพงหรูหราที่ด้านบนของฐานรากเพื่อสร้างพื้นที่พนักงานและห้องใหม่ๆ
+buildtoolbar_popup_mat_greenwall				สร้างกำแพงหรูหราที่ด้านบนของฐานรากเพื่อสร้างพื้นที่พนักงานและห้องใหม่ๆ
+buildtoolbar_popup_mat_orientalwall				สร้างกำแพงศิลปะตะวันออกเพื่อสร้างพื้นที่เรือนจำที่ดูเหมือนยุคญี่ปุ่นโบราณ
+buildtoolbar_popup_mat_cushionedwall			สร้างกำแพงที่ด้านบนของฐานรากเพื่อสร้างพื้นที่หรือห้องที่ดูให้ความรู้สึกร่ำรวย พร้อมเครื่องหนังสวยๆ
+buildtoolbar_popup_mat_sandstone				วางหินทรายที่พื้นที่ด้านนอก
+buildtoolbar_popup_mat_limestonefloor			สีพื้นเป็นสีเขียวมะนาวอ่อนๆ
+buildtoolbar_popup_mat_blueCarpet				วางพรมนุ่มๆ เป็นที่ที่เหมาะกับพนักงานสุดๆ
+buildtoolbar_popup_mat_redCarpet				วางพรมนุ่มๆ เป็นที่ที่เหมาะกับพนักงานสุดๆ
+buildtoolbar_popup_mat_brownCarpet				วางพรมนุ่มๆ เป็นที่ที่เหมาะกับพนักงานสุดๆ
+buildtoolbar_popup_mat_paddedfloor				สร้างกำแพงกันกระแทกเพื่อสร้างเรือนจำกันกระแทกสำหรับอาชญากรวิกลจริต
+buildtoolbar_popup_mat_grassstones				พื้นที่สนามหญ้าพร้อมหินปูพื้น
+buildtoolbar_popup_mat_grassscornerfloor		สนามหญ้าพร้อมดิน เหมาะสำหรับสร้างทางเดิน
+buildtoolbar_popup_mat_lunarfloor				พื้นผิวแบบก้อนหินให้ความรู้สึกเหมือนอยู่บนดวงดาว
+buildtoolbar_popup_obj_spookytree				ต้นไม้ขนหัวลุก
+buildtoolbar_popup_obj_cactustree				เหมาะที่จะปลูกบนที่แห้งมากที่สุด
+buildtoolbar_popup_obj_sakuratree				ต้นเชอร์รี่อันสวยงามที่มีดอกสีชมพู
+buildtoolbar_popup_obj_plant					ต้นไม้ประดับอันงดงาม
+buildtoolbar_popup_obj_plantcactus				ต้นกระบอกเพชรสำหรับปลูกในอาคาร
+buildtoolbar_popup_obj_tyrestack				ทำหน้าที่เป็นกำแพงขนาดเล็กให้นักโทษและเจ้าหน้าที่เดินไปมา
+buildtoolbar_popup_obj_lamp						ตะเกียงตั้งพื้นเหมาะสำหรับพื้นที่ในออฟฟิศของพนักงาน
+buildtoolbar_popup_obj_bathroomSink				ห้องน้ำสะอาดๆ ทุกที่ต้องมีมัน
+buildtoolbar_popup_obj_bathroomHandDryer		เข้ากับอ่างล้างมือห้องน้ำเป็นอย่างดี
+buildtoolbar_popup_obj_chestOfDrawers			ลิ้นชักไม้
+buildtoolbar_popup_obj_woodenStool				เข้ากับโต๊ะไม้อย่างดี
+buildtoolbar_popup_obj_woodenTable				เข้ากับเก้าอี้ไม้อย่างดี	
+buildtoolbar_popup_obj_bucket					ถังธรรมดาๆ
+buildtoolbar_popup_obj_shortbookcase			ตู้หนังสื้อเตี้ยๆ
+buildtoolbar_popup_obj_outdoorTable				สำหรับให้นักโทษได้นั่งและกินข้าวนอกอาคาร
+buildtoolbar_popup_obj_mooseHead				หัวกวางมูสอันงดงาม
+buildtoolbar_popup_obj_toiletSign				กำแพงที่มีป้ายห้องน้ำติดอยู่
+buildtoolbar_popup_obj_rightArrowSign			กำแพงที่มีป้ายลูกศรชี้ทางขวาติดอยู่
+buildtoolbar_popup_obj_leftArrowSign			กำแพงที่มีป้ายลูกศรชี้ทางซ้ายติดอยู่
+buildtoolbar_popup_obj_infirmarySign			กำแพงที่มีป้ายห้องพยาบาลติดอยู่
+buildtoolbar_popup_obj_canteenSign				กำแพงที่มีป้ายห้องครัวติดอยู่
+buildtoolbar_popup_obj_showerSign				กำแพงที่มีป้ายห้องอาบน้ำติดอยู่
+buildtoolbar_popup_obj_armourySign				กำแพงที่มีป้ายห้องคลังอาวุธติดอยู่
+buildtoolbar_popup_obj_jaildoorred				ประตูห้องขังทาสีที่ช่วยให้รู้ว่ามีการวางการป้องกันอย่างเต็มที่
+buildtoolbar_popup_obj_jaildoorgrey				ประตูห้องขังทาสีที่ช่วยให้รู้ว่ามีการวางการป้องกันที่ต่ำ
+buildtoolbar_popup_obj_jaildoororange			ประตูห้องขังทาสีที่ช่วยให้รู้ว่ามีการวางการป้องกันแบบปกติ
+buildtoolbar_popup_obj_jaildooryellow			ประตูห้องขังทาสีที่ช่วยให้รู้ว่าเป็นห้องนักโทษคุ้มครอง
+buildtoolbar_popup_obj_jaildoorlargered			ประตูห้องขังทาสีขนาดใหญ่ที่ช่วยให้รู้ว่ามีการวางการป้องกันอย่างเต็มที่
+buildtoolbar_popup_obj_jaildoorlargegrey		ประตูห้องขังทาสีขนาดใหญ่ที่ช่วยให้รู้ว่ามีการวางการป้องกันที่ต่ำ
+buildtoolbar_popup_obj_jaildoorlargeorange		ประตูห้องขังทาสีขนาดใหญ่ที่ช่วยให้รู้ว่ามีการวางการป้องกันแบบปกติ
+buildtoolbar_popup_obj_jaildoorlargeYellow		ประตูห้องขังทาสีขนาดใหญ่ที่ช่วยให้รู้ว่าเป็นห้องนักโทษคุ้มครอง
+buildtoolbar_popup_obj_coatstand				ที่สำหรับวางเสื้อและหมวกของเจ้าหน้าที่
+buildtoolbar_popup_obj_dogbowl					ไว้ใส่น้ำและอาหารสำหรับสุนัขที่เหน็ดเหนื่อยของผู้คุม\nเพิ่มค่าพลังกายของสุนัขเล็กน้อย
+buildtoolbar_popup_obj_secretdoor				ประตูลับที่ทำเป็นตู้หนังสือสามารถเปิดให้เจ้าหน้าที่ผ่านเข้าไปได้
+buildtoolbar_popup_obj_parkbench				เก้าอี้ยาวนอกอาคาร
+buildtoolbar_popup_obj_fencegateguard			ประตูรั้วที่ดูน่าเกรงขาม เฉพาะผู้คุมเท่านั้นที่เปิดได้
+buildtoolbar_popup_obj_oaktable					ใช้นั่งกินอาหาร
+buildtoolbar_popup_obj_oakbench					ใช้นั่ง เข้ากันดีกับโต๊ะโอ๊ค
+
+buildtoolbar_popup_obj_classic					สุนัขเฝ้ายามรุ่นเดอะ แก่แต่เก๋า
+buildtoolbar_popup_obj_dalmation				เคยอาศัยอยู่ในฟาร์ม แต่ตอนนี้ทำหน้าที่ช่วยป้องกันการหลบหนี
+buildtoolbar_popup_obj_husky					กับดักสุดอันตรายสำหรับผู้หลบหนี วิ่งในหิมะได้อย่างว่องไว
+buildtoolbar_popup_obj_companion				เพื่อนซี้ของผู้คุม
+buildtoolbar_popup_obj_cat						ไม่ใช่ทุกคนที่ชอบสุนัข
+buildtoolbar_popup_obj_direwoof					ใครจะกล้าหนีอีกละแบบนี้
+
+buildtoolbar_popup_filter_mostused				ใช้บ่อยที่สุด
+buildtoolbar_caters_safety						พาไปยังที่ปลอดภัย
+
+interfacedeployment_orderly						กำหนดตามลำดับ
+buildtoolbar_deployment_orderly					กำหนดให้ผู้คุมไปประจำในส่วนต่างๆ ของเรือนจำตามลำดับ
+
+interfacedeployment_orderlypatrols				กำหนดตามลำดับ
+buildtoolbar_deployment_orderlypatrols			กำหนดให้ผู้คุมเดินลาดตระเวนรอบๆ เรือนจำตามลำดับ
+
+room_PaddedCell                                ห้องขังกันกระแทก
+room_PaddedHoldingCell                         ห้องขังชั่วคราวกันกระแทก
+room_PsychiatristOffice							สำนักงานของจิตแพทย์
+
+interfaceplanning_BuildPlan			สร้างแผนผัง
+interfaceplanning_ClearPlan			ลบแผนผัง
+interfaceplanning_Door				ประตู
+
+buildtoolbar_improvement						- พัฒนาระดับของ *R
+buildtoolbar_improvement_windows				 (เมื่อมองไปด้านนอก)
+
+buildplan_title					เลือกประเภทของกำแพง			
+buildplan_message				พร้อมสร้างแผนผังแล้วรึยัง\n	การกระทำนี้จะไม่สามารถเปลี่ยนแปลงได้\n\n	กำแพงทั้งหมดที่ทำไว้ในแผนผังจะถูกสร้างด้วยกำแพงประเภทเดียวกันทั้งหมด\n	สามารถเปลี่ยนประเภทของกำแพงได้ตามด้านล่าง
+clearplan_title					ลบแผนผัง
+clearplan_message				คุณต้องการลบแผนผังที่เขียนไว้ทั้งหมดใช่หรือไม่\n\n	การกระทำนี้จะไม่สามารถเปลี่ยนแปลงได้
+
+d11_custom_planning 				แผนผังแบบกำหนดเอง
+
+buildtoolbar_popup_planning			วางแผนเรือนจำของคุณได้โดยไม่ต้องกลัวว่าคนงานจะเริ่มก่อสร้างอะไรลงไป จนกว่าคุณจะพร้อม เมนูแผนผังจะช่วยให้คุณสามารถเลือกและสร้างโครงสร้างและประตูตามที่วางแผน ลบบางส่วนออกจากแผนผัง หรือลบแผนผังทั้งหมดและสร้างขึ้นมาใหม่ได้
+
+buildtoolbar_popup_help_planningDoor_1		ประเภทของประตูที่เลือกจะถูกนำมาใช้เมื่อคุณสร้างประตูในแผนผัง
+buildtoolbar_popup_help_quickBuildWall_1	ประเภทของกำแพงที่เลือกจะถูกนำมาใช้ในการใช้สร้างทันทีครั้งต่อไป
+
+
+buildtoolbar_popup_mat_blueclassywall			สร้างกำแพงหรูหราที่ด้านบนของฐานรากเพื่อสร้างพื้นที่พนักงานและห้องใหม่ๆ
+buildtoolbar_popup_mat_burgundyclassywall		สร้างกำแพงหรูหราที่ด้านบนของฐานรากเพื่อสร้างพื้นที่พนักงานและห้องใหม่ๆ
+buildtoolbar_popup_mat_greenclassywall			สร้างกำแพงหรูหราที่ด้านบนของฐานรากเพื่อสร้างพื้นที่พนักงานและห้องใหม่ๆ
+
+buildtoolbar_popup_obj_windowclassy				ทำให้ภายนอกดูสวยงามกว่าความเป็นจริง
+buildtoolbar_popup_obj_windowclassyLarge		ทำให้ภายนอกดูสวยงามกว่าความเป็นจริง
+buildtoolbar_popup_obj_gravestone				ป้ายสุสานจะเกิดขึ้นสำหรับทุกๆ การตายที่เกิดขึ้นในเรือนจำของคุณ
+
+buildtoolbar_popup_staff_psychiatrist			สมาชิกเจ้าหน้าที่ระดับสูงที่คอยให้คำแนะนำในการดูแลอาชญากรวิกลจริต\nเมื่อมีการจัดตั้งโปรแกรมปรึกษาอาการทางจิตในเรือนจำแล้ว จะมีนักจิตวิทยาคอยจัดการสนทนาหนึ่งต่อหนึ่งเป็นประจำเพื่อช่วยสงบสติอารมณ์ของอาชญากรวิกลจริต\nหากเรามีอาชญากรวิกลจริตมากเกินไป เราควรต้องจ้างนักจิตวิยามาเพื่อช่วยเหลือพวกเขาทุกคน อย่าลืมสร้างห้องสำนักงานให้พวกเขาแต่ละคนด้วยล่ะ
+
+buildtoolbar_popup_staff_orderly				เจ้าหน้าที่หน่วยแพทย์ที่ถูกฝึกฝนมาเป็นพิเศษเพื่อรับมือกับอาชญากรวิกลจริต
+buildtoolbar_popup_obj_leatherchair				ประกอบโซฟาหนัง เหมาะสำหรับให้เจ้าหน้าที่นั่งสุดๆ และดีเกินไปสำหรับนักโทษของคุณ
+
+buildtoolbar_popup_obj_rorschachTest		    เพิ่มแบบทดสอบรอร์ชัคให้กับสำนักงานของจิตแพทย์จะช่วยเพิ่มประสิทธิภาพการรักษาอาชญากรวิกลจริตของจิตแพทย์
+buildtoolbar_popup_obj_anatomyModel				เพิ่มหุ่นจำลองกายวิภาคให้กับสำนักงานของจิตแพทย์จะช่วยเพิ่มประสิทธิภาพการรักษาอาชญากรวิกลจริตของจิตแพทย์
+buildtoolbar_popup_obj_flipboard				เพิ่มฟลิปบอร์ดและแผนภูมิสมองให้กับสำนักงานของจิตแพทย์จะช่วยเพิ่มประสิทธิภาพการรักษาอาชญากรวิกลจริตของจิตแพทย์
+buildtoolbar_popup_obj_medicineCabinetPsych		เพิ่มตู้ยาให้กับสำนักงานของจิตแพทย์จะช่วยเพิ่มประสิทธิภาพการรักษาอาชญากรวิกลจริตของจิตแพทย์
+buildtoolbar_popup_obj_leatherchair				ประกอบโซฟาหนัง เหมาะสำหรับให้เจ้าหน้าที่นั่งสุดๆ และดีเกินไปสำหรับนักโทษของคุณ
+buildtoolbar_popup_obj_leatherSofa				เพิ่มโซฟาหนังแบบคลาสสิคให้กับสำนักงานของจิตแพทย์จะช่วยเพิ่มประสิทธิภาพการรักษาอาชญากรวิกลจริตของจิตแพทย์
+
+buildtoolbar_deployment_insaneseczone			เฉพาะอาชญากรวิกลจริตเท่านั้นที่สามารถเข้าสู่บริเวณนี้ได้
+
+failuremessage_maximumcountreachedgeneric		สร้างเต็มจำนวนแล้ว
+
+buildtoolbar_popup_locked_PsychiatricConsultation				ปลดล็อคหลังจากที่เข้าเซสชั่นการบำบัดจิตอีก *B ครั้ง
+buildtoobar_PsychConItemImproveInfo 			- พัฒนาระดับของสำนักงานของจิตแพทย์
+buildtoobar_PsychConItemImproveSuppression 		- หลังจากเข้ารับการบำบัด จะลดการปราบปรามอาชญากรวิกลจริต\nและความต้องการบางอย่างอีก +5%
+buildtoobar_PsychConItemImproveGrace 			- หลังจากเข้ารับการบำบัด อาชญากรวิกลจริตจะได้รับ\nช่วงเวลา 'มารยาทงาม' เพิ่มอีก 1 วัน\nก่อนการปราบปรามและความต้องการบางอย่างจะกลับมาเพิ่มอีกครั้ง
+buildtoolbar_popup_obj_Footbridge				ทำให้นักโทษและเจ้าหน้าที่สามารถข้ามพื้นดินและพื้นน้ำได้ ไม่สามารถสร้างเหนือกำแพง รั้ว และสิ่งปลูกสร้างอื่นๆ ได้
+buildtoolbar_popup_obj_FootbridgeSteel			ทำให้นักโทษและเจ้าหน้าที่สามารถข้ามพื้นดินและพื้นน้ำได้ ไม่สามารถสร้างเหนือกำแพง รั้ว และสิ่งปลูกสร้างอื่นๆ ได้
+buildtoolbar_popup_obj_FootbridgeB				ทำให้นักโทษและเจ้าหน้าที่สามารถข้ามพื้นดินและพื้นน้ำได้ ไม่สามารถสร้างเหนือกำแพง รั้ว และสิ่งปลูกสร้างอื่นๆ ได้
+buildtoolbar_popup_obj_FootbridgeSteelB			ทำให้นักโทษและเจ้าหน้าที่สามารถข้ามพื้นดินและพื้นน้ำได้ ไม่สามารถสร้างเหนือกำแพง รั้ว และสิ่งปลูกสร้างอื่นๆ ได้
+buildtoolbar_popup_obj_BoomBoxRoundHouse 		ให้นักโทษของคุณฟังวงบอยแบนด์ที่พวกเขาชื่นชอบในขณะทำกิจกรรมในแต่ละวัน ทำให้นักโทษทุกคนในห้องเดียวกันมีความสุขมากขึ้นเล็กน้อย
+# =============================================================================
+# Room - Names
+# =============================================================================
+
+room_PaddedSolitary                            ห้องขังเดี่ยวกันกระแทก
+
+# =============================================================================
+# Room - Description
+# =============================================================================
+
+buildtoolbar_popup_room_paddedcell			    สำหรับอาชญากรวิกลจริตโดยเฉพาะ พร้อมด้วยกำแพงกันกระแทกที่จะช่วยสร้างอารมณ์ผ่อนคลาย
+buildtoolbar_popup_room_paddedholdingcell	    สถานที่ที่อาชญากรวิกลจริตใหม่ๆ ของเราจะถูกนำไปขังก่อนที่ห้องขังถาวรจะแล้วเสร็จ
+buildtoolbar_popup_room_paddedsolitary			    ห้องขังเดี่ยวสำหรับที่สุดแห่งอาชญากรวิกลจริต
+
+# =============================================================================
+# Quick Build - Names
+# =============================================================================
+
+quickbuild_paddedbasiccell									กันกระแทก (เล็ก)
+quickbuild_paddedintermediatecell							กันกระแทก (ปานกลาง)
+quickbuild_paddedholdingcell								ห้องขังชั่วคราวกันกระแทก
+quickbuild_paddedsolitarycell								ห้องขังเดี่ยวกันกระแทก
+quickbuild_PsychiatristOffice								สำนักงานของจิตแพทย์
+
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacedeployment_insaneseczone                  อันตรายระดับบ้าคลั่งเท่านั้น
+interfacetopbar_PrisonerCells_insaneSecOnly	ความจุอาชญากรวิกลจริต: *X
+
+roomgrading_PsychiatristOffice_info				ปลดล็อคและสร้างสิ่งของเพิ่มเติมในสำนักงานของจิตแพทย์เพื่อเพิ่มประสิทธิภาพการรักษาอาชญากรวิกลจริต\n
+												Items are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+roomgrading_PsychiatristOffice_Item				สิ่งของ: *X
+roomgrading_PsychiatristOffice_Quality			ความสามารถของจิตแพทย์: *Q
+roomgrading_PsychiatristOffice_Upgrade			อัพเกรดสำนักงานของจิตแพทย์เพื่อเพิ่มความสามารถของพวกเขา
+
+roomgrading_score_average		ปานกลาง
+roomgrading_score_good			ดี
+roomgrading_score_verygood		ดีมาก
+roomgrading_score_outstanding	เยี่ยม
+
+# =============================================================================
+# Objectives, Grants
+# =============================================================================
+
+objective_grant_firstinsanecellblock				แดนอาชญากรวิกลจริต
+objective_grant_firstinsanecellblock_description	รัฐบาลยินดีจะมอบทุนให้เพื่อขยายเรือนจำของเรา เพื่อเป็นการดูแลรับรองความปลอดภัยและความเป็นอยู่ให้กับอาชญากรวิกลจริต\n\nสิ่งนี้จะช่วยให้เราสามารถสร้างห้องขังกันกระแทกสุดพิเศษ และจ้างนักจิตแพทย์ที่ชำนาญได้
+objective_grant_firstinsanecellblock_cells			สร้างแดน / ห้องขังสำหรับอาชญากรวิกลจริตด้วยห้องขังกันกระแทก 10 ห้อง
+objective_grant_firstinsanecellblock_prisoners		รับอาชญากรวิกลจริต 10 คน
+objective_grant_firstinsanecellblock_psychiatrist	จ้างนักจิตแพทย์ 2 คน (แต่ละคนต้องมีสำนักงาน)
+
+objective_readinsaneletter						คำแนะนำของซีอีโอเกี่ยวกับอาชญากรวิกลจริต
+objective_readinsaneletter_description			ก่อนที่จะนำอาชญากรวิกลจริตเข้ามาในเรือนจำของคุณ คุณควรจะต้องเตรียมตัวให้พร้อมทั้งด้านอาคารและเจ้าหน้าที่ เพื่อที่จะรองรับความต้องการของพวกเขาได้อย่างเหมาะสม - ซีอีโอ...
+
+# =============================================================================
+# Wardens
+# =============================================================================
+
+warden_wardeninsanehawk_name                     ฮอว์ก ฮาร์ตแมน
+warden_wardeninsanehawk_desc                     ในฐานะอดีตนายประกัน ฮาร์ตแมนได้ถ่ายทอดเทคนิคการฝึกฝนให้กับเจ้าหน้าที่ฝ่ายรักษาความปลอดภัยของเขา\n\n -ผู้คุมทำกุญแจหล่นน้อยลง\n -เมื่อรับนักโทษ ผู้คุมจะได้รับการฟื้นฟูค่ากำลังกาย
+warden_wardeninsanehawk_desc_short               - เมื่อรับนักโทษ ผู้คุมจะได้รับการฟื้นฟูค่ากำลังกาย
+
+warden_wardeninsaneslugworth_name                ดร. สลักเวิร์ธ
+warden_wardeninsaneslugworth_desc                แม้ว่าเรือนจำที่อื่นต่างปฏิเสธพวกเขา สลักเวิร์ธได้เปิดประตูต้อนรับเหล่าอาชญากรวิกลจริต โดยมีความเชื่อว่าเขาจะสามารถช่วยคนเหล่านี้ได้\n\n - การบำบัดของนักจิตแพทย์จะได้ผลมากขึ้น 20%\n - มีโอกาสได้รับจิตแพทย์บำบัดอาชญากรวิกลจริตเพิ่มมากขึ้น!
+warden_wardeninsaneslugworth_desc_short          - รับจิตแพทย์บำบัดอาชญากรวิกลจริตเพิ่มมากขึ้น จิตแพทย์จะบำบัดได้ดีกว่าแพทย์ทั่วไป
+
+warden_wardeninsanehudson_name					 ดร. ฮัดสัน
+warden_wardeninsanehudson_desc                   ดร. ฮัดสัน เตรียมพร้อมที่จะทำสิ่งที่พัศดีคนอื่นๆ ไม่สามารถทำได้...\n\n - การบริการฉุกเฉินรวดเร็วมากขึ้น 20% และมาถึงเร็วขึ้น\n - ค่าใช้จ่ายในการซ่อมแซมลดลง 10%
+warden_wardeninsanehudson_desc_short             - ตอบรับเร็วขึ้น และค่าใช้จ่ายในการซ่อมแซมลดลง
+
+# =============================================================================
+# Victory, failures
+# =============================================================================
+
+victory_insaneprisonersdeaths					 การเสียชีวิตของอาชญากรวิกลจริต
+victory_warning_insaneprisonersdeaths			 คุณจะถูกไล่ออกถ้ามีอาชญากรวิกลจริตเสียชีวิตมากเกินไป
+victory_insaneprisonersdeaths_units				 เสียชีวิต
+
+victory_insaneprisonersabused					 การทำร้ายอาชญากรวิกลจริต
+victory_warning_insaneprisonersabused			 คุณจะถูกไล่ออกถ้ามีอาชญากรวิกลจริตถูกผู้คุ้มทำร้ายมากเกินไป
+victory_insaneprisonersabused_units				 ทำร้าย
+
+victory_adviserwarning_insaneprisonersdeaths1	 เราจะปล่อยให้เกิดการทำร้ายร่างกายอาชญากรวิกลจริตในเรือนจำของเราต่อไปไม่ได้! สื่อต่างๆ จะโจมตีเราอย่างหนักถ้าเราไม่ทำอะไรบางอย่างกับเรื่องนี้!
+victory_advisernotice_insaneprisonersdeaths1	 นั่นไง! พอแค่นี้แหละ! คุณควรจะให้ความสนใจกับอาการป่วยทางจิต แต่คุณปล่อยให้พวกเขาทนทรมานกับความเจ็บปวดที่ไม่สามารถพูดออกมาได้ ฉันจำเป็นต้องไล่คุณออก แต่ฉันแนะนำให้คุณกลับบ้านไปใตร่ตรองทางเดินของคุณอีกครั้ง
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_option_criminallyinsane					อาชญากรวิกลจริต
+
+codex_tooltip_criminallyinsane					ช่วยเหลือนักโทษที่รู้สึกว่าตัวเองโดนกดดันอยู่ตลอดๆ จำเป็นต้องมีห้องขังกันกระแทกและการช่วยเหลือจากจิตแพทย์เพื่อลดความต้องการทางด้านความเป็นส่วนตัว ความสะดวกสบาย และอิสระ ก่อนที่พวกเขาจะสติแตก การเปิดใช้การตั้งค่านี้จะทำให้นักโทษทั่วๆ ไป สามารถเกิดอาการบ้าคลั่งได้หากความต้องการของพวกเขาไม่ถูกเติมเต็ม สามารถปิดการเปลี่ยนจากนักโทษเป็นอาชญากรวิกลจริตได้ที่หน้าการตั้งค่าแผนที่
+
+codex_prisoner_biography_NITG					ชีวประวัติที่ถูกเขียนขึ้นเอง
+codex_options_InsaneGauge						เกจบนหัวของนักโทษ
+
+codex_option_desert								พื้นทราย
+codex_tooltip_desert							เริ่มต้นพื้นที่ที่เต็มไปด้วยพื้นทราย
+
+codex_options_rendercolours						มุมมองจากห้องสีต่างๆ
+
+codex_new_selectdog								เลือกสุนัขของผู้คุม
+
+codex_option_prisonerTurning					นักโทษสามารถเปลี่ยนเป็นอาชญากรวิกลจริตได้
+
+# =============================================================================
+# Rapsheet
+# =============================================================================
+
+rapsheet_category_insane						อาชญากรวิกลจริต
+rapsheet_insane_bio_desc                        อาชญากรวิกลจริตช่วยเหลือนักโทษที่รู้สึกว่าตัวเองโดนกดดันอยู่ตลอดๆ และต้องใช้ห้องขังกันกระแทกและการช่วยเหลือจากจิตแพทย์เพื่อทำให้พวกเขาใจเย็นลง\n\nอาชญากรวิกลจริตที่สติแตกอาจจะทำร้ายเจ้าหน้าที่ของเรา สร้างความเสียหายแก่เรือนจำ หรือพยายามแหกคุกได้ หรือบางทีอาจจะทำพฤติกรรมบางอย่างที่คาดเดาไม่ได้
+
+reputation_Weak                                 อ่อนแอ
+reputation_Insomniac                            นอนไม่หลับ
+reputation_Depressed                            ซึมเศร้า
+reputation_Outbreaks                            แพร่ระบาด
+reputation_Sickness                             เจ็บป่วย
+reputation_Hyperactive                          สมาธิสั้น
+reputation_Addict                               เสพติด
+reputation_Claustrophobic                       กลัวที่แคบ
+reputation_ExtremelyStoical                     หมดอาลัยตายอยาก
+reputation_ExtremelyVolatile                    โกรธง่ายมาก
+reputation_Psychopathic                         อาการทางจิต
+reputation_Insane                               อาชญากรวิกลจริต
+
+reputationtooltip_Weak                          นักโทษรายนี้อ่อนแอลง ไม่สามารถต่อสู้ได้อย่างเต็มที่จึงอาจจะได้รับอาการบาดเจ็บมากขึ้น
+reputationtooltip_Insomniac                     นักโทษรายนี้ไม่จำเป็นต้องใช้เวลานอนเยอะๆ
+reputationtooltip_Depressed                     นักโทษรายนี้เคลื่อนที่ช้าลงอย่างมากเมื่อรู้สึกถูกกัดดันและถูกละเลย
+reputationtooltip_Outbreaks                     นักโทษรายนี้มีแนวโน้มที่จะก่อเหตุรุนแรงและสร้างความเสียหายให้กับสิ่งแวดล้อมรอบตัวเมื่อพวกเขารู้สึกถูกกัดดันและถูกละเลย
+reputationtooltip_Sickness                      นักโทษรายนี้มีแนวโน้มที่จะอาเจียนหรือทำตัวเองให้สกปรกเมื่อรู้สึกถูกกัดดันและถูกละเลย
+reputationtooltip_Hyperactive                   เคลื่อนที่ไปมาอย่างรวดเร็วเมื่อรู้สึกถูกกัดดันและถูกละเลย
+reputationtooltip_Addict                        นักโทษรายนี้มีโอกาสที่จะเกิดอาการเสพติดเมื่อรู้สึกถูกกัดดันและถูกละเลย
+reputationtooltip_Claustrophobic                ความต้องการในการหนีจากสิ่งรอบตัวของนักโทษคนนี้จะสูงขึ้นเมื่อรู้สึกถูกกัดดันและถูกละเลย
+reputationtooltip_ExtremelyStoical              นักโทษรายนี้ไม่รู้สึกกำราบเมื่อถูกขังเดี่ยวหรือต้องเจอกับผู้คุม พวกเขาไม่สนใจอะไรทั้งนั้น
+reputationtooltip_ExtremelyVolatile             จับตาดูเขาให้ดีๆ เรื่องเล็กๆ น้อยๆ ก็ทำให้พวกเขาโกรธและทำให้สถานการณ์แย่ลงอย่างรวดเร็วได้
+reputationtooltip_Psychopathic                  นักโทษรายนี้อันตรายและคาดเดาไม่ได้ยิ่งกว่าอาชญากรวิกลจริต
+reputationtooltip_Insane                        อย่าลืมที่จะทำให้นักโทษรายนี้ได้รับการบำบัดทางจิตกับจิตแพทย์ และอยู่ในห้องขังกันกระแทกเพื่อช่วยพวกเขาใจเย็นลง
+
+# =============================================================================
+# Reports
+# =============================================================================
+
+report_intake_cat_insane						อาชญากรวิกลจริต
+report_intake_list_tooltip_insane				อาชญากรวิกลจริตช่วยเหลือนักโทษที่รู้สึกว่าตัวเองโดนกดดันอยู่ตลอดๆ จำเป็นต้องมีห้องขังกันกระแทกใหม่ และการช่วยเหลือจากจิตแพทย์เพื่อลดความต้องการทางด้านความเป็นส่วนตัว ความสะดวกสบาย และอิสระ ก่อนที่พวกเขาจะสติแตก\n\nคุณไม่สามารถขออาชญากรวิกลจริตได้จนกว่าจะมีห้องขังกันกระแทกหรือห้องขังชั่วคราวกันกระแทกพร้อมใช้งาน\n\nห้องขังทั่วไปสามารถเปลี่ยนเป็นห้องขังกันกระแทกได้ผ่านเมนูห้อง
+report_intake_insane_intake_empty				ไม่สามารถรับอาชญากรวิกลจริตได้ในครั้งนี้\nคุณจำเป็นต้องสร้างห้องขังกันกระแทกหรือห้องขังชั่วคราวกันกระแทก\nห้องขังทั่วไปสามารถเปลี่ยนเป็นห้องขังกันกระแทกได้ผ่านเมนูห้อง
+report_staff_group_prisoners_insane				อาชญากรวิกลจริต
+report_Criminally_Insane						อาชญากรวิกลจริต
+report_Pyschopathic								อาการทางจิต
+
+report_intake_enable_insane					เปิดใช้งาน
+report_intake_psychward_title					Psych Ward: Warden’s Edition
+report_intake_psychward_tooltip					เปิดการใช้งานเกมเพลย์ Psych Ward: Warden’ Edition สำหรับเรือนจำนี้\n\nทำให้คุณสามารถรับอาชญากรวิกลจริตได้ แต่ก่อนอื่นคุณอาจจะอยากเตรียมเรือนจำให้พร้อมก่อน\n\nจิตแพทย์และเจ้าหน้าที่ตามลำดับสมาชิกสามารถทำการวิจัยและจ้างได้ สามารถสร้างห้องขังกันกระแทกหรือห้องขังชั่วคราวกันกระแทกได้\n\nทั้งจิตแพทย์และห้องขังกันกระแทกจะช่วยให้อาชญากรวิกลจริตใจเย็นลงและควบคุมได้ 
+
+reformerror_no_psychiatrist					ไม่มีจิตแพทย์
+reform_completion_psychiatrist              - จบหลักสูตร *X คน - รักษาแล้ว *Y คน (*P%)
+report_staff_group_orderlies				เจ้าหน้าที่คอยช่วยเหลือ
+
+# =============================================================================
+# Research
+# =============================================================================
+research_Orderly							เจ้าหน้าที่คอยช่วยเหลือ
+research_Psychiatrist							จิตแพทย์
+                     
+researchtooltip_Orderly							ผู้คุมทั่วไปจะไม่สามารถทำร้ายอาชญากรวิกลจริตได้ เพราะพวกเขาอาจจะทำให้อาชญากรวิกลจริตบาดเจ็บได้\nผู้คุมจะได้รับการฝึกแบบพิเศษเพื่อให้สามารถควบคุมอาชญากรวิกลจริตได้โดยที่ไม่ทำร้ายพวกเขา\nเจ้าหน้าที่คอยช่วยเหลือจะช่วยใส่ชุดผู้ป่วยทางจิตให้กับอาชญากรวิกลจริตในเวลากลางคืนเพื่อป้องกันไม่ให้พวกเขาทำรายตัวเองในเวลากลางคืน
+researchtooltip_Psychiatrist					สมาชิกเจ้าหน้าที่ระดับสูงที่คอยให้คำแนะนำในการดูแลอาชญากรวิกลจริต\nเมื่อมีการจัดตั้งโปรแกรมปรึกษาอาการทางจิตในเรือนจำแล้ว จะมีนักจิตวิทยาคอยจัดการสนทนาหนึ่งต่อหนึ่งเป็นประจำเพื่อช่วยสงบสติอารมณ์ของอาชญากรวิกลจริต\nหากเรามีอาชญากรวิกลจริตมากเกินไป เราควรต้องจ้างนักจิตวิยามาเพื่อช่วยเหลือพวกเขาทุกคน อย่าลืมสร้างห้องสำนักงานให้พวกเขาแต่ละคนด้วยล่ะ
+
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+doortimer_security_Insane			            บ้าคลั่ง
+
+buildtoolbar_header_foundationmain				หลัก
+buildtoolbar_header_foundationmore				เพิ่มเติม
+
+reformprogram_PsychiatricConsultation			การบำบัดอาการทางจิต
+reformprogram_PsychiatricConsultation_text		อาชญากรวิกลจริตทุกคนต้องได้รับการพูดคุยกับจิตแพทย์ของเราแบบตัวต่อตัวเป็นประจำเพื่อช่วยลดความรู้สึกถูกกดดัน หากมีการช่วยเหลือจากจิตแพทย์ไม่เพียงพอ อาจจะเกิดการก่อเหตุรุนแรงและการตอบสนองเฉพาะตัวของนักโทษกลุ่มนี้ได้
+reform_program_properties_NeedToBeEscorted		นักโทษทั่วไปอาจจะต้องเข้ารับการบำบัดด้วยเช่นกัน
+reform_program_intake_insane				อาชญากรวิกลจริตเท่านั้น
+
+insane_letter									เรียน ผู้เล่นที่รัก\n\n\nนี่คือคำแนะนำสำคัญที่จะช่วยให้คุณพร้อมรับมือกับอาชญากรวิกลจริตทั้งด้านอาคารและเจ้าหน้าที่\n\n1. คุณจำเป็นต้องมีห้องขังกันกระแทกสำหรับอาชญากรวิกลจริต คุณสามารถเปลี่ยนห้องขังธรรมดาให้กลายเป็นห้องขังกันกระแทกได้ (ผ่านเมนูห้อง) เมื่อคุณมีห้องขังกันกระแทกแล้วคุณจะสามารถรับนักโทษชุดแรกเข้ามาได้\n\n2. อย่าลืมจ้างจิตแพทย์และเจ้าหน้าที่คอยช่วยเหลือ จิตแพทย์จำเป็นต้องมีสำนักงานพิเศษของตัวเอง\n\n3. จัดการบำบัดอาการทางจิตให้กับอาชญากรวิกลจริต การพูดคุยตัวต่อตัวกับจิตแพทย์ (และห้องขังกันกระแทก) จะช่วยให้สามารถควบคุมนักโทษเหล่านี้ได้ การอัพเกรดสำนักงานของจิตแพทย์จะช่วยเพิ่มประสิทธิภาพของการบำบัดด้วย\n\n4. การละเลยและไม่คอยเช็ค อาชญากรวิกลจริตอาจแสดงพฤติกรรมที่คาดเดาไม่ได้ เช่น พยายามแหกคุก หรือกลายเป็ยคนชอบความรุนแรง\n\n5. เจ้าหน้าที่คอยช่วยเหลือจะช่วยเคลื่อนย้ายและรักษานักโทษ และพวกเขาจะไม่กดดันนักโทษเหมือนกับผู้คุมทั่วๆ ไป และคุณต้องอาศัยให้เจ้าหน้าที่คอยช่วยเหลือช่วยใส่ชุดผู้ป่วยทางจิตให้กับอาชญากรวิกลจริตในเวลากลางคืนอีกด้วย\n\n6. การที่อาชญากรวิกลจริตเข้าไปปนกับคนอื่นๆ อาจจะก่อให้เกิดปัญหาได้ การสร้างและแยกพื้นที่ของอาชญากรวิกลจริต เช่น ห้องครัว สวน และพื้นที่อื่นๆ ออกมาเป็นความคิดที่ดี และคุณอาจจะต้องการสร้างสำนักงานของจิตแพทย์ใกล้ๆ กับ ห้องขังของอาชญากรวิกลจริต\n\n7. สุดท้าย นักโทษจากระดับความปลอดภัยอื่นๆ มีโอกาสที่จะกลายเป็นอาชญากรวิกลจริตได้ เพราะฉะนั้นคอยตรวจสอบดูให้ดีด้วย\n\nซีอีโอ\nPrison Architects Corp
+
+job_StraitJacket                         ใส่/ถอด ชุดผู้ป่วยทางจิต
+job_EscortInsane                         นำทางอาชญากรวิกลจริต
+status_effect_sedated					ผ่อนคลาย
+
+orderly_description                     เจ้าหน้าที่คอยช่วยเหลือได้รับการฝึกฝนพิเศษมาเพื่อรับมือและให้ความผ่อนคลาย (หากจำเป็น) กับอาชญากรวิกลจริต
+pyschiatrist_description                อาชญากรวิกลจริตทุกคนจำเป็นต้องได้รับการบำบัดอาการทางจิตโดยพูดคุยตัวต่อตัวกับจิตแพทย์ เพิ่มการบำบัดอาการทางจิตผ่านเมนูโปรแกรม
+
+insanetooltip_status                    สถานะ: *X
+insanetooltip_status_level0             สงบ
+insanetooltip_status_level1             ไม่สบายใจ
+insanetooltip_status_level2             ไม่แน่นอน
+insanetooltip_status_level3             ถูกกระตุ้น!
+insanetooltip_behaviour					พฤติกรรม: *X
+
+mutator_name_ReducedDirtBuildup						ลดปริมาณดินก่อตัว
+mutator_tooltip_ReducedDirtBuildup					ความเร็วที่ดินและโคลนก่อตัวรอบเรือนจำลดลงครึ่งหนึ่ง
+administrator_requiresoffice_psychiatrist            ต้องการสำนักงานของจิตแพทย์
+
+dlc_insane_upsell				บันทึกนี้ใช้เนื้อหาจากส่วนเสริม "Psych Ward: Warden's Edition" เนื่องจากเราตรวจสอบไม่พบส่วนเสริมในระบบของคุณ คุณสมบัติบางอย่างจะถูกปิด โปรดพิจารณาซื้อ "Psych Ward: Warden's Edition" เพื่อดื่มด่ำไปกับประสบการณ์จากเกม Prison Architect อย่างเต็มที่
+dlc_insane_upsell_multiplayer 	เจ้าของห้องเกมผู้เล่นหลายคนนี้ได้ซื้อส่วนเสริม "Psych Ward: Warden's Edition" แล้วซึ่งจะทำให้คุณสามารถเข้าเล่นได้ในฐานะแขก ขอให้สนุก!
+
+regime_work_pyscho              โปรแกรม/เวลาว่าง
+regime_worklockdown_pyscho      โปรแกรม/คุมขัง
+
+regimetooltip_work_pyscho			จำไว้ว่าอาชญากรวิกลจริตไม่สามารถทำงานได้และระหว่างเวลางานจะสามารถเข้าได้แค่โปรแกรมเท่านั้น
+regimetooltip_worklockdown_pyscho	จำไว้ว่าอาชญากรวิกลจริตไม่สามารถทำงานได้และระหว่างเวลางานจะสามารถเข้าได้แค่โปรแกรมเท่านั้น
+
+
+# =============================================================================
+# Nameplate status
+# ============================================================================= 
+
+nameplate_sedation_level						ระดับความผ่อนคลาย
+teacher_teaching_pschiatrist                    การรักษา		
+pschiatrist_count_status						*Xการบำบัดอาการทางจิตเสร็จสิ้นแล้ว
+
+
+############################### SNEEZER UPDATE ###############################
+
+# =============================================================================
+# Rapsheet
+# ============================================================================= 
+
+action_escortToInfirmary						นำทางไปยังศูนย์พยาบาล
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacelogistics_cellStatus					สถานะห้องขัง
+
+buildtoolbar_popup_help_CellStatus_1			มุมมองสถานะห้องขังแสดงให้คุณเห็นถึงสถานะของห้องขังว่ามีนักโทษ (แดง) หรือ ว่าง (เขียว)
+buildtoolbar_popup_help_CellStatus_2			คุณสามารถคลิกที่ห้องขังที่มีนักโทษเพื่อดูนักโทษที่อยู่ข้างใน
+
+freeCell										ห้องขังว่าง
+freeCell_line0									ห้องขังนี้ยังไม่มีนักโทษ
+occupiedCell									ห้องขังมีนักโทษ
+occupiedCell_line0								*X*Y,*Z
+occupiedCell_line1								คลิกซ้ายเพื่อแสดงนักโทษรายนี้
+object_prisoner_freshfish						นักโทษ (เด็กใหม่)
+
+total_Connections								จำนวนการเชื่อมต่อทั้งหมด: *X
+active_Connections								จำนวนการเชื่อมต่อสูงสุด: *X
+
+interfacedeployment_VisitorDirection			แนวโน้มของผู้เข้าเยี่ยม
+
+interface_action_move							เคลื่อนย้าย
+
+equipment_moreContraband						สิ่งของลักลอบ
+
+# =============================================================================
+# Reports
+# =============================================================================
+
+report_intake_cat_PrisonerTransfer				แลกเปลี่ยนนักโทษ!
+report_intake_list_tooltip_prisonerTransfer		\n\nนักโทษความเสี่ยงสูงที่อันตรายเกินกว่าที่เรือนจำอื่นจะควบคุมได้จะถูกนำมาเสนอเป็นครั้งคราว\nระวังให้ดี! มันมีเหตุผลว่าทำไมพวกเขาถึงแพงนัก พวกเขาเป็นอาชญากรที่เรือนจำไหนๆ ก็ไม่อยากได้
+rapsheet_category_PrisonerTransfer				แลกเปลี่ยนนักโทษ!
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_tooltip_noUtilities		ท่อน้ำและสายไฟไม่สามารถสร้างเหนือพื้นดินได้
+
+buildtoolbar_deployment_VisitorDirection 	คลิกแล้วลากเพื่อชี้ป้ายบนพื้น\n\nซึ่งเป็นคำบอกใบ้ให้ผู้ที่ไม่ใช่นักโทษรู้ว่าต้องใช้เส้นทางใด\nช่วยควบคุมกระแสของผู้คนในเรือนจำ
+
+# =============================================================================
+# Programs
+# =============================================================================
+
+guard_program_requirements             - ผู้คุมแต่ละคนต้องมี *X
+
+schedule_zone_insaneSecOnly						อันตรายระดับบ้าคลั่ง
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_option_lunar								พื้นดวงจันทร์
+codex_tooltip_lunar								เริ่มต้นพื้นที่ด้วยพื้นดวงจันทร์
+
+codex_option_doubleClick						คลิกสองครั้งเพื่อเคลื่อนย้ายสิ่งของ
+
+# =============================================================================
+# Clone Tool
+# =============================================================================
+
+BuildCost_CloneRoom								โคลนห้อง
+
+# =============================================================================
+# Missing Strings
+# =============================================================================
+
+codex_startonline                   เล่นออนไลน์
+codex_start                         สร้างเกม
+codex_joinonline                    เข้าร่วมออนไลน์เกม
+codex_join                          เข้าร่วมเกม
+codex_usernamelabel                 ชื่อผู้ใช้:
+codex_namelabel                     ชื่อในเกม:
+codex_passwordlabel                 รหัสผ่าน:
+codex_passwordprotectedlabel        ต้องใส่รหัสผ่านหรือไม่
+codex_listedlabel                   ต้องการเปิดเป็นสาธารณะหรือไม่
+codex_roomlistlabel                 ลิสต์เกม:
+codex_connectinglabel               กำลังเชื่อมต่อกับเซิร์ฟเวอร์...
+codex_retrievingserverlistlabel     กำลังดึงข้อมูลลิสต์เกม...
+codex_datausage                     การใช้ข้อมูล: ส่ง - *SkB/s, รับ - *RkB/s
+codex_multiplayeroptions            จัดการผู้เล่น
+codex_playeroptions                 ผู้เล่น
+codex_regionlabel                   ภูมิภาค
+
+multiplayer_chooseroomname          โปรดเลือกชื่อของเกม
+multiplayer_chooseusername          โปรดเลือกชื่อผู้ใช้
+multiplayer_joining                 เข้าร่วม: *X
+multiplayer_joiningstate_joining    กำลังเข้าร่วมเกม
+multiplayer_joiningstate_receiving  กำลังรับข้อมูลโลก
+multiplayer_joiningstate_loading    กำลังโหลดข้อมูลโลก
+multiplayer_rejoining               เข้าเกมอีกครั้วงหลังจากขยายที่ดิน:
+multiplayer_leavegame_confirm       คุณแน่ใจหรือไม่ว่าต้องการออกจากเกม co-op ปัจจุบัน
+multiplayer_hostleft                เจ้าของห้องได้ตัดการเชื่อมต่อ
+multiplayer_joingamefailed          เข้าร่วมเกมไม่สำเร็จ:
+multiplayer_startgamefailed         เริ่มเกมไม่สำเร็จ:
+multiplayer_incorrectpassword       รหัสผ่านผิด
+multiplayer_disconnected            สูญเสียการเชื่อมต่อกับเซิร์ฟเวอร์
+multiplayer_syncerror               ถูกตัดการเชื่อมต่อเนื่องจากเกิดความผิดพลาดกับการซิงโครข้อมูล\n\nโปรดลองเข้าเกมใหม่อีกครั้ง
+multiplayer_hostonly                เฉพาะเจ้าของห้องเท่านั้น
+multiplayer_modsdisabled            ปิดใช้งาน Mods สำหรับการเล่นออนไลน์
+multiplayer_mutatorsdisabled        ปิดใช้งานตัวสร้างการเปลี่ยนแปลงสำหรับการเล่นออนไลน์
+multiplayer_kicked                  คุณถูกเตะออกจากเกม
+multiplayer_kick                    เตะ
+multiplayer_ban                     แบน
+
+multiplayer_host                    เจ้าของห้อง:
+
+multiplayer_welcomeanalytics        ยินดีต้อนรับสู่โหมดผู้เล่นหลายคนของ Prison Architect\n\nเราทำงานอยากหนักในการนำประสบการณ์เต็มรูปแบบของ Prison Architect มาสู่โหมดผู้เล่นหลายคน Prison Architect เป็นเกมที่มีขนาดใหญ่และนี่เป็นครั้งแรกที่เราสร้างโหมดผู้เล่นหลายคนให้ทุกคนได้เล่น ดังนั้นเราจึงจะเฝ้าระวังหากมีปัญหาอะไรเกิดขึ้นกับผู้เล่น\n\nเพื่อเป็นการช่วยเหลือพวกเรา เราต้องการเก็บข้อมูลแบบไม่ระบุชื่อเพื่อช่วยแก้ปัญหาหากผู้เล่นพบเจอระหว่างเล่นเกม คุณสามารถปิดได้ที่เมนูตัวเลือกทุกเวลา คุณสามารถเห็นข้อมูลที่เราเก็บได้ที่ไฟล์ metrics.txt\n\nเราหวังว่าคุณจะเพลิดเพลินกับการเล่น Prison Architect พร้อมกับเพื่อนๆ ของคุณ
+
+region_asia                         เอเชีย
+region_au                           ออสเตรเลีย
+region_cae                          แคนาดาตะวันออก
+region_eu                           ยุโรป
+region_in                           อินเดีย
+region_jp                           ญี่ปุ่น
+region_ru                           รัสเซีย
+region_rue                          รัสเซียตะวันออก
+region_sa                           อเมริกาใต้
+region_kr                           เกาหลีใต้
+region_us                           อเมริกาตะวันออก
+region_usw                          อเมริกาตะวันตก
+
+codex_options_disableattract            ปิดหน้าจอตอนเริ่มเกม
+codex_option_escapeplans                แผนแหกคุก
+buildtoolbar_rollcall                   ขานชื่อ
+buildtoolbar_tooltip_rollcall           เรียกให้นักโทษทุกคนของคุณออกมายืนด้านหน้าของห้องขัง สามารถใช้ได้ในช่วงเวลานอนและเวลากลางคืนเท่านั้น
+interfacecontrol_graphs                 กราฟ
+interfacecontrol_graphs_tooltip         เปิดหน้าจอกราฟเพื่อให้คุณสามารถเปรียบเทียบข้อมูลต่างๆ ในเรือนจำของคุณ
+
+graph_title                             กราฟ
+
+graph_label_1                           ข้อมูลประเภท 1
+graph_label_2                           ข้อมูลประเภท 2
+graph_label_day                         วัน
+
+graph_axis_none                         ไม่มี
+graph_axis_profit                       กำไร
+graph_axis_funds                        เงินทุน
+graph_axis_prisonsize                   ขนาดเรือนจำ (ตร.ม.)
+graph_axis_numprisoners                 จำนวนนักโทษ
+graph_axis_numstaff                     จำนวนเจ้าหน้าที่
+graph_axis_releasedprisoners            นักโทษที่ปล่อยออกไปแล้ว
+graph_axis_totalreleasedprisoners       นักโทษที่ปล่อยออกไปแล้วทั้งหมด
+graph_axis_escapedprisoners             นักโทษหลบหนี
+graph_axis_totalescapedprisoners        นักโทษหลบหนีทั้งหมด
+graph_axis_entitydeath                  เสียชีวิต
+graph_axis_totaldeaths                  การเสียชีวิตทั้งหมด
+graph_axis_prisonerdeaths               นักโทษเสียชีวิต
+graph_axis_guarddeaths                  ผู้คุมเสียชีวิต
+graph_axis_securitygrading              ระดับคะแนนของความปลอดภัย
+graph_axis_healthgrading                ระดับคะแนนของสุขภาพ
+graph_axis_reformgrading                ระดับคะแนนของการบำบัด
+graph_axis_punishmentgrading            ระดับคะแนนของการลงโทษ
+graph_axis_reoffendingrate              อัตราการก่อคดีซ้ำ
+graph_axis_prisonvalue                  มูลค่าเรือนจำ
+graph_axis_prisonercapacity             ความจุนักโทษ
+graph_axis_numincidents                 จำนวนเหตุความรุนแรงที่เกิดขึ้น
+graph_axis_totalincidents               เหตุความรุนแรงที่เกิดขึ้นทั้งหมด
+
+equipment_Photo				ภาพถ่าย	
+equipment_SubMachineGun			ปืนกลมือ	
+equipment_Soap				สบู่	

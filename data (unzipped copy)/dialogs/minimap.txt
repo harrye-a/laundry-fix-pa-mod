@@ -1,0 +1,15 @@
+BEGIN Window
+    NAME         MiniMap
+    WIDTH        200
+    HEIGHT       200
+    PANEL        1
+END
+
+BEGIN Container
+    NAME        Map
+    XPOS        Absolute        5
+    YPOS        Absolute        5
+    WIDTH       Relative        -10
+    HEIGHT      Relative        -10
+END
+

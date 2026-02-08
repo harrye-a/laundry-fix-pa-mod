@@ -1,0 +1,32 @@
+BEGIN Window
+    NAME         UtilityWarning
+    WIDTH        320
+    HEIGHT       400
+    PANEL        1
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          2142
+    YPOS        Scaled          400
+    WIDTH       Scaled          5987
+    HEIGHT      Scaled          750
+END
+
+BEGIN Canvas
+    NAME        confirm_message
+    XPOS        Scaled          656
+    YPOS        Scaled          2000
+    WIDTH       Scaled          8906
+    HEIGHT      Scaled          6375
+END
+
+BEGIN Button
+    NAME        ok_button
+    CAPTION     dialog_ok
+    XPOS        Scaled          3260
+    YPOS        Scaled          8825
+    WIDTH       Scaled          3649
+    HEIGHT      Scaled          500
+END
+

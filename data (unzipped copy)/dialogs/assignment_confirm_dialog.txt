@@ -1,0 +1,57 @@
+BEGIN Window
+    NAME         AssignmentConfirmationWindow
+    BACKGROUND   clipboard.png
+    WIDTH        400
+    HEIGHT       300
+END
+
+BEGIN Custom
+    NAME        AssignmentTitle
+    XPOS        Scaled          0
+    YPOS        Scaled          0
+    WIDTH       Scaled          10000
+    HEIGHT      Scaled          1250
+END
+
+BEGIN Canvas
+    NAME        confirm_message
+    XPOS        Scaled          3350
+    YPOS        Scaled          6250
+    WIDTH       Scaled          7297
+    HEIGHT      Scaled          6900
+END
+
+BEGIN Custom
+    NAME        AssignmentPrisonerPolaroid
+    XPOS        Scaled          1081
+    YPOS        Scaled          5500
+    WIDTH       Scaled          1500
+    HEIGHT      Scaled          3000
+END
+
+BEGIN Canvas
+    NAME        AssignmentDescription
+    XPOS        Scaled          1350
+    YPOS        Scaled          2500
+    WIDTH       Scaled          7297
+    HEIGHT      Scaled          6900
+END
+
+BEGIN Button
+    NAME        ok_button
+    CAPTION     dialog_ok
+    XPOS        Scaled          1081
+    YPOS        Scaled          8450
+    WIDTH       Scaled          3649
+    HEIGHT      Scaled          750
+END
+
+BEGIN Button
+    NAME        cancel_button
+    CAPTION     dialog_cancel
+    XPOS        Scaled          5135
+    YPOS        Scaled          8450
+    WIDTH       Scaled          3649
+    HEIGHT      Scaled          750
+END
+

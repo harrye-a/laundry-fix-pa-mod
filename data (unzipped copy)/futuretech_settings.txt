@@ -1,0 +1,15 @@
+
+RobotDogHealth       0.7500000  
+RobotDogEnergy       1.300000  
+RobotDogRange        1.300000  
+RobotDogSpeed        1.200000  
+RobotRedEyeTime	     5
+AdvancedLightSurrenderChance 0.7500000  
+AdvancedLightSurrenderChancePlayer 1.000000  
+PrivacyNeed          2.000000  
+FreedomNeed          2.000000  
+Suppression          3.000000  
+MinPercent           50  
+StunBatonCost        350  
+StunChancePercent    40  
+StunCooldownTimeHrs  1.000000  

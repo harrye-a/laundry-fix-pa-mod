@@ -1,0 +1,3631 @@
+
+# =============================================================================
+# Basic dialog strings
+# =============================================================================
+
+dialog_new	新規
+dialog_load	ロード
+dialog_save	保存
+dialog_saveas	名前をつけて保存
+dialog_delete	削除
+dialog_width	幅
+dialog_height	高さ
+dialog_name	名前
+dialog_type	タイプ
+dialog_x	X
+dialog_y	Y
+dialog_z	Z
+dialog_w	W
+dialog_h	H
+dialog_exit	終了
+dialog_cancel	キャンセル
+dialog_ok	OK
+dialog_open	開く
+dialog_close	閉じる
+dialog_closed	閉
+dialog_add	追加
+dialog_up	上
+dialog_down	下
+dialog_yes	はい
+dialog_no	いいえ
+dialog_loading	ロード中...
+dialog_low	低
+dialog_medium	中
+dialog_high	高
+dialog_none	なし
+ellipsis	...
+
+
+# =============================================================================
+# Dialog Editor
+# =============================================================================
+
+dialogeditor_title	セリフ編集ツール
+dialogeditor_back	後ろ
+dialogeditor_front	前
+dialogeditor_reloadlanguage	言語をリロード
+dialogeditor_test	テスト
+dialogeditor_window	ウィンドウ
+dialogeditor_grid	グリッド
+dialogeditor_caption	説明テキスト
+dialogeditor_component	部分
+dialogeditor_select	選択
+dialogeditor_create	作成
+dialogeditor_background	背景画像
+dialogeditor_panel	パネル
+
+dialogcomponent_custom	カスタム
+dialogcomponent_button	ボタン
+dialogcomponent_container	コンテナ
+dialogcomponent_caption	説明テキスト
+dialogcomponent_titlecaption	表題
+dialogcomponent_checkbox	チェクボックス
+dialogcomponent_inputfield	フィールド入力
+dialogcomponent_inputslider	スライダー入力
+dialogcomponent_dropdownmenu	ドロップダウンメニュー
+dialogcomponent_selectionlist	選択リスト
+dialogcomponent_selectionlistitem	選択リストアイテム
+dialogcomponent_scrollbar	スクロールバー
+dialogcomponent_progressbar	プログレスバー
+dialogcomponent_canvas	キャンバス
+dialogcomponent_iconbox	アイコンボックス
+
+dialogposition_absolute	不動
+dialogposition_relative	相対
+dialogposition_scaled	スケール
+
+
+# =============================================================================
+# Profiler
+# =============================================================================
+
+profiler_title	プロファイラ
+profiler_name	名前
+profiler_timings	タイミング
+profiler_totaltime	合計
+profiler_glfinishcaption	glFinish
+profiler_reset	リセット
+
+
+# =============================================================================
+# Sound tools
+# =============================================================================
+
+soundchannelviewer_title	サウンドチャンネル
+soundeditor_title	サウンドエディタ
+soundinstanceeditor_title	サウンドキューエディタ
+
+soundeditor_positiontitle	位置タイプ
+soundeditor_instancetitle	キュータイプ
+soundeditor_looptitle	ループタイプ
+soundeditor_sourcetypetitle	サウンドタイプ
+soundeditor_soundnametitle	サウンド名
+
+soundeditor_volumetitle	音量
+soundeditor_frequencytitle	頻度
+soundeditor_mindistancetitle	最低距離
+soundeditor_attacktitle	アタック
+soundeditor_sustaintitle	持続性
+soundeditor_releasetitle	リリース
+soundeditor_loopdelaytitle	ループ遅延
+soundeditor_dsptitle	DSP
+soundeditor_nexteventtitle	次のイベント
+
+soundeditor_play	プレイ
+soundeditor_stop	ストップ
+
+soundparametereditor_title	サウンド設定値
+soundparametereditor_typetitle	タイプ
+soundparametereditor_linktitle	リンク先
+soundparametereditor_updatetitle	アップデートタイプ
+soundparametereditor_smoothing	補正
+soundparametereditor_chaintitle	チェーン
+
+soundeditor_newdsp	DSP追加
+sounddspeditor_title	DSPエディタ
+samplebankeditor_title	サンプルエディタ
+samplebankeditor_addsample	サウンド追加
+samplebank	（サウンドサンプル）
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacemode_done	完了
+interfacemode_destroy	削除
+interfacemode_foundations	基礎
+interfacemode_construction	材料
+interfacemode_planning	企画
+interfacemode_objects	物体
+interfacemode_designation	部屋
+interfacemode_utilities	電気＆水道
+interfacemode_staff	職員
+interfacemode_deployment	配置
+interfacemode_logistics	施設管理
+interfacemode_prisoners	受刑者
+interfacemode_needs	ニーズ
+interfacemode_threats	リスク
+interfacemode_overlays	オーバーレイ
+interfacemode_research	役所仕事
+interfacemode_emergencies	緊急
+interfacemode_clone	コピー
+interfacemode_contraband	機密情報
+interfacemode_grading	評価
+interfacemode_spawn	（開始ポイント）
+interfacemode_properties	（プロパティ）
+interfacemode_cutscenes	（ムービー）
+interfacemode_selection	選択
+interfacemode_prefabs	クイックビルド
+
+interfaceoverlay_security	セキュリティ
+interfaceoverlay_patrols	パトロール
+interfaceoverlay_decay	劣化
+interfaceoverlay_territory	縄張り
+interfaceoverlay_contraband	禁制品
+
+interfaceproperty_indoor	屋内
+interfaceproperty_visible	可視エリア
+interfaceproperty_territoryprisoner	ギャング
+interfaceproperty_territoryguard	看守
+interfaceproperty_sectorprisoner	暴動中
+interfaceproperty_tunnel	トンネル
+
+interfacedeployment_guards	看守
+interfacedeployment_patrols	パトロール（看守）
+interfacedeployment_dogpatrols	パトロール（警察犬）
+interfacedeployment_armedpatrols	パトロール（武装）
+interfacedeployment_removeguards	看守を外す
+interfacedeployment_clearpatrols	パトロールをストップ
+interfacedeployment_targetting	施設管理
+interfacedeployment_targettingfood	食料支援
+interfacedeployment_targettinglaundry	洗濯支援
+interfacedeployment_securearea	安全エリア
+interfacedeployment_sharedzone	共有
+interfacedeployment_staffonlyzone	職員のみ
+interfacedeployment_maxseczone	厳重警備の受刑者のみ
+interfacedeployment_medseczone	中警備の受刑者のみ
+interfacedeployment_minseczone	軽警備の受刑者のみ
+interfacedeployment_protectedzone	保護拘置の受刑者のみ
+interfacedeployment_supermaxzone	超厳重警備の受刑者のみ
+interfacedeployment_deathrowzone	死刑囚のみ
+interfacedeployment_unlockedzone	施錠なし
+interfacedeployment_zonered	赤ウィング
+interfacedeployment_zonegreen	緑ウィング
+interfacedeployment_zoneblue	青ウィング
+interfacedeployment_zoneyellow	黄ウィング
+interfacedeployment_zoning	ゾーニング
+interfacedeployment_accessonly	アクセスのみ
+interfacedeployment_prisonerdirection	受刑者用案内
+interfacedeployment_staffdirection	その他の人用案内
+
+interfacelogistics_jobs	囚人労働
+interfacelogistics_removejobs	囚人労働をキャンセル
+interfacelogistics_targettingfood	食料の供給
+interfacelogistics_targettinglaundry	洗濯物の供給
+interfacelogistics_roomquality	部屋のクオリティ
+interfacelogistics_weathermap	気温
+
+interfaceplanning_wall	壁
+interfaceplanning_object	物体
+interfaceplanning_route	通路
+interfaceplanning_clear	クリア
+interfaceplanning_zone1	ゾーン1
+interfaceplanning_zone2	ゾーン2
+interfaceplanning_zone3	ゾーン3
+interfaceplanning_zone4	ゾーン4
+interfaceplanning_zone5	ゾーン5
+interfaceplanning_zone6	ゾーン6
+interfaceplanning_zone7	ゾーン7
+interfaceplanning_zone8	ゾーン8
+interfaceplanning_zone9	ゾーン9
+
+interfacecontraband_source	危険
+interfacecontraband_day	-24時間
+interfacecontraband_week	-7日
+interfacecontraband_alltime	-3日
+interfacecontraband_stolenfrom	盗まれた場所
+interfacecontraband_informants	密告者
+interfacecontraband_gangs	ギャング
+
+interfacecallout_fireengine	消防車
+interfacecallout_riotpolice	機動隊
+interfacecallout_armedpolice	武装隊
+interfacecallout_paramedics	救急隊
+interfacecallout_soldiers	兵士
+
+interfaceclone_copy	コピー
+interfaceclone_paste	ペースト
+interfaceclone_cancel	クイックビルドをキャンセル
+interfaceclone_clone	クローン
+
+interfacetopbar_todo	タスク
+interfacetopbar_balance	口座 *B
+interfacetopbar_budget	キャッシュフロー *C
+interfacetopbar_income	収益 *I
+interfacetopbar_expenses	コスト *C
+interfacetopbar_day	日数 *D
+
+interfacetopbar_title_balance	口座残高
+interfacetopbar_title_budget	キャッシュフロー
+interfacetopbar_title_cctv	監視カメラ
+interfacetopbar_title_day	日数
+interfacetopbar_title_prisoners	受刑者
+interfacetopbar_title_guards	看守
+interfacetopbar_title_tension	危険度
+interfacetopbar_title_weathericon	天気
+
+interfacetopbar_tooltip_balance	銀行口座にある現金の額。\n\n資金をもっと手に入れるには、クリックしてリスト内の助成金制度を利用しよう。
+interfacetopbar_tooltip_budget	1日に受け取ることのできる額。現在の支出と収入によって決定される。\n\nクリックすると支出と収入の内訳を見ることができる。
+interfacetopbar_tooltip_cctv	現在所持している監視カメラとモニターの数。
+interfacetopbar_tooltip_day	刑務所を経営し始めてからの期間。
+interfacetopbar_tooltip_prisoners	現在収容している受刑者の数および収容できる最高人数。
+interfacetopbar_tooltip_guards	刑務所で働かせることのできる看守の数。
+interfacetopbar_tooltip_tension	看守長が考える、刑務所の全般的な危険度。
+interfacetopbar_tooltip_weathericon	現在の天気と気温。
+
+interfacetopbar_tooltip_recenttransactions	最近の取引き
+
+interfacetopbar_tooltip_gametime	合計プレイ時間：*X時間*Y分*Z秒
+
+interfacetopbar_tooltip_totalguards	合計看守数：*X
+interfacetopbar_tooltip_guardincapacitated	負傷中：*X
+interfacetopbar_tooltip_guardstationed	配置済み：*X
+interfacetopbar_tooltip_guardpatrolling	パトロール中：*X
+interfacetopbar_tooltip_guardavailable	使用可能：*X
+interfacetopbar_tooltip_guardresting	休憩中：*X
+interfacetopbar_tooltip_guardonbreak	休憩中:*X
+interfacetopbar_tooltip_guardwantsabreak	（*Xは休憩が必要）
+interfacetopbar_tooltip_guardactive	（事件に対応中：*X）
+interfacetopbar_tooltip_guarddoingjob	仕事中：*X
+interfacetopbar_tooltip_idle	(*X人がヒマ）
+interfacetopbar_tooltip_guardsstriking	ストライキ中:*X
+
+interfacetopbar_tooltip_regularguards	*X人の通常の看守が勤務
+interfacetopbar_tooltip_armedguards	*X人の武装警備員が勤務
+interfacetopbar_tooltip_dogs	*X人の警察犬訓練士が勤務
+interfacetopbar_tooltip_snipers	*X人のスナイパーが勤務
+
+interfacetopbar_unlimitedfunds	無限の資金
+interfacetopbar_cheatsenabled	チートが有効になっています
+
+interfacetopbar_budget_moneyin	収入：*Mドル（日）
+interfacetopbar_budget_moneyout	支出：*Mドル（日）
+interfacetopbar_budget_cantgonegative	財政管理をしてくれる会計士を雇うまでは、キャッシュフローをマイナス（例：支出が収入を上回る状態）にすることはできません。
+
+interfacetopbar_prisoners_types	現在収容中の受刑者：*X
+interfacetopbar_prisoners_capacity	最大安全収容数：*X
+interfacetopbar_prisonercells_shared	相部屋の収容数：*X
+interfacetopbar_prisonercells_unlocked	施錠なしエリアの収容数：*X
+interfacetopbar_prisonercells_minseconly	軽警備棟の収容数：*X
+interfacetopbar_prisonercells_medseconly	中警備棟の収容数：*X
+interfacetopbar_prisonercells_maxseconly	厳重警備棟の収容数：*X
+interfacetopbar_prisonercells_protectedonly	保護拘置棟の収容数：*X
+interfacetopbar_prisonercells_supermaxonly	超厳重警備棟の収容数：*X
+interfacetopbar_prisonercells_deathrowonly	死刑囚棟の収容数：*X
+interfacetopbar_prisonercells_staffonly	使用できない職員数：*X
+interfacetopbar_prisoners_nocells	入る独房がない受刑者数：*X
+interfacetopbar_prisonercells_parents	ペアレンタルコントロール許容度：*X
+
+interfacetopbar_cctv_current	使用中の監視カメラ数*X
+interfacetopbar_cctv_cap	使用できる監視カメラ数：*X
+
+interfacetopbar_tension_currentlevel	危険レベルは*X
+interfacetopbar_tension_currentlevellow	低
+interfacetopbar_tension_currentlevelmedium	中
+interfacetopbar_tension_currentlevelhigh	高
+interfacetopbar_tension_increasing	で、現在上昇中
+interfacetopbar_tension_decreasing	で、現在減少中
+interfacetopbar_tension_description	要因：
+interfacetopbar_tension_happyprisoners	- 待遇は悪くないと感じている受刑者*X人→危険度ダウン
+interfacetopbar_tension_unhappyprisoners	+ 深刻な不満を抱えている受刑者*X人→危険度アップ
+interfacetopbar_tension_lockedupprisoners	+ 独房内で手錠を掛けられている受刑者、または隔離棟に入れられている受刑者*X人→危険度アップ
+interfacetopbar_tension_riotingprisoners	+ 暴動を起こしている受刑者*X人→危険度アップ
+interfacetopbar_tension_wellfedprisoners	- 十分な食事を与えられている受刑者*X人→危険度ダウン
+interfacetopbar_tension_suppressedprisoners	= 抑制を受けている受刑者*X人→危険度変化なし
+interfacetopbar_tension_activeriotguards	+ 出動中の機動隊員*X人→危険度アップ
+interfacetopbar_tension_activearmedguards	+ 任務中の武装警備員*X人→危険度アップ
+interfacetopbar_tension_recentdeaths	+ 最近出た死亡者*X人→危険度アップ
+interfacetopbar_tension_recentsearches	+ 理由もなくボディーチェックをされた受刑者*X人→危険度アップ
+interfacetopbar_tension_angrygangmembers	+ リーダーが罰を与えられたことで憤慨しているギャングメンバー*X人→危険度アップ
+interfacetopbar_tension_recentpunishments	= 抑止効果を狙って最近与えられた処罰*X件→危険度変化なし
+interfacetopbar_tension_recentcalmed	- 最近落ち着きを取り戻した受刑者*X人→危険度ダウン
+interfacetopbar_tension_staffmorale_low	+ 職員の意欲が低い
+interfacetopbar_tension_staffmorale_high	- 職員の意欲が高い
+interfacetopbar_tension_staffonstrike	+ 職員はストライキ中だ
+interfacetopbar_tension_dangerzone	+ 危険ゾーン！
+
+interfacetopbar_staffmorale_title	職員の意欲
+interfacetopbar_staffmorale_happystaff	+ *X人の職員が、仕事に満足している
+interfacetopbar_staffmorale_unhappystaff	- *X人の職員から深刻な苦情を受けた
+interfacetopbar_staffmorale_injuredstaff	- *X人の職員が負傷している
+interfacetopbar_staffmorale_staffdeaths	- *X人の職員が勤務中に死亡した
+interfacetopbar_staffmorale_staffpayverygood	+ 職員の給与は非常に高い
+interfacetopbar_staffmorale_staffpaygood	+ 職員の給与は高い
+interfacetopbar_staffmorale_staffpaybad	- 職員の給与は不十分だ
+
+interfacecontrol_mainmenu	メインメニュー（Esc）
+interfacecontrol_mainmenu_tooltip	メインメニューの切り替え（新規/ロード/保存/終了など）
+interfacecontrol_todo	タスクリスト
+interfacecontrol_todo_tooltip	タスクの切り替え
+interfacecontrol_research	役所仕事
+interfacecontrol_research_tooltip	「役所仕事」画面を開き、管理職員に新しいアイテムや職員タイプ、施設などをアンロックさせることができる。
+interfacecontrol_grading	刑務所評価
+interfacecontrol_grading_tooltip	「刑務所評価」画面を開き、刑務所の経営状態に関する全般的な評価を見ることができる。
+
+interface_confirmlandbuy	本当に*Xドル払ってこの土地を購入しますか？
+interface_loadconfirm	本当にこのマップをロードしますか？続ける場合は、保存済みでないゲーム経過は失われます。
+interface_saveconfirm	本当にこのファイル名で保存しますか？続ける場合は、現存のデータは上書きされます。
+
+interface_landbuylabel	*Xm x *Ym。合計面積は*A平方メートル。*C
+
+interface_action_dismantle	取り壊す
+interface_action_dump	捨てる
+interface_action_repair	修理
+interface_action_medicalbay	医療室
+interface_action_search	調べる
+interface_action_searchcell	独房を調べる
+interface_action_searchcellblock	独房棟を調べる
+interface_action_searchtoilets	トイレを調べる
+interface_action_sack	解雇
+interface_action_dooropen	ドアを開ける
+interface_action_doormodenormal	ドアモード：ノーマル
+interface_action_doormodelockedshut	鍵あり（閉）
+interface_action_doormodelockedopen	鍵あり（開）
+interface_action_switchon	スイッチオン
+interface_action_switchoff	スイッチオフ
+interface_action_sellobject	売る
+interface_action_dismiss	解雇
+interface_action_connect	つなげる
+interface_action_clearconnections	解除
+interface_action_servoopen	スイッチオンで開ける
+interface_action_servoclose	スイッチオンで閉める
+interface_action_follow	コピー
+interface_action_rapsheet	ラップシートを表示
+
+interface_contents_container	内容物：*X
+interface_contents_stack	内容物：*X x *Y
+
+interface_skip	スキップ
+
+interface_error_riotmove	暴動中につき進入不可
+
+interface_foundationsinprogress	基礎を建設中
+riot_underway	暴動が進行中
+riot_status_prisoners	暴動に参加している受刑者：*X
+shakedown_underway	ガサ入れ進行中
+shakedown_found	発見：
+
+gameover_caption	ゲームを続けるにはESCを押そう
+
+sector_jobs_max	最大の仕事数：*X
+sector_jobs_qualified	条件を満たした受刑者：*X
+sector_jobs_required	（必要数：*X）
+sector_noaccess	アクセス不可
+sector_insecure	安全の保証なし
+
+
+# =============================================================================
+# Hardware Compatibility
+# =============================================================================
+
+hardware_compat_title	ハードウェアの互換性テスト
+hardware_compat_message	弊社では、ユーザーからの許可がある場合に限り、以下のデータをユーザーのコンピュータより収集します。\n\nこの情報は、本ゲームができるだけ多くのハードウェアに対応できるよう、完全に匿名の状態で集められます。\n\nご協力ありがとうございます。
+hardware_compat_accept	許可する
+hardware_compat_decline	断る
+
+connectionmenu_connect	接続
+connectionmenu_disconnect	接続解除
+connectionmenu_clear	クリア
+connectionmenu_done	完了
+
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_title	建設
+buildtoolbar_reports	報告書
+buildtoolbar_bangup	独房行き
+buildtoolbar_lockdown	封鎖
+buildtoolbar_shakedown	ガサ入れ
+buildtoolbar_weaponsfree	発砲許可
+
+buildtoolbar_tooltip_reports	「報告書」画面では、受刑者や職員、収入、助成金、その他の項目に関して情報を見ることができる。
+buildtoolbar_tooltip_bangup	すべての（抵抗しない）受刑者を独房に戻すことができる。監禁期間が長くなると受刑者が怒り始めるので注意した方がいい。
+buildtoolbar_tooltip_lockdown	刑務所内のすべてのドアを一斉に施錠する。
+buildtoolbar_tooltip_shakedown	すべての独房を今すぐに調べさせることができる。この作業には時間がかなり掛かり、受刑者はかなり不満を頂くことになるだろう。
+buildtoolbar_tooltip_weaponsfree	看守に殺傷力のある武器を許可する。スナイパーは、標的を殺す前に警告の発砲をしなくなる。
+buildtoolbar_tooltip_nostrike	職員のストライキ中は使用不可。
+
+buildtoolbar_cost	コスト：*Cドル
+buildtoolbar_cost_sqrft	コスト：*Cドル（1平方Mあたり）
+buildtoolbar_wages	賃金：*Wドル/日
+buildtoolbar_upkeep	維持費:*Wドル/日
+buildtoolbar_outdoor	屋外のみ
+buildtoolbar_indoor	屋内のみ
+buildtoolbar_walk_speed	歩行速度：*S
+buildtoolbar_walk_speed_slow	遅い
+buildtoolbar_walk_speed_norm	普通
+buildtoolbar_walk_speed_fast	速い
+buildtoolbar_locked	ロック中
+buildtoolbar_locked_research	ロック中（*Bが必要）
+buildtoolbar_locked_administrator	ロック中（*Bが必要）
+buildtoolbar_room	部屋
+
+buildtoolbar_electrical	- 配線
+buildtoolbar_highpower	- 高出力
+buildtoolbar_water	- 水道管への接続が必要
+buildtoolbar_wired	- 有線（その他の有線アイテムに接続）
+buildtoolbar_modcontent	- MODコンテンツ
+
+buildtoolbar_popup_foundations	建物を作ったり壊したりしながら、刑務所の形を決めていこう。
+buildtoolbar_popup_construction	いろいろな種類の床や壁。
+buildtoolbar_popup_planning	作業員が作業を始める前に、しっかりと刑務所を設計しよう。
+buildtoolbar_popup_designation	刑務所内の各エリアに特定の役割を与える。
+buildtoolbar_popup_objects	刑務所内に便利なアイテムを配置しよう。
+buildtoolbar_popup_overlays	刑務所のレイアウトの弱点を視覚的に示してくれる。
+buildtoolbar_popup_utilities	水道や電気の設備。
+buildtoolbar_popup_staff	刑務所の運営に必要な人材を雇う。
+buildtoolbar_popup_deployment	刑務所内の各エリアに職員を配置する。
+buildtoolbar_popup_logistics	受刑者に刑務所内の仕事を与える。また、食堂や洗濯室の管理を手動で行う。
+buildtoolbar_popup_research	刑務所に新しい可能性を与えてくれる。
+buildtoolbar_popup_emergencies	非常事態が発生した際に緊急サービスを呼ぶ。
+buildtoolbar_popup_clone	現存の建物をコピペする。
+buildtoolbar_popup_properties	色々と発見する。
+buildtoolbar_popup_contraband	禁制品の出どころと、最近刑務所で見つかった禁制品のリストを確認できる。また、密告人とその情報の内容も確認できる。
+buildtoolbar_popup_grading	処罰、更生、安全性、健康の4つの側面から見た、刑務所の全般的な評価を見ることができる。また、再犯率も確認できる。
+buildtoolbar_popup_prefabs	自分の刑務所の一部をコピー＆ペーストするか、事前に用意された部屋を配置する。
+buildtoolbar_popup_room_cell	受刑者が暮らしている場所。
+buildtoolbar_popup_room_holdingcell	到着したばかりの受刑者が、独房が見つかるまでのあいだ過ごす部屋。
+buildtoolbar_popup_room_solitary	受刑者の中でも特に始末の悪い者たちを隔離して収容する場所。
+buildtoolbar_popup_room_dormitory	複数の受刑者を収容する、サイズ変更可能な部屋。寮が広いほど、多くの受刑者を収容できる。
+buildtoolbar_popup_room_familycell	乳幼児がいる受刑者が住む場所。
+buildtoolbar_popup_room_sharedcell	複数の受刑者を収容するための独房。最大8人まで受刑者を収容できる。
+buildtoolbar_popup_room_canteen	受刑者たちが食事をする場所。
+buildtoolbar_popup_room_kitchen	受刑者の食事を準備する場所。
+buildtoolbar_popup_room_shower	受刑者を清潔に保ち、シラミが湧かないようにする。
+buildtoolbar_popup_room_yard	狙撃タワーの監視のもと、受刑者たちが1日数時間だけ新鮮な空気を吸える場所。
+buildtoolbar_popup_room_storage	刑務所の職員が必要とするありとあらゆるアイテムが保管されている。
+buildtoolbar_popup_room_deliveries	アイテムや材料、さらに受刑者が届けられる場所。
+buildtoolbar_popup_room_garbage	ゴミはここから収集される。
+buildtoolbar_popup_room_execution	受刑者をあの世へ送る場所。
+buildtoolbar_popup_room_workshop	ナンバープレートを作るという死ぬほど退屈な作業を受刑者が行う場所。
+buildtoolbar_popup_room_security	警備スタッフのためのオフィス。
+buildtoolbar_popup_room_office	刑務所の管理職員が働くエリア。
+buildtoolbar_popup_room_medicalward	医療スタッフが働くエリア。意識不明の囚人は回復に時間がかかるが、ここで治療を受ければ安心だ。
+buildtoolbar_popup_room_morgue	死んだ受刑者（だけでなく職員も）が送られる場所。
+buildtoolbar_popup_room_commonroom	受刑者がしばし寛ぐことのできるエリア。
+buildtoolbar_popup_room_kennel	犬が暮らしている場所。
+buildtoolbar_popup_room_chapel	役人たちが集まり、受刑者たちの宗教的ニーズをどうするか考えた末にできたのが、この「共用祈祷室」だ。ここでは単に「チャペル」とよばれている。
+buildtoolbar_popup_room_paroleroom	受刑者たちは、刑期の50%または75%を務めた後で仮釈放の資格を得る。仮釈放が許されるか否かは、この部屋で刑務所長と看守長によって決められる。\n\n注意：仮釈放が認められなかった受刑者が暴れだすことがあるため、警備をさらに厳重にすることをお勧めする。
+buildtoolbar_popup_room_library	刑務所にはいらなくなった本が国中から送られてくる。これを棚に並べるのは受刑者の仕事だ。
+buildtoolbar_popup_room_intake	受刑者が到着した際に最初に連れていかれる場所。
+buildtoolbar_popup_room_nursery	乳幼児がいる受刑者のためのアクティビティ室。
+buildtoolbar_popup_room_shop	売店は、受刑者が苦労して稼いだ賃金を使って、贅沢をしたいという気持ちを満足させる場を提供する。衛生用品、食物、娯楽も提供できる。君は販売した物に対しての料金と、販売総数に応じて毎日手数料を得る。
+
+buildtoolbar_popup_obj_bed	寝心地満点… とい言いたいことろだが、実際は硬すぎる上にサイズも小さめである。
+buildtoolbar_popup_obj_toilet	奴らの言うところの「基本的人権」のひとつ。
+buildtoolbar_popup_obj_table	お揃いの椅子との相性バッチリ。
+buildtoolbar_popup_obj_chair	お揃いのテーブルとの相性バッチリ。
+buildtoolbar_popup_obj_bench	腰を下ろす場所。
+buildtoolbar_popup_obj_electricchair	2000ボルトの正義が下される場所。
+buildtoolbar_popup_obj_jaildoor	受刑者を閉じ込めておくためのもの。
+buildtoolbar_popup_obj_jaildoorlarge	大量の受刑者を閉じ込めておくためのもの。
+buildtoolbar_popup_obj_door	シンプルなドア。
+buildtoolbar_popup_obj_solitarydoor	どんなに力のある受刑者をも逃げさせない、頑丈なドア。
+buildtoolbar_popup_obj_staffdoor	看守だけでなく、すべての職員が開けることのできる鍵の掛かったドア。
+buildtoolbar_popup_obj_window	太陽の光を通してくれる。
+buildtoolbar_popup_obj_windowlarge	太陽の光をたっぷり通してくれる。
+buildtoolbar_popup_obj_tree	地球温暖化は人類が一体になって取り組まなければならない問題だ。
+buildtoolbar_popup_obj_light	これのお陰で一日中受刑者の顔をはっきりと見ることができる。
+buildtoolbar_popup_obj_cooker	暖かい食事という贅沢を受刑者に与えるためのもの。
+buildtoolbar_popup_obj_fridge	食料を腐らせずに保管できる。
+buildtoolbar_popup_obj_bin	見つかった禁制品はしっかりと始末しなければならない。
+buildtoolbar_popup_obj_sink	すべての職員は手洗いをしなければならない。お湯がでる場合は、手洗いが速くなる。
+buildtoolbar_popup_obj_servingtable	受刑者に食事を提供する場所。
+buildtoolbar_popup_obj_officedesk	職員は色々なことを書き留める必要がある。このピカピカのオフィスデスクはそんな時に便利だ。
+buildtoolbar_popup_obj_filingcabinet	職員が書き留めたものをきれいに保管しておくためのもの。
+buildtoolbar_popup_obj_morgueslab	遺体を搬送する前に安置しておくための場所。
+buildtoolbar_popup_obj_drain	床から水を抜く役目を果たす。
+buildtoolbar_popup_obj_sprinkler	火事が起こった際に自動的に水を撒いてくれる。
+buildtoolbar_popup_obj_metaldetector	禁制品を身につけた受刑者がここを通ると知らせてくれる。禁制品を没収するための看守が必要。
+buildtoolbar_popup_obj_weightsbench	これで運動すれば受刑者の機嫌も上々。
+buildtoolbar_popup_obj_tv	頭が麻痺するほどの平凡さで、受刑者を落ち着かせよう。テレビの前に受刑者が座る場所が必要だ。
+buildtoolbar_popup_obj_largetv	大勢の受刑者に、頭が腐る経験を共有させることができる。テレビの前に受刑者が座る場所が必要だ。
+buildtoolbar_popup_obj_pooltable	ビリヤードで単調な刑務所生活に刺激を。
+buildtoolbar_popup_obj_dismantleobject	刑務所のアイテムを取り除く。
+buildtoolbar_popup_obj_altar	受刑者の祈りの声を好みの神の元へ届けてくれる。
+buildtoolbar_popup_obj_pews	信心深い者たちのための椅子。大変固く、座ればお尻が痛くなること間違いなし。
+buildtoolbar_popup_obj_prayermat	祈りを捧げる受刑者たちを汚い床から守ってくれる。
+
+buildtoolbar_popup_staff_guard	受刑者がトラブルを起こさないよう見張っていてくれる。
+buildtoolbar_popup_staff_armedguard	ショットガンを持っているため、受刑者に襲い掛かられる可能性は低い。\n\n注意：それぞれの武装警備員は武器庫内にロッカーを持つ必要がある。
+buildtoolbar_popup_staff_doctor	看守、受刑者を問わず、近くにいる怪我人を自動的に治療してくれる。
+buildtoolbar_popup_staff_cook	受刑者のために食事を用意してくれる。
+buildtoolbar_popup_staff_gardener	刑務所の敷地を綺麗に整えてくれる。
+buildtoolbar_popup_staff_janitor	刑務所の内部を綺麗にしてくれる。洗濯の手伝いをしてくれることもある。
+
+buildtoolbar_popup_uts_powerstation	刑務所で使われる電力を供給してくれる。
+buildtoolbar_popup_uts_capacitor	発電所の横に置くとことで、さらに多くの電力を確保してくれる。
+buildtoolbar_popup_uts_electricalcable	刑務所のあらゆる場所に電気を行き渡らせてくれる。
+buildtoolbar_popup_uts_powerswitch	スイッチを入れるとそこにつながれたケーブルに電気が通る。\n\n右クリックでスイッチをオンまたはオフにできる。
+buildtoolbar_popup_uts_waterpumpstation	刑務所に水を供給してくれる。
+buildtoolbar_popup_uts_pipevalve	スイッチを入れるとそこにつながれたパイプに水が通る。
+buildtoolbar_popup_uts_pipelarge	刑務所内に大量の水を高い水圧で行き渡らせてくれる。受刑者がそこを通って逃げようと思えば可能なほど大きいが、ヒドい悪臭の中を何百メートルも進なければならないだろう。\n\n注意：水圧が高いため、シンクやシャワーヘッドにはつなげない方がいい。そのような用途には小さいパイプが適している。
+buildtoolbar_popup_uts_pipesmall	トイレ、シャワー、シャワーといったアイテムを大きなパイプにつなげるのに使われる。水圧はかなり低く、あまりパイプが長くなると使いものにならない。
+buildtoolbar_popup_uts_cctv	一度に沢山の看守を配置せずに刑務所を監視することができる。\n\nモニターを接続しないと使うことができない。
+buildtoolbar_popup_uts_cctvmonitor	警備室に設置し、看守によって操作される。刑務所内に設置された監視カメラを遠隔操作できる。\n\nこのモニターを監視カメラにつなぐには、接続ツールを使おう。\n\n注意：一度に見れる監視カメラは8台まで。８台以上接続した場合には、周期的にしか映せないため、すべてをカバーすることができない。
+buildtoolbar_popup_uts_DoorControlSystem	警備室に設置し、看守によって操作される。刑務所内のドアを遠隔操作で開けるのに使われる。\n\nこのシステムをドアサーボにつなぐには、接続ツールを使おう。ドアサーボは遠隔操作したいドアの上に設置する必要がある。\n\n注意：このシステムにはいくつでもサーボを接続することができるが、これを操作している看守が1秒間に開けられるドアは2つまで。
+buildtoolbar_popup_uts_phonemonitor	警備室に設置し、看守によって操作される。受刑者が電話を掛ける際にそれを盗聴することができ、違法行為が計画されている場合にそれを知ることが可能。\n\nこのシステムを電話ボックスにつなぐには、接続ツールを使おう。
+buildtoolbar_popup_uts_Servo	遠隔操作したいドアの上に設置して使う。歯車モーターがドアのすぐ上に来るようにしよう。\n\nサーボを設置すると、そのスイッチが入った際にドアが自動的に開く。この操作は、ドア操作システムまたはドアタイマーによって行われる。\n\n複数のサーボをつなげることも可能で、この場合、1つのドアが開くと他のサーボのスイッチが入る仕組みになっている。
+buildtoolbar_popup_uts_LogicCircuit	上級の設計士のみが使用可能。\n\n入力に応じて論理演算を行い出力を決定する、シンプルな回路ボックス。\n\n可能な操作：And / Or / Not / Nand / Nor / Xor\n\n右クリックで演算を切り替えることができる。
+buildtoolbar_popup_uts_LogicBridge	上級の設計士のみが使用可能。\n\n入ってくる信号を同じマス内にインストールされた電気ケーブルにつなげる。さらに、同じ電気ケーブルにつながれた論理回路にも信号が伝わる仕組み。\n\n刑務所全体に向けて同じ信号を「流す」ことができる（例：時間を知らせる）。
+buildtoolbar_popup_uts_DoorTimer	決まった時間にドアを自動的に開けるのに使われる。\n\nこのタイマーをドアサーボにつなげるには、接続ツールを使おう。
+buildtoolbar_popup_uts_Wire	遠隔操作システムをつなげるのに使う。
+buildtoolbar_popup_uts_showallwires	刑務所内につながったすべてのケーブルを見ることができる。
+buildtoolbar_popup_uts_remotedoor	頑丈な金属製のドア。鍵で開けることはできず、遠隔操作でのみ開けることができる。受刑者に鍵を奪われた際に大量の脱獄者を出さないために使おう。
+buildtoolbar_popup_uts_dismantleutility	水道または電気関連のアイテムを取り外すのに使われる。
+buildtoolbar_popup_uts_pressurepad	パッドの上に体重が掛かるとアイテムに信号を送る。
+buildtoolbar_popup_uts_statuslight	入ってくる信号によって赤または緑のライトがつく。
+
+buildtoolbar_popup_autolights_name	自動ライト
+buildtoolbar_popup_autolights	自動ライト設置
+buildtoolbar_popup_autolights_desc	これを選択すると、新しい建物の建設が終わった後に自動的にライトを設置する。
+
+buildtoolbar_contraband_source	禁制品が盗まれそうな刑務所内の場所。
+buildtoolbar_contraband_day	この24時間以内で差し押さえられた禁制品をすべて表示する。このアイコンは、禁制品が差し押さえられた場所を示す。
+buildtoolbar_contraband_week	最近7日間に差し押さえられた禁制品をすべて表示する。このアイコンは、禁制品が差し押さえられた場所を示す。
+buildtoolbar_contraband_alltime	刑務所内でこれまでに差し押さえられた禁制品をすべて表示する。このアイコンは、禁制品が差し押さえられた場所を示す。
+buildtoolbar_contraband_stolenfrom	最近7日間の禁制品をすべて表示する。このアイコンは、禁制品がどこから盗まれたか、またはどこから刑務所に持ち込まれたかを示す。
+buildtoolbar_contraband_informants	密告者によって集められた情報。
+buildtoolbar_contraband_gangs	刑務所のギャングに関する情報を示す。
+
+buildtoolbar_deployment_Guards	刑務所の各エリアに看守を配置する。
+buildtoolbar_deployment_Patrols	クリック＆ドラッグで巡回ルートを作ろう。\n\n巡回ルートに看守を配置するには、巡回ルートが置かれたスクエアをもう一度クリックしよう。\n右クリック＆ドラッグで看守を外すことができる。
+buildtoolbar_deployment_DogPatrols	クリック＆ドラッグで巡回ルートを作ろう。\n\n巡回ルートに看守を配置するには、巡回ルートが置かれたスクエアをもう一度クリックしよう。\n右クリック＆ドラッグで看守を外すことができる。
+buildtoolbar_deployment_ArmedPatrols	クリック＆ドラッグで巡回ルートを作ろう。\n\n巡回ルートに看守を配置するには、巡回ルートが置かれたスクエアをもう一度クリックしよう。\n右クリック＆ドラッグで看守を外すことができる。
+buildtoolbar_deployment_SharedZone	すべての受刑者が使用できるエリア。
+buildtoolbar_deployment_MinSecZone	軽警備の受刑者のみが使用できるエリア。
+buildtoolbar_deployment_MedSecZone	中警備の受刑者のみが使用できるエリア。
+buildtoolbar_deployment_MaxSecZone	厳重警備の受刑者のみが使用できるエリア。
+buildtoolbar_deployment_ProtectedZone	保護拘置の受刑者のみが使用できるエリア。
+buildtoolbar_deployment_SuperMaxZone	超厳重警備の受刑者のみが使用できるエリア。
+buildtoolbar_deployment_DeathRowZone	死刑囚のみが使用できるエリア。
+buildtoolbar_deployment_StaffOnlyZone	職員のみが使用できるエリア。
+buildtoolbar_deployment_UnlockedZone	誰でも使用できるエリア。ドアに鍵は掛かっていない。
+buildtoolbar_deployment_accessonly	人々は、刑務所内の他の経路をたどることを選び、できるだけ「アクセスのみ」のゾーンを避けようとする。
+buildtoolbar_deployment_prisonerdirection	クリック＆ドラッグで床サインをペイントしよう。\n\nこれで受刑者に行き方を指示できる。\n刑務所内での人の動きを管理するのに便利である。
+buildtoolbar_deployment_staffdirection	クリック＆ドラッグで床サインをペイントしよう。\n\nこれで受刑者ではない人たちに行き方を指示できる。\n刑務所内での人の動きを管理するのに便利である。
+
+buildtoolbar_quickbuild_clone	クローンツールを使うと、刑務所内のコピーしたいエリアを選択し、そのエリアを配置することができる。クローンツールが選択された状態で、マウスの右ボタンを押しながら、コピーしたいエリアをドラッグする。次に、刑務所内の別の場所を左クリックして、そのエリアのコピーを建設の順番待ちにする。選択したエリアは、カスタムスロットとして保存することができる。
+
+# The ~ and ^ characters in front of some of the lines in the buildtoolbar_popup_help section are colour codes and should be preserved during translation
+
+buildtoolbar_popup_help_targettingfood_1	「食事の供給」ビューでは、それぞれの独房棟を担当している食堂や、各食堂を担当している厨房が示される。現在アクティブな厨房と食堂の現在の供給量と需要を見ることもできる（調理開始は次の「食事」の4時間前）。
+buildtoolbar_popup_help_targettingfood_2	~独房棟を左クリックしてから食堂を左クリックすると、選択した独房棟にその食堂を割り当てることができる。同様に、食堂に厨房を割り当てることができる。ゾーンを右クリックすると、デフォルトにリセットされる。\n\n
+buildtoolbar_popup_help_targettingfood_3	~シフトボタンを押しながら左クリックすると、複数の部屋を選択できる。\n\n
+buildtoolbar_popup_help_targettingfood_4	^ヒント
+buildtoolbar_popup_help_targettingfood_5	- 独房棟または厨房が思ったように食堂と対応していない場合は、右クリックでリセットしよう。
+buildtoolbar_popup_help_targettingfood_6	- 「食事」セッション中に食堂への「供給」が不十分な場合は、混み過ぎているためより多くの食事を調理する必要があることを意味する。
+
+buildtoolbar_popup_help_targettinglaundry_1	「洗濯室の配置」ビューは、独房棟、寮、受付がそれぞれどの洗濯室と対応しているかを示す。\n\n
+buildtoolbar_popup_help_targettinglaundry_2	~洗濯室を左クリックしてから独房棟、寮、大部屋のいずれかを左クリックすると、選択室はその部屋に対応するようになる。シフトキーを押したままにすると、複数の部屋を選択できる。
+buildtoolbar_popup_help_targettinglaundry_3	~ 洗濯室を右クリックすると、デフォルトにリセットされる。\n\n
+buildtoolbar_popup_help_targettinglaundry_4	^ヒント
+buildtoolbar_popup_help_targettinglaundry_5	洗濯室に対応させる部屋の数に制限はないが、洗濯の速さには限界がある（部屋のサイズと、そこで働いている受刑者や作業員の人数に応じる。）ひとつの洗濯室で大きな刑務所全体をカバーすることも可能だが、それぞれの部屋には、ごくたまにしか服が与えられなくなる。
+
+buildtoolbar_popup_help_roomquality_1	「部屋のクオリティ」ビューは、刑務所内のすべての独房と寮の質を0から10の評価で示す。数字が大きい方がクオリティが高い。部屋の上にマウスを持っていくと、その部屋のクオリティを決める要素と、改善のためにあなたが加えるべきものが表示される。\n\n
+buildtoolbar_popup_help_roomquality_2	^ヒント
+buildtoolbar_popup_help_roomquality_3	- 長らく態度の良い受刑者には、より質の高い独房を与えられる権利がある。質の良い独房を準備しておくことは、受刑者の態度を改善する良い方法だ。
+buildtoolbar_popup_help_roomquality_4	- 刑務所には、質の悪い独房を残しておくことも重要だ。到着したばかりの新しい受刑者には収容先が必要だが、質の高い独房しか空いていない場合には、留置場に入れる場合もある。
+buildtoolbar_popup_help_roomquality_5	- 他に場所がない場合は、その受刑者に相応しいものよりも高い質の独房に収容することもできるが、他の受刑者の不満につながるだろう...
+
+buildtoolbar_popup_help_jobs_1	「刑務所労働」ビューでは、労働を課されている受刑者をどの部屋に入れることができるかと、現在何人の受刑者が課されているかが表示される。\n\n
+buildtoolbar_popup_help_jobs_2	~部屋を左クリックすると、労働スロットを追加できる。各労働スロットは、作業計画の最中に受刑者で埋めることが可能だ。部屋を右クリックすると、スロットを削除できる。\n\n
+buildtoolbar_popup_help_jobs_3	^ヒント
+buildtoolbar_popup_help_jobs_4	- 厨房やワークショップでの労働など一部の仕事につくためには、受刑者はまず訓練コースを合格しなければならない。レポートウインドウの「プログラム」タブから、これらのコースを運営することができる。
+buildtoolbar_popup_help_jobs_5	- 労働している受刑者は、少額の賃金を毎時間仕事をするごとに時給で受け取る。仕事を最大数まで課すことは、良いアイデアとは限らない。やることがなくても、受刑者は賃金を受け取ることができる。
+
+buildtoolbar_popup_help_source_1	「危険度」ビューでは、受刑者が刑務所内のどの部屋からどの禁制品を盗むことができるかを表示する。また、右側では、禁制品の種類ごとの需要と供給を見ることができる。特定の禁制品に対するニーズが供給より高い場合、特に自分が必要としていて必死な場合は、受刑者がそれを盗む可能性が高くなる。\n\n
+buildtoolbar_popup_help_source_2	^ヒント
+buildtoolbar_popup_help_source_3	- 禁制品が手に入る部屋のすべてに受刑者がアクセスできるわけではなく、それらの部屋へのアクセスは、制限したり完全にブロックしたりすることができる。
+buildtoolbar_popup_help_source_4	- 刑務所内でどの部屋から禁制品が盗まれる可能性があるかを示しているが、受刑者にとって、それらを入手する方法は部屋から盗むだけではない...
+
+buildtoolbar_popup_help_contraband_title	禁制品
+buildtoolbar_popup_help_contraband_1	「禁制品」ビューは、前日または前週に刑務所内で見つかったすべての禁制品とその発見場所を表示する。\n\n
+buildtoolbar_popup_help_contraband_2	~特定の禁制品の上にマウスを置くと、初めに受刑者がどのようにして入手したかに始まり、発見されるまでの履歴が見られる。\n\n
+buildtoolbar_popup_help_contraband_3	^ヒント
+buildtoolbar_popup_help_contraband_4	-大量の禁制品を比較的少数の場所から発見している場合は、そのエリアの警備を強化するといいかもしれない。
+buildtoolbar_popup_help_contraband_5	- 異なる種類の禁制品が、様々な方法で検知できる。例えば、警察犬は強い臭いのあるものを発見するのが得意だ。
+
+buildtoolbar_popup_help_informants_1	「密告者」ビューは、現在いる「密告者」の一覧を表示する。また、秘密情報提供（CI）の可能性がある者は黄色で強調表示される。通常は隔離独房にいる。\n\n
+buildtoolbar_popup_help_informants_2	~密告者を雇うには、CIの可能性がある者を探し、彼らのラップシートの「経験」タブで「密告者を雇う」ボタンをクリックする。\n\n
+buildtoolbar_popup_help_informants_3	~密告者を有効にするには、「待機状態」になっているボタンをクリック（ハイライトするとフラッシュが有効になる）して、彼らが保安事務所に連れられて来るのを待つ。すると密告者は、隠された禁制品、受刑者の評判、暗殺の可能性がある標的などを、各自のカバー範囲に応じてある程度知らせてくれる。\n\n
+buildtoolbar_popup_help_informants_4	^ヒント
+buildtoolbar_popup_help_informants_5	- 密告者を有効にし、得られた情報を元に調査をすると、彼らの疑いレベルがわかる。疑いレベルがとても高い場合は、彼らがトラブルに巻き込まれている可能性がある...
+buildtoolbar_popup_help_informants_6	- 密告者を返すには、その密告者の有効ボタンの隣にあるXボタンをクリックする。
+
+buildtoolbar_popup_help_utilities_1	「ユーティリティ」ビューは、表からは見えない刑務所内の様々な接続を示す。電線や水道管を作ったり、電線を使って様々なアイテムをつないだりすることができる。\n\n
+buildtoolbar_popup_help_utilities_2	~電線や水道管を作るには、左ボタンを押しながら、つなぎたい2箇所の間をマウスでドラッグする。電線や水道管を配置する現在のタスクを中止するには、右クリックをする。\n\n
+buildtoolbar_popup_help_utilities_3	~電線を使ってアイテムをつなぐ場合（CCTVモニターと CCTVカメラなど)、1つ目のオブジェクトを左クリックし、接続したいオブジェクトを次に左クリックする。シフトキーを押すと、複数のオブジェクトを接続することができる。\n\n
+buildtoolbar_popup_help_utilities_4	^ヒント
+buildtoolbar_popup_help_utilities_5	- 電球やテレビなど小型の電気アイテムは、近くに電線がある限り電源に自動的に接続される。洗濯機や水ポンプなどの大型アイテムは、電線に直接つながなければならない。
+buildtoolbar_popup_help_utilities_6	- 大きな水道管は水を長距離で運ぶことができるが、小さなパイプが運べるのは短距離のみだ。大きなパイプ1本を建物やエリアに設置し、小さなパイプでそれぞれのオブジェクトに接続すると、予算を節約することができる。
+buildtoolbar_popup_help_utilities_7	- 「ユーティリティ」ビューは、特に大きな刑務所では多くのことができる。特定のオブジェクトをクリックすると、関連する接続をより明確に強調表示することができ、見やすくなる。例えば電線をクリックすると、刑務所内のすべての電線とオブジェクトがより明確になる。
+buildtoolbar_popup_help_utilities_8	- 刑務所内に複数の発電所がある場合は、それぞれ個別に電線が必要だ。別々の2つの発電所に接続している電線が互いに接触すると、両方の発電所がシャットダウンする。
+
+buildtoolbar_popup_help_guard_1	看守は刑務所の主要な役職で、新入りの受刑者を独房に連れていったり、ケンカに対応したり、禁制品を探したりと、あらゆる出来事に対処する。\n\n
+buildtoolbar_popup_help_guard_2	~看守が選択された状態で、その場所を右クリックすると、刑務所内のどこにでも行かせることができる。\n\n
+buildtoolbar_popup_help_guard_3	^ヒント
+buildtoolbar_popup_help_guard_4	- 看守は、独房のトイレを調べて脱獄トンネルを発見することができる。特にトイレを調べた場合、看守は間違いなく脱獄トンネルを発見する。
+buildtoolbar_popup_help_guard_5	- 看守長がいる場合、画面上部の情報バーで、待機状態の看守の人数を確認することができる。使える看守が0人のことが多い場合、現在の仕事量に対して看守の人数が不十分であるかもしれない。
+
+buildtoolbar_popup_help_workman_1	作業員は、刑務所を作り、荷卸しを手伝い、場合によってはそれらの荷物を刑務所内の様々なエリアに運ぶ。\n\n
+buildtoolbar_popup_help_workman_2	^ヒント
+buildtoolbar_popup_help_workman_3	作業員はほぼ自動で働くが、建設作業を早く完了させたい場合はその仕事をCtrl+右クリックすれば優先順位を上げることができる。こうすると、最も近くにいる作業員が作業を止めてその仕事を手伝いに来る。
+
+buildtoolbar_popup_help_cook_1	料理人は、受刑者に食事を用意し、食堂エリアを掃除し、食糧を厨房に運ぶ。\n\n
+buildtoolbar_popup_help_cook_2	^ヒント
+buildtoolbar_popup_help_cook_3	- 刑務所における食事のニーズを満たすため、充分な料理人を確保することが大切だ。料理人の人数が不足していると、食事が充分に準備できず、一部の受刑者が空腹になる...
+
+buildtoolbar_popup_help_warden_1	刑務所長は、刑務所の運営に関連して役所と君をつなぐパイプだ。刑務所長は役所の連絡口をアンロックし、君が刑務所内で使用できる様々な新機能を調査できるようになる。一度オフィスが与えられると、基本的に彼らは自分でやっていける。
+
+buildtoolbar_popup_help_armedguard_1	武装警備隊は、特に危険な受刑者や手に負えない受刑者を従わせるために使う。常にショットガンを装備している。近くにいるすべての受刑者を威圧するので、問題が起きにくくなる。命が危険になるとショットガンを発砲するため、通常は周囲のすべての受刑者が問題行動を止める。\n\n
+buildtoolbar_popup_help_armedguard_2	~武装看守が選択された状態で、その場所を右クリックすれば、刑務所内のどこにでも行かせることができる。\n\n
+buildtoolbar_popup_help_armedguard_3	^ヒント
+buildtoolbar_popup_help_armedguard_4	- 発砲許可ボタンが有効になっていると、武装警備隊は自分の命が危険になるまでショットガンを発砲せずに待つことがなくなり、問題を起こす受刑者なら誰にでも発砲するようになる。
+buildtoolbar_popup_help_armedguard_5	- 受刑者が武装警備隊を倒すことは困難だが、もし倒した場合は、床に落ちたショットガンは誰でも拾える状態になってしまう...
+
+buildtoolbar_popup_help_doctor_1	医師は、受刑者やスタッフのけがなどを治療する。刑務所にいる間、けがはほぼ避けることができない。医師はけがを治し、薬を過剰摂取している受刑者を治療し、薬物中毒患者を対象にした治療プログラムを実施する。\n\n
+buildtoolbar_popup_help_doctor_2	~医師が選択された状態でその場所を右クリックすると、刑務所内のどこにでも行かせることができる。\n\n
+
+buildtoolbar_popup_help_janitor_1	清掃人は、君の刑務所を清潔に保ち、洗濯室の運営を補助する。\n\n
+buildtoolbar_popup_help_janitor_2	^ヒント
+buildtoolbar_popup_help_janitor_3	- 清掃人がおこなう仕事はすべて、働いている受刑者がすることもできる。洗濯室と掃除用具室に配置した受刑者の人数が十分であれば、清掃人はほんの少数かいなくても問題ない。
+
+buildtoolbar_popup_help_gardener_1	庭師は、雑草を抜き木を植えて刑務所の屋外エリアをきれいに保つ。\n\n
+buildtoolbar_popup_help_gardener_2	^ヒント
+buildtoolbar_popup_help_gardener_3	- 君が森を所有している場合、君が受け取る苗木は庭師が植える。受け取り分に対処できるように、充分な庭師がいるようにしよう！
+
+buildtoolbar_popup_help_doghandler_1	警察犬訓練士は、警察犬とペアで来る。警察犬は、麻薬やアルコールなどにおいの強い禁制品を嗅ぎつけて発見する。また、地下に隠された脱獄トンネルを見つけることもできる。\n\n
+buildtoolbar_popup_help_doghandler_2	~警察犬訓練士が選択された状態で、その場所を右クリックすれば、刑務所内のどこにでも行かせることができる。\n\n
+buildtoolbar_popup_help_doghandler_3	^ヒント
+buildtoolbar_popup_help_doghandler_4	- 警察犬訓練士をあるエリアに送り込むことは、警察犬を使ってその辺りに隠れている可能性がある禁制品を探すということだ。
+buildtoolbar_popup_help_doghandler_5	- 地下の脱獄トンネルの上を歩くと、警察犬はその下にトンネルがあることを示すサインを出す場合がある。そのことを示す小さなしるしが残される。ただし警察犬は、そこに何もない場合でもサインを出す場合がある...
+buildtoolbar_popup_help_doghandler_6	- 警察犬訓練士が殺された場合、 警察犬は凶暴化し、刑務所を離れる前に訓練士の殺害者を殺そうとする。
+
+buildtoolbar_popup_help_sniper_1	スナイパーは、刑務所周辺に君が建てた見張り塔に駐留し、問題を起こす受刑者に対する強力な抑止力になる。また、脱獄を試みる受刑者に対しては、最後の守りとなる。\n\n
+buildtoolbar_popup_help_sniper_2	^ヒント
+buildtoolbar_popup_help_sniper_3	- スナイパーは、強力で飛距離の長いライフルを装備しているが、視界に入る直線の範囲しかカバーできない。
+buildtoolbar_popup_help_sniper_4	- スナイパーは、行いの悪い受刑者に対して刑務所のグラウンド内で威嚇射撃をする。受刑者が降伏しない場合、受刑者に向けて直接発砲を始める。
+buildtoolbar_popup_help_sniper_5	- 発砲許可が有効になっているか、または受刑者が刑務所の外にいて逃げている場合は、威嚇の発砲はされない。
+
+buildtoolbar_popup_help_chief_1	看守長は刑務所のセキュリティ責任者だ。看守長は、刑務所全体の雰囲気を読み、受刑者が問題を起こす可能性を示す。また、現在刑務所内で仕事をしている看守の人数を追跡できるようになる。さらに、警察犬やCCTVカメラなどの高度なセキュリティ機能について調べることもできるようになる。一度オフィスが与えられると、基本的に彼らは自分でやっていける。
+
+buildtoolbar_popup_help_foreman_1	作業主任は刑務所の維持と建設の責任者で、君は清掃人や庭師を探して雇うことができるようになる。作業主任は刑務所の労働も担当し、ワークショップツールを使用中の受刑者の訓練を自ら監督する。\n\n
+buildtoolbar_popup_help_foreman_2	^ヒント
+buildtoolbar_popup_help_foreman_3	- 刑務所にワークショップを建設すると、作業主任がワークショップの安全導入プログラムを教える。このプログラムは「報告」ウインドウの「プログラム」タブで予定に入れることができる。
+
+buildtoolbar_popup_help_psychologist_1	精神分析医は、受刑者の心の健康を監視する。精神分析医がいると、受刑者の現在のニーズがわかる。また、受刑者を対象にした更生プログラムをいくつか実施してくれる。\n\n
+buildtoolbar_popup_help_psychologist_2	^ヒント
+buildtoolbar_popup_help_psychologist_3	- 精神分析医が刑務所にいる場合、個々の受刑者を強調表示すれば、それぞれのニーズを見ることができる。また、「レポート」ウィンドウの「ニーズ」タブから受刑者全員のニーズをまとめて見ることもできる。
+buildtoolbar_popup_help_psychologist_4	- 精神分析医は、刑務所内でアルコール依存症患者のためのAAプログラムや、面倒の多い受刑者を管理するための行動セラピープログラムを実施する。必要な場合、このように、刑務所内に精神分析医を何人か置くことは賢明だ。
+
+buildtoolbar_popup_help_accountant_1	会計士は、刑務所の財務管理をし、刑務所のキャッシュフロー、価値の合計、収入を増加させるアイテムを見る能力をアンロックする。一度オフィスが与えられると、基本的に彼らは自分でやっていける。
+
+buildtoolbar_popup_help_lawyer_1	弁護士は、刑務所の運営において問題になるかもしれない法律や、刑務所内で起こる可能性のある、特に破壊的な出来事に対する法的責任を避けるのに役立つ。弁護士は刑務所の死刑オプションをアンロックすることもできる。一度オフィスが与えられると、基本的に彼らは自分でやっていける。
+
+buildtoolbar_popup_help_gangs_1	「ギャング」ビューは、刑務所にいるギャングの現状を示す。ギャングの1人1人について情報を見ることができ、どの部屋がギャングのもので、どの受刑者がギャングかも確認できる。また、ギャングの副隊長を確かめることもできる。2つの円で強調表示されているのが副隊長で、円が3つならギャングのリーダーだ。\n\n
+buildtoolbar_popup_help_gangs_2	~ギャングたちをその縄張りから無理やり引き離したい場合は、その部屋を強調表示し、現れた「強制退去」ボタンをクリックする。しかしギャングは嫌がるだろう...\n\n
+buildtoolbar_popup_help_gangs_3	^ヒント
+buildtoolbar_popup_help_gangs_4	- 刑務所内でギャングが支配しているエリアを変えることはできない。これらのエリアで何かの追加や除去をしたい場合は、まずそのエリアを取り返さなければならない。
+buildtoolbar_popup_help_gangs_5	- ギャングのメンバー以外がその支配エリアにある設備を使うと、金を取られる。ライバルのギャングのメンバーは、そのエリアを完全に避ける。
+buildtoolbar_popup_help_gangs_6	-そのエリアでの影響力を保つには、警備室を使おう。ギャングの縄張りである可能性が高いエリアに隣接する警備室の看守は皆、君のコントロールに頼るだろう。
+buildtoolbar_popup_help_gangs_7	- ギャングのメンバーは、自分のリーダーを守ろうとする態度がとても強い。リーダーの身に何か起きたら彼らは許さないだろう...
+
+buildtoolbar_popup_help_weathermap_1	「気温」ビューは、刑務所内の様々なエリアの気温を示す。気温は、主にラジエーターを使って上昇させることができる。エリアが寒すぎる場合は、受刑者に必要な「温かさ」が増加する。
+
+buildtoolbar_popup_help_prefabs_1	「クイックビルド」メニューは、君がよく使う部屋の建設速度を上げるのに役立つ。「クローン」ツールでは、コピーしたい刑務所内のエリアを選択して、再配置することができる。「プレハブ室」は、彼らのニーズを自動的に満たしてくれる未完成の部屋を配置することができる。\n\n
+buildtoolbar_popup_help_prefabs_2	~「クローン」ツールが選択された状態で、マウスの右ボタンを押しながらコピーしたいエリアをドラッグする。次に、刑務所内の別の場所を左クリックして、そのエリアのコピーを建設の順番待ちにする。
+buildtoolbar_popup_help_prefabs_3	~「プレハブ」ツールを選択した状態で、部屋を作りたい刑務所内の場所を左クリックすると、作業員が部屋を作ってくれる。\n\n
+buildtoolbar_popup_help_prefabs_4	^ヒント
+buildtoolbar_popup_help_prefabs_5	-「クローン」ツールでは水道や電気の接続はコピーされない。新しくできたエリアの水道や電気は手動でつながなければならない。
+
+buildtoolbar_popup_help_zoning_1	「ゾーニング」ツールでは、「共有」またはすべての受刑者にオープンなアンロックされたカテゴリーを用いて、どの受刑者が刑務所内のどのエリアに入れるかをコントロールできる。\n\n
+buildtoolbar_popup_help_zoning_2	~そのゾーンに設定したいカテゴリーを選択して、ゾーンを左クリックする。右クリックをすると、そのゾーンはリセットされて「共有」になる。\n\n
+buildtoolbar_popup_help_zoning_3	^ヒント
+buildtoolbar_popup_help_zoning_4	- 「関係者以外禁止」エリアに入れる受刑者はいないので、さもなければ共有施設になってしまう場所に「エアロック」を作り、受刑者が入れない場所を作ることができる。これは、例えば、保護下にある受刑者全員を運動場や共有ルームから離しておきたい場合などで特に有効だ。
+buildtoolbar_popup_help_zoning_5	- アンロックされたゾーンでは、すべてのドアが開けた状態に固定される。
+
+buildtoolbar_popup_help_guards_1	「看守」ツールを使うとゾーン内に看守を配置できる。配置された看守は、担当ゾーンをランダムに動き周り、ドアを開けるなどの看守の仕事をそのエリア内で行う。\n\n
+buildtoolbar_popup_help_guards_2	~左クリック：ゾーン内に配置する看守の人数を増やす。右クリック：看守を取り除く。\n\n
+buildtoolbar_popup_help_guards_3	^ヒント
+buildtoolbar_popup_help_guards_4	- 「マイクロマネジメント」をアンロックすると、「配置スケジューラー」にアクセスできるようになる。これを用いて、看守を一定のエリアに配置する時間割を作成することができる。例えば食事の時間だけ食堂に看守を置きたい場合、食事の時間に対応するブロックをスケジューラーでクリックし、次いでタイムスライダーをそのブロックに動かし、看守を食堂に配置する。
+buildtoolbar_popup_help_guards_5	- スケジュールを組むためには最大7つの異なるタイムブロックが利用可能でなければならない。これに「常に」アクティブにするモードを加えて、刑務所内のニーズに合わせた複雑な配置のルーチンを作ることができる。
+buildtoolbar_popup_help_guards_6	- 看守を配置するときに時間ブロックを手動で選択しないと、スケジューラーは現在の時間を使う。配置を変更するときは正しい時間を選択するように気をつけよう！
+
+buildtoolbar_popup_help_patrols_title	巡回
+buildtoolbar_popup_help_patrols_1	「3パトロールツール」は、特定の巡回ルートを作成して、一般の看守、警察犬訓練士、武装隊 （またはこの3種全ての組み合わせ）を配置できる。巡回ルートは複数のゾーンをまたぐことができる。\n\n
+buildtoolbar_popup_help_patrols_2	~マウスの左ボタンを押しながらドラッグすると、巡回ルートが作成できる。既存の巡回ルートを左クリックすると、そのルートに一般看守を1人追加できる。巡回中の看守を右クリックすると、その看守を削除できる。右ボタンを押したままドラッグすると、その巡回ルートをすべて削除できる。\n\n
+buildtoolbar_popup_help_patrols_3	^ヒント
+buildtoolbar_popup_help_patrols_4	- 巡回中の一般看守は、ドアを開けたり受刑者を探したりといった看守の仕事を行う。警察犬訓練士と武装警備隊はそれをしない。
+buildtoolbar_popup_help_patrols_5	- 「マイクロマネジメント」を解除すると、配置スケジューラーが使えるようになり、看守の配置と同様にしてパトロールを設定することができる。
+
+buildtoolbar_popup_help_accessonly_1	「アクセスのみ」ツールを使用すると、刑務所内を移動中に通常避けるべきエリアをマークできる。これにより、人々に別の経路をたどらせたい場合、刑務所内で近道として部屋を使うのを止めさせることことができる。\n\n
+buildtoolbar_popup_help_accessonly_2	~「アクセスのみ」としてマークしたいゾーンを左クリックで設定できる。これは、通常のセキュリティ設定に追加して行うことができる。
+buildtoolbar_popup_help_accessonly_3	~ゾーンを右クリックすると、「アクセスのみ」設定を解除することができる。\n\n
+buildtoolbar_popup_help_accessonly_4	^ヒント
+buildtoolbar_popup_help_accessonly_5	- 「アクセスのみ」は厳格な設定ではない。特に対象がマークされたエリア内だとしても、これにより人々が入ることをはっきりと防ぐことはない。「アクセスのみ」のエリアを通ることが他の経路よりも著しく近道になる場合（刑務所全域を移動させる、など）、「アクセスのみ」ゾーンを通ることもある。
+
+job_matsassigned	材料指定済み
+job_matsavailable	材料使用可
+job_awaitingmaterials	材料待ち
+job_inprogress	-進行中-
+job_blocked	-ブロック-
+job_queued	-行列中-
+
+job_failed_noroute	ルートなし
+job_failed_nomaterials	材料なし
+job_failed_toodangerous	危険すぎる
+job_failed_materialsbeingcarried	ルートに材料あり
+
+job_rightclicktocancel	- 右クリックでキャンセル
+job_ftofollow	- Fボタンを押して後をつける
+job_makehighpriority	- Ctrl + 左クリックで、「優先順位：高」にする
+job_removehighpriority	- Ctrl + 右クリックで、「優先順位：高」をはずす
+job_makehighpriority_mac	- Alt + 左クリックで、「優先順位：高」にする
+job_removehighpriority_mac	- Alt + 右クリックで、「優先順位：高」をはずす
+job_highpriority_tooltip	- 緊急
+job_refundamount	- 返金額：*X
+
+failuremessage_blocked	ブロック済み
+failuremessage_cantafford	資金不足
+failuremessage_cantaffordupkeep	1日の予算越え
+failuremessage_maximumcountreached	雇用上限超え
+failuremessage_maxstaff	職員数が多すぎる
+
+
+# =============================================================================
+# Status Toolbar
+# =============================================================================
+
+statustoolbar_deliveries	配達
+statustoolbar_finances	財政
+statustoolbar_regime	スケジュール
+statustoolbar_escapemap	セキュリティ
+statustoolbar_electricity	電力
+statustoolbar_stats	ステータス
+statustoolbar_danger	危険度
+statustoolbar_jobs	タスク
+statustoolbar_gangs	ギャング
+statustoolbar_staff	職員
+statustoolbar_research	リサーチ
+
+
+# =============================================================================
+# Sprite Bank Editor + other tools
+# =============================================================================
+
+spritebankeditor_title	スプライトエディタ
+spritebankeditor_create	作成
+spritebankeditor_rotate	回転
+spritebankeditor_sort	並び替え
+spritebankeditor_markermodetitle	マーカーモード
+
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_mainmenu	メインメニュー
+codex_campaign	ミッション
+codex_cutscenes	ムービー
+codex_qualifications	資格
+codex_load	刑務所をロード
+codex_loadcampaign	ミッションをロード
+codex_save	刑務所を保存
+codex_savecampaign	ミッションを保存
+codex_performance	性能テスト
+codex_developer_load	（開発者）マップをロード
+codex_developer_save	（開発者）マップを保存
+codex_developer_clearach	（開発者）実績をクリア
+codex_contacts	連絡先
+codex_materials	材料
+codex_play	プレイ
+codex_play_escape	脱獄モードをプレイ
+codex_polaroids	ポラロイド写真
+codex_introduction	イントロダクション
+codex_restartintroduction	イントロダクションを最初から見る
+codex_restartchapter	チャプターをやり直す
+codex_help	ヘルプ（wiki）
+codex_opensavefolder	保存フォルダを開く
+codex_options	オプション
+codex_nitgs	ゲームに登場する名前
+codex_workshop	刑務所をシェア（Steam）
+codex_steamtrending	最も人気の高い刑務所 (Steam)
+codex_checkforupdates	アップデートのチェック
+codex_preorder	今すぐ予約
+codex_termsconditions	使用規約
+codex_twitter	Twitter
+codex_extras	エキストラ
+codex_unlocked	アンロック済み（*X/*Y）
+codex_mapsettings	マップ設定
+codex_othergames	その他のIntroversion(イントロバージョン)のゲーム
+codex_mutators	変異物
+
+codex_cloudsavedesc	クラウドに保存
+codex_cloud_enabled	新しい保存データがクラウドに保存される。
+codex_cloud_notaccount	Steamクラウドは、Steamクライアントにおいて無効化されています。この機能を使用するには、再び有効化してください。
+codex_cloud_notapp	新しい保存データがハードドライブに保存される。
+codex_saveload_delete	削除
+
+codex_new	新しい刑務所を作成
+codex_new_worldsize	ワールドサイズ
+codex_new_small	小
+codex_new_medium	中
+codex_new_large	大
+codex_new_selectwarden	刑務所長を選択
+codex_new_selectgender	受刑者の性別を選択
+
+codex_options_graphics	グラフィック
+codex_options_resolution	解像度
+codex_options_resolutionauto	自動
+codex_options_windowed	ウィンドウあり
+codex_options_highdpi	高DPI
+codex_options_filtering	フィルタリング
+codex_options_nofiltering	オフ
+codex_options_multisampled	マルチサンプリング
+codex_options_supersampled	スーパーサンプリング
+
+codex_options_audio	音声
+codex_options_volume	マスター音量
+codex_options_frequency	混合周波数
+codex_options_swapstero	ステレオ交換
+codex_options_dspenabled	DSPオン
+codex_options_11khz	11025 Hz
+codex_options_22khz	22050 Hz
+codex_options_44khz	44100 Hz
+
+codex_options_clocktype	時計タイプ
+codex_options_clocktype_analogue	アナログ
+codex_options_clocktype_12h	12時間制
+codex_options_clocktype_24h	24時間制
+
+codex_options_directions	床サイン表示
+codex_options_dirrender_hidden	非表示
+codex_options_dirrender_visible	表示
+codex_options_dirrender_zoom	ズーム
+
+codex_options_tempscale	気温を摂氏で表示
+
+codex_options_gameplay	ゲーム
+codex_options_autosave	オートセーブタイマー
+codex_options_renderrooms	床に格子柄を表示
+codex_options_apply	適用
+codex_options_v2gui	バージョン2.0 GUI
+codex_options_zoomtomouse	マウス向けに拡大
+codex_options_oneclickrapsheet	ワンクリック逮捕記録
+codex_options_disableanalytics	アナリティクスを無効化
+codex_tooltip_disableanalytics	ゲーム体験を向上させるため、匿名で統計情報を収集します。収集したデータはメトリックス.txtで閲覧可能です。
+
+codex_options_language	言語
+
+codex_options_experimental	実験
+codex_options_enablevbo	Vertex Buffer Objectsを有効にする
+
+codex_nitgs_authwarning	重要：ゲーム内の名前を最近変更した場合は、リストに表示する前に承認が必要だ。
+
+codex_nitgs_filtercaption	フィルタ
+codex_nitgs_filterall	すべて
+codex_nitgs_filtermen	男
+codex_nitgs_filterwomen	女
+
+codex_nitgs_checkingforupdate	更新情報の確認中...
+codex_nitgs_updateavailable	更新可能
+codex_nitgs_downloading	更新情報のダウンロード中...
+codex_nitgs_downloadcomplete	ダウンロードが完了しました。
+codex_nitgs_downloadfailed	ダウンロードに失敗しました。
+
+codex_enabled	オン
+codex_disabled	オフ
+
+codex_option_intake	順次受け入れ
+codex_tooltip_intake	オンにすると、ランダムな数の受刑者を毎日（永久に）受け入れる。\n\nオフにした場合は、受け入れ準備が整った時に「報告書」内の「受け入れ」タブをクリックしよう。
+codex_option_fogofwar	戦雲
+codex_tooltip_fogofwar	看守にパトロールをさせるか、監視カメラを使わない限り、刑務所内の様子がかまったく分からなくなる。
+codex_option_lakes	湖出現
+codex_tooltip_lakes	湖がランダムに現れ、土地の一部を覆ってしまう。警告：実験的な機能です。
+codex_option_forests	森出現
+codex_tooltip_forests	手持ちの土地に森が現れる。
+codex_option_buildings	建物出現
+codex_tooltip_buildings	手持ちの土地に廃墟化した建物が残される。建物は自由に使って構わない。
+codex_option_failure	失敗条件あり
+codex_tooltip_failure	やりがいを求めるならこれ！最悪の状況（暴動、破産、大量の死者や脱獄者など）を許してしまった際に、クビ＆ゲームオーバーになる。
+codex_option_unlimitedfunds	無限の資金
+codex_tooltip_unlimitedfunds	究極のサンドボックスモード！資金切れや資金調達を心配することなく、最初から最後まで好き放題にお金を使うことができる。
+codex_option_gangs	ギャング
+codex_tooltip_gangs	ギャングのメンバーが受刑者として現れ、ライバルギャングのメンバーに施設内で襲いかかる。チャレンジを楽しもう。
+codex_option_events	イベント
+codex_tooltip_events	ゲームにスリルを与えてくれるイベントが発生する。何が起こるか分からない上にやりがい満点。
+codex_option_weather	天気と気温
+codex_tooltip_weather	刑務所に天気と気温の変化を加える。暑さを考慮しなければならなくなる。
+codex_option_enablecheats	ツールとチートを有効にする
+codex_tooltip_enablecheats	この刑務所に対して開発者ツールとチートを有効にする。一度選択すると無効にすることはできない。成果に対する褒美は得られず、この刑務所を売ることもできなくなる。
+codex_option_staffneeds	職員のニーズ
+codex_tooltip_staffneeds	看守のニーズを満たす。つまり、看守はきちんと仕事をするために、食事、休憩、その他の快適性を要求する。
+codex_option_wardenmode	刑務所長モード
+codex_tooltip_wardenmode	建設中の刑務所内で働く刑務所長としてプレイ。
+codex_option_wardenmode_permadeath	パーマネント・デス
+codex_tooltip_wardenmode_permadeath	刑務所長として死亡すると、ゲームオーバーだ！
+
+codex_option_funds	資金
+codex_tooltip_funds	これだけの資金がすでに用意された状態でゲームを開始する。もっと資金を増やしたい場合は、「資産価値」画面から手持ちの刑務所を売却することもできる。
+
+codex_transfer	移送
+codex_transferring	移送中
+codex_in_prison	収容中
+codex_unavailable	利用不可能
+codex_useravatar	自分
+codex_tooltip_useravatar	この受刑者を自分のアバターとして使おう。万が一なんらかの理由で自分が刑務所送りになってしまった場合は、このアバターが代わりに服役してくれる。
+codex_tooltip_flagbio	このプロフィールを不快なものとして報告する。
+
+codex_workshop_current	現在の刑務所
+codex_workshop_publish	この刑務所を公開
+codex_workshop_update	アップデート
+codex_workshop_play	プレイ
+codex_workshop_downloading	ダウンロード中
+codex_workshop_download_failed	ダウンロード失敗
+codex_workshop_publishing	公開中…
+codex_workshop_new	NEW
+codex_workshop_title	タイトル
+codex_workshop_desc	説明
+codex_workshop_view_in_workshop	Steamワークショップで見る
+codex_workshop_heading_pubed	公開済みの刑務所
+codex_workshop_heading_subed	ダウンロード済みの刑務所
+codex_workshop_published_by	公開者：*P
+codex_workshop_published_by_you	公開者：自分
+codex_workshop_published_good	公開に成功
+codex_workshop_published_good_msg	刑務所を公開しました！
+codex_workshop_published_bad	公開に失敗
+codex_workshop_published_bad_msg	刑務所を公開できませんでした。
+codex_workshop_published_bad_msg_new	新しい刑務所を公開できませんでした。もう一度お試しください。
+codex_workshop_busy	Steamがちょっと忙しい模様です。しばらく経ってからもう一度お試しください。
+codex_workshop_file_exists	この名前の刑務所はすでに公開済みです。別の名前を選びましょう。
+codex_workshop_generic_fail	新しい刑務所を公開できませんでした。もう一度お試しください。
+codex_workshop_download_bad	刑務所のダウンロードに失敗
+codex_workshop_pa_workshop	「Prison Architect」ワークショップを開く
+codex_workshop_agreement	このアイテムを提出する場合は、[url=http://steamcommunity.com/sharedfiles/workshoplegalagreement]workshop terms of service[/url]に同意したものと見なされます。
+codex_workshop_update_warning	公開済みの刑務所の更新
+codex_workshop_update_warning_msg	「公開済みの刑務所」を更新すると、公開済の刑務所が現在読み込まれている刑務所で上書きされる。これにより公開済みの刑務所は削除され、現在プレイしている刑務所と永久に入れ替わる。このアクションは、元に戻すことができません。\n\n実行してもよろしいですか？
+
+codex_options_timelapse	コマ落とし
+codex_timelapse_record	コマ落としで撮影
+codex_timelapse_stop	コマ落としをストップ
+codex_timelapse_camera	カメラモード
+codex_timelapse_customresw	カスタム解像度（幅）
+codex_timelapse_customresh	カスタム解像度（高）
+codex_timelapse_resolution	解像度
+codex_timelapse_fps	再生速度
+codex_timelapse_interval	コマ落とし速度
+codex_timelapse_quality	クオリティ
+codex_timelapse_unsupported	この機能はお使いのハードウェアでは使用できません。
+codex_timelapse_savesettings	設定を保存
+
+codex_timelapse_cam_zoom	カメラをズーム
+codex_timelapse_cam_fitmap	マップに合わせる
+codex_timelapse_cam_fitheight	マップの高さに合わせる
+codex_timelapse_cam_fitwidth	マップの幅に合わせる
+codex_timelapse_fps_value	*X FPS
+codex_timelapse_quality_high	高
+codex_timelapse_quality_med	中
+codex_timelapse_quality_low	低
+codex_timelapse_interval_value	*X分（ゲーム時間）
+timelapse_caption	経過時間 *X:*Y, *Z フレーム記録、バックログ：*T
+
+codex_performance_running	性能テスト実行中
+codex_performance_time	残り時間：*Ts
+codex_performance_current	現在のフレーム時間：*Tms
+codex_performance_min	フレーム時間（最低）：*Tms
+codex_performance_avg	フレーム時間（平均）：*Tms
+codex_performance_max	フレーム時間（最大）： *Tms
+codex_performance_numframes	フレーム数：*T
+
+codex_last_modified	最終修正：*T
+codex_sortbydesc	日付で並べ替え
+codex_sortname	名前
+codex_sortdate	日付
+codex_apply	適用
+codex_select	選択
+
+codex_mods	MOD
+codex_mod_activetitle	使用中のMOD
+codex_mod_inactivetitle	使用可能なMOD
+codex_mod_deactivate	すべてのMODを停止
+codex_mod_wiki	もっとMODを探す（Wiki）
+codex_mod_openmodsfolder	MODフォルダを開く
+codex_mod_moresteammods	もっとMODを探す（Steamワークショップ）
+codex_mod_findsteamtranslations	もっと翻訳版を探す（Steamワークショップ）
+codex_authortitle	作成者
+codex_versiontitle	バージョン
+codex_datetitle	日付
+codex_urltitle	URL
+codex_typetitle	タイプ
+codex_mod_graphicsandsound	グラフィック＆サウンド
+codex_mod_translation	翻訳版
+codex_mod_scenario	シナリオ
+codex_mod_content	コンテンツ
+codex_mod_load_scenario	シナリオをプレイ
+codex_publishmod	このMODを公開
+
+codex_mod_update	このMODを更新
+codex_mod_published_good	MOD公開
+codex_mod_published_good_msg	MODが公開されました！
+codex_mod_published_bad	MOD公開失敗
+codex_mod_published_bad_msg	MODの公開に失敗しました。
+codex_mod_modsupdated	MOD更新
+codex_mod_modsupdated_msg	使用中のMODのいくつかが更新されました。変更箇所を保存するにはOKをクリックしてください。ゲームはオートセーブされます。
+codex_mod_translationcaption	これは他の言語に翻訳したものですか？
+
+codex_language	言語
+codex_language_englishdefault	英語（デフォルト）
+codex_language_default	デフォルト言語
+codex_language_download	ダウンロード
+codex_language_failed_download	翻訳版のダウンロード失敗
+codex_language_failed_download_msg	選択された翻訳版のダウンロードに失敗しました。
+codex_language_searching_workshop	Steamワークショップ検索中
+codex_language_community	この翻訳版はユーザーのコミュニティによって作成＆管理されています。協力に感謝！
+
+codex_polaroids_new	新規
+
+codex_save_confirm	本当に*Xを現在の刑務所で上書きしますか？
+codex_researtchapter_confirm	本当に現在のチャプターをやり直しますか？保存済みでない経過はすべて失われます。
+codex_delete_confirm	本当に*Xを完全削除しますか？
+
+codex_premadeprisons	あらかじめ作られている刑務所
+
+codex_trending_more	...
+codex_sortbycaption	ソート：
+codex_trending_oneday	1日
+codex_trending_oneweek	1週間
+codex_trending_threemonths	3カ月
+codex_trending_sixmonths	6カ月
+codex_trending_oneyear	1年
+codex_trending_alltime	いつでも
+codex_trending_failedtogetlist	刑務所一覧の取得に失敗しました
+codex_trending_failedtogetlist_msg	トレンドな刑務所一覧取得に失敗しました。
+
+codex_settings	マップ設定
+codex_settings_gangs	ギャングを有効にする
+codex_settings_events	イベントを有効にする
+codex_settings_weather	天気を有効にする
+codex_settings_staffneeds	職員のニーズを有効化
+codex_settings_failureconditions	失敗条件を有効化
+codex_settings_confirm	1度有効にすると、設定を無効にすることはできません。*Xを有効にしますか？
+
+codex_packrects	Pack Rectangles
+codex_addboxbutton	新しい長方形を追加
+codex_setsize	空間の広さを設定
+codex_removeallrects	すべての長方形を削除
+codex_packrects_widthcaption	空間の幅
+codex_packrects_heightcaption	空間の高さ
+codex_packrects_boxwcaption	長方形の幅
+codex_packrects_boxhcaption	長方形の高さ
+
+mods_downscaled_spritesheet	スプライトシートがダウンスケールされました
+mods_downscaled_spritesheet_msg	あなたのグラフィックカードに制約があるため、スプライトシートをダウンスケールしなければなりませんでした。これは、多くのMODをアクティベートしすぎたからでしょう。質を改善するためMODを無効にしてみてください。
+mods_errors_no_memory	MODが読み込まれていません
+mods_errors_no_memory_msg	グラフィックメモリが不足しているため、MODスプライトの追加読み込みができません。これは、多くのMODをアクティベートしすぎたからでしょう。使用メモリを減らすためにMODをいくつか無効にしてください。
+
+# =============================================================================
+# Graphics Change Confirmation
+# =============================================================================
+
+graphicschange_message	グラフィックオプションを変更しますか？元の状態に戻るまであと：
+graphicschange_time	秒
+graphicschange_accept	変更する
+graphicschange_revert	元に戻す
+
+# =============================================================================
+# Script
+# =============================================================================
+
+scriptdebugger_title	スクリプトデバッガー（F3）
+
+# =============================================================================
+# Mod Confirmation
+# =============================================================================
+
+modnotification_title	MODの矛盾
+modnotification_info	現在の刑務所が保存された際に使われていたMODが見つかりました。この刑務所をプレイする前にこれらのMODをダウンロードすることをお勧めします。
+modnotification_playnow	今すぐプレイ
+modnotification_active	使用中
+modnotification_inactive	停止中
+modnotification_new	NEW
+modnotification_unknown	不明
+modnotification_popup_title	異なるMOD
+modnotification_popup_active	このMODは現在使用中です。クリックで停止できます。
+modnotification_popup_inactive	このMODは現在停止中です。クリックで使用できます。
+modnotification_popup_new_url	新しいMODです。ブラウザでリンクを開くにはクリックしてください。
+modnotification_popup_new_steam	新しいSteamのMODです。クリックで購読＆今すぐダウンロードできます。
+modnotification_popup_unknown	このMODの公開元が不明です。自分で探してダウンロードしてください。
+
+# =============================================================================
+# Biography
+# =============================================================================
+
+biography_search	職務質問
+biography_selected	選択済み
+biography_prisoner_name	*S・*F
+biography_prisoner_number	受刑者No. *X
+biography_prisoner_age	年齢：*X
+biography_prisoner_traits	特徴：
+biography_prisoner_convicted	判決内容：*C（申し立て：*P）
+biography_prisoner_sentenced	*X年の禁固刑
+biography_parole_now	仮釈放の資格あり
+biography_parole_later	仮釈放の資格：*X年の服役後に獲得
+biography_prisoner_served	*X年服役済み
+biography_prisoner_priors	前科：
+
+
+# =============================================================================
+# Rap Sheet
+# =============================================================================
+
+rapsheet_age	年齢：
+rapsheet_category	カテゴリー：
+rapsheet_traits	特徴：
+rapsheet_conviction_text	*C〜*Y年
+rapsheet_found_text	（申し立て：*P）
+rapsheet_convictions	判決内容
+rapsheet_misconductstitle	最近の不祥事
+rapsheet_biography	プロフィール
+rapsheet_guilty	有罪
+rapsheet_notguilty	無罪
+rapsheet_served	服役済み期間
+rapsheet_served_time	*Y年服役済み
+rapsheet_time	*Y年
+rapsheet_bio	*Aの罪で懲役*Y年の判決
+rapsheet_bio_med	*Aと*Bを含む複数の犯罪を犯した罪で懲役*Y年の判決
+rapsheet_bio_long	*Aと*Bおよび*Cを含む複数の犯罪を犯した罪で懲役*Y年の判決
+rapsheet_category_minsec	軽警備
+rapsheet_category_normal	中警備
+rapsheet_category_maxsec	厳重警備
+rapsheet_category_protected	保護拘置
+rapsheet_category_supermax	超厳重警備
+rapsheet_category_deathrow	死刑囚
+rapsheet_tab_biography	プロフィール
+rapsheet_tab_experience	経験
+rapsheet_tab_grading	評価
+rapsheet_tab_character	性格
+rapsheet_punish	処罰
+rapsheet_recruit	密告者として雇う
+
+rapsheet_timeinside	この刑務所に来てから*X日
+rapsheet_timeinside_hours	この刑務所に来てから*X時間
+rapsheet_mood	機嫌
+rapsheet_activity	アクティビティ
+rapsheet_condition	健康状態
+rapsheet_program	プログラム
+rapsheet_passchance	更生の見込み
+rapsheet_reformhistory	更生プログラム参加歴
+
+rapsheet_reform_success	成功
+rapsheet_reform_successcount	*X回成功
+rapsheet_reform_failed	失敗
+rapsheet_reform_failcount	*X失敗
+
+rapsheet_grading_punishment	処罰
+rapsheet_grading_health	健康状態
+rapsheet_grading_security	セキュリティ
+rapsheet_grading_reform	更生
+rapsheet_grading_points	*Xポイント：
+rapsheet_grading_penalties	*Xペナルティ：
+
+rapsheet_scheduleexecution	死刑執行日を決定
+
+
+punish_lockdown_6	独房行き（6時間）
+punish_lockdown_12	独房行き（12時間）
+punish_lockdown_24	独房行き（24時間）
+punish_solitary_6	隔離（6時間）
+punish_solitary_12	隔離（12時間）
+punish_solitary_24	隔離（24時間）
+punish_solitary_perm	隔離（永久）
+punish_lockdown_perm	監禁独房行き（永久）
+punish_solitary	隔離
+punish_lockdown	独房行き
+punish_none	なし
+punish_timer	*X時間 *Y分
+punish_timer_minutes	*X分
+punish_active	施行中
+punish_permanent	（永久）
+punish_end	処罰を終了
+
+punish_up	上げる
+punish_down	下げる
+punish_setmin	低
+punish_setmed	中
+punish_setmax	高
+punish_setsuper	最大
+
+# =============================================================================
+# Misconducts
+# =============================================================================
+
+misconduct_reporttype_none	なし
+misconduct_reporttype_complaint	不平
+misconduct_reporttype_destruction	破壊
+misconduct_reporttype_escapeattempt	逃亡の試み
+misconduct_reporttype_injuredprisoner	受刑者襲撃
+misconduct_reporttype_injuredstaff	職員襲撃
+misconduct_reporttype_seriousinjury	重傷
+misconduct_reporttype_murder	殺人
+misconduct_reporttype_contrabandweapons	武器所持
+misconduct_reporttype_contrabandtools	道具所持
+misconduct_reporttype_contrabandnarcotics	薬物所持
+misconduct_reporttype_contrabandluxuries	贅沢品所持
+misconduct_reporttype_intoxicated	飲酒
+misconduct_title	=[不祥事]=
+misconduct_totalitems	（*Xを追加）
+
+misconduct_report_addiction	*X中毒
+misconduct_report_recoving	*X中毒から回復中
+misconduct_report_alcoholic	アルコール中毒
+misconduct_report_recovingalcoholic	アルコール中毒から回復中
+
+
+# =============================================================================
+# Research Names + Captions
+# =============================================================================
+
+research_required	このレポートの作成に*Xが必要。
+research_requireunlock	このレポートを開くには「*X」のリサーチが必要。
+research_approved	承認済み
+research_cost	コスト：*X
+research_costperitem	*X追加（アイテム毎）
+research_timetounlock	アンロックにかかる時間：*X時間
+research_movementpenalty	スピードハンデ：*X％
+research_protectionbonus	保護力：*X％
+research_tap_to_authorise	タップして許可
+
+research_none	なし
+research_warden	刑務所長
+research_maintainance	メンテナンス
+research_security	セキュリティ
+research_legal	法務
+research_mentalhealth	精神分析
+research_finance	財政
+research_landexpansion	土地拡大
+research_cctv	監視
+research_riotguards	機動隊
+research_health	医療
+research_cleaning	清掃
+research_groundskeeping	敷地管理
+research_clone	コピー
+research_deployment	配置
+research_patrols	パトロール
+research_dogs	警察犬
+research_prisonlabour	囚人労働
+research_education	教育
+research_contraband	機密情報
+research_policy	方針
+research_armoury	武器庫
+research_bodyarmour	ボディアーマー
+research_tazers	テーザー銃
+research_tazersforeveryone	テーザー銃放出
+research_bankloans	銀行ローン
+research_lowertaxes1	減税
+research_lowertaxes2	オフショア税金回避地
+research_remoteaccess	リモートアクセス
+research_extragrant	追加助成金
+research_advancedmanagement	マイクロマネジメント
+research_deathrow	死刑囚
+research_permanentpunishment	永久処罰
+research_removemincellsize	小型独房
+research_reduceexecutionliability	執行猶予
+research_legalprep	法的準備
+research_legaldefense	法的護身
+research_guardtowers	見張り塔
+
+researchtooltip_warden	刑務所長と「役所仕事」システムのすべてをアンロックできる。所長は「職員」ツールバーから雇おう。\n\n他の管理職員と同じく、仕事をするためのオフィスが必要となる。
+researchtooltip_security	看守長をアンロックできる。看守長を「職員」ツールバから雇うと、「配置」画面にアクセスできるようになる。また、刑務所の危険度をリアルタイムで知ることができるようになり、将来的に起こり得るトラブルを予測するのに役立つ。\n\n他の管理職員と同じく、仕事をするためのオフィスが必要となる。
+researchtooltip_maintenance	作業主任がアンロックできる。「職員」ツールバから雇おう。\n\n他の管理職員と同じく、仕事をするためのオフィスが必要となる。
+researchtooltip_legal	弁護士がアンロックできる。雇用は「職員」ツールバーから行う。刑務所の管理に役立ついくつかのリサーチオプションも同時にアンロックされる。\n\n他の管理職員と同じく、仕事をするためのオフィスが必要となる。
+researchtooltip_deployment	刑務所の各エリアに24時間体制で看守を置くことができる。
+researchtooltip_patrols	刑務所の重要エリア（例：フェンス周りなど）に巡回ルートを作り、看守を置いてパトロールさせることができる。
+researchtooltip_dogs	警察犬とその訓練士をアンロックできる。刑務所内の禁制品を嗅ぎ当ててくれるだけでなく、脱獄用のトンネルを見つけることもできる。 \n\n動きが素早いため、受刑者を追いかけさせるのに最適。
+researchtooltip_cctv	監視カメラとモニターをアンロックできる。看守を置いていないエリアを監視するのに使おう。\n\n同時に盗聴システムもアンロックされ、受刑者の通話を盗聴して重要な機密情報を手に入れることができるようになる。
+researchtooltip_remoteaccess	ドアを遠隔操作したり自動に開閉するためのハイテクな装置がアンロックできる。ドアは「ドア操作システム」を使うことで遠隔操作でき（操作は看守が行う）、特定の時間に開閉するには「ドアタイマー」を使う。
+researchtooltip_riotguards	（現在は使い道なし）\n機動隊がアンロックできる。ボディアーマーを身につけており、暴力的な状況下において力を発揮する。
+researchtooltip_maintainance	作業主任がアンロックでき、囚人労働、または庭師などの追加職員に関するリサーチができるようになる。\n\n他の管理職員と同じく、仕事をするためのオフィスが必要となる。
+researchtooltip_clone	メインツールバーからコピーツールが使えるようになる。このツールを使って刑務所の特定エリア（例：独房）の複製を簡単に作ろう。コピーしたいエリアを右クリック＆ドラッグし、コピー先を左クリックで決定しよう。
+researchtooltip_groundskeeping	庭師をアンロックし、施設の屋外エリアを綺麗に保つことができる。
+researchtooltip_cleaning	清掃人をアンロックできる。清掃人は、刑務所の内部を掃除してくれるだけでなく、洗濯にも力を貸してくれる。
+researchtooltip_health	医師だけでなく、医療室と遺体安置室もアンロックできる。負傷した受刑者や職員は医療室に運ばれ、医師から治療を受けることができる。
+researchtooltip_MentalHealth	精神分析医をアンロックできる。精神分析医は、受刑者の精神状態に関する重要な情報を提供してくれる。\n\n他の管理職員と同じく、仕事をするためのオフィスが必要となる。
+researchtooltip_finance	会計士がアンロックされ、刑務所の会計報告書にアクセスできるようになる。\n\nまた、資金の蓄えがあると仮定して、収入より多くの額を使うことができるようになる。\n\n他の管理職員と同じく、仕事をするためのオフィスが必要となる。
+researchtooltip_landexpansion	周辺の土地を購入することで刑務所のサイズを拡大することができるようになる。
+researchtooltip_prisonlabour	刑務所内の仕事（調理、清掃など）を受刑者に行わせることで、スタッフの雇用コストを削減し、収入を増やすと同時に、受刑者たちにスキルを身につけさせることができる。 \n\n作業室と洗濯室も同時にアンロックされる。
+researchtooltip_education	外部から雇った教師を使って、受刑者のために教育更生プログラムを運営することができるようになる。
+researchtooltip_contraband	看守を訓練し、禁制品の捜索と回収のスキルを向上させることができる。また、禁制品の需要と供給に関する報告書や禁制品のオーバーレイ（刑務所内で窃盗が起こりそうな場所を示してくれる）をアンロックし、回収したアイテムが元の場所に戻されるのを確認することができる。\n\nまた、受刑者を密告人として雇うことができるようになる。\n\nギャング情報画面も同時にアンロックされる。
+researchtooltip_policy	「ポリシーレポート」をアンロックし、あらゆる種類の悪行に対する懲罰を増減できる。また、態度の悪い受刑者とその独房の検索を自動的に開始する。\n\nさらに栄養ポリシーをコントロールし、受刑者に与える食事の量や種類を変えることができる。
+researchtooltip_armoury	武器庫がアンロックされ、刑務所内に武装警備員を配置することができるようになる。
+researchtooltip_bodyarmour	すべての看守、武装警備員、および警察犬訓練士にボディアーマーを装着させる。争いが起こった際に受けるダメージを軽減してくれるが、看守の動きが遅くなるという弱点もある。\n\nボディアーマーを使うには、まず看守を武器庫に送り込む必要があり、この方法でボディアーマーを手に入れるにはコストが発生する。
+researchtooltip_tazers	武装警備隊にテーザー銃を持たせることができる。これは、一発で相手を即座に気絶させることのできる武器で、1時間のフルチャージで1発のみ発砲できる。\n\nテーザー銃を使うには、まず看守を武器庫に送り込む必要があり、この方法でテーザー銃を手に入れるにはコストが発生する。
+researchtooltip_tazersforeveryone	テーザー銃の所持条件を緩くし、看守でも護身目的でテーザー銃を持てるようにする。\n\nテーザー銃を使うには、まず看守を武器庫に送り込む必要があり、この方法でテーザー銃を手に入れるにはコストが発生する。
+researchtooltip_bankloans	銀行から大量の資金を借り入れることが可能になる。利子は発生するが、返済すれば信用が高まり、さらに高額のローンを借り入れることができるようになる。
+researchtooltip_lowertaxes1	政府による税金の優遇措置を利用し、実質上の法人税を15％まで下げることができる。\n\n1日の収益10,000ドルに対し、合計1,500ドルの税金の節約となる。
+researchtooltip_lowertaxes2	会計士がギリギリ合法の範囲で、すべての口座と業務プロセスを税率の面で優遇された外国に移してくれる。これにより、法人税は実質1％まで下がる。\n\n1日の収益10,000ドルに対し、合計3,000ドルの税金の節約となる。
+researchtooltip_extragrant	一度に受けられる助成金が2つから3つに増える。
+researchtooltip_advancedmanagement	刑務所の運営があらゆる面において自分の望み通りに行われるよう、細かいことまで管理できるようになる。\n\nどの厨房がどの食堂向けに食事を用意するかや、どの受刑者がどの食堂で食事するかを決めることのできる「食事管理」、どの洗濯室がどの棟の洗濯を担当するかを変更できる「洗濯管理」などが使えるようになる。\n\nまた、看守の配置を時間ごとにカスタマイズできる「配置スケジューラ」もアンロックされる。\n\n更生プログラムの毎日のスケジュールを手動で変更できる「プログラムスケジューラ」も同時にアンロックされる。
+researchtooltip_permanentpunishment	受刑者によっては、刑務所に閉じ込めるだけでは十分でない場合もある。そのような時に、その受刑者を永久に独房に閉じ込めるための手続きを弁護士が進めてくれる。
+researchtooltip_removemincellsize	独房には法律で決められたスペースが必要。だがもしこの決まりがなければ？相当の数の独房を設けることができるだろう！独房サイズの最低条件を取り除こう。
+researchtooltip_reduceexecutionliability	死刑執行の手続きを正式に始めるのに必要とされる判決の確信度を下げるよう、弁護士が陳述を行ってくれる。具体的には、死刑執行日の決定を法的に行う前に受刑者に許される上訴の数を減らしてくれる。
+researchtooltip_legalprep	どの刑務所も時に問題に遭遇することがあり、その中には法的にかなり厄介なものも含まれる。そういった場合に受ける被害を軽減するために、弁護士が必要な手続きを事前に用意してくれる。
+researchtooltip_legaldefense	不祥事を起こし、警告書まで受けてしまった。しかもそれを解決できる見込みもない。そんな時は弁護士に窮地から救ってもらおう。このリサーチを完了すれば、現在受けている警告書を取り除き、クビを逃れることができる。
+researchtooltip_guardtowers	「見張り塔」と「スナイパー」をアンロックし、高度に訓練された射撃手に刑務所の屋外エリアを見張らせることができるようになる。\n\nスナイパーは武器庫にライフルを取りにいかなければならず、さもなければ丸腰になる。
+
+research_legaldefense_adviser1	どうやら今回の不祥事の責任から君が逃れられるよう、弁護士が手続きを取ったようだ。つまりクビにはできないということだ。少なくとも今回は。
+research_legaldefense_adviser2	急いで刑務所の状況を改善し、今後トラブルが起こらないようにしよう。今回は何とかなったが、次回も同じように逃れられると思ったら大間違いだ。
+
+research_missingadministrator	必須：
+
+
+
+# =============================================================================
+# Room Requirements
+# =============================================================================
+
+roomrequirement_required	必須：
+roomrequirement_recommended	推奨：
+roomrequirement_minimumsize	最低サイズ：*W x *H
+roomrequirement_minimumsize_short	サイズ：*W x *H
+roomrequirement_indoor	屋内
+roomrequirement_outdoor	屋外
+roomrequirement_solidground	硬い床
+roomrequirement_secure	安全（ドアが最低でも1枚必要）
+roomrequirement_secure_short	安全
+roomrequirement_enclosed	包囲（壁とドアを使用）
+roomrequirement_enclosed_short	包囲
+requirement_entrance	入り口が必要
+roomrequirement_title	=[部屋の必要条件]=
+roomrequirement_passed	[クリア]
+roomrequirement_failed	[未クリア]
+roomrequirement_adjacentobject	部屋の隣：*X
+
+# =============================================================================
+# Unlocks
+# =============================================================================
+
+unlock_title	アンロック済み
+
+unlock_special_electricity	電気系統
+unlock_special_food	食事準備
+unlock_special_officersafety	警備スタッフの安全
+unlock_special_misbehavior	不品行
+unlock_special_accounting	会計
+unlock_special_gangs	ギャング
+
+unlock_electricity_caption	発電機や電気ケーブルを設置し、電力が必要な装置に電力を供給してくれる。
+
+
+# =============================================================================
+# Advisers
+# =============================================================================
+
+click_to_continue	クリックして次へ...
+incoming_call	着信中..
+
+adviser_name_unknown	不明
+adviser_name_ceo	CEO
+adviser_name_warden	刑務所長
+adviser_name_governer	知事
+adviser_name_chief	看守長
+adviser_name_doctor	医師
+adviser_name_kingpin	キングピン
+adviser_name_edwardshooter	エドワード
+adviser_name_edwardsinner	エドワード
+adviser_name_edwardinmate	エドワード
+adviser_name_edwardswife	エドワードの妻スーザン
+adviser_name_priest	神父
+adviser_name_newsreader	CNDCニュース
+adviser_name_mayor	カルビン・ヘラー市長
+
+
+# =============================================================================
+# Valuation, Reports etc
+# =============================================================================
+
+report_staff	職員
+report_prisoners	受刑者
+report_jobs	仕事
+report_needs	ニーズ
+report_threats	リスク
+report_regime	スケジュール
+report_policy	方針
+report_grants	助成金
+report_finance	財政
+report_valuation	資産価値
+report_contraband	禁制品
+report_programs	プログラム
+report_schedule	スケジューラ
+report_intake	受け入れ
+
+report_grants_bankloan	銀行ローン
+report_grants_bankloan_text	銀行から大量の資金を借り入ることができる。利子は毎日発生し、キャッシュフローから支払う必要がある。\n\n定期的に返済を行うことで信用が高まれば、さらに多くの資金を借り入れることが可能となる。反対に、返済が滞った場合は信用が下がり、将来的に資金を借り入れることが難しくなる。\n\n注意：毎日の利子だけを返済していても、ローンを完全に返済することはできない。
+report_grants_max1	一度に受けられる助成金は1つのみ。\nアップさせたければ会計士を使おう
+report_grants_max2	一度に受けられる助成金は2つまで。\nアップさせたければ会計士を使おう
+report_grants_max3	一度に受けられる助成金は3つまで。
+report_grants_bankloan_amount	現在の銀行ローン：*X
+report_grants_bankloan_interest	利子：*X（1日あたり）
+report_grants_bankloan_max	最大ローン額：*X
+report_grants_creditrating	信用度：*X
+report_grants_inprogress_tt	（進行中）
+report_grants_completed_tt	（クリア）
+report_grants_locked_tt	（ロック中）
+report_grants_advancepayment	前金：*X
+report_grants_completionbonus	クリアボーナス：*X
+report_grants_objectives	[クリア条件]
+report_grants_prereqs	[必要条件]
+report_grants_completed	クリア
+report_grants_locked	ロック中
+report_grants_inprogress	進行中
+report_grants_hidden	（隠されたものがあと*X個）
+report_grants_taptoaccept	タップで受ける
+report_grants_cancelfee	キャンセルコスト：*X
+
+report_staff_title	職員数：*X
+report_prisoners_title	受刑者数：*X
+report_staff_group_builders	作業員
+report_staff_group_guards	看守
+report_staff_group_staff	職員
+report_staff_group_administrators	管理職員
+report_staff_group_prisoners	受刑者
+report_staff_group_prisoners_high	高リスク
+report_staff_group_prisoners_normal	中リスク
+report_staff_group_prisoners_low	低リスク
+report_staff_group_prisoners_protected	保護拘置
+report_staff_group_prisoners_supermax	超厳重警備
+report_staff_group_prisoners_deathrow	死刑囚
+
+report_staff_fire	クビにする
+
+report_intake_title	受け入れ
+report_intake_catheader_cat	カテゴリー
+report_intake_catheader_pay	支払い
+report_intake_catheader_available	受け入れ待ち
+report_intake_catheader_amount	割合
+report_intake_next_header	次回受け入れ：*X
+report_intake_cat_minsec	軽警備
+report_intake_cat_normal	中警備
+report_intake_cat_maxsec	厳重警備
+report_intake_cat_deathrow	死刑囚
+report_intake_slider_minsec	受け入れ割合の調整（軽警備）
+report_intake_slider_normal	受け入れ割合の調整（中警備）
+report_intake_slider_maxsec	受け入れ割合の調整（厳重警備）
+report_intake_slider_deathrow	受け入れ割合の調整（死刑囚）
+report_intake_closed	停止中
+report_intake_locked	ロック中
+report_intakeclosed	受け入れ終了
+report_intakeclosed_tooltip	受刑者の受け入れは終了している。再び開かれるまで、新しい受刑者を受け入れることはない。
+report_intakenumperday	1日の受け入れ人数
+report_intakenumperday_tooltip	次の受け入れ時に希望する受刑者合計数次の受け入れ時にほしい受刑者数を増減させることができる。\n\nカテゴリー別の受刑者数は、上のスライドで調整できる。
+report_intaketotalprisoners	受刑者数合計
+report_intaketotalprisoners_tooltip	あなたが刑務所に収容したい受刑者数の合計その数に達するまで、毎日受け入れ数が自動的に追加される。\n\nカテゴリー別の受刑者数は上のスライダーで調整できる。
+report_intakeallavailable	受け入れ可能者全員
+report_intakeallavailable_tooltip	あらゆる受け入れプールから、可能なすべての受刑者が次の受け入れ時に送られてくる。
+report_intakefillcapacity	収容可能人数を満たす
+report_intakefillcapacity_tooltip	刑務所の収容可能人数を満たすために、使用可能な受け入れプールからできるだけ多くの受刑者を取る。\n\nカテゴリー別の受刑者数は上のスライダーで調整できる。
+reports_intaketypenone	閉鎖
+reports_intaketypefillcapacity	収容可能人数を満たす
+reports_intaketypetotalprisoners	受刑者数合計
+reports_intaketypenumperday	1日当たりの人数
+reports_intaketypeallavailable	受け入れ可能者全員
+report_intakemaxperdaydecr	<<
+report_intakemaxperdayincr	>>
+report_intakemaxperdaynone	受け入れない
+report_intakemaxperdayall	すべて
+reports_intakedelivernow	今すぐ受け入れる
+report_intakepayment	支払い
+report_intakeall	すべて
+report_intakefill	*Xまで追加
+report_intakefill_mothers	*Xまで追加（家族用独房は含まない）
+report_intake_list_tooltip_title	受け入れカテゴリー
+report_intake_list_tooltip	刑務所で受け入れることのできる受刑者カテゴリー。\n\nグループサイズは、受け入れを待っているそれぞれのカテゴリーの受刑者の数を示している。この数は、スライダーの割合に応じて少しずつ増えて行く。\n\n次の受け入れ時に収容する受刑者の内訳は、スライダーで調整することができる。
+report_intake_list_tooltip_dr	\n\n死刑囚を受け入れる場合は、到着前に死刑囚専用の独房を用意しておく必要がある。死刑囚の受け入れは通常の受け入れに比べかなり速度が遅く、死刑囚の数は必ずしも増えるわけではない。死刑が確定している受刑者の数は大変少ない。
+report_intake_buttons_tooltip_title	次回受け入れ
+report_intake_buttons_tooltip	ここでは、次回の受け入れ時に収容したい受刑者の数を調整することができる。\n\n「受け入れない」を選択すると新しい受刑者は到着しない。反対に、「すべて」を選択すると、受け入れを待っているすべての受刑者が到着する。\n\nそれぞれのカテゴリーの受刑者を何人受け入れるかは、上に表示されたスライダーで調整することができる。
+report_intake_overview_tooltip_title	受け入れ概要
+report_intake_overview_tooltip	ここでは、次の受け入れに関する情報と、その際に受け取ることのできる支払い額を確認できる。到着する受刑者の数やそのカテゴリーは、上のスライダーやボタンで調整できる。支払い額は、それぞれのカテゴリーの受刑者の数によって決まる。
+
+report_needs_prisoners	受刑者のニーズ
+report_needs_staff	職員のニーズ
+
+valuation_categoryprison	刑務所の資産価値
+valuation_construction	固定資産
+valuation_objects	付帯設備
+valuation_stock	在庫と資材
+valuation_staff	人材
+valuation_startupgrant	設立助成金
+valuation_capacity	収容サイズ
+valuation_cash	現金
+valuation_debt	銀行ローン
+valuation_categoryperformance	安全性
+valuation_bonustimewithoutincident	[ボーナス] 最後に事件が起こってからの時間
+valuation_finedeath	[ペナルティ] 24時間以内に出た死亡者
+valuation_fineescape	[ペナルティ] 24時間以内に出た脱獄者
+valuation_total	合計
+valuation_sell	売却
+valuation_sellprison	刑務所を売却
+valuation_sell_tooltip	刑務所を売却すると、そこからの利益を回収し、もっと資金がある状態で新しい刑務所を始めることができる。\n\nこの刑務所は引き続き運営することも可能だが、刑務所を売却できるチャンスは一度のみ。売却によるすべての利益は新しい刑務所に移される。
+valuation_sold	この刑務所は*Xで売却済みです。
+valuation_donotown	所有していない刑務所は売却できません。
+valuation_sellsome	株を売る
+valuation_buysome	株を買う
+valuation_shares	株の売買
+valuation_shares_tooltip	刑務所の株は、最大50％まで外部の投資家に売却することが可能。株を売ると即時に現金が手に入り、刑務所が売却された場合は、投資家にも売上金の一部が分配される。\n\n例：刑務所の株の30％を売った場合、最終的に刑務所が売却された際に手に入る売上金は全体の70％となる。一度売った株はいつでも買い戻すことができるが、この値段は以前に売却した時のものより高くなることもある。
+valuation_ownership	この刑務所の所有率：*X％
+valuation_saleprice	売却価格：*X
+valuation_title	=[資産価値]=
+valuation_totalprisonvalue	刑務所の合計資産価値：*X
+valuation_subcashreserves	（-手元資金：*X）
+valuation_tenpercentprice	10％あたりの価格：*X
+valuation_profit	利益：*X
+valuation_tap_to_authorise	タップして承認
+
+salecondition_title	売却条件
+salecondition_cannotsell	以下の条件がクリアできるまでは、刑務所を売却したり、株を売ることはできない。
+salecondition_minimumvalue	資産価値が50,000ドル以上
+salecondition_cashflow	プラスのキャッシュフロー
+salecondition_accountant	会計士を雇用済み
+salecondition_minprisoners	受刑者数が20人以上
+salecondition_recentdeaths	死亡者が最近出ていない
+salecondition_recentescapes	脱獄者が最近出ていない
+salecondition_passed	[クリア]
+salecondition_failed	[未クリア]
+
+policy_title	事件
+policy_search	- 検索 -
+policy_prisoner	この受刑者
+policy_prisoner_f	彼女の
+policy_cell	独房
+policy_security	セキュリティ
+policy_punishment	処罰
+policy_quantity	時間
+policy_punishmenttime	*X時間
+policy_mealcost	*Xドル/日
+policy_totalmealcost	（合計：*Xドル/日）
+policy_cell_quality	独房の質の評価を使用する
+policy_cell_quality_tooltip_title	「独房の質」を使用する
+policy_cell_quality_tooltip	有効にすると、受刑者は行いに基づいて適切な質の独房にのみ入れられるようになる。態度の悪い受刑者は、たとえ他の独房に空きがなくても、質の良い独房に入ることがなくなる。これを無効にすると、受刑者は独房の質に関わらずどこにでも入れられるが、質が平均以下の独房に入った受刑者は、より憤慨することになる。ただし受刑者には、行いが良ければ、その後質の高い独房に移される可能性も残っている。
+policy_staffbreak_length	職員の休憩時間: *P分
+policy_staffbreak_num	職員の休憩回数: *P
+policy_staffbreakmax	休憩中職員最大割合: *P%
+policy_staffbreakmax_title	休憩中職員最大割合
+policy_staffbreakmax_info	いつでも休憩することが許可されている職員の割合の最大値。職員に休憩なしでよりハードに長時間働かせるには、これを低く設定する。警備員がいつでも好きな時に休憩をとれるようにするには、これを高く設定する。
+reports_staffpaytitle	職員の給与
+reports_payup	給与増10%
+reports_paydown	給与カット10%
+reports_payrisepercent	給与増合計: *X%
+reports_perday	1日当たり
+
+job_construct	*Xを建設
+job_installobject	*Xを設置
+job_installobjectinroom	*Xを*Yに設置
+job_moveobject	*Xを動かす
+job_moveobjecttoroom	*Xを*Yに動かす
+job_loadobjectinto	*Xを*Yに積む
+job_storeobject	*Xを*Yに保管
+job_dismantleobject	*Xを解体
+job_dumpobject	*Xを捨てる
+job_repairobject	*Xを修理
+job_operateequipment	*Xを操作
+job_escortprisoner	受刑者を*Xに連れて行く
+job_punishprisoner	入所手続きをする
+job_searchobject	*Xを調べる
+job_searchentity	受刑者のボディチェックをする
+job_searchingentity	受刑者をボディチェック中
+job_searchcell	独房を調べる
+job_searchcellblock	独房棟を調べる
+job_searchtoilets	トイレを調べる
+job_improvecellindoor	屋内エリアを掃除する
+job_improvecelloutdoor	屋外エリアで庭仕事をする
+job_opendoor	鍵の掛かったドアを開ける
+job_giveuniform	受刑者にユニフォームを渡す
+job_failurecount	*X回失敗
+job_feedprisoner	受刑者に食事を与える
+job_healprisoner	受刑者の治療をする
+job_delivermail	郵便を届ける
+
+finances_title	財政
+finances_income	収益
+finances_expenses	支出
+finances_total	合計
+finances_profit	純益
+finances_timewithoutincident	（*X日）
+finances_dailyincome	*X/日
+
+finances_category_federalgrant	連邦助成金
+finances_category_minsecprisoners	受刑者助成金（軽警備）
+finances_category_medsecprisoners	受刑者助成金（中警備）
+finances_category_maxsecprisoners	受刑者助成金（厳重警備）
+finances_category_prisoners	受刑者助成金
+finances_category_workmen	給与（作業員）
+finances_category_guards	給与（看守）
+finances_category_admin	給与（管理職員）
+finances_category_staff	職員給与
+finances_category_food	受刑者の食事
+finances_category_stafffood	職員の食事
+finances_category_electricity	電気
+finances_category_workshops	ワークショップ
+finances_category_upkeep	維持
+finances_category_loaninterest	ローン利子
+finances_category_reformprogs	更生ブログラム
+finances_category_noincident	最後の事件からの日数
+finances_category_exports	保管（昨日）
+finances_category_corptax	法人税
+finances_category_prisonerwages	受刑者給与（昨日）
+finances_category_shoprevenue	ショップ収益（昨日）
+
+reports_foodtitle	栄養方針
+meal_quantity	食事の量
+meal_variety	食事の種類
+meal_cost	受刑者1人あたりのコスト
+
+reports_otherpolicytitle	その他の方針
+parole_title	仮釈放率
+parole_desc	受刑者の再犯率がこの数値以下の場合、仮釈放の審議会を経て釈放される。
+parole_fine	再犯に対する罰金
+parole_reward	早期釈放に対する報酬
+
+reports_staffbreaktitle	職員休憩方針
+
+victory_title	認定
+
+victory_PrisonValue	資産価値
+victory_Income	1日の収益
+victory_Prisoners	収容人数
+victory_PrisonersReleased	釈放済み
+victory_prisonersdied	服役中に死亡
+victory_prisonersescaped	脱獄に成功
+victory_Bankrupt	破産
+victory_Riot	手に負えない\n暴動
+victory_TooManyDeaths	犯罪的\n過失
+victory_TooManyEscapes	セキュリティ上の\n惨事
+victory_failure	失敗
+victory_warning	警告
+victory_remaining	残り
+victory_death	死亡者
+victory_escapes	脱獄者
+victory_counter	（今日：*X）
+victory_executions	死刑の不法執行
+victory_innocentsexecuted	無罪の受刑者に死刑を執行
+victory_staffdeaths	職員の死亡者数
+victory_staffpayrise	不満な職員
+victory_staffstrike	ストライキ中の職員
+
+victory_warning_bankrupt	財政破綻を免れるのに残された時間は24時間。
+victory_warning_riot	今すぐこの暴動を終わらせなければ、刑務所は政府の管理下に置かれてしまう。
+victory_warning_toomanydeaths	今日これ以上死亡者が出た場合、起訴されてしまう。
+victory_warning_toomanyescapes	今日これ以上脱獄者が出た場合、罰金を受けることとなる。
+victory_warning_executions	もう1人の無罪の受刑者に死刑が執行された場合、君は解雇される。
+victory_warning_staffpayrise	給与が増加されない場合、職員はストライキをすることになる。
+victory_warning_staffstrike	職員はストライキ中だ！
+victory_warning_staffonstrike	職員はストライキ中だ－警備員の90%がいなくなってしまった！その日のうちに給与を増加しなければ、多くの者が辞めると脅している。
+
+victory_prisoners_units	収容定員
+victory_prisonersreleased_units	釈放済み
+victory_toomanydeaths_units	死亡者
+victory_toomanyescapes_units	脱獄者
+victory_executions_units	無罪の受刑者の死刑執行
+victory_staffpay_units	増加を提示
+
+victory_prisonersparoled	仮釈放済みの受刑者
+victory_prisonersreoffended	再犯した受刑者
+
+victory_adviserwarning_toomanydeaths1	昨日はこの刑務所の設立以来、もっとも悲惨な1日となった。あまりにも多くの人々がここで命を落としたのだ。
+victory_adviserwarning_toomanydeaths2	今日1人でも死亡者が出るようであれば、犯罪的過失と見なされ、起訴されてしまうだろう。
+victory_advisernotice_toomanydeaths1	前にも警告したはずだ。残念ながら、ここで起きた事件を理由に、君は犯罪的過失を犯したとして有罪判決を受けた。
+victory_advisernotice_toomanydeaths2	犯した罪を償うため、君はこれから10年のあいだ刑務所に収容される。そう、自分の刑務所にだ。検討を祈る。
+victory_adviserwarning_riot1	この刑務所は手に負えない状態になっている。暴動を今すぐやめさせなければ、政府が立ち入り力ずくで刑務所を管理下に置くだろう。
+victory_advisernotice_riot1	君は暴動を抑えることができなかった。刑務所の契約は破棄となり、政府は刑務所を取り戻すため、国家警備隊を送り込んでくるだろう。
+victory_adviserwarning_toomanyescapes1	ここ最近、あまりにも多くの受刑者が脱獄に成功している。このままではこの刑務所の評判はガタ落ちだ。そしてその責任は君にある。
+victory_adviserwarning_toomanyescapes2	今すぐ刑務所を封鎖し、これ以上脱獄者が出ないようにしなければ、君はマスコミに吊るし上げられるだろう。
+victory_advisernotice_toomanyescapes1	今回の件は失敗だ。マスコミはこの刑務所を笑い者にし、誰かに責任を取らせようとしている。
+victory_advisernotice_toomanyescapes2	その誰かとは君のことだ。よって君はクビとなる。
+victory_adviserwarning_bankrupt1	破産だ！君の管理能力のなさが原因で、この刑務所は経済破綻に陥ってしまった。
+victory_adviserwarning_bankrupt2	今すぐに問題を解決しなければ君はクビだ。
+victory_advisernotice_bankrupt1	もう破産宣言をするしか手はない。刑務所は行政の管理下に置かれるだろう。すべて君のせいだ。
+victory_adviserwarning_wardendeaths1	君の元で働くのは危険極まりないということが明らかになった。そのおかげで、この刑務所で働いてくれる刑務所長がなかなか見つからない。
+victory_adviserwarning_wardendeaths2	もしまた刑務所長が死ぬようなことがあれば、君をクビにせざるを得ない。
+victory_advisernotice_wardendeaths1	刑務所長が安全に働ける環境を提供することができなかった。もう君の元で働いてくれる者はいない。
+victory_advisernotice_wardendeaths2	従って、これ以上君を雇っておくわけにはいかない。残念だがクビだ。
+victory_adviserwarning_reoffenders1	君が早期釈放させた受刑者の多くが、また新たに罪を犯してしまった。なんとか状況を好転させなければ、我々は難しい立場に立たされるだろう。
+victory_adviserwarning_reoffenders2	さらに多くの受刑者が釈放後に再犯するようであれば、君に責任を負ってもらわなければならない。
+victory_advisernotice_reoffenders1	君はあまりにも多くの危険な犯罪者たちを釈放してしまった。従って、これ以上君を雇っておくわけにはいかない。クビだ。
+victory_adviserwarning_executions1	君が無実の人間を死刑にしてしまったのはこれが2回目だ。このことに対して大衆は怒りを露わにしている。
+victory_adviserwarning_executions2	もしまた無実の受刑者が処刑されることがあれば、その時は君に責任を取ってもらう。
+victory_advisernotice_executions1	君はあまりにも多くの無実な人間を死刑にしてしまった。従って、これ以上この刑務所の管理を任せるわけにはいかない。残念だがクビだ。
+victory_advisernotice_InnocentsExecuted1	君は正しい手順を踏まずに死刑を執行した。しかも、この受刑者が無実だったことが判明した。これは甚だしい誤審であり、その責任は君にある。クビはもちろんだが、恐らくその後に君自身が刑務所に収容されることとなるだろう。
+victory_adviserwarning_staffpayrise1	職員は刑務所内での勤務条件に不満で、50%の給与増がなければストライキをすると脅した。
+victory_adviserwarning_staffstrike1	職員はストライキに入った！ただし50%の給与増が得られれば、職務に戻る気はある。
+
+score_title	刑務所評価
+score_reoffendingrate	再犯率
+score_prisonersreleased	釈放された受刑者の数：*X
+score_minimumprisonersreleased	この報告書が完成する前に釈放しなければならない受刑者の数：*X
+score_deaths	拘置中に死亡した受刑者の数：*X
+score_escapes	脱獄した受刑者の数：*X
+score_reoffendingchance	推定再犯率
+score_startingreoffendingchance	収容時の推定再犯率：*X％
+score_prisonersparoled	早期仮釈放（再犯）
+score_prisonersparoled_info	*P（*E％）
+score_clemencychance	恩赦の可能性
+score_convictionstrength	国が認めた判決の確信度
+score_prisonersexecuted	死刑となった受刑者（無実）
+score_prisonersexecuted_info	*E（*I）
+
+score_tooltip_punishment	一般の人々から見て、刑務所が受刑者の罪をどの程度充分に罰しているかの評価。刑務所に長年服役することは重い刑罰の基礎だが、それには独房に1人で閉じ込められるという辛い時間が含まれる。\n\n更生のための時間や自由時間を与えすぎると「罪に対して甘い」と見られ、厳罰グレードが下がるので注意が必要だ。\n\nA 厳罰スコアが高いと、釈放された受刑者による再犯の防止につながる。
+score_tooltip_reform	「更生プログラム」を通じて受刑者にどの程度更生やリハビリの機会を与えているかの評価。\n\n 更生スコアが高いと、釈放後の受刑者が本当の就職口を見つける可能性が大幅に増え、そのため再犯の可能性が減る。\n\n注：受刑者を刑務所周辺で働かせることもカウントされる。
+score_tooltip_health	受刑者が刑務所にいる間の健康記録。屋外の運動と良い食事がカウントされる。治療されない怪我、ドラッグやアルコールの使用はすべてこれに反する。\n\n点数が低いと、特にドラッグやアルコール依存を治療しないまま釈放された受刑者による再犯の可能性が高くなる。
+score_tooltip_security	あなたがどの程度よく受刑者を安全に閉じ込めているかを示す評価。受刑者を武装隊の下で独房に閉じ込めておくことで、評価が上がる。受刑者が、戦い、殺人、脱獄に関与するとあなたが罰せられる。\n\nA 低い点数は、受刑者が刑務所内でも悪い存在のままでいることを意味し、そのため釈放後の再犯の可能性が高くなる。
+
+score_tooltip_reoffendingchance	受刑者が再び罪を犯す可能性を推測したもので、この数値の決定には多くの要因が考慮される：\n\n- 過酷な処罰→再犯率ダウン\n- 効果的な更生プログラム→再犯率ダウン\n- 健康状態の悪さやセキュリティの甘さ→再犯率アップI\n- 未治療の薬物またはアルコール依存→再犯率アップ\n- ギャングへの参加→再犯率アップ\n\n\n- 受刑者の年齢は大きな要因となる。\n- 前科の数も強力な指標となる。\n- 力になってくれる家族が多く存在する場合、再犯率ダウンにつながる。
+score_tooltip_clemencychance_title	恩赦の可能性
+score_tooltip_clemencychance	上訴委員会が恩赦の適用を許可し、死刑判決が減刑される可能性を示す。このスコアは上訴が却下されるたびに下がり、「国が認めた判決の確信度」以下になると、死刑執行の手続き開始が許可される。この段階まで待たずに死刑執行の日取りを決定してしまい、受刑者の上訴が認めらたであろうことが後日判明した場合、もっとも厳しい罰が与えられることとなる。\n\n恩赦の適用が許可された場合、無罪であれば受刑者は直ちに釈放され、有罪の場合は厳重警備棟に移される。
+score_tooltip_currentchance	国が認めた判決の確信度：*X％
+score_tooltip_clemencywarning	この受刑者が恩赦を受けられる確率は現在、国が認めた安全レベルより上となっている。この状態で死刑を執行し、この受刑者に対して恩赦が認められたであろうことが後日判明した場合、君は個人的にその責任を問われることとなる。
+
+experiencefactor_FractionalLockedUp	独房入り：収容期間の*X％
+experiencefactor_FractionalReform	更生プログラム：収容期間の*X％
+experiencefactor_fractionalWorking	労働：収容期間の*X％
+experiencefactor_fractionalsuppressed	抑圧状態：収容期間の*X％
+experiencefactor_fractionalinjured	負傷＆治療なし：収容期間の*X％
+experiencefactor_fractionalintoxicated	薬物/酒の摂取＆離脱症状：収容期間の*X％
+experiencefactor_fractionalmisbehaving	不品行：収容期間の*X％
+experiencefactor_fractionalarmedguard	武装警備員による拘束：収容期間の*X％
+experiencefactor_fractionalwellfed	食事：収容期間の*X％
+experiencefactor_fractionalexercising	運動：収容期間の*X％
+experiencefactor_fractionalfreetime	自由時間：収容期間の*X％
+
+experiencefactor_passedeasyprograms	クリアした初級プログラム：*X
+experiencefactor_passedintermediateprograms	クリアした中級プログラム：*X
+experiencefactor_passedadvancedprograms	クリアした上級プログラム：*X
+experiencefactor_passedexpertprograms	クリアした特級プログラム：*X
+
+experiencefactor_YearsServed	服役済み：*X年
+experiencefactor_fights	暴力事件への関与
+experiencefactor_murders	刑務所内で起こした殺人件数：*X
+experiencefactor_escapeattempts	脱獄を試みた回数：*X
+experiencefactor_addictions	依存物の数：
+experiencefactor_gangmembership	ギャングメンバー
+
+legend_key	凡例：
+
+needs_graphscale_title	受刑者：
+needs_graphscale_title_staff	職員:
+needs_key_critical	緊急
+needs_key_high	高
+needs_key_med	中
+needs_key_satisfied	満足
+needs_key_active	ニーズあり
+
+needs_show_category	受刑者のカテゴリー
+needs_show_category_staff	職員カテゴリ
+needs_show_category_all	すべての受刑者
+
+contraband_supplyanddemand	需要と供給
+contraband_narcotics	薬物
+contraband_weapons	武器
+contraband_tools	道具
+contraband_luxuries	贅沢品
+contraband_metal	金属
+contraband_smelly	臭気物
+contraband_rangedweapon	遠隔武器
+contraband_improvised	手作り
+
+contraband_key_supply	供給
+contraband_key_demand	需要
+contraband_log_stolen	盗難アイテム
+contraband_log_position	発見場所
+contraband_log_smuggled	持ち込まれた
+contraband_log_traded	交換された
+contraband_log_thrown	投げられた
+contraband_log_hidden	隠された
+contraband_log_detected	検出された
+contraband_log_dog	警察犬
+contraband_log_found	発見
+contraband_log_owner	持ち主
+contraband_log_arranged	*X時間前に調整
+
+gangs_guards	看守 *X
+gangs_soldiers	兵士 *X ／ *Y 最大
+gangs_evict	脱出
+gangs_status	*Xメンバー。*Yが殺害。$*Z
+
+schedule_zone_shared	共有スペース
+schedule_zone_minseconly	軽警備
+schedule_zone_medseconly	中警備
+schedule_zone_maxseconly	厳重警備
+schedule_zone_protectedonly	保護拘置
+schedule_zone_supermaxonly	超厳重警備
+schedule_zone_deathrowonly	死刑囚
+schedule_zone_staffonly	職員のみ
+schedule_zone_unlocked	施錠なし
+
+
+
+# =============================================================================
+# Needs / Actions / Bio etc
+# =============================================================================
+
+action_poo	トイレ使用（大）
+action_wee	トイレ使用（小）
+action_wash	シャワー使用中
+action_relax	リラックス中
+action_sleep	睡眠中
+action_nap	昼寝中
+action_getmeal	食事の確保中
+action_sit	着席中
+action_exercise	運動中
+action_liftweights	ベンチプレス使用中
+action_phonehome	家族に電話中
+action_watchtv	テレビ鑑賞中
+action_playpool	ビリヤードをプレイ中
+action_stealknife	不審な行動中
+action_stealspoon	不審な行動中
+action_urinate	小便中
+action_soilsuit	興奮中
+action_eat	食事中
+action_complain	苦情中
+action_work	労働中
+action_visitation	面会中
+action_parole	仮釈放審議会に参加中
+action_none	なし
+action_misbehaving	問題を起こし中
+action_escaping	脱獄中
+action_destroying	破壊中
+action_spoiling	ケンカ仕掛け中
+action_fighting	ケンカ中
+action_rioting	暴動中
+action_hostagetaking	人質を取って立てこもり中
+action_reformprogram	更生プログラム参加中
+action_changeclothes	着替え中
+action_getbook	本を借り出し中
+action_pray	お祈り中
+action_shopping	買い物中
+action_playinggame	ゲーム中
+
+action_foodpoisoning_1	おい、頼むからそれを止めさせてくれ
+action_foodpoisoning_2	すべてが明らかになる
+action_foodpoisoning_3	ところ構わず嘔吐している
+action_foodpoisoning_4	なぜこんなことになっているのか
+action_foodpoisoning_5	本当に死にかけている
+
+status_effect_title	=[ステータス]=
+status_effect_none	なし
+status_effect_suppressed	抑制中
+status_effect_goodfood	満腹
+status_effect_drunk	泥酔
+status_effect_high	ハイ
+status_effect_withdrawal	脱離症状
+status_effect_tazed	テーザーでショック
+status_effect_overdosed	過剰摂取
+status_effect_surrendered	降参済み
+status_effect_calming	冷静を取り戻し中
+status_effect_angst	立腹
+status_effect_wounded	流血
+status_effect_virus	病気
+status_effect_virusdeadly	病気
+status_effect_overheating	過熱
+status_effect_exposure	暴露
+status_effect_foodpoisoning	食中毒
+status_effect_riledup	高揚
+status_effect_statusswimming	水泳
+status_effect_statusdrowning	溺死
+
+condition_treated	治療済み
+condition_needstreating	要治療
+
+experience_totaltime	合計時間
+experience_misconduct	不祥事
+experience_lockeddown	独房行き
+experience_regime	スケジュール
+experience_sleep	睡眠
+experience_work	労働
+experience_class	クラス
+experience_freetime	自由時間
+experience_moodbad	悪い
+experience_moodnormal	普通
+experience_moodgood	良い
+experience_nocondition	なし
+experience_kod	ノックアウト
+experience_hurt	負傷
+experience_suppressed	抑制
+experience_intoxicated	泥酔（薬物/酒）
+experience_wellfed	満腹
+experience_exercise	運動
+
+need_name_nothing	なし
+need_name_bladder	トイレ（大）
+need_name_bowels	トイレ（小）
+need_name_sleep	睡眠
+need_name_food	食事
+need_name_safety	安全
+need_name_hygiene	衛生
+need_name_exercise	運動
+need_name_family	家族
+need_name_recreation	娯楽
+need_name_comfort	快適さ
+need_name_environment	環境
+need_name_privacy	プライバシー
+need_name_freedom	自由
+need_name_clothing	衣服
+need_name_drugs	薬物
+need_name_alcohol	アルコール
+need_name_starving	空腹
+need_name_spirituality	信仰
+need_name_literacy	文学
+need_name_babysleep	[乳幼児]睡眠
+need_name_babyplay	[乳幼児]遊び
+need_name_warmth	温かさ
+need_name_staffbladder	トイレ（大）
+need_name_staffbowels	トイレ（小）
+need_name_stafffood	食事
+need_name_staffsafety	安全
+need_name_staffrecreation	娯楽
+need_name_staffcomfort	快適さ
+need_name_staffenvironment	環境
+need_name_staffrest	休憩
+need_name_staffwarmth	温かさ
+need_name_luxuries	贅沢
+needs_locked	（表示には精神分析医が必要）
+needs_title	=[ニーズ]=
+
+needs_total_prisoners	*X 受刑者にはこのニーズがある
+needs_total_concerned	*X 受刑者は、このニーズについて心配している
+needs_total_desperate	*X 受刑者は、このニーズを満たそうと必死だ
+needs_total_angry	*X 受刑者は、ニーズが満たされないので怒り狂っている。
+needs_total_active	*X 受刑者は現在、このニーズに対処している
+
+needs_total_staff	*X 職員にはこのニーズがある
+needs_total_concerned_staff	*X 職員は、このニーズについて心配している
+needs_total_desperate_staff	*X 職員は、このニーズを満たそうと必死だ
+needs_total_angry_staff	*X 職員は、ニーズが満たされないので怒り狂っている。
+needs_total_active_staff	*X 職員は現在、このニーズに対処している
+
+needs_help_bladder	トイレは誰にでも必要だ。受刑者にもだ。刑務所のスケジュールの大半は非常に厳格であることを忘れてはいけない。例えば、シャワー室にいなければならない時には、自分の独房のトイレは使えないのだ。
+needs_help_bowels	トイレは誰にでも必要だ。受刑者にもだ。刑務所のスケジュールの大半は非常に厳格であることを忘れてはいけない。例えば、シャワー室にいなければならない時には、自分の独房のトイレは使えないのだ。
+needs_help_sleep	受刑者には睡眠が必要だ。受刑者は自分の独房でしか眠ることができず、その時間は午後8時から午前8時の間のみだ。もちろんベッドも必要だ。
+needs_help_food	食事は全員に必要で、多くの場合は1日に1回以上必要だ。厨房が需要に追いつけていない場合は、料理人をさらに雇うか、厨房のコンロを追加してみよう。また、「報告」ウインドウの「方針」タブで食事規定を変更することもできる。
+needs_help_safety	刑務所の中でさえ、受刑者たちは安全であることを感じていたい。刑務所内のケンカが多かったり、全体的な危険レベルが高い場合、受刑者は安全を感じにくくなり、武装しようとするかもしれない。これが問題になる場合は、看守をさらに雇ってパトロールを増やし刑務所内全体の安全性を向上させるか、受刑者が抱えている他のニーズを満たしてみよう。
+needs_help_hygiene	多くの受刑者は定期的に体を洗いたがる。朝起床した直後は特にそうだ。シャワーのスケジュールでは、自分用のシャワーがない受刑者を最も近いシャワー室に行かせる。これが問題になる場合は、シャワー施設の拡張を検討するか、受刑者が必要なときにシャワーに入れるように自由時間を増やしてみよう。
+needs_help_environment	受刑者は汚い環境での生活を嫌うが、大勢の受刑者が同じ施設を使用しているので、あっという間にとても散らかってしまう。清掃人を雇うか、常にきれいな状態を保てるように、受刑者を掃除用具室で働かせよう。
+needs_help_privacy	受刑者は時に一人の時間を欲することがある。通常は自分の独房で過ごせばよいが、多くの受刑者と共に寮で生活している場合はあまりプライバシーがないかもしれない。
+needs_help_clothing	受刑者は、例えそれが同じ色のオーバーオールであっても、時々清潔な服を欲しがる。刑務所に洗濯室を追加して、清掃人を雇うか受刑者を洗濯室で働かせれば、この夢をかなえてやることができる。
+needs_help_drugs	多くの受刑者は麻薬中毒の問題を抱えている。そもそもはじめに刑務所に入った理由はそれかもしれない。医療室で薬物治療プログラムを実施すれば、この問題に対処することができる。
+needs_help_alcohol	多くの受刑者はアルコール中毒を患っており、アルコールを得るためならどんな苦労もいとわない。アル中のグループ治療セッションを実施すれば、問題を軽減することができる。
+needs_help_spirituality	大勢の受刑者が様々な宗教を信仰している。刑務所内に信者席や祈祷用マットを追加すれば受刑者が各自の信仰に基づく習慣を実践できるようになるが、教会を建設して「宗教的アドバイス」プログラムを実行すると、最善の結果が得られると同時に、通常は受刑者をおとなしくさせる効果もある。
+needs_help_warmth	いつでも寒い方が良いという人はどこにもいないが、自然はそんなことを気遣ってくれない。刑務所内にラジエーターを追加すると、建物が充分に温かくなり、寒さの問題がなくなる。
+needs_help_babysleep	乳幼児には、普通の受刑者よりも長い睡眠が必要だ。乳幼児を連れた受刑者がいる場合、必要なときに乳幼児が眠れるようにベビーベッドを準備しておくこと。
+needs_help_babyplay	乳幼児は、構ったり遊んだりしてやる必要がある。乳幼児を連れた受刑者がいる場合、遊び用マットを利用可能なエリアに置いておくこと。
+
+needs_help_staffbladder	職員も時々トイレを使用する必要があるだろう。休憩中はいつでもトイレを使用するだろう。
+needs_help_staffbowels	職員も時々トイレを使用する必要があるだろう。休憩中はいつでもトイレを使用するだろう。
+needs_help_stafffood	職員は食事をとる必要があり、職員専用食堂や休憩室で食事をする。食事は職員に配られるので、職員は受刑者と同じ残飯を食べなくて済む。
+needs_help_staffsafety	刑務所で働いていても、職員は安全に関する権利がある。危険レベルが高かったり、戦闘が絶えないと、職員は安全だと感じられなくなる。ただしこれは、より重装備な職員の投入によって、ある程度抑えることが可能だ。
+needs_help_staffrecreation	職員は長時間刑務所で過ごすため、時には気晴らしも必要となる。休憩室のテレビやラジオは、それを提供する方法の一つだ。
+needs_help_staffcomfort	職員の大半は、1日中立ち続けているため、時々、リラックスしたいと思う。休憩中座っていられる快適な場所を提供するのは、これを解決する良い方法だ。
+needs_help_staffenvironment	受刑者が汚い刑務所に住みたくないのと同じように、職員もそのような所では働きたくない。刑務所を清潔に保てば、問題となるのを防ぐだろう。
+needs_help_staffrest	職員は、日中休憩をとって、体力を回復させる必要がある。彼らは、快適なソファーがある個室の休憩室で休むことを好む。
+
+reputation_title	評判
+reputation_hidden	（不明の評判）
+reputation_hidden_short	???
+
+reputation_legendary	--伝説級--
+reputation_strong	パワフル
+reputation_tough	タフ
+reputation_volatile	不安定
+reputation_snitch	垂れ込み屋
+reputation_deadly	死神
+reputation_stoical	ストイック
+reputation_fearless	大胆不敵
+reputation_exlaw	元警官
+reputation_copkiller	サツ殺し
+reputation_quick	俊足
+reputation_instigator	扇動者
+reputation_fighter	名ファイター
+reputation_gangmember	ギャングメンバー
+reputation_federalwitness	連邦証人
+reputation_preacher	牧師
+reputation_connected	コネあり
+reputation_workaholic	仕事中毒
+reputation_clean	清潔
+reputation_pickpocket	スリ
+reputation_copycat	身元詐称
+reputation_dangerous	危険
+reputation_escapeartist	縄抜け曲芸師
+
+reputation_strong_high	超パワフル
+reputation_tough_high	超タフ
+reputation_volatile_high	超不安定
+reputation_deadly_high	究極の死神
+reputation_exlaw_high	元看守
+reputation_quick_high	超俊足
+reputation_fighter_high	超人ファイター
+reputation_connected_high	多数コネあり
+reputation_dangerous_high	極めて危険
+
+reputation_legendary_high	--伝説級--
+reputation_snitch_high	垂れ込み屋
+reputation_stoical_high	ストイック
+reputation_fearless_high	大胆不敵
+reputation_copkiller_high	サツ殺し
+reputation_instigator_high	扇動者
+reputation_gangmember_high	ギャングメンバー
+reputation_federalwitness_high	連邦証人
+reputation_preacher_high	牧師
+reputation_workaholic_high	仕事中毒
+reputation_clean_high	清潔
+reputation_pickpocket_high	スリ
+reputation_copycat_high	身元詐称
+reputation_escapeartist_high	縄抜け曲芸師
+
+reputationtooltip_legendary	この受刑者は地下犯罪世界の伝説的存在で、危険なスキルと能力を数多く備えている。
+reputationtooltip_strong	ケンカになるとその拳で力を発揮する。
+reputationtooltip_tough	この受刑者は、争いにおいて、より強い虐待に耐えることができるスタンガンにも耐えられる場合がある
+reputationtooltip_volatile	何の警告も理由もなしに、突然キレることがある。
+reputationtooltip_stoical	この受刑者は、隔離独房に入れても効果がない。彼らはまったく気にしない。
+reputationtooltip_snitch	この受刑者は有名な密告者で、そのため命が狙われている可能性がある。1人で他の受刑者と長時間一緒にしてはいけない。
+reputationtooltip_deadly	致死的な戦闘技を得意とし、時には一発で相手を殺すこともできる。
+reputationtooltip_exlaw	この受刑者は警察官だったか、警察などの法の執行機関で働いていた。命が狙われている可能性がある。
+reputationtooltip_copkiller	この受刑者は、警官殺しで有罪になった。刑務所の看守がこの受刑者を抑える際に、こらえられなくなる可能性がある。
+reputationtooltip_fearless	武装警備員を見てもまったく怯むことがなく、ケンカの際に自分から降参することはほぼない。
+reputationtooltip_quick	足が異常に速いことで知られる。
+reputationtooltip_instigator	周りの者みんなに不満を抱かせておき、自分がトラブルを起こす際に周りにも同調させる。
+reputationtooltip_fighter	この受刑者は、戦闘時に身を守るスキルに長けている。相手の武器を解いたり、戦闘中に相手から武器を奪うことさえできる。
+reputationtooltip_gangmember	この受刑者はギャングの一員だ。仲間のギャングを守り、敵のギャングと対立する。
+reputationtooltip_federalwitness	重要な訴訟事件の証人であり、ギャングまたは犯罪組織のボスから命を狙われている。
+reputationtooltip_preacher	この受刑者は特にカリスマ性が強く、他の受刑者を自分の宗教に改宗させて彼らの精神的なニーズを満たすことができる。
+reputationtooltip_connected	この受刑者は、刑務所内外、どこにでもコネがある。彼らはどこからともなく、禁制品を手にすることができる。
+reputationtooltip_workaholic	この受刑者は仕事をせずにはいられず、一度始めてしまうと、何もなくなるまで止められず、規則や基本的なニーズまでも無視してしまう。
+reputationtooltip_clean	この受刑者は清潔であることに強迫観念を持っている。その結果、衛生に関するニーズが非常に高くなる。
+reputationtooltip_copycat	この受刑者は、そばにいる受刑者の態度や行動を真似して、全く同じ評判を得ることができる。
+reputationtooltip_dangerous	この受刑者は、そばにいる他の人の害となる。どのように？なぜ？誰にもわからない。
+reputationtooltip_escapeartist	この受刑者はプロの縄抜け曲芸師で、いろいろな所から抜け出して楽しんでいる。常に独房の鍵を開けて抜け出そうと試みる。
+
+# =============================================================================
+# Nameplate status
+# =============================================================================
+
+nameplate_working	勤務中
+nameplate_stationed	配備中
+nameplate_patrolling	パトロール中
+nameplate_resting	休憩中
+nameplate_tired	疲労
+nameplate_injured	負傷
+nameplate_unconscious	気絶
+nameplate_dead	死亡
+nameplate_released	釈放済み
+nameplate_researching	リサーチ中
+nameplate_overdose	過剰摂取
+nameplate_starving	空腹
+nameplate_wounded	流血
+
+
+# =============================================================================
+# Objectives, Grants
+# =============================================================================
+
+objective_feedallprisoners	すべての受刑者に食事を与える
+objective_caption_prisoners	受刑者
+objective_caption_meals	食事
+objective_readceosletter	CEOからの手紙を読む
+objective_actionrequired	事件報告書
+
+objective_deathrowinmates	死刑囚の状態
+
+objective_prisonerintake	受刑者の受け入れ
+objective_intake_arrivals	*X人の受刑者が午前*Y時に到着予定
+objective_intake_closed	新しい受刑者の受け入れ停止中
+objective_intake_closed2	（受刑者の報告書を参照）
+objective_intake_closed3	（受け入れに関する報告書を参照）
+objective_intake_specials	特別移送：
+objective_intake_categories	カテゴリー：
+objective_intake_minsec	軽、
+objective_intake_medsec	中、
+objective_intake_maxsec	厳重
+objective_intake_deathrow	死刑囚
+objective_intake_typeclosed	閉鎖
+objective_intake_typefillcapacity	収容可能人数を満たす
+objective_intake_typetotalprisoners	*Xまで追加
+objective_intake_typenumperday	1日あたり*X
+objective_intake_typeallavailable	受け入れ可能者全員
+objective_intake_closedstrike	職員のストライキ中は受け入れ不可。
+
+objective_firstgrant	最初の助成金を受け取る
+objective_firstgrant_description	「報告」ウインドウを開き（画面右下のボタンを押す）、助成金タブから受け取り可能な助成金を選択し、最初の助成金を受け取ろう。
+
+objective_builddeliveriesroom	配達エリアを設置
+
+objective_outgoing	釈放予定の受刑者
+objective_outgoing_count	*X人の受刑者が近日釈放予定
+objective_outgoing_timer	（*X時間）
+
+objective_visitors	面会人（午前8時〜午後8時）
+objective_visitors_waiting	*X組の家族が面会待ち
+objective_visitors_onsite	*Yグループ（計*X人）の面会者が訪問中
+
+objective_staffexhausted	職員が疲労困憊
+objective_reststaff_exhausted	*X人の職員が疲労困憊
+objective_reststaff_resting	（*X人が休憩中）
+objective_reststaff_needstaffroom	職員が休めるよう休憩室を設けよう。
+
+objective_punishment_solitary	*X人が隔離中
+objective_punishment_solitary_queue	*X人が隔離処分の待機中
+objective_punishment_solitary_mix	*X人が隔離棟に収容中（*Y人が待機中）
+objective_punishment_lockdown	*X人が独房入り
+objective_incident_medical	*X人に治療が必要
+objective_incident_dead	*X人が死亡
+
+objective_prisonerparole	仮釈放
+objective_parole_count	*X人の受刑者が仮釈放予定
+
+objective_payment_receivedfull	受けた支払い：*X
+objective_payment_receivedpart	受けた支払い：合計*Y中*X
+
+objective_grant_bootstraps	基本の拘置所
+objective_grant_bootstraps_description	空き地を刑務所に変えよう。政府との契約により、君には最低規模の施設を建てるための資金が与えられる。ここに最初の受刑者たちが収容される。
+objective_grant_bootstraps_holdingcell	留置場を建てる
+objective_grant_bootstraps_shower	シャワー室を建てる
+objective_grant_bootstraps_yard	運動場を建てる
+objective_grant_bootstraps_kitchen	厨房を建てる
+objective_grant_bootstraps_canteen	食堂を建てる
+objective_grant_bootstraps_guard	少なくとも2人の看守を雇う
+objective_grant_bootstraps_chef	少なくとも2人の料理人を雇う
+
+objective_grant_administration	管理センター
+objective_grant_administration_description	刑務所を責任を持って運営するには、管理センターがしっかり機能していなければならない。この助成金は、刑務所長と会計士の雇用、そしてそのオフィスの建設費用を負担する。これが済んだら、連邦政府の提供するすべての助成金制度が利用できるようになる。
+objective_grant_administration_offices	オフィスを2つ建てる
+objective_grant_administration_warden	刑務所長を雇う
+objective_grant_administration_accountant_research	「役所仕事」から「財政」をアンロックする
+objective_grant_administration_accountant	会計士を雇う
+
+objective_grant_firstcellblock	独房棟A
+objective_grant_firstcellblock_description	施設の基本的な部分が機能し始めた。次は独房棟を建て、受刑者たちを独房に移動させよう。
+objective_grant_firstcellblock_cells	受刑者収容数を15にアップ
+
+objective_grant_health	受刑者の健康と幸せ
+objective_grant_health_description	受刑者の身体的かつ精神的な健康は重要だ。この助成金は、最新の設備が整った医療室の建設と、受刑者の健康管理を行う医師および精神分析医の雇用に使われる。
+objective_grant_health_ward	医療室を建てる
+objective_grant_health_doctors	少なくとも２人の医師を雇う
+objective_grant_health_psychologist	精神分析医を1人雇う（オフィスが必要）
+
+objective_grant_bailout	政府による救済措置
+objective_grant_bailout_description	刑務所の現状に政府は大きな不満を抱いているが、同時に大規模の刑務所に見切りをつけるわけにはいかないと考えている。刑務所を破産から救うため、税金からの資金援助が提供された。君はこれから会計簿の決算を行い、プラスのキャッシュフロー（1日の収益が支出より高い状態）を達成するとともに、銀行への借金を返済しなければならない。
+objective_grant_bailout_cashflow	支出より多い収益を達成
+objective_grant_bailout_debt	借金を返済
+
+
+objective_grant_maintenance	刑務所のメンテナンス
+objective_grant_maintenance_description	職員と受刑者の安全を確保するには、刑務所とその敷地の維持およびメンテナンスがとても重要だ。刑務所の衛生と秩序を保つのに必要な職員を雇おう。
+objective_grant_maintenance_research_root	「役所仕事」から「メンテナンス」をアンロック
+objective_grant_maintenance_research_cleaning	「役所仕事」から「清掃」をアンロック
+objective_grant_maintenance_research_groundskeeping	「役所仕事」から「敷地管理」をアンロック
+objective_grant_maintenance_foreman	作業主任を雇う（オフィスが必要）
+objective_grant_maintenance_janitor	少なくとも2人の清掃人を雇う
+objective_grant_maintenance_gardener	庭師を雇う
+
+objective_grant_visitation	面会
+objective_grant_visitation_description	この地方のいくつかの刑務所が、受刑者に面会の権利を与えなかったとして告訴されている。この刑務所の投資家たちはそのようなスキャンダルを望んでおらず、適切な面会施設を建てるためにこの助成金を提供してくれた。
+objective_grant_visitation_room	面会室を作る
+objective_grant_visitation_tables	面会者のためのテーブルを少なくとも3台追加する
+objective_grant_visitation_commonroom	共有ルームを作る
+objective_grant_visitation_pooltable	ビリヤード台を追加
+objective_grant_visitation_tv	少なくとも2台のテレビを追加
+objective_grant_visitation_phones	少なくとも5個の電話ボックスを作る
+
+objective_grant_basicsecurity	セキュリティ体制の認定
+objective_grant_basicsecurity_description	新しい刑務所がよく陥る状況として挙げられるのが、職員が施設に慣れていないために起こるセキュリティ上の過失である。セキュリティを適切なレベルまで上げ、初期のトラブルが後にこの刑務所の評価に悪影響を及ぼすことがないようにしよう。
+objective_grant_basicsecurity_chief	看守長を雇う（オフィスが必要）
+objective_grant_basicsecurity_guards	看守を１0人雇う
+objective_grant_basicsecurity_patrols	巡回ルートに看守を3人配置する
+objective_grant_basicsecurity_research	「役所仕事」から「パトロール」をアンロック
+
+objective_grant_enhancedsecurity	政府によるセキュリティ評価
+objective_grant_enhancedsecurity_description	政府は、一定のサイズを超える刑務所のセキュリティに関し、特定の必須条件を設けている。この条件が満たされない場合、刑務所には高額の罰金が課される。そのようなことがないよう体制を整えよう。
+objective_grant_enhancedsecurity_armoury	武器庫を建てる
+objective_grant_enhancedsecurity_kennel	犬舎を建てる
+objective_grant_enhancedsecurity_guards	武装警備員を2人雇う
+objective_grant_enhancedsecurity_dogs	警察犬訓練士を2人雇う
+objective_grant_enhancedsecurity_patroldogs	2人の警察犬訓練士に「パトロール（警察犬）」を担当させる
+objective_grant_enhancedsecurity_patrolarmed	2人の武装警備員にパトロールを担当させる
+
+objective_grant_advancedsecurity	厳重警備施設の構築
+objective_grant_advancedsecurity_description	多数の受刑者が暮らす刑務所の安全性を維持するのは容易いことではない。だが、セキュリティ侵害がもたらす損害に比べれば、厳重なセキュリティ体制を確立するのにかかるコストなど大したことない。刑務所に必要な設備を整えよう。
+objective_grant_advancedsecurity_guards	セキュリティ関連の職員の数を増やす
+objective_grant_advancedsecurity_researchcctv	「役所仕事」から「監視カメラ」をアンロック
+objective_grant_advancedsecurity_researchbodyarmour	「役所仕事」から「ボディアーマー」をアンロック
+objective_grant_advancedsecurity_researchtazers	「役所仕事」から「テーザー銃」をアンロック
+objective_grant_advancedsecurity_office	警備員室を建てる
+objective_grant_advancedsecurity_cctvmonitor	監視カメラ用モニターを作る
+objective_grant_advancedsecurity_cctvcameras	刑務所の各エリアに監視カメラを設置する
+
+objective_grant_prisonerworkforce	受刑者の順応と雇用
+objective_grant_prisonerworkforce_description	受刑者に労働をさせることは、コスト削減に役立つだけでなく、受刑者が刑務所の環境に馴染むための助けともなる。受刑者たちに必要な訓練を受けさせ、労働を始めるために必要な施設を建てよう。
+objective_grant_prisonerworkforce_research	「役所仕事」から「囚人労働」をアンロック
+objective_grant_prisonerworkforce_cleaning	清掃用具室を建てる
+objective_grant_prisonerworkforce_laundry	洗濯室を建てる
+objective_grant_prisonerworkforce_kitchenclass	「厨房の安全衛生」プログラムに3人の受刑者を参加させる
+objective_grant_prisonerworkforce_laundryassigned	3人の受刑者に洗濯室の仕事を与える
+objective_grant_prisonerworkforce_kitchenassigned	3人の受刑者に厨房の仕事を与える
+objective_grant_prisonerworkforce_cleaningassigned	3人の受刑者に清掃用具室の仕事を与える
+
+objective_grant_educationreformprogram	「教育を通じた更生」キャンペーン
+objective_grant_educationreformprogram_description	ある有名キャンペーン団体が、教育が受刑者の再犯率に及ぼす影響に関する大型の社会的実験を行うことになっている。教室をいくつか作り、受刑者の教育を始めよう。
+objective_grant_educationreformprogram_research	「役所仕事」から「教育」をアンロック
+objective_grant_educationreformprogram_classroom	教室を建てる
+objective_grant_educationreformprogram_desks	教室用机を20個作る
+objective_grant_educationreformprogram_foundationed	10人の受刑者に「基礎教育」コースを修了させる
+objective_grant_educationreformprogram_generaled	1人の受刑者に「一般教育」コースを修了させる
+
+objective_grant_prisonlabour	生産施設の設置
+objective_grant_prisonlabour_description	この刑務所の利益性を高めたいと考えている投資家たちから、作業室を建設するための資金提供があった。受刑者たちを労働力として育てるのが目的だ。
+objective_grant_prisonlabour_workshop	作業室を建てる
+objective_grant_prisonlabour_saw	作業室用のノコギリを2つ作る
+objective_grant_prisonlabour_press	作業室用のプレス機を2つ作る
+objective_grant_prisonlabour_reform	5人の受刑者に「作業室の安全事項」プログラムを修了させる
+objective_grant_prisonlabour_plates	ナンバープレートを30個生産する
+
+objective_grant_furnituremanufacturing	木工実習プログラム
+objective_grant_furnituremanufacturing_description	受刑者に木工技術のコースを受けさせ、釈放後に利用できる貴重なスキルを身につけさせよう。ワークショップで高品質の家具を作らせれば、それを売って収入を増やすこともできる。
+objective_grant_furnituremanufacturing_forestry	森を作る
+objective_grant_furnituremanufacturing_table	作業台を2つ作る
+objective_grant_furnituremanufacturing_reform	2人の受刑者に「木工実習」コースを修了させる
+objective_grant_furnituremanufacturing_bed	高級ベッドを10台生産する
+
+objective_grant_reducestaffstress	職員の労働環境改善プログラム
+objective_grant_reducestaffstress_description	刑務所職員組合によると、高ストレスおよび過重労働が原因で勤務中にミスを犯す職員が増えているということだ。この刑務所で同じことが起こらないよう対策を取ろう。
+objective_grant_reducestaffstress_staffroom	休憩室を建てる
+objective_grant_reducestaffstress_freeguards	ヒマな看守が少なくとも5人いるようにする
+objective_grant_reducestaffstress_restedstaff	疲労困憊している職員がいないようにする
+
+objective_grant_shortterminvestment	短期投資
+objective_grant_shortterminvestment_description	投資ファンドに投資し、将来的に多少の利益が発生するようにしよう。
+objective_grant_shortterminvestment_wait	資金を待つ...
+
+objective_grant_longterminvestment	長期投資
+objective_grant_longterminvestment_description	長期投資ファンドに投資し、将来的に多額の利益が発生するようにしよう。
+objective_grant_longterminvestment_wait	資金を待つ...
+
+objective_grant_cellblock50	独房棟B
+objective_grant_cellblock50_description	シンプルな収容施設の段階を卒業し、刑務所を成長させよう。
+objective_grant_cellblock50_cells	受刑者の収容数を50までアップさせる
+
+objective_grant_cellblock100	独房棟C
+objective_grant_cellblock100_description	土地をうまく利用し、引き続き刑務所を拡大させよう。
+objective_grant_cellblock100_cells	受刑者の収容数を100までアップさせる
+
+objective_grant_cellblock200	独房棟D
+objective_grant_cellblock200_description	受刑者が増えればその分政府からの資金援助も増える。収容数を増やして資金を手に入れよう。
+objective_grant_cellblock200_cells	受刑者の収容数を200までアップさせる
+
+objective_grant_cellblock500	独房棟E
+objective_grant_cellblock500_description	政府は大型の刑務所に多くの奨励金を提供している。そこに辿り着くのが目標だ。
+objective_grant_cellblock500_cells	受刑者の収容数を500までアップさせる
+
+objective_grant_nutritionresearch	受刑者の栄養摂取状況に関するリサーチ
+objective_grant_nutritionresearch_description	民間のリサーチ団体が、様々な食事パターンが受刑者に及ぼす影響を調べたいと言っている。参加してくれる刑務所には資金を提供するという。
+objective_grant_nutritionresearch_poor	低品質かつ種類が豊富でない食事を、1日1回、2日間受刑者に与える
+objective_grant_nutritionresearch_good	高品質かつ種類が豊富な食事を、1日3回、2日間受刑者に与える
+
+objective_grant_drugsearch	薬物取り締まり
+objective_grant_drugsearch_description	大型の刑務所における薬物摂取が最近大きな問題となりつつある。この問題を解決するため積極的なアプローチを取っている姿を見せつけよう。
+objective_grant_drugsearch_find	違法薬物を10個見つける
+
+objective_grant_contrabandsupply	道具の一掃
+objective_grant_contrabandsupply_description	他の刑務所で盗難アイテムに関与した事件がいくつか起きたことを受けて、刑務所における道具や武器に関するリサーチをある団体を行いたいということだ。リサーチの一環として、この刑務所にあるすべての道具や武器を取り除かなければならない。
+objective_grant_contrabandsupply_tools	盗まれた道具の流通を止める
+objective_grant_contrabandsupply_weapons	盗まれた武器の流通を止める
+
+grant_category_completed	クリア済み：
+grant_category_unlocked	アンロック済み：
+grant_category_cash	現金：
+grant_category_cashflow	キャッシュフロー：
+grant_category_debt	借金：
+grant_category_prisoners	受刑者：
+
+grant_property_atleast	最低数：*X
+grant_property_atmost	最大数：*X
+
+
+# =============================================================================
+# Materials
+# =============================================================================
+
+
+object_none	なし
+object_box	ボックス
+object_stack	山
+object_bed	ベッド
+object_bunkbed	2段ベッド
+object_crib	ベビーベッド
+object_toilet	トイレ
+object_table	テーブル
+object_chair	椅子
+object_bench	長椅子
+object_electricchair	電気椅子
+object_jaildoor	独房ドア
+object_jaildoorlarge	独房ドア（大）
+object_door	ドア
+object_solitarydoor	隔離棟ドア
+object_staffdoor	職員用ドア
+object_remotedoor	遠隔ドア
+object_roadgate	ゲート
+object_jailbars	独房の鉄格子
+object_window	窓
+object_windowlarge	窓（大）
+object_tree	木
+object_light	ライト
+object_cooker	コンロ
+object_fridge	冷蔵後
+object_bin	ゴミ箱
+object_sink	シンク
+object_servingtable	配膳台
+object_showerhead	シャワーヘッド
+object_brick	レンガ
+object_concrete	コンクリート
+object_steel	鋼鉄
+object_ingredients	材料
+object_ingredientscooking	材料（調理中）
+object_ingredientscooked	材料（調理済み）
+object_ingredientsspoiled	材料（腐敗）
+object_meal	食事
+object_foodtray	トレイ
+object_foodtraydirty	トレイ（使用済み）
+object_grassturf	芝
+object_prisoneruniform	受刑者用ユニフォーム
+object_dirtyprisoneruniform	受刑者用ユニフォーム（要洗濯）
+object_crumpledprisoneruniform	受刑者用ユニフォーム（シワあり）
+object_bleach	ブリーチ
+object_sheetmetal	板金
+object_licenseplateblank	ナンバープレート（空白）
+object_licenseplate	ナンバープレート
+object_log	丸太
+object_wood	木材
+object_workman	作業員
+object_truckdriver	トラック運転手
+object_guard	看守
+object_riotguard	機動隊
+object_armedguard	武装警備員
+object_prisoner	受刑者
+object_doctor	医師
+object_paramedic	緊急隊員
+object_cook	料理人
+object_gardener	庭師
+object_janitor	清掃人
+object_fireman	消防隊員
+object_avatar	アバター
+object_actor	行動人
+object_visitor	面会人
+object_executionwitness	執行立会人
+object_doghandler	警察犬訓練士
+object_dog	警察犬
+object_dogcrate	犬舎
+object_teacher	教師
+object_soldier	兵士
+object_sniper	スナイパー
+object_warden	刑務所長
+object_chief	看守長
+object_foreman	作業主任
+object_psychologist	精神分析医
+object_accountant	会計士
+object_lawyer	弁護士
+object_supplytruck	供給トラック
+object_prisonerbus	移送用バス
+object_fireengine	消防車
+object_riotvan	警備車
+object_ambulance	救急車
+object_hearse	霊柩車
+object_trooptruck	軍用トラック
+object_fire	火
+object_garbage	ゴミ
+object_rubble	瓦礫
+object_bookshelf	本棚
+object_officedesk	オフィス用デスク
+object_filingcabinet	書類棚
+object_medicalbed	治療台
+object_morgueslab	遺体安置台
+object_equipment	設備
+object_prop	小道具
+object_dummy	マネキン
+object_powerstation	発電機
+object_capacitor	コンデンサ
+object_electricalcable	電気ケーブル
+object_powerswitch	電源スイッチ
+object_logiccircuit	論理回路
+object_logicbridge	論理ブリッジ
+object_waterpumpstation	送水ポンプ室
+object_pipevalve	パイプ弁
+object_pipelarge	パイプ（大）
+object_pipesmall	パイプ（小）
+object_drain	配水管
+object_metaldetector	金属探知機
+object_weightsbench	ベンチ
+object_phonebooth	電話ボックス
+object_tv	テレビ
+object_largetv	テレビ（大）
+object_pooltable	ビリヤード台
+object_polaroid	ポラロイド写真
+object_cctv	監視カメラ
+object_cctvmonitor	監視カメラ用モニター
+object_laundrymachine	洗濯機
+object_laundrybasket	洗濯カゴ
+object_ironingboard	アイロン台
+object_visitortable	面会テーブル
+object_visitortablesecure	訪問者用ブース
+object_workshopsaw	作業室用ノコギリ
+object_workshoppress	作業室用プレス機
+object_carpentertable	作業台
+object_boombox	ラジカセ
+object_guardlocker	看守用ロッカー
+object_sofachairsingle	ソファー
+object_sofachairdouble	ソファー（ダブル）
+object_drinkmachine	自動販売機
+object_arcadecabinet	アーケードゲーム機
+object_radio	ラジオ
+object_radiator	ラジエーター
+object_bookshelflarge	図書館用本棚
+object_weaponrack	武器収納棚
+object_treestump	切り株
+object_schooldesk	教室用机
+object_superiorbed	高級ベッド
+object_doorcontrolsystem	ドア操作システム
+object_phonemonitor	盗聴器
+object_servo	ドアサーボ
+object_doortimer	ドアタイマー
+object_pressurepad	圧力パッド
+object_statuslight	表示ランプ
+object_wire	接続
+object_dismantleobject	アイテムを取り外す
+object_dismantleutility	電気/水道アイテムを取り外す
+object_sellobject	アイテムを売却
+object_canceljobs	タスクをキャンセル
+object_showallwires	ケーブルを表示
+object_tidywires	ケーブルをまとめる
+object_cutscenepolaroid	ムービー（ポラロイド写真）
+object_cutscenecamera	ムービー（カメラ）
+object_cutscenecue	ムービー開始ポイント
+object_cutscenecaption	ムービー字幕
+object_foodwaste	残飯
+object_altar	祭壇
+object_pews	信者席
+object_prayermat	祈祷用マット
+object_paroleofficer	保護観察官
+object_parolelawyer	保護観察弁護人
+object_spiritualleader	宗教指導者
+object_librarybookshelf	図書館の本棚
+object_librarybookunsorted	図書館の本（未分類）
+object_librarybooksorted	図書館の本（分類済み）
+object_sortingtable	分類用デスク
+object_ruinedbook	状態の悪い本
+object_foodbowl	食べ物
+object_appealslawyer	上訴担当の弁護士
+object_appealsmagistrate	上訴担当の裁判官
+object_mailsatchel	郵便バッグ
+object_mailunsorted	仕分けが必要な郵便物
+object_mailsorted	仕分け済みの郵便物
+object_prisonermail	郵便物
+object_prisonermailopened	郵便物（開封済み）
+object_shopfront	店頭
+object_shopgoods	ショップアイテム
+object_shopshelf	ショップ用棚
+object_playmat	プレイマット
+object_guardtower	見張り塔
+object_waterboiler	湯沸し器
+object_pipehotwater	お湯の配管
+object_stafffood	職員の食事
+object_stafffoodboxed	職員の食事
+object_newspaper	新聞
+object_strikefire	抗議の放火
+
+
+material_none	なし
+material_building	建材（レンガ）
+material_buildingconcrete	建材（コンクリート）
+material_demolish	撤去
+material_clearindoorarea	屋内エリアを片付ける
+material_demolishwalls	壁を撤去
+material_removetunnels	トンネルを撤去
+material_canceljobs	タスクをキャンセル
+material_dirt	土
+material_sand	砂
+material_pavingstone	敷石
+material_grass	芝生
+material_gravel	砂利
+material_road	道路
+material_roadmarkings	路面表示
+material_roadmarkingsleft	路面表示（左）
+material_roadmarkingsright	路面表示（右）
+material_stone	石
+material_fence	フェンス
+material_concretetiles	コンクリートのタイル
+material_concretefloor	コンクリートの床
+material_woodenfloor	フローリングの床
+material_ceramicfloor	セラミックの床
+material_mosaicfloor	モザイク模様の床
+material_metalfloor	金属の床
+material_marbletiles	大理石のタイル
+material_whitetiles	白いタイル
+material_fancytiles	豪華なタイル
+material_concretewall	コンクリートの壁
+material_brickwall	レンガの壁
+material_perimeterwall	外壁
+material_burntfloor	焼けた床
+material_burntwall	焼けた壁
+material_buildingframe	骨組み
+material_roof	屋根
+material_water	水
+
+room_none	なし
+room_cell	独房
+room_holdingcell	留置場
+room_solitary	隔離房
+room_superiorcell	特別独房
+room_dormitory	寮
+room_familycell	家族用の独房
+room_sharedcell	相部屋の独房
+room_canteen	食堂
+room_canteen_staff	職員用食堂
+room_kitchen	厨房
+room_shower	シャワー室
+room_yard	運動場
+room_storage	保管庫
+room_deliveries	配達室
+room_garbage	ゴミ置場
+room_execution	死刑執行室
+room_workshop	作業室
+room_security	警備室
+room_office	オフィス
+room_medicalward	医療室
+room_morgue	遺体安置室
+room_commonroom	共有ルーム
+room_laundry	洗濯室
+room_visitation	面会室
+room_cleaningcupboard	清掃用具室
+room_kennel	犬舎
+room_armoury	武器庫
+room_staffroom	休憩室
+room_library	図書館
+room_forestry	森
+room_classroom	教室
+room_exports	保管室
+room_chapel	チャペル
+room_intake	受付
+room_clearrooms	空き部屋
+room_paroleroom	仮釈放室
+room_mailroom	郵便室
+room_shop	ショップ
+room_nursery	育児室
+
+equipment_none	なし
+equipment_fists	拳
+equipment_baton	警棒
+equipment_club	こん棒
+equipment_shank	手作りナイフ
+equipment_knife	ナイフ
+equipment_fork	フォーク
+equipment_gun	拳銃
+equipment_spoon	スプーン
+equipment_needle	注射針
+equipment_booze	酒
+equipment_poison	毒物
+equipment_cigs	タバコ
+equipment_saw	ノコギリ
+equipment_jailkeys	独房の鍵
+equipment_mobilephone	携帯電話
+equipment_lighter	ライター
+equipment_screwdriver	スクリュードライバー
+equipment_drugs	薬物
+equipment_sheers	ハサミ（大）
+equipment_mop	モップ
+equipment_rake	熊手
+equipment_hose	ホース
+equipment_spatula	フライ返し
+equipment_woodenspoon	木べら
+equipment_cleaningbrush	キッチンブラシ
+equipment_hammer	ハンマー
+equipment_clipboard	クリップボード
+equipment_drill	ドリル
+equipment_pianowire	ワイヤー
+equipment_scissors	ハサミ（小）
+equipment_medicine	薬
+equipment_shotgun	ショットガン
+equipment_moneybag	現金袋
+equipment_tazer	テーザー銃
+equipment_guarduniform	看守用ユニフォーム
+equipment_stabvest	防刃ベスト
+equipment_rifle	ライフル
+equipment_dogleash	犬用リード
+equipment_assaultrifle	突撃ライフル
+equipment_woodenpickaxe	木製つるはし
+equipment_cbradio	市民ラジオ
+equipment_axe	斧
+equipment_spade	シャベル
+equipment_book	本
+equipment_megaphone	メガホン
+equipment_magazine	雑誌
+equipment_batteringram	破壊槌
+equipment_iron	アイロン
+equipment_microphone	マイク
+equipment_torch	懐中電灯
+equipment_bookclosed	本
+
+research_requires_short	*Xが必要
+
+reformprogram_workshopinduction	作業室の安全事項
+reformprogram_foundationeducation	基礎教育
+reformprogram_generaleducation	一般教育
+reformprogram_carpentry	木工実習
+reformprogram_kitcheninduction	厨房の安全衛生
+reformprogram_therapy	行動療法
+reformprogram_methadone	麻薬中毒者のための薬物療法
+reformprogram_alcoholicsmeeting	アルコール中毒者のグループ療法
+reformprogram_tazertraining	看守のためのテーザー銃訓練
+reformprogram_spiritualguidance	宗教的アドバイス
+reformprogram_parolehearing	仮釈放審議会
+reformprogram_deathrowappeal	死刑判決に対する上訴
+
+reformprogram_tazertrained	訓練終了：テーザー銃
+
+reformprogram_workshopinduction_text	安全第一！作業室で働きたい受刑者はまずこのコースを修了する必要がある。
+reformprogram_foundationeducation_text	受刑者の中には基本的な読み書きや計算ができない者が多くいる。このコースを修了してこれらのスキルを身につけた受刑者は、図書館で働く資格を手に入れることができる。
+reformprogram_carpentry_text	沢山の実習を経て複雑な職人技を手に入れることのできるコース。これを修了した受刑者は、作業台でそのスキルを利用し、高価な木製アイテムを作成することができるようになる。
+reformprogram_kitcheninduction_text	一度に何百人分の食事を用意する際に一番大切なのが食品の安全性だ。厨房で働くことを希望する受刑者は、まずこのコースを修了しなければならない。
+reformprogram_therapy_text	受刑者の中には自分の暴力的な性格をうまくコントロールできない者がいる。そのような受刑者は、常勤の精神分析医との一対一のセッションを受けることで、暴力沙汰になる前に状況を緩和する方法を学ぶことができる。
+reformprogram_methadone_text	薬物中毒の受刑者が5クールに渡って受けることのできる維持療法で、段階を追って薬物に対する依存を取り除いていく。コースを修了する頃には、完全に依存を断ち切ることができる可能性もある。
+reformprogram_alcoholicsmeeting_text	アルコール中毒者のためのグループ療法。アルコールを欲する気持ちを抑えてはくれるものの、完全にその気持ちが消えてなくなることはない。
+reformprogram_parolehearing_text	受刑者に早期釈放の資格があるかどうかを話し合うための審議会。仮釈放された受刑者が再犯しなかった場合は、刑務所に報酬が贈られる。
+reformprogram_spiritualguidance_text	受刑者の中には、宗教を信じるものや、精神性を大切にしている者がいる。地元の宗教指導者に祈祷で受刑者を導いてもらい、落ち着いた気持ちになってもらおう。
+
+reformerror_unscheduled	スケジュール外
+reformerror_noroom	部屋なし
+reformerror_nofreetimeslot	空き部屋なし
+reformerror_staffonly	職員用の部屋のみ
+reformerror_noobjects	設備なし
+reformerror_noregimetime	スケジュール内にスロットなし
+reformerror_noteachers	教師なし
+
+reform_interested	興味がある受刑者：*X
+reform_interested_qualified	興味/資格がある受刑者：*X
+reform_queued	順番待ちの受刑者：*X
+reform_completion	- *X人終了 - *Y人合格（*P％）
+reform_locked	ロック中
+reform_start	開始
+reform_costpersession	*X（セッション毎）
+reform_placespersession	*X人（定員）/ *Yセッション
+reform_program_starting	まもなく開始
+reform_program_active	進行中
+reform_program_paused	一時停止中
+reform_program_stop	ストップ
+reform_program_ledby	- 先生：*P  場所：*Z
+reform_program_ledwith	- アシスタント：*S
+reform_program_length	- セッションの長さ：*X時間
+reform_program_requirements	- 受講に必要：*X
+reform_program_requirements_alt	- 受講に必要：*X または *Y
+reform_program_prereqs	すでに修了済みである必要あり：
+reform_program_research_required	必要：*X
+
+reform_program_intake_none	なし
+reform_program_intake_mandatory	必須
+reform_program_intake_voluntary	任意
+reform_program_intake_referralviolence	紹介理由：暴力
+reform_program_intake_referraldrugaddiction	紹介理由：薬物中毒
+reform_program_intake_referralalcoholism	紹介理由：アルコール中毒
+reform_program_intake_guards	看守のみ
+reform_program_intake_parole	刑期の50％または75％を服役済み
+reform_program_intake_needrequired	グループ療法への参加を必要とする理由がなければ参加できない
+reform_program_intake_deathrow	死刑が確定している
+
+reform_program_properties_canhireexternally	外部からの雇用可
+reform_program_properties_studentssit	生徒は着席
+reform_program_properties_academic	一般教養
+reform_program_properties_practical	実用的
+reform_program_properties_repeatable	繰り返し受講可
+reform_program_properties_passive	受動的
+reform_program_properties_staffonly	職員のみ
+reform_program_properties_outsideofwork	労働時間外の受講可
+reform_program_properties_teacherssit	教師は着席
+reform_program_properties_canescortstudent	看守の付き添い可
+
+reform_program_waittime	*T日に1度のみ受講可
+
+reform_program_difficulty_easy	- 初級
+reform_program_difficulty_intermediate	- 中級
+reform_program_difficulty_advanced	- 上級
+reform_program_difficulty_expert	- 特級
+
+regime_nothing	独房
+regime_sleep	睡眠
+regime_eat	食事
+regime_shower	シャワー
+regime_yard	運動場
+regime_work	仕事／自由時間
+regime_lockdown	封鎖
+regime_freetime	自由時間
+regime_currenttime	現在
+regime_unspecified	詳細なし
+regime_worklockdown	仕事／監禁
+
+regimetooltip_nothing	受刑者は独房の中に閉じ込めらる。特にすることもないため、刑務所送りの原因となった自らの過ちについて反省するしかない。\n\n長いあいだ独房に閉じ込められることは、人一倍タフな受刑者にとってもかなりこたえる。
+regimetooltip_sleep	受刑者は独房の中に閉じ込められ、電気が消される。眠りにつく時間だ。\n\n脱獄トンネルを掘っている者以外は...
+regimetooltip_eat	囚人たちが最寄りの食堂に行き、昼食を取る。\n\nこの間、囚人たちは食堂内にあるすべての設備を使用することができ、昼食を終えた後は刑務所内を自由に移動できる。
+regimetooltip_shower	囚人たちが服を脱ぎシャワーに入る。毎日シャワーを浴びることは、囚人の衛生にとって大切なことだが、強制されない限りシャワーに入る気のない囚人も中にはいる。シャワーを終えた後は刑務所内を自由に移動できる。
+regimetooltip_yard	囚人たちが運動場に出ることを許される時間。運動や新鮮な空気、太陽の光は囚人にとって大切だ。\n\n囚人たちは、ベンチプレス用のベンチを使って運動をしたり、家族に電話したり、シャワーを浴びたりと、運動場内の設備を使うことを許される。運動を終えた後は刑務所内を自由に移動できる。
+regimetooltip_work	受刑者たちが刑務所の各エリアで仕事に励む時間。欠員のある仕事にはすぐに担当が決まり、受刑者は自動的に仕事場に送られる（求人の設定は「設置」画面から行う）。\n\n更生プログラムも同じくこの時間に行われる。仕事がなく、更生プログラムにも参加していない受刑者は、「自由時間」と同じように施設内を散策することができる。
+regimetooltip_freetime	受刑者たちは独房から出て施設内を自由に歩き回り、好きな設備を使うことができる。受刑者たちがもっとも楽しみにしている時間で、他の受刑者と交流したり、自らのニーズをできる範囲で満たそうとする。 \n\n自由時間が長いと受刑者のストレス度や緊張感は低くなるが、それでは処罰にならないと批判を受ける可能性あり。
+regimetooltip_worklockdown	受刑者は、刑務所の周辺で仕事を課される。どの求人にでも課すことができ、受刑者には自動的に、その仕事の場所に所属する。（「配置」画面で求人の設定が可能）\n\nまた、すべての「更生プログラム」は、「仕事」時間中に実施される。仕事がなかったり、現在「更生プログラム」に課されていない受刑者は、「監禁」と同様に独房に入れられる。
+
+regime_clear	このカテゴリーの受刑者のスケジュールを削除し、代わりにデフォルトの「中警備」スケジュールを使う。
+
+schedule_editor_students	生徒：*X/*Y
+schedule_editor_error_staffonly	その部屋は職員しか使えません
+schedule_editor_error_noregimetime	プログラムが「労働」時間外に設定されています
+schedule_editor_error_noteachers	このプログラムには教師がいません
+schedule_editor_error_noobjects	このプログラムに必要なアイテムが有効な部屋内に見つかりません
+schedule_editor_pin	プログラムをスケジュールに追加
+schedule_editor_unpin	プログラムをスケジュールから削除
+
+# =============================================================================
+# DoorTimer stuff
+# =============================================================================
+
+doortimer_title	ドアタイマーの操作
+doortimer_connected_servos	接続されたサーボの数：*X
+doortimer_state_open	開
+doortimer_state_closed	閉
+
+doortimer_security_none	すべての警備度
+doortimer_security_minsec	軽警備
+doortimer_security_normal	中警備
+doortimer_security_maxsec	厳重警備
+doortimer_security_Protected	保護拘置
+doortimer_security_SuperMax	超厳重警備
+doortimer_security_DeathRow	死刑囚
+
+
+# =============================================================================
+# Execution
+# =============================================================================
+
+execution_stage_completed	完了
+execution_stage_authorise	承認
+execution_stage_Start	死刑執行プロセス開始
+execution_stage_Lockdown	刑務所の封鎖
+execution_stage_Testing	処刑施設のチェック
+execution_stage_Assemble	執行に関わる職員を選出
+execution_stage_Witnesses	立会人を執行施設へ
+execution_stage_Escort	死刑囚を執行施設へ
+execution_stage_Execution	死刑執行
+execution_stage_Dismissed	立会人と職員が退出
+execution_stage_FinalReport	最終報告書を作成
+
+execution_stagetooltip_start	この受刑者の死刑執行日が決定した。ここからは、正式なプロセス通りに事を進めなければならない。
+execution_stagetooltip_lockdown	すべての受刑者は独房に戻され、刑務所は封鎖される。
+execution_stagetooltip_testing	すべてが正常に機能していることを最終確認する。電気椅子に通じる電力に負荷をかけてテストし、受刑者が電気椅子まで問題なく歩いて到達できるよう、ルートを確認する。
+execution_stagetooltip_assemble	刑務所長と看守長が、死刑囚の独房に向かう。また、この受刑者が選んだ牧師か宗教の高位者が、最後の祈りを捧げるために刑務所に到着し、死刑囚の独房を訪問する。
+execution_stagetooltip_witnesses	立会人が施設に到着し執行施設に向かう。立会人には、死刑囚の家族や犠牲者の家族が含まれる。\n\n注意：立会人には椅子を用意しなればならない。
+execution_stagetooltip_escort	死刑囚が独房を出る。警察署長、看守長および神父が一緒に付き添い、執行施設に向かう。
+execution_stagetooltip_execution	すべての関係者が揃い、手続きが完了したところで、死刑執行の最終許可が下りる。
+execution_stagetooltip_dismissed	立会人および職員が執行施設を出る。
+execution_stagetooltip_finalreport	死刑の執行を受けて報告者が作成され、君の仕事ぶりが評価される。
+
+execution_underway	死刑執行プロセス開始
+execution_result_ok	立会人の見守る中、*Nの電気椅子による死刑が予定時刻の*Tに執行された。この執行に対する報酬として、執行機関には規定額の10,000ドルが提供される。
+execution_result_appealed	立会人の見守る中、*Nの電気椅子による死刑が予定時刻の*Tに執行された。残念なことに、彼の恩赦を求める嘆願に影響を与えたであろう新しい情報が後日浮上した。しかしながら、この件で執行機関に対し処置が取られる予定はなく、執行に対する報酬として規定額の10,000ドルが提供されることとなっている。
+execution_result_innocent	立会人の見守る中、*Nの電気椅子による死刑が予定時刻の*Tに執行された。残念なことに、彼の無実を証明する証拠が後日発見されたが、この件で執行機関に対し処置が取られる予定はなく、執行に対する報酬として規定額の10,000ドルが提供されることとなっている。
+execution_result_illegal	立会人の見守る中、*Nの電気椅子による死刑が予定時刻の*Tに執行された。法で定められた上訴過程に従わなかった上に、上訴の成功に結びついたであろう新しい情報が後日見つかったことで、執行機関には50,000ドルの罰金が課されることになる。決められた手続きを取らなかったこの刑務所においては、今後予定されていた死刑の執行は延期となり、死刑囚は別の施設へと移送されることとなる。
+execution_result_illegalinnocent	立会人の見守る中、電気椅子による*Nの違法の死刑が予定時刻の*Tに執行された。法で定められた上訴過程に従わなかった上に、*Nが無罪だったことを受けて、この執行機関の管理者は即時解雇の処分となった。
+execution_warning_one	次回の死刑執行が決められた過程に沿って行われなかった場合、君は現在の職をクビとなる。
+execution_warning_two	君が過去に正しいプロセスを踏まなかったことを受け、このような規則違反がもう一度起こった際には君をクビにする。
+
+execution_error_MissingEquipment	エラー：足りない装備あり\n死刑執行室と電気椅子が必要です。
+execution_error_ElectricalSupply	エラー：電力不足\n電気椅子に十分な電力が配給されていません。
+execution_error_NavigationPrisoner	エラー：死刑囚の移動ルート\n死刑囚が独房から死刑執行室まで歩いて行けません。
+execution_error_NoRouteFromRoad	エラー：アクセス不可\n外部から訪れた死刑執行の立会人が執行室に辿りつけません。
+execution_error_NoSpaceInRoom	エラー：スペース不足\n立会人を収容するのに十分なスペースが死刑執行室にありません。
+execution_error_NoRoom	死刑執行には死刑執行室が必要です。
+
+roomerror_deathrow_sharedcell	死刑囚には、個室の独房が必要です。相部屋に収容することはできません。
+roomerror_nonursery	この独房には、アクセス可能な育児室がありません。家族用独房には、受刑者が食事をするための、育児室が必要です。
+roomerror_laundryoverloaded	洗濯かごを空にすることができません。洗濯室が小さすぎる可能性があります。
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+box_contents	内容：*X
+stack_contents	内容：*X x *Y
+mail_contents	内容：手紙*X通
+mail_opened_from	*Xの*Fからの手紙
+mail_closed_from	*X宛ての手紙
+
+object_dump	ゴミ
+object_todo	タスク：*X
+object_sale_price	売却価格：*X
+
+object_door_cyclepermissions	クリックでアクセス許可を切り替え
+object_door_cyclepermissions_1	（アクセス可、職員のみアクセス可、アクセス不可）
+
+object_firemen_hosehelp_move	マウスを右クリックして、消防隊に移動を命じてください。
+object_firemen_hosehelp_intro	消防隊は近くの火に自動的にホースを向ける
+object_firemen_hosehelp	手動でホースを向けるにはHを押す
+
+interface_clone_help_copy	右クリックでホールド＆ドラッグしてコピーしたいエリアを選択
+interface_clone_help_paste	左クリックで選択したエリアをコピー
+
+object_inactive	使用ストップ中
+object_cctv_moremonitors	監視カメラ用モニターをもっと作る
+object_cctvmonitor_needsguards	モニターの操作には看守が必要
+object_processor_blocked	担当エリアに到達不可
+
+administrator_requiresoffice	オフィスが必要
+administrator_requiresoffice_2	*Xのオフィスが必要
+office_ownership	*Xのオフィス
+
+teacher_teaching	指導中
+teacher_preparing	準備中
+
+prisoner_assignedto	必要：*X
+prisoner_roomquality	独房のクオリティ：*X (*Y)
+prisoner_roomquality_average	平均
+prisoner_roomquality_aboveaverage	平均より上
+prisoner_roomquality_wayaboveaverage	平均よりかなり上
+prisoner_roomquality_belowaverage	平均より下
+prisoner_roomquality_waybelowaverage	平均よりかなり下
+prisoner_attendance	出席率
+prisoner_concentration	集中力
+prisoner_understanding	理解力
+prisoner_concentration_0	全然なし
+prisoner_concentration_1	あまりなし
+prisoner_concentration_2	まあまあ
+prisoner_concentration_3	あり
+prisoner_concentration_4	かなりあり
+prisoner_passchance	成功率：*X％
+prisoner_informant	密告人
+
+prisoner_dayswithoutincident	最後に事件を起こしてから*X日
+prisoner_availablemoney	所持金：*Xドル
+
+informant_title	密告者
+informant_coverage	範囲
+informant_suspicion	疑い
+informant_status	ステータス
+informant_none	密告人なし
+informant_hint	（隔離棟などで受刑者を無理やりスカウトしよう）
+informant_recruitable	（密告人の素質あり）
+informant_target	ターゲット
+informant_dead	死亡
+informant_released	釈放済
+informant_coverblown	カバーブラウン
+informant_activate	有効にする
+informant_deactivate	無効にする
+informant_idle	待機状態
+informant_onroute	移動中...
+informant_active	アクティブ
+informant_coveragecaps	範囲 *X%
+
+
+contraband_owner	持ち主：*X
+contraband_ownerunknown	持ち主不明
+contraband_stolenfrom	*Y時間前に*Xから盗まれた
+contraband_smuggledthrough	*Y時間前に*X経由で持ち込まれた
+contraband_smuggledin	*Y時間前に受刑者によって持ち込まれた
+contraband_type	タイプ：*X
+contraband_tradevalue_title	取引価格
+contraband_tradevalue_low	$
+contraband_tradevalue_medium	$$
+contraband_tradevalue_high	$$$
+contraband_tradevalue_veryhigh	$$$$
+
+staff_exhausted	疲労困憊
+staff_tired	お疲れ
+staff_pissedoff	不機嫌
+staff_onstrike	ストライキ中
+staff_needsrest	職員はできれば休憩室で休ませてあげよう
+
+dog_needskennel	犬には犬舎が必要となる。
+
+doctor_requireinfirmary	医療室が必要
+
+entity_carryingequipment	*Xを携帯中
+entity_carryingkeys	独房の鍵を携帯中
+entity_carryingstaffkeys	休憩室の鍵を携帯中
+entity_wearingarmour	*Xを装着中
+
+reports_schedule	すべてのプログラムの日程を変更
+reports_edit	時間割りを編集
+reports_bankloan	銀行ローン
+reports_increaseloan	増やす
+reports_decreaseloan	減らす
+reports_unlockbankloans	会計士によってアンロック
+
+drugs_heroin	ヘロイン
+drugs_cocaine	コカイン
+
+#                                       Eg "Bob's Mother"
+visitor_relationship	*Xの*Y
+visitor_age	年齢：*X
+
+family_wife	妻
+family_exwife	元妻
+family_girlfriend	彼女
+family_son	息子
+family_daughter	娘
+family_mother	母
+family_father	父
+family_brother	兄
+family_sister	姉
+family_lawyer	弁護士
+family_priest	神父
+family_victims	犠牲者家族
+family_caption	家族：
+family_none	なし
+family_husband	夫
+family_exhusband	前の夫
+family_boyfriend	ボーイフレンド
+
+damage_dead	死亡
+damage_unconscious	意識不明
+damage_serious	重傷
+damage_injured	負傷
+damage_amount	*X％のダメージ
+
+message_autosaving	オートセーブ中...
+
+buildtoolbar_entersearchterm	検索ワードを入力...
+
+deploymentscheduler_title	配置スケジューラ
+deploymentscheduler_patrolonly	[スケジュール*Xのみ]
+deploymentscheduler_schedulenow	配置を今すぐに表示
+deploymentscheduler_scheduletime	*X.00～*Y.00の配置を表示
+supplyanddemand_supplyheader	供給
+supplyanddemand_demandheader	需要
+
+tooltip_multipleobjects	TAB: オブジェクトを循環させる
+remotedoor_noservo	遠隔ドアを開けるには、正常に機能しているサーボの設置が必要。
+
+targettingfood_prisonersassigned	課された受刑者：*X
+targettingfood_predicteddemand	= 需要見込み =
+targettingfood_demand	需要：*X
+targettingfood_supply	供給 ：*X (+*Y)
+targettingfood_prisoners	受刑者
+targettingfood_required	必要な食事：*X
+targettingfood_ready	準備のできた食事：*X
+targettingfood_cooked	調理中の食事：*X
+
+roomgrading	部屋グレード
+roomgrading_cell_roomsize	[*E] 部屋サイズ：少なくとも*X平方
+roomgrading_cell_cleanliness	[*E] 清潔さ：*X%以上
+roomgrading_cell_outsidewindow	[*E] *Y 屋外に面した窓
+roomgrading_cell_item	[*E] アイテム：*X
+
+roomgrading_dormitory_roomsize	[*E] 受刑者1人あたりの部屋サイズ：*X平方以上
+roomgrading_dormitory_cleanliness	[*E] 清潔さ：*X%以上
+roomgrading_dormitory_outsidewindow	[*E] *Y 屋外に面した窓：受刑者8人につき つ
+roomgrading_dormitory_item	[*E] アイテム：受刑者4人あたり*X ひとつ
+
+roomgrading_sharedcell_roomsize	[*E] 受刑者1人あたりの部屋サイズ：*X平方以上
+roomgrading_sharedcell_cleanliness	[*E] 清潔さ：*X%以上
+roomgrading_sharedcell_outsidewindow	[*E] *Y 屋外に面した窓
+roomgrading_sharedcell_item	[*E] アイテム：受刑者4人あたり*X ひとつ
+
+roomgrading_result	グレード：*X/*Y
+roomgrading_currentoccupant	受刑者はグレード*Xの部屋に住む権利あり
+roomgrading_unoccupied	不使用
+roomgrading_shared_occupuants	現在の収容者数：*X ／ *Y
+
+weathermap_temperature_title	気温
+weathermap_temperature_text	*C° C ／ *F° F
+weathermap_temperature_c	*C° C
+weathermap_temperature_f	*F° F
+
+roomerror_nokitchen	この食堂に食事を提供できる厨房がありません。
+roomerror_noprisoners	この食堂で食事をすることになっている受刑者がいません。
+roomerror_nocanteen_cells	この独房からアクセスできる食堂がありません。受刑者は食事を取ることができません。
+roomerror_nocanteen_kitchen	この厨房からアクセスできる食堂がないため、時間になっても食事は作られません。
+
+ceos_letter	前略\n\n\nおめでとう。君は基本講習を終え、刑務所設計士の資格を獲得した！何もない空き地とレンガから新しい刑務所を建てる仕事がまもなく始まる。設計から建築、そして運営まですべてが君の手に委ねられる。その前に、いくつかの重要ポイントを教えよう。\n\n1. 刑務所長なしでは刑務所は成り立たない。まずは刑務所長を雇い、快適なオフィスを作ってあげよう。「役所仕事」システムが使えるようになり、そこから様々な施設の建設が可能となる。\n\n2. すべての受刑者のために独房を建てるにはお金がかかる。資金が少ない最初の時期は、受刑者が共有できる大きな拘置所を1つ建てるといい。\n\n3. 受刑者が到着する前に厨房と食堂が機能しているようにしよう。料理人を雇うのをくれぐれも忘れないように。空腹ほど受刑者を苛立たせるものはない！\n\n4. 刑務所を建てるのには莫大な資金が必要となる。そのためには、助成金や請負業務を通じてうまく資金調達を行う必要がある。助成金は「報告書」画面からアクセスできる。\n\nとりあえずはここまで。検討を祈る！\n\n刑務所設計士協会\n会長
+
+quickbuild_basiccell	基本の独房
+quickbuild_solitarycell	隔離独房
+quickbuild_office	事務所
+quickbuild_luxurycell	贅沢な独房
+quickbuild_sharedcell	相部屋の独房
+quickbuild_kitchen	厨房
+quickbuild_canteen	食堂
+quickbuild_utilityroom	ユーティリティルーム
+quickbuild_classroom	教室
+quickbuild_commonroom	共有ルーム
+
+season_current	現在の季節：*X
+season_spring	春
+season_summer	夏
+season_autumn	秋
+season_winter	冬
+
+weather_current	現在の天気: *X
+weather_none	晴れ
+weather_overcast	曇り
+weather_rain	雨
+weather_snow	雪
+weather_heatwave	熱波
+weather_torrentialrain	豪雨
+
+prisoner_cellerror_nonefree	この受刑者用の独房が空いていない
+prisoner_cellerror_toohighquality	空いている独房はどれも、この受刑者には質が高すぎる
+prisoner_cellerror_nosolitary	この受刑者は隔離しなければいけないが、隔離棟の独房が空いていない
+
+group_all_staff	すべての職員
+staff_onbreak	休憩中
+staff_onbreakremaining	休憩中(*Xm)
+staff_breaktime	休憩時間:
+
+
+# =============================================================================
+# Campaign info
+# =============================================================================
+
+campaignchapter_chapternumber	チャプター*C
+
+
+# =============================================================================
+# Death Row
+# =============================================================================
+
+campaignchapter_deathrow	死刑囚
+
+campaignchapter_deathrow_description	この刑務所に死刑執行施設を建てるよう依頼を受けた。受刑者の1人に死刑の執行が迫っており、それまでに完成させる必要がある。
+
+campaigncutscene_deathrowmurder	二重殺害
+campaigncutscene_deathrowconfession	自白
+
+adviser_deathrow_murder1	ここにいると思ってたよ。
+adviser_deathrow_murder2	エドワード！これは...
+adviser_deathrow_murder25	やめろ。頼む...
+adviser_deathrow_murder3	どうするつもりだ？
+
+adviser_deathrow_church1	どうしました？
+adviser_deathrow_church15	...
+adviser_deathrow_church2	許しを請いに来たのですか？
+adviser_deathrow_church3	何をしたいのか自分でも分からない。でもこの罪悪感をどうにかしたいんだ。
+adviser_deathrow_church4	罪を犯したのなら自首しなさい。罪は必ず償われなければなりません。
+adviser_deathrow_church5	過去の過ちを認めることなしに、未来はありませんよ。
+adviser_deathrow_church6	過去に戻れたらどんなにいいだろう... そうすれば、あいつを許してやれるのに。きっと俺のことも許してくれるはずだ。
+adviser_deathrow_church7	あなたのことは神が許してくれます。あなたが許しを請うならば。過去にどんな過ちを犯したとしても、です。
+adviser_deathrow_church8	でもその前に、法で定められた方法で罪を償うのです。それを避けることはできません。
+
+adviser_deathrowintro_1	君にちょっとした課題だ。
+adviser_deathrowintro_2	二重殺人の罪でこの刑務所に収容され、死刑が確定している受刑者がいる。
+adviser_deathrowintro_3	この受刑者の運命の日が来る前に執行施設を建てるよう依頼を受けている。そこで、この仕事を君に頼みたい。
+adviser_deathrowintrob_1	執行施設の建設予定地はここだ。
+adviser_deathrowintrob_2	このようなプロジェクトでまず最初にしなければならないのは、外壁を建てることだ。中には、執行室と拘置室を設けるのに十分なスペースが必要だ。
+adviser_deathrowintrob_3	ではさっそく始めよう。ここが建築場所だ。
+
+adviser_deathrow_explain1	建物の建築を担当するのは作業員だ。
+adviser_deathrow_explain2	この保管室から鋼鉄やコンクリートを集め、建築現場へと持って行ってくれる。
+adviser_deathrow_explain3	これらの材料を使って、まず基礎と骨組を作る。
+adviser_deathrow_explain4	ここが一番時間のかかるところだ。新しい建物を作る際にはそのことを予め頭に入れて予定を組むといい。
+adviser_deathrow_explain5	待っている間に周りを見渡してみよう。移動はW/A/S/Dまたは矢印キー、ズームはマウスのホイールを使おう。
+
+objective_deathrow_building	死刑執行施設を収容する建物を建築する
+
+adviser_deathrow_buildinside1	新しい死刑執行施設には入り口が必要だ。
+adviser_deathrow_buildinside2	独房ドア（大）を南側の壁に取り付けよう。
+
+objective_deathrow_buildouterdoor	独房ドア（大）を入り口に取り付ける
+
+adviser_deathrow_internalwalls1	建物の中に死刑執行室と独房を1つずつ建てよう。
+adviser_deathrow_internalwalls2	スペースを区切るにはレンガの壁を使うといい。
+
+objective_deathrow_buildinternalwalls	内壁を建てる
+
+adviser_deathrow_internaldoors1	次はそれぞれの壁に独房ドア（大）をつけよう。
+adviser_deathrow_internaldoors2	マウスのミドルボタンをクリックするかRキーを押すと、アイテムを配置する前に回転させることが可能だ。
+
+objective_deathrow_buildinternaldoors	内壁を建てる（ミドルクリックまたはRキー）
+
+adviser_deathrow_designation1	いい感じだ。次は作ったスペース内に部屋を設けよう。
+adviser_deathrow_designation2	小さい方のエリアには死刑囚を入れる独房を設けよう。
+adviser_deathrow_designation3	大きい方のエリアには死刑執行室を設けよう。
+
+objective_deathrow_designatecell	独房を設ける
+objective_deathrow_designateexecution	死刑執行室を設ける
+
+adviser_deathrow_roomrequirements1	新しく設置した部屋は、条件を満たさなければ機能しない。
+adviser_deathrow_roomrequirements2	独房にはベッドとトイレが必要だ。
+adviser_deathrow_roomrequirements3	死刑執行室には電気椅子が必要だ。
+
+objective_deathrow_cellobjects1	ベッドを設置
+objective_deathrow_cellobjects2	トイレを設置
+objective_deathrow_executionobjects	電気椅子を設置
+
+adviser_deathrow_optional1	これで最低限の設備は整った。しかし、この建物を向上させるためにできることがまだいくつか残っている。
+adviser_deathrow_optional2	それを行うかどうかは君次第。すでに最低条件は満たされている。君が受刑者たちや彼らが暮らす環境について気に掛けているのなら、改善させるのもよいだろう。
+adviser_deathrow_optional3	景色の見える窓や本棚を追加すれば、独房の質はぐんとアップする。
+adviser_deathrow_optional4	また、フローリングやモザイク模様のタイルなど、高品質の材料を床に敷けば、施設の雰囲気もずっとよくなる。
+adviser_deathrow_optional5	屋外には、照明を追加したり、必要に応じて舗装通路を設けてもいいかもしれない。
+
+adviser_deathrow_transfer05	これがその受刑者、エドワード・ロムジーだ。信じられないかもしれないが、かつては教師をしていた。
+adviser_deathrow_transfer06	死刑が本当に彼に相応しい処罰であるかどうかは、法律が決めることだ。我々がしなければならないのは、与えられた仕事をこなすことだ。
+adviser_deathrow_transfer1	施設の準備が十分に整ったのなら、受刑者を新しい独房に移そう。
+adviser_deathrow_transfer2	移送を始めるには独房内のポラロイド写真をクリックすればいい。
+
+objective_deathrow_path	（任意）新しい死刑執行施設につながる通路を作る
+objective_deathrow_window	（任意）独房に窓をつける
+objective_deathrow_bookshelf	（任意）独房に本棚を追加する
+objective_deathrow_flooring	（任意）もっと高品質の材料を使って床を敷き直す
+objective_deathrow_outerlights	（任意）施設の外に照明を設ける
+objective_deathrow_transferinmate	終わったら、エドワードの独房にあるポラロイド写真をクリックして、受刑者の移送を始めよう。
+
+adviser_deathrow_setupmurder1	こいつは冷酷な殺人鬼だ。判決を疑う余地もなければ、同情の余地もない。
+adviser_deathrow_setupmurder2	自白もしている。自分が犯した罪について奴が何と言ったか聞きたいか？
+adviser_deathrow_setupmurder3	「夜の11時頃だったな。家の明かりがついてたから、あいつが家にいるって分かったのさ... 」
+adviser_deathrow_postmurder1	冷酷極まりないだろう？
+adviser_deathrow_postmurder2	完全にクロだ。死刑になって当然さ。
+adviser_deathrow_postmurder3	どんな人間だって許しを受ける権利がある。彼も含めてだ。こんな極刑を与えていいと本当に思っているのか？
+adviser_deathrow_postmurder4	妻に浮気されたからって、あんな酷い目に遭わせていいわけない。
+adviser_deathrow_postmurder5	弾を込めた銃を持って行ったんだ。浮気現場で使う気満々でね。計画的な二重殺人さ。
+adviser_deathrow_postmurder6	取り調べにも協力的に応じてる。この州でも滅多に見られない模範的な態度だ。
+adviser_deathrow_postmurder7	罪を犯したのが100マイル北だったら、判決は終身刑になっていたはずだ。こんなのが正義と言えるか？
+adviser_deathrow_postmurder8	こんな危険な奴を野放しにしたいのか？いなくなってくれた方が安心だと思わないか？
+
+
+adviser_deathrowelectricity_1	順調に進んでいるようだ。
+adviser_deathrowelectricity_2	だがひとつだけ問題がある。死刑執行室がまだ機能していない。電力が供給されていないからだ。
+adviser_deathrowelectricity_3	部屋に電気を通さなければならない。
+
+adviser_deathrowelectricityb_1	「公共設備」モードがオンになった。これで刑務所全体の電気系統が確認できる。
+adviser_deathrowelectricityb_2	刑務所内のすべての建物は、地下の太い電気ケーブルによって送電網につながれている。
+adviser_deathrowelectricityb_3	電力は全国送電網からこの変電所に、そしてこの変電所から刑務所へと送られている。
+adviser_deathrowelectricityb_4	見ての通り、独房が設置されたウィング全体が停電状態になっている。あたりは真っ暗だ。
+adviser_deathrowelectricityb_4b	この問題を解決するには、まず「電気＆水道」モードをオンにして、停電の原因を突き止める必要がある。
+adviser_deathrowelectricityb_5	一番近くの電気ケーブルがかなり離れたところにある。この状態ではこのエリアの配電作業はできない。
+adviser_deathrowelectricityb_6	このウィングに電力を供給するために、電気ケーブルをもっと近くに持ってこよう。
+
+objective_deathrow_cellpower	部屋に電力を供給する
+
+adviser_deathrow_connectchair_1	電気が必要なのは照明だけじゃない。電気椅子にも電力が必要だ。
+adviser_deathrow_connectchair_2	パワーケーブルを使って死刑執行施設を送電網につなげよう。
+adviser_deathrow_connectchair_3	電気椅子は電気製品としては少し変わっていて、独自の電気系統を必要とする。 そのため、電源ケーブルに直接つながなくてはならない。
+
+objective_deathrow_chairpower	電気椅子に電力を供給する
+objective_deathrow_condemnedcellpower	独房に電力を供給する
+
+adviser_deathrow_testchair_1	施設はほぼ完成だ。だが、死刑執行室を実際に使う前に一度テストしておいた方がいい。
+adviser_deathrow_testchair_2	スイッチを数秒入れてみて、すべてが機能していることを確かめてみよう。
+adviser_deathrow_testchair_3	ふむ、おかしいな。電力を送り過ぎて発電機のブレーカーが落ちてしまったらしい。刑務所全体が真っ暗だ。
+adviser_deathrow_testchair_4	電気椅子が必要とする大量の電力に耐えるには、もっとパワーが必要らしい。
+adviser_deathrow_testchair_5	まず、電源を再びオンにする必要があります。これが2段階のプロセスです：
+adviser_deathrow_testchair_5b	発電機をクリックして「スイッチオン」を選び、スイッチを入れ直そう。
+adviser_deathrow_testchair_6	それが済んだら、電気椅子の操作に必要な電力が確保できるようにコンデンサを3つ作ろう。
+adviser_deathrow_testchair_7	それが終わったら、電気椅子をクリックして「スイッチオン」をメニューから選択し、もう一度電気椅子のテストを行おう。
+
+objective_deathrow_poweron	発電機のスイッチを入れ直す（発電機をクリックしてメニューから「スイッチオン」を選択）
+objective_deathrow_expandpower	コンデンサを3つ作って発電機をパワーアップさせる
+objective_deathrow_chairworking	電気椅子をもう一度テストする（クリックして「スイッチオン」を選択）
+
+adviser_deathrow_execution_1	よくやった。これで任務は完了だ。
+adviser_deathrow_execution_2	これから起こることはこちらの所轄外だ。我々はプロとしてきちんと仕事をやり遂げた。それが一番大切なことだ。
+adviser_deathrow_execution_3	次に起こることについてあまり考えないように。
+
+adviser_deathrow_setupexecution1	時間だ、エドワード。
+adviser_deathrow_setupexecution2	お前は正しいことをした。だが、それを理由にこの世で許しを得ることはできない。
+adviser_deathrow_setupexecution3	お前はもうすぐ神の元へと行く。そこで許しを得られるといいな。
+
+adviser_deathrow_setupexecution4	エドワード・ロムジー。お前は2件の第1級殺人で有罪となった。
+adviser_deathrow_setupexecution5	よって死刑に処される。
+adviser_deathrow_setupexecution6	最後に言いたいことは？
+adviser_deathrow_setupexecution7	スーザン...
+adviser_deathrow_setupexecution8	すまなかった。
+
+# =============================================================================
+# Expense popups
+# =============================================================================
+
+finance_cost_prisonsale	前刑務所の売却
+finance_cost_equiptazer	装備：テーザー銃
+finance_cost_equipbodyarmour	装備：ボディアーマー
+finance_cost_exports	保管
+finance_cost_foundations	建築基礎
+finance_cost_cashflow	キャッシュフロー
+finance_cost_bankloan	銀行ローン
+finance_cost_bankloan_repayment	銀行ローンの返済額
+finance_cost_sharesale	株の売却
+finance_cost_sharepurchase	株の購入
+finance_cost_grantadvance	前金
+finance_cost_grantcompletion	報奨金
+finance_cost_reformprogram	更生プログラムのセッション
+finance_cost_repair	修理
+finance_cost_sellobject	アイテム売却
+finance_cost_landpurchase	土地購入
+finance_cost_prisonerintake	受刑者受け入れ
+finance_cost_grantcancellation	キャンセル費用
+finance_cost_grantrefund	- 払い戻し：*X
+finance_cost_grantfine	- 罰金：*X
+finance_cost_executionfine	死刑の不正執行に対する罰金
+finance_cost_executioncompensation	死刑執行報酬
+finance_cost_shopintake	ショップ売り上げ
+finance_cost_prisonerwages	受刑者賃金
+finance_cost_fine	罰金
+finance_cost_shopcommission	売店での売り上げ手数料
+
+
+# =============================================================================
+# Clock
+# =============================================================================
+
+clock_speed_0	||
+clock_speed_1	>
+clock_speed_2	>>
+clock_speed_5	>>>
+clock_speed_10	>>>>
+clock_speed_half	...
+clock_add_hour	+
+clock_am	AM
+clock_pm	PM
+
+# =============================================================================
+# Events
+# =============================================================================
+
+event_powerstationfire	電気サージが原因で発電機が過負荷状態になり発火してしまった！
+event_powerstationfire_x	電気サージが原因で発電機が致命的な過負荷状態になり、爆発してしまった！
+event_powerstationfirelarge	電気サージが原因で発電機が過負荷状態になり発火してしまった！
+event_powerstationfirelarge_x	電気サージが原因で発電機が致命的な過負荷状態になり、爆発してしまった！
+event_kitchenfire	厨房で火災が発生！
+event_waterpipeburst	水道管が破裂し、辺り一面が水浸しになってしまった。大きな損害が出る前に修理しよう。
+event_bulkintake	近隣の刑務所で事故が起こり、施設の一部がまったく使えなくなってしまった。その刑務所の受刑者を収容できる施設が他にないため、この刑務所に移送しなければならない。彼らはもうすぐ到着する。
+event_workshopaccident	作業室で起きた事故により、受刑者の1人が大怪我を負ってしまい、動くことができないでいる！今すぐ医師に来てもらおう。
+event_subsidence	地盤沈下が原因で外壁の一部が破壊されてしまった。今すぐ修理しよう！
+event_earthquake	地震により刑務所の一部が崩壊してしまった！
+event_virus	多数の受刑者が体調を崩しているとの報告があった。何に感染しているのかを突き止め、感染が拡大しないように感染者を隔離しよう。
+event_virus_x	多数の受刑者が体調を崩しているとの報告があった。病状はかなり重いらしい。感染が拡大しないように感染者を隔離し、すぐに治療しよう。
+event_treefire	森で火事が起きたぞ！
+event_foodpoisoning	受刑者の間で発生した食中毒について報告を受けていたところだ。厨房の食糧が一部傷んでいたに違いない。残念なことに治療の方法は特になく、じっと待つしかない。
+event_cilistleak	なぜだかわからないが、秘密にしていた我々の密告者たちの正体がばれてしまった。密告者たちをすぐに安全な場所に移さないと彼らの身が危ない。
+event_keysersoze	最近の大きなギャング事件によると、我々の中で最もセキュリティが低い受刑者の1人がギャングの偉いリーダーらしい。まだ見つけてはいないが、誰もがその人物を知っている...
+event_preacherconversion	最もカリスマ性の高い受刑者の1人が、宗教の伝導者だか何かになってしまった。他の者が同調し始めている。これは必ずしも問題ではないが、受刑者たちの宗教的なニーズが今後すぐに増えるだろう。
+
+event_massassassination_1	連邦裁判事件の証人の身元が漏出した。証人のうち何人かはこの刑務所にいる。
+event_massassassination_2	彼らは命を狙われている。どの受刑者がこの証人なのかを突き止め、彼らが出廷日前に命を落とさないよう気をつけよう。
+event_massassassination_3_x	こちらに情報が伝わるまでにだいぶ時間が掛かってしまった。証人たちに殺し屋の手が伸びるのは時間の問題だ。
+
+event_tvremovaldemand_1	メディアが、受刑者の快適さに関するキャンペーンを始めた。私のオフィスも大変なことになっている。
+event_tvremovaldemand_2	したがって、刑務所の共有ルームにテレビを置くことを禁止する法案を通すつもりだ。今すぐ共有ルームにあるテレビをすべて撤去して欲しい。6時間以内に撤去されなかった場合は罰金を払ってもらう。
+event_tvremovaldemand_fine	共有ルームからテレビを撤去することは、今や法で定められている事項だ。それを怠った君には罰金が課される。罰金は、テレビがすべて撤去されるまで何度でも課されるだろう。
+event_tvremovaldemand_complete	マスコミは今回の件に対して興味を失ったようだ。したがって、共有ルームでのテレビの使用を禁止する法案は撤廃された。テレビを再設置したければ、そうしてもらって構わない。
+
+event_weightsremovaldemand_1	刑務所で受刑者に与えられる娯楽アイテムに関してマスコミが異議を唱えており、こちらにプレッシャーが掛かっている。
+event_weightsremovaldemand_2	したがって、刑務所の運動場に運動器具を置くことを禁止する法案を通すつもりだ。今すぐ運動場にあるベンチをすべて撤去して欲しい。6時間以内に撤去されなかった場合は罰金を払ってもらう。
+event_weightsremovaldemand_fine	運動場からベンチを撤去することは、今や法で定められている事項だ。それを怠った君には罰金が課される。罰金は、ベンチがすべて撤去されるまで何度でも課されるだろう。
+event_weightsremovaldemand_complete	マスコミは今回の件に対して興味を失ったようだ。したがって、運動場でのベンチの使用を禁止する法案は撤廃された。ベンチを再設置したければ、そうしてもらって構わない。
+
+event_lessfooddemand_1	君の刑務所を含め、複数の施設においていくつかの経費節約策を試してみることが理事会によって決定された。
+event_lessfooddemand_2	そこで、刑務所で出される食事の量と種類を減らしてみて欲しい。これが予算にどのような影響を与えるかを見てみようと考えている。
+event_lessfooddemand_fine	こちらから依頼した新しい食事案を実行しなかったようなので、実行した場合に節約できたであろう額をそちらの資金から差し引くことにする。これは、依頼した内容に君が従うまで繰り返し行われるだろう。
+event_lessfooddemand_complete	食費の節約に関する実験はこれで終わりだ。結果はなんともハッキリしないものだった。食事の形態を元に戻したければ、そうしても構わない。
+
+event_removevisitationdemand_1	他の刑務所である事件が起き、面会者のセキュリティチェックに改善の余地がある可能性が浮き彫りとなった。
+event_removevisitationdemand_2	面会に関する規定を見直している間、すべての面会はキャンセルされる。12時間以内にすべての面会室を刑務所から撤去して欲しい。
+event_removevisitationdemand_fine	セキュリティ上の問題があると言ったにも関わらず、君は面会室の撤去を怠った。したがって罰金が課される。罰金は要望に応えるまで繰り返し課されるだろう。
+event_removevisitationdemand_complete	面会に関するセキュリティの見直しを行った。したがって、面会室を再び刑務所に設置してもらっても構わない。
+
+event_lessworkdemand_1	労働時間が長すぎると受刑者からの苦情が入った。事態が改善しないのならトラブルを起こすと言っている。
+event_lessworkdemand_2	「2時間以上働かされるのならこのムショをぶっ潰す」と受刑者の1人が言っているのを看守が耳にしたらしい。
+event_lessworkdemand_ignore	どうやら受刑者は諦めたようだ。不満が消えた訳ではないが、上の言うことは絶対だと分からせることができたのだろう。
+event_lessworkdemand_complete	受刑者は落ち着きを取り戻した。数日間でも休めて満足したのだろう。文句を言わずに仕事に戻ってくれるはずだ。
+
+event_moresleepdemand_1	受刑者が睡眠が足りないと文句を言っているらしい。かなりその事で苛立っているようだ。
+event_moresleepdemand_2	少なくとも７時間の睡眠時間を与えられないのなら、トラブルを起こすと言っている。
+event_moresleepdemand_ignore	受刑者は落ち着きを取り戻したようだ。睡眠時間の事で文句を言うのを諦めたらしい。疲れたのだろう。
+event_moresleepdemand_complete	睡眠時間の件は一件落着だ。将来的に時間を変えたければ問題なく行えるはずだ。
+
+event_morefreetimedemand_1	受刑者たちが自由時間が足りないと文句を言っている。
+event_morefreetimedemand_2	状況がマシにならなければ暴れ出すつもりだと受刑者が囁いているのを、看守が耳にしたということだ。
+event_morefreetimedemand_ignore	受刑者は落ち着きを取り戻した。自由時間の件に関してこれ以上トラブルを起こすつもりはないらしい。厄介を起こして隔離棟に入れられればさらに自由時間が削られると気づいたのだろう。
+event_morefreetimedemand_complete	これ以上受刑者を甘やかす必要はない。自由時間を減らしたければそうしても構わない。
+
+event_contrabandsurge_complete	受刑者の授業のために我々が招いた教員の1人が大量の禁制品を持ち込んでいたことが発覚した。彼らは解雇されたが、ダメージはまだ残っている。
+event_corruptingspiritualist_complete	宗教プログラムのために我々が招いた宗教指導者の1人が、あらゆるヘイトスピーチを用いて受刑者たちを高揚させている。彼らは解雇されたが、受刑者たちが落ち着くまでには時間がかかるだろう。
+
+event_agitatingradio_1	一部の看守によると、受刑者たちが聴いているラジオ番組の新しいホストが、彼らを扇動するようなことを色々と言っていたそうだ。
+event_agitatingradio_2	彼らが、それを本気にし始めなければよいが、しばらくの間ラジオを撤去した方がよいだろう。
+event_agitatingradio_complete	あのラジオのホストは多くの苦情を受けてクビになったらしい。刑務所内でラジオが問題になることはもうないだろう。
+
+# =============================================================================
+# Events Objectives (shown in todo list)
+# =============================================================================
+
+objective_bulkintake	到着予定の受刑者
+objective_tvremovaldemand	共有ルームからテレビを撤去
+objective_tvremovaldemand_child	共有ルームにテレビがないことを確認
+objective_weightsremovaldemand	運動場からベンチプレス用のベンチを撤去
+objective_weightsremovaldemand_child	運動場にベンチプレス用のベンチがないことを確認
+objective_lessfooddemand	食事の量と種類を「低」に減らす
+objective_lessfooddemand_child	食事の量と種類に関する方針を「低」に変更する
+objective_removevisitationdemand	すべての面会室を撤去
+objective_removevisitationdemand_child	セキュリティの見直しが終わるまで面会室を設けない
+objective_virus	ウィルスの大流行
+objective_virus_child	感染した受刑者数：
+objective_massassassination	連邦証人の\n出廷日
+objective_massassassination_child	生き残った証人：
+objective_lessworkdemand	受刑者が労働時間削減を要求
+objective_lessworkdemand_child	労働時間を1日に2時間以下に設定
+objective_moresleepdemand	受刑者の睡眠時間を増やす
+objective_moresleepdemand_child	睡眠時間を7時間以上に増やす
+objective_morefreetimedemand	受刑者の自由時間を増やす
+objective_morefreetimedemand_child	自由時間を6時間以上に増やす
+objective_agitatingradio	扇動的なラジオ放送
+objective_agitatingradio_child	今放送中のラジオが受刑者たちを高揚させている...
+
+# =============================================================================
+# Custom warden strings
+# =============================================================================
+
+warden_default_name	刑務所長
+warden_default_desc	この世でもっと均等の取れた人物。仕事が人生で、「刑務所長」以外の名前を持たない。
+warden_lobbyist_name	ロビイスト
+warden_lobbyist_desc	上層部に知り合いがいるので、管理しやすい刑務所が自分のところに回ってくるよう、手配することができる。\n\n - 以下のカテゴリーの受刑者が到着する可能性が半減する：暴力的、残忍、不安定、死神、ファイター
+warden_lobbyist_desc_short	- 以下のカテゴリーの受刑者が到着する可能性が半減する：暴力的、残忍、不安定、死神、ファイター
+warden_fear_name	リタ
+warden_fear_desc	残忍かつ冷酷。彼女の刑務所は受刑者に恐怖を植え付けることで運営される。ただし、ムチを持ち歩いているという噂は多少大げさかもしれない。 \n\n - 「ストイック」または「大胆不敵」カテゴリーの受刑者が到着する可能性が半減する：\n - 受刑者が通常の倍の早さで抑圧される
+warden_fear_desc_short	- 「ストイック」または「大胆不敵」カテゴリーの受刑者が到着する可能性が半減する\n - 受刑者が通常の倍の早さで抑圧される
+warden_tunnels_name	JW・ペリウィンクル
+warden_tunnels_desc	戦争中は土木工兵として働いていたらしい。それがどの戦争だったかは口にしないが、トンネル堀りのことに関してかなり詳しい。\n\n - 警察犬が嗅ぎつけたトンネルを完全に発見できる確率が50％アップする
+warden_tunnels_desc_short	- 警察犬が嗅ぎつけたトンネルを完全に発見できる確率が50％アップする
+warden_calming_name	調停者
+warden_calming_desc	どんなに暴力的な人間でも落ち着かせることのできる稀な才能を持っている。彼と同じ部屋にいるだけで、大抵の人間は大人しく従順になってしまう。.\n\n - 刑務所の全体的な雰囲気を落ち着かせるため、受刑者がトラブルを起こす可能性が低くなる
+warden_calming_desc_short	- 刑務所の全体的な雰囲気を落ち着かせるため、受刑者がトラブルを起こす可能性が低くな
+warden_contraband_name	サファラ・アクノヴァ
+warden_contraband_desc	非の打ち所のない評判と完璧な経歴の持ち主。しかしながら、実は裏で悪徳取引や不正取引を行うのが得意である。\n\n - 没収された禁制品の転売価格の数パーセントが手に入る\n - 禁制品が見つかると、持ち主である受刑者の貯金から直接「罰金」が引かれる
+warden_contraband_desc_short	- 没収された禁制品の転売価格の数パーセントが手に入る\n - 禁制品が見つかると、持ち主である受刑者の貯金から直接「罰金」が引かれる
+buildtoolbar_wardenlobbyist	ロビイスト
+buildtoolbar_tooltip_wardenlobbyist	暴力的な受刑者の受け入れが減る
+interfacetopbar_tension_calmingwarden	- 受刑者を落ち着かせることができる
+warden_consultingfee	コンサルティング料金
+
+# =============================================================================
+# Crime names
+# =============================================================================
+
+crime_bribery	収賄
+crime_aggravatedburglary	加重窃盗
+crime_burglary	窃盗
+crime_arson	放火
+crime_criminaldamage	器物損壊
+crime_vandalism	公共物破損
+crime_possession	所持
+crime_possessionintenttosupply	供給目的での所持
+crime_forgery	偽造
+crime_fraud	詐欺
+crime_counterfeightingcurrency	貨幣偽造
+crime_falseaccounting	不正経理
+crime_insidertrading	内部取引
+crime_moneylaundering	マネーロンダリング
+crime_aggravatedvehicletheft	加重車両窃盗
+crime_joyriding	無謀運転
+crime_dangerousdriving	危険運転
+crime_deathbydangerousdriving	危険運転による致死
+crime_drivingunderinfluence	飲酒および薬物服用運転
+crime_kidnapping	誘拐
+crime_falseimprisonment	不法監禁
+crime_torture	拷問
+crime_assault	暴行
+crime_aggravatedassault	加重暴行
+crime_assaultinganofficer	警官暴行
+crime_greviousbodilyharm	凶悪傷害
+crime_murder	殺人
+crime_attemptedmurder	殺人未遂
+crime_manslaughter	過失致死
+crime_pervertingcourseofjustice	司法妨害
+crime_contemptofcourt	法廷侮辱
+crime_drunkdisorderlybehaviour	飲酒状態での乱暴行為
+crime_escapingfromlawfulcustody	拘置施設からの逃亡
+crime_perjury	偽証
+crime_rioting	暴動
+crime_espionage	スパイ行為
+crime_violentdisorder	暴力行為
+crime_trafficking	密売
+crime_armedrobbery	武装強盗
+crime_robbery	強盗
+crime_carjacking	自動車乗っ取り
+crime_blackmail	恐喝
+crime_handlingstolengoods	盗難品取引
+crime_videogamepiracy	ゲーム著作権侵害
+crime_indievideogamepiracy	インディーゲーム著作権侵害
+crime_shoplifting	万引き
+crime_pickpocketing	スリ
+crime_cartheft	自動車窃盗
+crime_rape	性的暴行
+crime_grossindecency	猥褻行為
+crime_voyeurism	盗撮
+
+# =============================================================================
+# Cause of death
+# =============================================================================
+
+causeofdeath_fight	*Xとの戦闘で死亡
+causeofdeath_fight_weapon	*Xにより*Wで死亡
+causeofdeath_fight_prisoner	*Xが殺害
+causeofdeath_fight_prisoner_weapon	*Xが*Wで殺害
+causeofdeath_fight_actor	*Wで死亡
+causeofdeath_gang	ライバルのギャング団メンバーが殺害
+causeofdeath_gang_weapon	ライバルのギャング団メンバーが*Wで殺害
+causeofdeath_fire	焼死
+causeofdeath_escaping	脱獄中に*Xが殺害
+causeofdeath_escaping_weapon	脱獄中に*Xと*Wで殺害
+causeofdeath_mauled	警察訓練犬にかまれ死亡
+causeofdeath_snitch	たれこみ屋をしていたため殺害
+causeofdeath_exlaw	元警察官だったため殺害
+causeofdeath_copkiller	警官殺しにより看守が殺害
+causeofdeath_explosion	爆発で死亡
+causeofdeath_electrocution	電気処刑で死亡
+causeofdeath_starvation	餓死
+causeofdeath_virus	感染症で死亡
+causeofdeath_overdosed	薬の過剰摂取
+causeofdeath_bledout	失血死
+causeofdeath_riot	暴動中に殺害
+causeofdeath_executed	電気椅子で死刑
+causeofdeath_unknown_1	死因は不明
+causeofdeath_unknown_2	機密情報をアンロックして究明しよう。
+
+
+# =============================================================================
+# Mutators
+# =============================================================================
+
+codex_mutators_desc	変異物は、新しいチャレンジやプレイスタイルを追加してゲームのプレイ方法を修正するが、必ずしもバランスが取れているとは限らない。
+mutators_random	ランダム
+
+mutator_name_bigheads	うぬぼれモード
+mutator_name_moreviolentprisoners	より凶暴な受刑者
+mutator_name_noviolentprisoners	凶暴な受刑者なし
+mutator_name_fastwalking	早歩き
+mutator_name_biggerfights	大きな戦闘
+mutator_name_morevolatileprisoners	気まぐれな受刑者
+mutator_name_endlesswinter	終わらない冬
+mutator_name_norevealedreps	明らかになった評判なし
+mutator_name_allrepsrevealed	明らかになったすべての評判
+mutator_name_indestructabletrees	自然保護ゾーン
+mutator_name_alllegendary	お屋敷
+mutator_name_slowdeliveries	遅い配送
+mutator_name_fastdeliveries	速い配送
+mutator_name_extremelyneedyprisoners	欲求の多い受刑者
+mutator_name_slowtime	ゆっくりとした時間
+mutator_name_burnthedead	死者を燃やせ
+mutator_name_gangwarfare	ギャング闘争
+mutator_name_massescapes	ここから出せ！
+mutator_name_notunnels	トンネルなし
+mutator_name_morecontraband	禁制品追加
+mutator_name_nocontrabandlimits	禁制品制限なし
+mutator_name_highdanger	危険ゾーン
+mutator_name_superdrugs	スゲェ！
+mutator_name_weirdreputations	追加の評判
+mutator_name_nopausing	一時停止なし
+mutator_name_norelease	釈放なし
+mutator_name_fastrelease	短い懲役期間
+mutator_name_acidrain	酸性雨
+mutator_name_permanentday	ずっと続く昼間
+mutator_name_permanentnight	ずっと続く夜
+mutator_name_spreadingtrees	過繁茂
+mutator_name_contrabanddetectors	禁制品スキャナー
+mutator_name_superguards	スーパー看守
+mutator_name_oldschoolintake	旧式の受け入れ
+mutator_name_noclipstaff	幽霊のような職員
+
+mutator_tooltip_bigheads	受刑者をうぬぼれさせてしまう！
+mutator_tooltip_moreviolentprisoners	凶暴な性質をもった受刑者の受け入れ数を著しく増やす。
+mutator_tooltip_noviolentprisoners	凶暴な性質を持たない受刑者だけを受け入れる。
+mutator_tooltip_fastwalking	刑務所内の誰もが、2倍の速さで歩く。
+mutator_tooltip_biggerfights	受刑者が戦闘に加わる可能性をはるかに高くし、戦闘から手を引く可能性を低くする。
+mutator_tooltip_morevolatileprisoners	約半数の受刑者に気まぐれな性質を持たせ、面白がるだけのために問題を起こさせる。
+mutator_tooltip_endlesswinter	恐ろしい「エクスポージャー」状況の効果をもたらし、世界を永遠に続く極寒の冬に落とし込む。（天気が無効になっている場合は、影響なし。）
+mutator_tooltip_norevealedreps	君は、バスから降りてくる受刑者の評判を何も知ることはないだろう。
+mutator_tooltip_allrepsrevealed	バスから降りてくる受刑者は、常にその評判をはっきりと示すだろう。
+mutator_tooltip_indestructabletrees	地元の自然保護法により、このエリアの木を切ることはできない。君はこの木をよけて建てなければならない！
+mutator_tooltip_alllegendary	すべての受刑者は伝説級だ。グッドラック！
+mutator_tooltip_slowdeliveries	買うものすべては、トラックで配送されなければならない。
+mutator_tooltip_fastdeliveries	トラックを待つ必要はもうない。スペースがある限り、すべての物が直接刑務所に届けられる。
+mutator_tooltip_extremelyneedyprisoners	受刑者のニーズは、ものすごい勢いで高くなるだろう。
+mutator_tooltip_slowtime	ゲームの時計を遅らせ、1日をとても長くする。
+mutator_tooltip_burnthedead	刑務所で殺された人は誰もが、自発的に燃え上がるだろう。
+mutator_tooltip_gangwarfare	ギャングメンバーだけがこの刑務所に到着する。（ギャングが無効化されている場合は、影響なし）
+mutator_tooltip_massescapes	受刑者は、トンネル内の普通の制約を取り除きながら、脱獄トンネルを掘り進めようとする可能性が極めて高い。
+mutator_tooltip_notunnels	受刑者は、脱獄トンネルを掘ることはできない。
+mutator_tooltip_morecontraband	禁制品がさらに刑務所に持ち込まれる。そして受刑者は、機会があれば、禁制品を盗む可能性が極めて高い。
+mutator_tooltip_nocontrabandlimits	刑務所に持ち込まれる禁制品のタイプに関する制限を削除する。銃？モップ？クリップボード？！ちょうど良い獲物だ。
+mutator_tooltip_highdanger	刑務所の危険レベルはいつも最高レベルだ。君は凶暴な受刑者を受け入れる可能性が極めて高く、これらの受刑者は戦闘に加わる可能性も非常に高い。
+mutator_tooltip_superdrugs	麻薬やアルコールを摂取する受刑者は、ランダムに評判を得ることになり、どんどん対処が難しくなる。
+mutator_tooltip_weirdreputations	受刑者が得られる新たな評判の範囲をアンロックし、それによって言動や刑務所との関わり方を変化させる。
+mutator_tooltip_nopausing	プレイ中、ゲームの時計を一時停止する機能を削除する。
+mutator_tooltip_norelease	受刑者は決して釈放されない。判決は無期刑で、仮釈放は認められない。
+mutator_tooltip_fastrelease	すべての懲役期間は非常に短いもので、刑務所での受刑者の入れ替わりサイクルは非常に短くなる。
+mutator_tooltip_acidrain	雨や雪により、外にいる受刑者が被害を受ける。（天気が無効になっている場合は、影響なし。）
+mutator_tooltip_permanentday	刑務所内は決して暗くならない。真夜中でも昼間のように明るい！
+mutator_tooltip_permanentnight	ここでは太陽は決して昇らない。刑務所は常に真っ暗だ。
+mutator_tooltip_spreadingtrees	木は生い茂り、通常よりも早く成長する。
+mutator_tooltip_contrabanddetectors	金属探知機があらゆる形状の禁制品を検知するが、電力を5倍も多く使う。
+mutator_tooltip_superguards	看守は非常に優秀で、時間を無駄にすることはない。皆、身体が大きく、力があり、機敏で、観察力にも優れている。
+mutator_tooltip_oldschoolintake	以前は、受刑者を乗せたバスが毎日刑務所に到着した。これらの受刑者を受け入れたいか、受け入れたくないかにかかわらず。あの古き良き時代が戻ってきた！受け入れる余地があろうとなかろうと、毎日毎日、受刑者をたくさん乗せたバスが到着することになる。
+mutator_tooltip_noclipstaff	職員は壁を通り抜けることができる。
+
+mutator_title_extrachallenge	追加チャレンジ
+mutator_title_extrachallenge_tooltip	これらの変異物は、あらゆる手立てを使って面倒を引き起こす。 時には手に負えなくなることもある！
+mutator_title_lightentheload	負担軽減
+mutator_title_lightentheload_tooltip	これらの変異物は刑務所の管理を容易にし、何らかの方法で困難を軽減させる。
+mutator_title_changetherules	ルール変更
+mutator_title_changetherules_tooltip	これらの変異物は、ゲームの基本ルールのいくつかを変更する。
+mutator_title_somethingdifferent	どこか... 異なるものに。
+mutator_title_somethingdifferent_tooltip	これは異常だ。筋が通っていないかもしれないが、人生をより興味深いものにするのだ。
+
+# =============================================================================
+# Attract screen
+# =============================================================================
+
+attract_pressanykey	どれかのキーを押してください...
+
+# =============================================================================
+# Help warnings
+# =============================================================================
+
+help_warning_gangleader	刑務所のギャングの1つのリーダーは、現在罰を受けている。どう進めるかは君次第だが、そのギャングのメンバー全員は、罰が与えられている間、かなりの問題を引き起こすだろう。
+help_warning_deathrow	最初の死刑囚が到着した。死刑囚が抗告審できるよう、仮釈放手続き室には、死刑に対する抗告プログラムを必ず設定する必要がある。
+
+
+buildtoolbar_walk_speed_Veryfast	非常に早い
+codex_load_failed_title	刑務所をロード
+schedule_zone_custom	カスタム
+reputation_swimmer	スイマー
+room_Helipad	ヘリポート
+interfacetopbar_tension_hoursonrollcall	+ 囚人達は点呼に怒っている
+codex_load_failed_message	この刑務所のファイルは破損のため読み込めない。
+codex_options_enableturbomode	ターボモードをオンにする
+script_error_critical	問題が発生した
+script_error_critical_msg	ゲームスクリプトを実行中に問題が発生しました。\n\nMODを使用している場合は作成者に連絡してください。それ以外の場合は、debug.txtを含むバグレポートを提出してください。
+report_staff_group_otherstaff	その他
+needs_help_staffwarmth	スタッフが凍えないよう、刑務所にラジエーターを追加して快適に過ごせるようにしよう。
+reputationtooltip_pickpocket	この囚人はスリで、運悪く近くにきた者から相手かまわず盗みを働こうとする。
+reputationtooltip_swimmer	この囚人は水に慣れっこだ。\n水に入っただけで泳ぐ才能を開花させた。\nただし、永遠に泳ぎ続けることはできない。
+object_climbingrope	ロープを登る
+object_banner	バナー
+object_stand	スタンド
+room_dock	波止場
+equipment_rope	ロープ
+banner_tooltip	バナーをクリックして@WarChildUKをサポートする
+banner_donate_text	2018年は第一次世界大戦を終結させた停戦協定から100年目になる。しかし、いまだ現在、歴史上最も多くの子供たちが戦争の影響を受けている。 \n\nWar Child UKとChildren in Conflictに参加し、紛争に苦しむ子供たちの未来が少しでも良くなるように募金活動を行おう。
+banner_donate_confirm	寄付する
+banner_donate_cancel	後で
+causeofdeath_exposure	凍死した
+buildtoolbar_popup_obj_guardtower	スナイパー（別途雇用）が刑務所を監視するための塔。\n\n見張り塔を選択すると、そこに配置したスナイパーの射程距離が表示される。
+buildtoolbar_popup_obj_showerhead	囚人を清潔に保ち、独房の快適度を高める。排水管を追加することを忘れずに。
+buildtoolbar_popup_obj_medicalbed	負傷した職員や囚人の治療に使われる。治療台も禁制品の対象になる。
+buildtoolbar_popup_obj_phonebooth	囚人たちが家族と話をするための電話ボックス。
+buildtoolbar_popup_obj_radio	囚人たちに、好きなボーイバンドを1日中聴かせる。同じ部屋にいるすべての囚人が少しだけ幸せになる。
+buildtoolbar_popup_staff_workman	渡した設計図をもとに、刑務所を建設する。作業員も、建物・アイテムの撤去や、積荷・荷降ろしを行う。
+buildtoolbar_popup_staff_warden	刑務所のボス。刑務所長は、役所仕事をアンロックし、専門職スタッフの採用を可能にする。専門職スタッフは、助成金・警備・防衛オプションを開放する。\n\nまた、刑務所長は刑務所統治もアンロックする。
+buildtoolbar_popup_staff_chief	この専門職スタッフは、武器庫・配備・機密情報・監視体制など、重要なセキュリティオプションにアクセスできる。この職の責任者になると、武装看守やスナイパーを雇うことができるようになる。
+buildtoolbar_popup_staff_foreman	この専門職スタッフは、清掃人や庭師が使えるようになり、新しい「刑務所労働」のオプションも作成できる。
+buildtoolbar_popup_staff_psychologist	この専門職スタッフは、ニーズ報告をアンロックし、囚人満足度の確認ができるようにする。囚人の考えが把握しやすくなる。
+buildtoolbar_popup_staff_accountant	この専門職スタッフは、会計報告書を見ることができる。会計士がいると、より広いスペースが必要な場合に、ローンを組んだり、支払う税金を減らしたり、土地の区画を拡張したりすることができる。
+buildtoolbar_popup_staff_lawyer	この専門職スタッフは、刑務所を管理しやすくするための、柔軟な規則変更を補助する。弁護士は、劣悪な管理体制の影響を和らげる。弁護士の死刑囚への配置は必須だ。
+buildtoolbar_popup_staff_sniper	高度な訓練を受けた狙撃手。見張り塔が空いていると、自主的に登って監視を開始する。刑務所内で問題行動を起こす囚人に複数の威嚇射撃を行い、改善されない場合は射殺する。\n\n脱獄者を発見すると、警告なしで射殺に踏み切る場合もある。発砲許可の有無は、特定の場面での武力行使に影響する。
+needs_help_exercise	囚人の多くは、体型をキープしたいだろう。運動場を追加すると、体型維持を後押しできるぞ。ベンチプレスなどの運動器具も効果がある。運動場や、他の共有エリアに設置できるぞ。
+needs_help_recreation	暇な囚人は、危険な囚人だ。囚人の娯楽ニーズを確認して、暇つぶしになるテレビやラジオを共有エリアに追加するといい。
+needs_help_comfort	囚人だって、身も心も快適でいたいものだ。いろんな方法で、心地よさを提供できる。自由時間を増やしたり、娯楽を増やしてリラックスの機会を増やしてもいいし、単に座って休める場所を確保してもいいぞ。
+needs_help_freedom	刑務所でも、多少の自由は感じたくなるものだ。スケジュールに、自由時間や運動時間を追加するといい。もっと凝って、農業や格闘クラブ、シネマルームを追加しても喜ばれるぞ。
+needs_help_literacy	ただ読書をしたいだけの囚人もいる。図書館を追加すると、本の貸し出しができるぞ。生活スペースに本棚を追加するのも、読書欲を満たすのに効果的だな。
+needs_help_family	ほとんどの囚人は、どうにかして家族と連絡を取りたがる。電話の設置が一番手軽だが、面会施設の効果は絶大だ。郵便室やペットの鳥、ビデオ通話室もいいだろう。
+needs_help_luxuries	囚人の多くは時々、ちょっと贅沢をする。売店を建てて刑務所の利益を多少増やしてもいいし、ペットの鳥を飼うのもいい。贅沢ができると問題行動が減るが、そんなことは気にしなくても問題ない。なんたって、ここは刑務所なんだからな。

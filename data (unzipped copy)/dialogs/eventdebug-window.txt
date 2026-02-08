@@ -1,0 +1,56 @@
+BEGIN Window
+    NAME         EventDebug
+    CAPTION      Event Window
+    WIDTH        400
+    HEIGHT       300
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Absolute        10
+    YPOS        Absolute        30
+    WIDTH       Absolute        380
+    HEIGHT      Absolute        235
+END
+
+BEGIN CheckBox
+    NAME        Extreme
+    XPOS        Absolute        10
+    YPOS        Absolute        270
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     Extreme Event
+    XPOS        Absolute        35
+    YPOS        Absolute        265
+    WIDTH       Absolute        80
+    HEIGHT      Absolute        30
+END
+
+BEGIN Button
+    NAME        runevent
+    CAPTION     Run Event
+    XPOS        Absolute        305
+    YPOS        Absolute        270
+    WIDTH       Absolute        85
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     Test Pre-reqs
+    XPOS        Absolute        165
+    YPOS        Absolute        270
+    WIDTH       Absolute        105
+    HEIGHT      Absolute        20
+END
+
+BEGIN CheckBox
+    NAME        testprereqs
+    XPOS        Absolute        135
+    YPOS        Absolute        270
+    WIDTH       Absolute        25
+    HEIGHT      Absolute        20
+END
+

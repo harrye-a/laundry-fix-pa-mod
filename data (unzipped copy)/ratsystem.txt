@@ -1,0 +1,58 @@
+# ===========================================================
+#   INFESTATION LEVEL VALUES (0 - 1)
+# ===========================================================
+MediumInfestationLevel              10
+HighInfestationLevel                50
+MaxRats                             75
+# ===========================================================
+#    EVENTS
+# ===========================================================
+SystemUpdateInterval                60
+MinimumPrisonersForRatInfestation   20
+MinimumJanitorsForRatInfestation    1
+SpawnTime			                60
+RatFoodPoisoningChance              25
+# ===========================================================
+#   RAT OBJECT
+# ===========================================================
+MovementSpeed                       2
+RatEmergeInterval                   60
+RatEmergeDuration                   15
+RatThinkingDuration                 5
+VisitEmptyCellLiklihood             25
+StealIngredientChance               40
+ChewElectricalCableChance           5
+ChewFenceChance                     5
+SpawnRatDroppingsChanceLow          5
+SpawnRatDroppingsChanceMedium       20
+SpawnRatDroppingsChanceHigh         40
+MinFoodSteal                        3
+MaxFoodSteal                        15
+MaxChewCablesPerDay                 5
+MaxChewFencesPerDay                 5
+# ===========================================================
+#    RAT TRAP OBJECT
+# ===========================================================
+RatTrapEscapeTime                   12
+RatTrapCatchRate                    65
+RatTrapJobCreationTime              60
+# ===========================================================
+#    PEST CONTROL
+# ===========================================================
+PestSprayTolerance                  7
+# ===========================================================
+#    RAT TUNNELS
+# ===========================================================
+RatTunnelTriggerTime                    720
+RatTunnelDiggingSpeed                   0.75
+RatTunnelDetectionChanceDogModifier     1.25
+RatTunnelDetectionChanceSearchModifier  0.75
+RatTunnelSpawnTimeReduceModifier        0.75
+CompletedTunnelInfestationChance        50
+# ===========================================================
+#    Animal Droppings
+# ===========================================================
+TimeToCreateCleanJob                120
+RatDroppingsConditionUpdate         15
+RatDroppingsRadius                  2
+RatDroppingsConditionScaler         10

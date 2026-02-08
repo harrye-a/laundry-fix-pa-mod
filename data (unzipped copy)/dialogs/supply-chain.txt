@@ -1,0 +1,37 @@
+BEGIN Window
+    NAME         SupplyChain
+    WIDTH        600
+    HEIGHT       650
+END
+
+BEGIN Container
+    XPOS        Absolute        15
+    YPOS        Absolute        65
+    WIDTH       Relative        -30
+    HEIGHT      Relative        -100
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Absolute        20
+    YPOS        Absolute        70
+    WIDTH       Relative        -40
+    HEIGHT      Relative        -110
+END
+
+BEGIN Custom
+    NAME        TitleBar
+    XPOS        Absolute        20
+    YPOS        Absolute        35
+    WIDTH       Relative        -40
+    HEIGHT      Absolute        25
+END
+
+BEGIN Button
+    NAME        NextDay
+    XPOS        Absolute        15
+    YPOS        Relative        -30
+    WIDTH       Absolute        100
+    HEIGHT      Absolute        20
+END
+

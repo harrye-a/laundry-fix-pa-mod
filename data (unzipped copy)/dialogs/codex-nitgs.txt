@@ -1,0 +1,142 @@
+BEGIN Window
+    NAME         Codex
+    BACKGROUND   codex.png
+    WIDTH        1000
+    HEIGHT       650
+    PANEL        1
+END
+
+BEGIN Button
+    NAME        Close
+    CAPTION     X
+    XPOS        Scaled          9594
+    YPOS        Scaled          396
+    WIDTH       Scaled          222
+    HEIGHT      Scaled          333
+END
+
+BEGIN Custom
+    NAME        Image
+    XPOS        Scaled          6139
+    YPOS        Scaled          1053
+    WIDTH       Scaled          2450
+    HEIGHT      Scaled          3615
+END
+
+BEGIN InputField
+    NAME        Search
+    XPOS        Scaled          1000
+    YPOS        Scaled          8536
+    WIDTH       Scaled          2649
+    HEIGHT      Scaled          461
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Scaled          1002
+    YPOS        Scaled          2024
+    WIDTH       Scaled          3500
+    HEIGHT      Scaled          5846
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          1047
+    YPOS        Scaled          750
+    WIDTH       Scaled          3400
+    HEIGHT      Scaled          1082
+END
+
+BEGIN Canvas
+    NAME        Description
+    CAPTION     DoB
+    XPOS        Scaled          5721
+    YPOS        Scaled          6042
+    WIDTH       Scaled          3250
+    HEIGHT      Scaled          2307
+END
+
+BEGIN Custom
+    NAME        Selected
+    XPOS        Scaled          5719
+    YPOS        Scaled          4830
+    WIDTH       Scaled          3250
+    HEIGHT      Scaled          615
+END
+
+BEGIN Custom
+    NAME        DoB
+    XPOS        Scaled          6100
+    YPOS        Scaled          5538
+    WIDTH       Scaled          2500
+    HEIGHT      Scaled          307
+END
+
+BEGIN Custom
+    NAME        Clear
+    CAPTION     X
+    XPOS        Scaled          3350
+    YPOS        Scaled          8537
+    WIDTH       Scaled          300
+    HEIGHT      Scaled          461
+END
+
+BEGIN Button
+    NAME        Transfer
+    CAPTION     Transfer
+    XPOS        Scaled          7600
+    YPOS        Scaled          8537
+    WIDTH       Scaled          1350
+    HEIGHT      Scaled          461
+END
+
+BEGIN CheckBox
+    NAME        AvatarCheckbox
+    XPOS        Scaled          5700
+    YPOS        Scaled          8537
+    WIDTH       Absolute        30
+    HEIGHT      Absolute        30
+END
+
+BEGIN Custom
+    NAME        AvatarCaption
+    CAPTION     This is me
+    XPOS        Scaled          6049
+    YPOS        Scaled          8536
+    WIDTH       Scaled          1150
+    HEIGHT      Scaled          461
+END
+
+BEGIN Button
+    NAME        FlagBio
+    CAPTION     !
+    XPOS        Scaled          7249
+    YPOS        Scaled          8537
+    WIDTH       Scaled          300
+    HEIGHT      Scaled          461
+END
+
+BEGIN Custom
+    NAME        FilterCaption
+    XPOS        Scaled          1000
+    YPOS        Scaled          7999
+    WIDTH       Scaled          1000
+    HEIGHT      Scaled          460
+END
+
+BEGIN DropDownMenu
+    NAME        FilterMenu
+    XPOS        Scaled          3700
+    YPOS        Scaled          8537
+    WIDTH       Scaled          800
+    HEIGHT      Scaled          461
+END
+
+BEGIN Custom
+    NAME        Update
+    XPOS        Scaled          2100
+    YPOS        Scaled          8000
+    WIDTH       Scaled          2400
+    HEIGHT      Scaled          461
+END
+

@@ -1,0 +1,1049 @@
+﻿# June27th Update									
+									
+# =============================================================================									
+# Codex									
+# =============================================================================									
+									
+codex_viewchangelog							Registo de alterações completo		
+codex_legal									Legal
+codex_privacy								política de Privacidade
+codex_terms-of-use							termos de uso
+codex_eula									contrato de licença de usuário final						
+									
+# =============================================================================									
+# Interface Mode									
+# =============================================================================									
+									
+interfacemode_wallsanddoors                        			Walls & Doors						
+interfacemode_flooring							Pisos		
+tunnelsearch_underway							PESQUISA DE TÚNEIS EM ANDAMENTO		
+tunnelsearch_found							Túneis		
+moveobjects_prompt							DUPLO CLIQUE: Mover objeto		
+moveobjects_abort							BOTÃO DIREITO: Cancelar movimento 		
+									
+# =============================================================================									
+# Build Toolbar									
+# =============================================================================									
+									
+buildtoolbar_popup_wallsanddoors					Diferentes tipos de paredes e portas				
+buildtoolbar_popup_flooring						Diferentes estilos de pisos			
+buildtoolbar_popup_spawn						Abre o Menu Início.			
+buildtoolbar_tunnelsearch						Pesquisar túneis			
+									
+buildtoolbar_tooltip_tunnelsearch					Suspeitas que está em curso uma tentativa de fuga? Ordena aos guardas para procurar atrás de todas as casas de banho.				
+									
+buildtoolbar_GuardResponse						Resposta dos guardas			
+buildtoolbar_tooltip_GuardResponse					Quando ativada, podes clicar no mapa com o botão esquerdo para chamar os guardas próximos para uma localização. Mais cliques chamam mais guardas. Clica no botão direito para parar.				
+									
+									
+# =============================================================================									
+# New Materials									
+# =============================================================================									
+									
+									
+material_NewTiledWall							Parede com azulejos		
+material_NewBarredWall							Parede de alvenaria		
+material_NewBBlockWall							Parede branca		
+material_NewHedgeWall							Cerca		
+material_NewIronFloor							Piso de ferro		
+material_NewCargoFloor							Piso de carga		
+material_NewCheckeredFloor						Piso de xadrez			
+material_Snow								Neve	
+									
+									
+# =============================================================================									
+# Misc									
+# =============================================================================									
+									
+double_click_select_desc							Duplo clique no botão esquerdo para seguir este *E		
+									
+quickbuild_intermediatecell							Cela melhorada		
+quickbuild_holdingcell								Cela de detenção	
+quickbuild_medical								Médico	
+quickbuild_shop									Loja
+quickbuild_shower								Duche	
+quickbuild_staffroom								Sala dos funcionários	
+quickbuild_workshop								Oficina	
+									
+# =============================================================================									
+# Main Menu									
+# =============================================================================									
+									
+									
+mm_updatenotes_Date								27 de junho de 2019	
+mm_updatenotes_Header								A Atualização Clink	
+mm_updatenotes_01								Adicionados 4 mosaicos e 4 tipos de parede novos.	
+mm_updatenotes_02								Melhorias no desempenho para baixar os tempos de carregamento.	
+mm_updatenotes_03								Aumento no número de capatazes que podem ser contratados, para prisões maiores onde os capazes também ensinam programas.	
+mm_updatenotes_04								Os objetos existentes têm agora todas as suas rotações, com novos efeitos para orientações em falta.	
+mm_updatenotes_05								Novo botão "Resposta dos Guardas" que ordena aos guardas próximos que se desloquem para uma localização, em vez de os jogadores precisarem de contratar guardas adicionais para lidar com os incidentes. 	
+mm_updatenotes_06								Novo botão "Pesquisar Túneis" que ordena aos guardas que procurem túneis em todas as casas de banho.  	
+mm_updatenotes_07								A opção adicional "Salas Rápidas" foi adicionada ao menu "Construção Rápida", para uma construção de salas mais rápida e fácil.	
+mm_updatenotes_08								Seguir prisioneiros e funcionários é agora mais fácil, bastando um duplo clique neles.	
+mm_updatenotes_09								Chegou a habilidade de mover e recolocar objetos! Seleciona e faz duplo clique num objeto.	
+mm_updatenotes_10								Esperamos que gostes de jogar com estas novas melhorias!	
+
+
+
+
+############################### SLAMMER UPDATE ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+
+material_newmud									Lama
+material_yutaniwall								Muro (Yutani)
+
+
+
+
+
+
+
+
+
+
+material_solacofloor							Solaco 
+material_gratefloor								Grelha
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+
+object_snowyconifertree							Árvore (Conífera com Neve)
+
+
+object_palmtree									Árvore (Palmeira)
+object_plant									Planta
+
+object_bush										Arbusto
+
+object_streetlamp								Candeeiro de Rua
+
+object_floodlight								Luz (Holofote)
+
+
+
+
+
+		
+		
+
+object_bleachers								Bancadas
+object_smallbench								Banco (Pequeno)
+object_smalltable								Mesa (Pequena)
+object_showerpillar								Pilar de Chuveiro
+
+
+object_doorMat									Capacho
+
+object_GuardPavilion							Pavilhão dos Guardas
+object_GuardPavilionCorner						Pavilhão dos Guardas (Canto)
+
+object_OfficeChair								Cadeira (Escritório)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+object_visitorDoor								Porta de Visitantes
+object_ironingBoardShort						Tábua de passar (Pequena)
+object_fencegatestaff							Portão (Funcionários)
+object_fencegatestandard						Portão (Normal)
+object_fencegatevisitor							Portão (Visitantes)
+
+
+
+
+
+
+
+
+
+
+
+
+object_walllight								Luz de Parede
+object_securedoor								Porta (Segurança)
+object_secretdoor								Porta (Secreta)
+
+
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_mat_newmud					É lama e é grátis!
+buildtoolbar_popup_mat_yutaniwall				Constrói paredes com um aspeto hi-tech sobre as fundações para criar novas áreas ou divisões. Excelente com o chão Cargo ou Solaco.
+
+buildtoolbar_popup_mat_newbblockwall			Constrói paredes com blocos de cimento sobre as fundações para criar novas áreas ou divisões.
+buildtoolbar_popup_mat_newbarredwall			Constrói secções de paredes com grades sobre as fundações para criar novas áreas ou divisões.
+buildtoolbar_popup_mat_newtiledwall				Constrói paredes com azulejo sobre as fundações para criar novas áreas ou divisões.
+buildtoolbar_popup_mat_newhedgewall				Sebes altas mas fracas. Uma opção mais estética do que de alta segurança.
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_mat_solacofloor				Dá um aspeto hi-tech ao chão da prisão. Fica excelente com paredes Yutani.
+buildtoolbar_popup_mat_gratefloor				Dá um aspeto hi-tech ao chão da prisão.
+buildtoolbar_popup_mat_newcargofloor			Dá um aspeto personalizado ao chão da prisão.
+buildtoolbar_popup_mat_newironfloor				Dá um aspeto personalizado ao chão da prisão.
+buildtoolbar_popup_mat_newcheckeredfloor		Isto provavelmente ficaria bem na tua Cozinha ou Cantina.
+buildtoolbar_popup_mat_snow						É como água, só que mais fria e bonita.
+
+
+
+
+
+buildtoolbar_popup_obj_snowyconifertree			Fica melhor em terreno nevado.
+
+
+buildtoolbar_popup_obj_palmtree					Normalmente cresce em terreno seco, mas agora podes decidir colocar onde quiseres.
+
+
+buildtoolbar_popup_obj_bush						Dá alguma beleza a áreas exteriores.
+
+buildtoolbar_popup_obj_streetlamp				Para iluminar estradas e caminhos.
+
+buildtoolbar_popup_obj_floodlight				Uma luz de exterior alta que pode cobrir áreas grandes como um Pátio.
+
+
+
+
+
+	
+
+
+buildtoolbar_popup_obj_bleachers				Bancadas clássicas de pátio onde os reclusos se podem sentar e decidir o que vão fazer.
+buildtoolbar_popup_obj_smallbench				Onde sentar.
+buildtoolbar_popup_obj_smalltable				Onde comer.
+buildtoolbar_popup_obj_showerpillar				Para posicionar no meio de uma divisão com chuveiros e depois colocar um chuveiro de cada lado.
+
+
+buildtoolbar_popup_obj_doorMat					Um capacho de borracha barato que pode ficar bem em frente a portas de entrada.
+
+
+buildtoolbar_popup_obj_guardPavilion			Coloca no Pátio e em áreas abertas para os guardas e guardas armados vigiarem os prisioneiros.\n	Designa guardas através do menu Ação.\n -Aumenta o nível de Repressão nessa zona.\n -Guardas ficam abrigados das condições meteorológicas.
+buildtoolbar_popup_obj_guardPavilionCorner		Coloca nos cantos do Pátio e em áreas abertas para os guardas e guardas armados vigiarem os prisioneiros.\n	Designa guardas através do menu Ação.\n -Aumenta o nível de Repressão nessa zona.\n -Guardas ficam abrigados das condições meteorológicas.
+
+buildtoolbar_popup_obj_officeChair				Uma cadeira para os funcionários se sentarem centralmente a uma mesa de escritório.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_obj_visitorDoor				Uma porta que permite a passagem dos visitantes da prisão sem necessidade de um guarda abrir a porta. Os guardas e os funcionários também podem usar a porta, mas os prisioneiros não.
+buildtoolbar_popup_obj_ironingBoardShort		Uma tábua de passar mais pequena.
+buildtoolbar_popup_obj_fencegatestaff			Um portão gradeado que funciona da mesma forma que uma porta.
+buildtoolbar_popup_obj_fencegatestandard		Um portão gradeado que funciona da mesma forma que uma porta.
+buildtoolbar_popup_obj_fencegatevisitor			Um portão gradeado que funciona da mesma forma que uma porta.
+
+
+
+
+
+
+
+
+
+
+
+
+buildtoolbar_popup_obj_walllight				Uma luz estilo bunker para colocar nas paredes.
+buildtoolbar_popup_obj_securedoor				Uma porta desenhada para Solitárias que inclui aba para comida. Os guardas que entregam a comida podem passar o tabuleiro pela porta sem terem de entrar na cela.
+
+
+interfacedeployment_guards                      Designa guardas
+buildtoolbar_deployment_Guards			Designa guardas aos setores da prisão.
+	
+interfacedeployment_Dogs			Designa treinadores de cães
+buildtoolbar_deployment_Dogs			Designa treinadores de cães aos setores da prisão.
+
+interfacedeployment_ArmedGuards			Designa guardas armados
+buildtoolbar_deployment_ArmedGuards		Designa guardas armados aos setores da prisão.
+
+interfacedeployment_patrols                     Designa guardas
+buildtoolbar_deployment_Patrols			Designa guardas às rotas de patrulha da prisão.
+
+interfacedeployment_dogpatrols                  Designa treinadores de cães
+buildtoolbar_deployment_DogPatrols		Designa treinadores de cães às rotas de patrulha da prisão.
+
+interfacedeployment_armedpatrols                Designa guardas armados
+buildtoolbar_deployment_ArmedPatrols		Designa guardas armados às rotas de patrulha da prisão.
+
+buildtoolbar_popup_help_Guards_1        A ferramenta de Guardas permite-te colocar Guardas nas zonas. Um guarda destacado move-se aleatoriamente pela zona que lhe foi atribuída e irá realizar quaisquer tarefas de Guarda nessa área, como a abertura de portas.\n\n
+buildtoolbar_popup_help_Guards_2        ~Clica no botão esquerdo do rato para aumentares o número de Treinadores de cães destacados para uma zona. Clica no botão direito do rato para removeres um Guarda.\n\n
+buildtoolbar_popup_help_Guards_3        ^Dicas
+buildtoolbar_popup_help_Guards_4        - Se a Microgestão estiver desbloqueada, terás acesso ao Planeador de Destacamentos. Desta forma, podes criar um horário do destacamento dos guardas para determinadas áreas. Por exemplo, se só quiseres Guardas destacados na Cantina durante o regime de Alimentação, podes clicar em cada bloco do Planeador que se alinha com o teu regime de Alimentação e, em seguida, desloca a barra de deslizamento de tempo para esse bloco e clica na Cantina, para destacar os guardas.
+buildtoolbar_popup_help_Guards_5        - Tens até 7 blocos de tempo diferentes disponíveis para Planeamento, além do modo predefinido Sempre Ativo, o que te permite criar rotinas de destacamento complexas que correspondem às necessidades da tua prisão. 
+buildtoolbar_popup_help_Guards_6        - Se não selecionares manualmente um bloco de tempo ao atribuir Treinadores de cães, o Planeador utiliza o tempo atual; certifica-te de que está selecionado o tempo correto quando trocares o Destacamento!
+
+buildtoolbar_popup_help_Dogs_1        A ferramenta de Treinadores de cães permite-te colocar Treinadores de cães nas zonas. Um guarda destacado move-se aleatoriamente pela zona que lhe foi atribuída e irá realizar quaisquer tarefas de Guarda nessa área, como a abertura de portas.\n\n
+buildtoolbar_popup_help_Dogs_2        ~Clica no botão esquerdo do rato para aumentares o número de Treinadores de cães destacados para uma zona. Clica no botão direito do rato para removeres um Treinador de cão.\n\n
+buildtoolbar_popup_help_Dogs_3        ^Dicas
+buildtoolbar_popup_help_Dogs_4        - Se a Microgestão estiver desbloqueada, terás acesso ao Planeador de Destacamentos. Desta forma, podes criar um horário do destacamento dos treinadores de cães para determinadas áreas. Por exemplo, se só quiseres treinadores de cães destacados na Cantina durante o regime de Alimentação, podes clicar em cada bloco do Planeador que se alinha com o teu regime de Alimentação e, em seguida, desloca a barra de deslizamento de tempo para esse bloco e clica na Cantina, para destacar os treinadores de cães.
+buildtoolbar_popup_help_Dogs_5        - Tens até 7 blocos de tempo diferentes disponíveis para Planeamento, além do modo predefinido Sempre Ativo, o que te permite criar rotinas de destacamento complexas que correspondem às necessidades da tua prisão. 
+buildtoolbar_popup_help_Dogs_6        - Se não selecionares manualmente um bloco de tempo ao atribuir Treinadores de cães, o Planeador utiliza o tempo atual; certifica-te de que está selecionado o tempo correto quando trocares o Destacamento!
+
+buildtoolbar_popup_help_ArmedGuards_1        A ferramenta de Guardas Armados permite-te colocar Guardas Armados nas zonas. Um guarda destacado move-se aleatoriamente pela zona que lhe foi atribuída e irá realizar quaisquer tarefas de Guarda nessa área, como a abertura de portas.\n\n
+buildtoolbar_popup_help_ArmedGuards_2        ~Clica no botão esquerdo do rato para aumentares o número de Guardas destacados para uma zona. Clica no botão direito do rato para removeres um Guarda.\n\n
+buildtoolbar_popup_help_ArmedGuards_3        ^Dicas
+buildtoolbar_popup_help_ArmedGuards_4        - Se a Microgestão estiver desbloqueada, terás acesso ao Planeador de Destacamentos. Desta forma, podes criar um horário do destacamento dos guardas armados para determinadas áreas. Por exemplo, se só quiseres guardas armados destacados na Cantina durante o regime de Alimentação, podes clicar em cada bloco do Planeador que se alinha com o teu regime de Alimentação e, em seguida, desloca a barra de deslizamento de tempo para esse bloco e clica na Cantina, para destacar os guardas armados.
+buildtoolbar_popup_help_ArmedGuards_5        - Tens até 7 blocos de tempo diferentes disponíveis para Planeamento, além do modo predefinido Sempre Ativo, o que te permite criar rotinas de destacamento complexas que correspondem às necessidades da tua prisão. 
+buildtoolbar_popup_help_ArmedGuards_6        - Se não selecionares manualmente um bloco de tempo ao atribuir Guardas Armados, o Planeador utiliza o tempo atual; certifica-te de que está selecionado o tempo correto quando trocares o Destacamento!
+
+interfacedeployment_PrioritizeArea			Dar Prioridade a Área (*X)
+buildtoolbar_deployment_PrioritizeGuard			Usa esta opção para que guardas designados priorizem a cobertura de setores específicos em torno da prisão. Se tiveres pouco pessoal, os guardas vão tentar cobrir primeiro as tuas áreas prioritárias. Duas prioridades estão disponíveis: "Elevada" (>>) e "Muito Elevada" (>>>).
+
+interfacedeployment_BluePatrol				Patrulha Azul
+buildtoolbar_deployment_BluePatrol			As rotas de patrulha coloridas permitem-te sobrepor e atribuir guardas separados a cada uma. Clica e arrasta pra criar uma rota de patrulha Azul. Clica no botão direito e arrasta para limpar uma rota de patrulha Azul. Usa os botões Designar Guardas para adicionar guardas a uma rota de patrulha.
+
+interfacedeployment_MagentaPatrol			Patrulha Magenta
+buildtoolbar_deployment_MagentaPatrol			As rotas de patrulha coloridas permitem-te sobrepor e atribuir guardas separados a cada uma. Clica e arrasta pra criar uma rota de patrulha Magenta. Clica no botão direito e arrasta para limpar uma rota de patrulha Magenta. Usa os botões Designar Guardas para adicionar guardas a uma rota de patrulha.
+
+interfacedeployment_PrioritizePatrol			Prioridade a Patrulha
+buildtoolbar_deployment_PrioritizePatrol		Usa esta opção para que guardas designados priorizem a cobertura de patrulhas específicas em torno da prisão. Se tiveres pouco pessoal, os guardas vão tentar cobrir primeiro as tuas rotas de patrulha prioritárias. Duas prioridades estão disponíveis: "Elevada" (>>) e "Muito Elevada" (>>>).
+
+buildtoolbar_popup_filter_title                 Lista de Filtros
+buiildtoolbar_popup_filter_toggle               Clica no botão para mudar
+buildtoolbar_popup_filter_default               Padrão
+buildtoolbar_popup_filter_az                    A-Z
+buildtoolbar_popup_filter_owned                 Teu
+buildtoolbar_popup_filter_costhighlow           Custo (Alto-Baixo)
+buildtoolbar_popup_filter_costlowhigh           Custo (Baixo-Alto)
+buildtoolbar_popup_filter_indooroutdoor         Interior-Exterior
+buildtoolbar_popup_filter_outdoorindoor         Exterior-Interior
+buildtoolbar_popup_filter_quantity               Quantidade que tens
+buildtoolbar_popup_filter_byroom                Por Setor
+
+
+
+
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+double_click_move_item							DUPLO CLIQUE: Mover Objeto
+
+double_click_add_door							Clica duas vezes no botão esquerdo do rato para adicionar portas.
+
+codex_option_bureaucracyresearched				Burocracia Investigada
+codex_tooltip_bureaucracyresearched				Inicia um novo jogo com toda a árvore de Burocracia investigada.
+
+codex_option_jungle						Terreno de Selva
+codex_tooltip_jungle						Gera um terreno inicial que se assemelha a uma selva densa.
+
+codex_option_snowy						Terreno de Neve
+codex_tooltip_snowy						Gera um terreno inicial coberto de neve.
+
+# =============================================================================
+# Misc
+# =============================================================================
+action_WashSmall								A lavar
+
+action_Stretching								A exercitar
+action_PlayChess								A jogar xadrez
+
+
+plant_tree_location								Planta Árvore em *X
+
+report_intake_cat_SuperMax							SuperMax
+
+interface_undo							Desfazer
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_save_failed                               Falha ao guardar a prisão.
+codex_changelog_next                            Seguinte >
+codex_changelog_prev                            < Anterior
+codex_credits                                   Créditos
+
+codex_options_screenshotmode					Modo Captura de Ecrã
+codex_tooltip_screenshotmode					Durante o Modo Captura de Ecrã, mantém premida a TECLA [*K] e prime [*E], para ativar/desativar TODA A UI e HUD.
+codex_sso_content_message						Inscreveste-te com sucesso numa Conta Paradox.\n\nComo agradecimento, estão desbloqueadas no jogo novas torres do Pavilhão dos Guardas! Encontra-as no menu Objetos.
+codex_options_borderless_windowed               Sem Margem
+codex_options_monitor                           Monitor
+
+
+# =============================================================================
+# Things from Gaz that we might be able to squeeze in, that would be useful to translate please
+# =============================================================================
+
+codex_options_display_mode              	Modo de Exibição 
+codex_options_borderless_fullscreen		Ecrã completo sem margem
+codex_options_display_monitor 			Monitor de exibição 
+codex_options_windowed_resolution               Resolução em Modo Janela
+
+############################### PSYCH WARD UPDATE ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+material_artdecowall							Parede (Art Deco)
+material_blueWall								Parede Elegante (Riscas azuis)
+material_burgundyWall							Parede Elegante (Bordô)
+material_greenWall								Parede Elegante (Verde)
+material_orientalWall							Parede (Oriental)
+material_cushionedwall							Parede (Almofadada)
+
+material_sandstone								Grés 
+material_limestonefloor							Calcário 
+material_blueCarpet								Alcatifa (Azul)
+material_redCarpet								Alcatifa (Vermelha)
+material_brownCarpet							Alcatifa (Castanha)
+material_paddedfloor							Almofadado
+material_grassstones							Relva e pedras
+material_grasscornerfloor						Canto relvado
+material_grasscornerfloor1						Canto relvado
+material_grasscornerfloor2						Canto relvado
+material_grasscornerfloor3						Canto relvado
+material_lunarfloor								Lunar
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+object_spookytree								Árvore (Assustadora)
+object_cactustree								Árvore (Cato)
+object_sakuratree								Árvore (Sakura)
+object_plantcactus								Planta (Cato)
+object_tyrestack								Pilha de pneus
+object_lamp										Luz (Candeeiro)
+object_bathroomSink								Lavatório
+object_bathroomHandDryer						Secador de mãos
+object_chestOfDrawers							Cómoda
+object_woodenStool								Banco de madeira
+object_woodenTable								Mesa de madeira			
+object_bucket									Balde
+object_shortbookcase							Estante (Baixa)
+object_outdoorTable								Mesa de exterior
+object_mooseHead								Cabeça de alce
+object_toiletSign								Placa (Casa de banho)
+object_rightArrowSign							Placa (Seta para a direita)
+object_leftArrowSign							Placa (Seta para a esquerda)
+object_infirmarySign							Placa (Enfermaria)
+object_canteenSign								Placa (Cantina)
+object_showerSign								Placa (Duches)
+object_armourySign								Placa (Arsenal)
+object_jaildoorred								Porta de barra (vermelhas)
+object_jaildoorgrey								Porta de barra (cinzentas)
+object_jaildoororange							Porta de barra (laranja)
+object_jaildoorYellow							Porta de barra (amarelas)
+object_jaildoorlargered							Porta de barra grande (vermelhas)
+object_jaildoorlargegrey						Porta de barra grande (cinzentas)
+object_jaildoorlargeorange						Porta de barra grande (laranja)
+object_jaildoorlargeyellow						Porta de barra grande (amarelas)
+object_coatstand								Cabide
+object_dogbowl									Tigela de cão
+object_footbridge                               Ponte pedonal
+object_footbridgesteel                          Ponte pedonal de aço
+object_footbridgeb                              Ponte pedonal B
+object_footbridgesteelb                         Ponte pedonal de aço B
+object_windowclassy								Janela elegante
+object_windowclassyLarge						Janela elegante (Grande)
+object_gravestone								Lápide
+object_psychiatrist								Psiquiatra
+object_orderly									Auxiliar
+object_rorschachTest							Teste de Rorschach
+object_anatomyModel								Modelo anatómico
+object_flipboard								Quadro
+object_medicineCabinetPsych						Armário de medicamentos
+object_leatherchair								Cadeira de couro
+object_leatherSofa								Sofá em couro
+object_parkbench								Banco (Parque)
+object_fencegateguard							Portão (Guardas)
+object_oaktable									Mesa (Carvalho)
+object_oakbench									Banco (Carvalho)
+object_BoomBoxRoundHouse						Caixa de som
+
+object_classic									Clássico
+object_dalmation								Dálmata
+object_husky									Husky
+object_companion								Cão de companhia
+object_cat										Gato
+object_direwoof									Lobo pré-histórico
+
+equipment_fountainPen							Caneta de tinta permanente
+equipment_goldPocketWatch						Relógio de bolso em ouro
+equipment_sedativeShot							Injeção de sedativo (Seringa)
+equipment_sedativesyringe						Sedativo (Seringa)
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_mat_artdecowall				Constrói paredes Art Deco para dar à prisão um visual arquitetónico da década de 1920.
+buildtoolbar_popup_mat_blueWall					Constrói paredes elegantes sobre as fundações para criar novas áreas ou divisões para o pessoal.
+buildtoolbar_popup_mat_burgundywall				Constrói paredes elegantes sobre as fundações para criar novas áreas ou divisões para o pessoal.
+buildtoolbar_popup_mat_greenwall				Constrói paredes elegantes sobre as fundações para criar novas áreas ou divisões para o pessoal.
+buildtoolbar_popup_mat_orientalwall				Constrói paredes orientais para criar áreas na prisão com um toque japonês antigo.
+buildtoolbar_popup_mat_cushionedwall			Constrói secções de paredes sobre as fundações para criar novas áreas ou divisões com um aspeto luxuoso, em pele.
+buildtoolbar_popup_mat_sandstone				Assenta lajes de grés nas zonas exteriores.
+buildtoolbar_popup_mat_limestonefloor			O chão parece rocha calcária gasta.
+buildtoolbar_popup_mat_blueCarpet				Coloca uma alcatifa confortável. Ideal para uma zona de funcionários.
+buildtoolbar_popup_mat_redCarpet				Coloca uma alcatifa confortável. Ideal para uma zona de funcionários.
+buildtoolbar_popup_mat_brownCarpet				Coloca uma alcatifa confortável. Ideal para uma zona de funcionários.
+buildtoolbar_popup_mat_paddedfloor				Combina com as paredes almofadadas para criar uma célula totalmente almofadada para reclusos criminalmente loucos.
+buildtoolbar_popup_mat_grassstones				Uma área relvada com lajes.
+buildtoolbar_popup_mat_grassscornerfloor		Um canto relvado com terra. Útil para caminhos inclinados.
+buildtoolbar_popup_mat_lunarfloor				Uma superfície rochosa com aspeto interestelar.
+buildtoolbar_popup_obj_spookytree				Uma velha árvore sinistra.
+buildtoolbar_popup_obj_cactustree				Fica melhor em terreno seco.
+buildtoolbar_popup_obj_sakuratree				Uma linda cerejeira-do-japão em flor.
+buildtoolbar_popup_obj_plant					Uma agradável planta caseira.
+buildtoolbar_popup_obj_plantcactus				Um cato envasado para interior.
+buildtoolbar_popup_obj_tyrestack				Serve como pequeno muro que os prisioneiros e os funcionários contornam.
+buildtoolbar_popup_obj_lamp						Um candeeiro ornamental, perfeito para escritórios e zonas de funcionários.
+buildtoolbar_popup_obj_bathroomSink				Nenhuma casa de banho com higiene dispensa um.
+buildtoolbar_popup_obj_bathroomHandDryer		Fica perfeito com o lavatório.
+buildtoolbar_popup_obj_chestOfDrawers			Uma cómoda de madeira.
+buildtoolbar_popup_obj_woodenStool				Fica perfeito com uma mesa de madeira.
+buildtoolbar_popup_obj_woodenTable				Fica perfeita com um banco de madeira	
+buildtoolbar_popup_obj_bucket					Só um balde.
+buildtoolbar_popup_obj_shortbookcase			Uma estante mais baixa para arrumar livros.
+buildtoolbar_popup_obj_outdoorTable				Para os prisioneiros se sentarem a comer no exterior.
+buildtoolbar_popup_obj_mooseHead				Uma linda cabeça de alce numa placa.
+buildtoolbar_popup_obj_toiletSign				Uma placa com um símbolo de casa de banho.
+buildtoolbar_popup_obj_rightArrowSign			Uma placa com uma seta para a direita.
+buildtoolbar_popup_obj_leftArrowSign			Uma placa com uma seta para a esquerda.
+buildtoolbar_popup_obj_infirmarySign			Uma placa com um símbolo de enfermaria.
+buildtoolbar_popup_obj_canteenSign				Uma placa com um símbolo de cantina.
+buildtoolbar_popup_obj_showerSign				Uma placa com um símbolo de duches.
+buildtoolbar_popup_obj_armourySign				Uma placa com um símbolo de arsenal.
+buildtoolbar_popup_obj_jaildoorred				Uma porta de barra colorida para ajudar a identificar blocos de Segurança Máxima.
+buildtoolbar_popup_obj_jaildoorgrey				Uma porta de barra colorida para ajudar a identificar blocos de Segurança Mínima.
+buildtoolbar_popup_obj_jaildoororange			Uma porta de barra colorida para ajudar a identificar blocos de Segurança Média.
+buildtoolbar_popup_obj_jaildooryellow			Uma porta de barra colorida para ajudar a identificar blocos de Prisão Preventiva.
+buildtoolbar_popup_obj_jaildoorlargered			Uma porta de barra grande colorida para ajudar a identificar blocos de Segurança Máxima.
+buildtoolbar_popup_obj_jaildoorlargegrey		Uma porta de barra grande colorida para ajudar a identificar blocos de Segurança Mínima.
+buildtoolbar_popup_obj_jaildoorlargeorange		Uma porta de barra grande colorida para ajudar a identificar blocos de Segurança Média.
+buildtoolbar_popup_obj_jaildoorlargeYellow		Uma porta de barra grande colorida para ajudar a identificar blocos de Prisão Preventiva.
+buildtoolbar_popup_obj_coatstand				Local onde ficam pendurados os casacos e chapéus dos funcionários.
+buildtoolbar_popup_obj_dogbowl					Onde se coloca a água e a comida dos cães de guarda cansados.\nAumenta ligeiramente o vigor do cão.
+buildtoolbar_popup_obj_secretdoor				Uma porta oculta disfarçada de estante, que desliza para permitir a passagem dos funcionários.
+buildtoolbar_popup_obj_parkbench				Um banco de exterior.
+buildtoolbar_popup_obj_fencegateguard			Um portão gradeado que só os guardas podem abrir.
+buildtoolbar_popup_obj_oaktable					Onde comer.
+buildtoolbar_popup_obj_oakbench					Onde sentar. Fica bem com a mesa de carvalho.
+
+buildtoolbar_popup_obj_classic					O cão de guarda original, velho mas experiente.
+buildtoolbar_popup_obj_dalmation				Costumava viver numa quinta, mas agora trabalha na prevenção de fugas.
+buildtoolbar_popup_obj_husky					Uma armadilha mortal para um fugitivo que se mova na neve.
+buildtoolbar_popup_obj_companion				O melhor amigo de um guarda.
+buildtoolbar_popup_obj_cat						Nem toda a gente gosta de cães.
+buildtoolbar_popup_obj_direwoof					Quem se atreveria sequer a fugir?
+
+buildtoolbar_popup_filter_mostused				Mais usado
+buildtoolbar_caters_safety						Trata da necessidade de segurança.
+
+interfacedeployment_orderly						Designa auxiliares
+buildtoolbar_deployment_orderly					Designa auxiliares para os setores da prisão.
+
+interfacedeployment_orderlypatrols				Designa auxiliares
+buildtoolbar_deployment_orderlypatrols			Designa auxiliares para as rotas de patrulha da prisão.
+
+room_PaddedCell                                Cela almofadada
+room_PaddedHoldingCell                         Cela temporária almofadada
+room_PsychiatristOffice							Gabinete de psiquiatria
+
+interfaceplanning_BuildPlan			Construir planos
+interfaceplanning_ClearPlan			Limpar planos
+interfaceplanning_Door				Portas
+
+buildtoolbar_improvement						- Melhora a classificação de *R
+buildtoolbar_improvement_windows				 (quando de frente para o exterior)
+
+buildplan_title					Seleção do tipo de parede			
+buildplan_message				Estás a postos para construir o teu plano?\n	Esta ação não pode ser anulada.\n\n	Todas as paredes planeadas serão construídas com o mesmo tipo de parede.\n	Podes alterar o tipo de parede abaixo.
+clearplan_title					Limpar planos
+clearplan_message				Queres mesmo limpar todos os planos desenhados?\n \n	Esta ação não pode ser anulada.
+
+d11_custom_planning 				Planeamento personalizado
+
+buildtoolbar_popup_planning			Planeia a prisão sem medo dos operários realmente construírem, até estares a postos. O Menu de Planeamento permite-te optar entre: construir todas as estruturas e portas planeadas; eliminar secções dos planos; ou limpar todo o plano e recomeçar.
+
+buildtoolbar_popup_help_planningDoor_1		O tipo de porta escolhido será usado quando colocares uma porta no teu plano.
+buildtoolbar_popup_help_quickBuildWall_1	O tipo de parede escolhido será usado na próxima Construção Rápida
+
+
+buildtoolbar_popup_mat_blueclassywall			Constrói paredes elegantes sobre as fundações para criar novas áreas ou divisões para o pessoal.
+buildtoolbar_popup_mat_burgundyclassywall		Constrói paredes elegantes sobre as fundações para criar novas áreas ou divisões para o pessoal.
+buildtoolbar_popup_mat_greenclassywall			Constrói paredes elegantes sobre as fundações para criar novas áreas ou divisões para o pessoal.
+
+buildtoolbar_popup_obj_windowclassy				Torna o exterior muito mais bonito do que realmente é.
+buildtoolbar_popup_obj_windowclassyLarge		Torna o exterior muito mais bonito do que realmente é.
+buildtoolbar_popup_obj_gravestone				É fornecida uma lápide por cada morte que ocorra na prisão.
+
+buildtoolbar_popup_staff_psychiatrist			Funcionário especializado que consulta regularmente os reclusos criminalmente loucos.\nQuando a prisão tem em vigor um programa de consultas psiquiátricas, os psiquiatras efetuam sessões individuais regulares para ajudar a acalmar os prisioneiros criminalmente loucos. \nSe houver muitos prisioneiros criminalmente loucos, é preciso contratar alguns psiquiatras para dar apoio a todos. Cada um deles precisa de um gabinete.
+
+buildtoolbar_popup_staff_orderly				Funcionários médicos, treinados para lidar com os criminalmente loucos.
+buildtoolbar_popup_obj_leatherchair				Combina com o sofá em couro. Perfeito para os funcionários se sentarem e bom demais para os prisioneiros.
+
+buildtoolbar_popup_obj_rorschachTest		    Adicionar um teste de Rorschach ao gabinete de psiquiatria melhorará o tratamento dado pelo psiquiatra aos reclusos criminalmente loucos.
+buildtoolbar_popup_obj_anatomyModel				Adicionar um modelo anatómico ao gabinete de psiquiatria melhorará o tratamento dado pelo psiquiatra aos reclusos criminalmente loucos.
+buildtoolbar_popup_obj_flipboard				Adicionar um quadro com um mapa do cérebro ao gabinete de psiquiatria melhorará o tratamento dado pelo psiquiatra aos reclusos criminalmente loucos.
+buildtoolbar_popup_obj_medicineCabinetPsych		Adicionar um armário de medicamentos ao gabinete de psiquiatria melhorará o tratamento dado pelo psiquiatra aos reclusos criminalmente loucos.
+buildtoolbar_popup_obj_leatherchair				Combina com o sofá em couro. Perfeito para os funcionários se sentarem e bom demais para os prisioneiros.
+buildtoolbar_popup_obj_leatherSofa				Adicionar uma sofá em couro clássico ao gabinete de psiquiatria melhorará o tratamento dado pelo psiquiatra aos reclusos criminalmente loucos.
+
+buildtoolbar_deployment_insaneseczone			Só os prisioneiros criminalmente loucos poderão entrar neste setor.
+
+failuremessage_maximumcountreachedgeneric		Quantidade máx. colocada
+
+buildtoolbar_popup_locked_PsychiatricConsultation				Desbloqueada após mais *B sessões psiquiátricas
+buildtoobar_PsychConItemImproveInfo 			- Melhora a classificação do gabinete de psiquiatria.
+buildtoobar_PsychConItemImproveSuppression 		- Após uma consulta, reduz a repressão e certas necessidades\ndos reclusos criminalmente loucos em +5%
+buildtoobar_PsychConItemImproveGrace 			- Após uma consulta, concede um ‘estado de graça’ de mais 1 dia\na um recluso criminalmente louco,\nantes de voltarem a aumentar a repressão e certas necessidades.
+buildtoolbar_popup_obj_Footbridge				Permite que os reclusos e os funcionários cruzem áreas de terra e água. Não pode ser construída sobre muros, grades e outros edifícios.
+buildtoolbar_popup_obj_FootbridgeSteel			Permite que os reclusos e os funcionários cruzem áreas de terra e água. Não pode ser construída sobre muros, grades e outros edifícios.
+buildtoolbar_popup_obj_FootbridgeB				Permite que os reclusos e os funcionários cruzem áreas de terra e água. Não pode ser construída sobre muros, grades e outros edifícios.
+buildtoolbar_popup_obj_FootbridgeSteelB			Permite que os reclusos e os funcionários cruzem áreas de terra e água. Não pode ser construída sobre muros, grades e outros edifícios.
+buildtoolbar_popup_obj_BoomBoxRoundHouse		Permite aos prisioneiros ouvir as suas boys band preferidas durante o dia. Torna todos os prisioneiros na mesma divisão ligeiramente mais felizes.
+# =============================================================================
+# Room - Names
+# =============================================================================
+
+room_PaddedSolitary                            Cela solitária almofadada
+
+# =============================================================================
+# Room - Description
+# =============================================================================
+
+buildtoolbar_popup_room_paddedcell			    Destinada a reclusos criminalmente loucos, com paredes almofadadas que produzem um efeito calmante.
+buildtoolbar_popup_room_paddedholdingcell	    Onde os novos reclusos criminalmente loucos são colocados antes de estarem preparadas as celas almofadadas permanentes.
+buildtoolbar_popup_room_paddedsolitary			    Uma forma isolada de detenção para os piores reclusos criminalmente loucos.
+
+# =============================================================================
+# Quick Build - Names
+# =============================================================================
+
+quickbuild_paddedbasiccell									Almofadada (Pequena)
+quickbuild_paddedintermediatecell							Almofadada (Média)
+quickbuild_paddedholdingcell								Cela temporária almofadada
+quickbuild_paddedsolitarycell								Cela solitária almofadada
+quickbuild_PsychiatristOffice								Gabinete de psiquiatria
+
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacedeployment_insaneseczone                  Apenas para Loucos
+interfacetopbar_PrisonerCells_insaneSecOnly	Lotação Criminalmente Loucos: *X
+
+roomgrading_PsychiatristOffice_info				Desbloqueia e coloca objetos adicionais no gabinete de psiquiatria para melhorar o tratamento dos reclusos criminalmente loucos.\n
+												Items are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+roomgrading_PsychiatristOffice_Item				Objeto: *X
+roomgrading_PsychiatristOffice_Quality			Competência do psiquiatra: *Q
+roomgrading_PsychiatristOffice_Upgrade			Melhora o gabinete de psiquiatria para melhorar a competência.
+
+roomgrading_score_average		MÉDIA
+roomgrading_score_good			BOA
+roomgrading_score_verygood		MUITO BOA
+roomgrading_score_outstanding	FENOMENAL
+
+# =============================================================================
+# Objectives, Grants
+# =============================================================================
+
+objective_grant_firstinsanecellblock				Ala dos Criminalmente Loucos
+objective_grant_firstinsanecellblock_description	O governo está disposto a financiar a expansão da prisão de modo a acomodar e proteger o bem-estar dos reclusos criminalmente loucos.\n\nEste apoio ajudará na construção de celas almofadadas especiais e na contratação de psiquiatras especializados.
+objective_grant_firstinsanecellblock_cells			Constrói uma ala/um bloco para os criminalmente loucos com 10 celas almofadadas
+objective_grant_firstinsanecellblock_prisoners		Admite 10 prisioneiros criminalmente loucos
+objective_grant_firstinsanecellblock_psychiatrist	Contrata 2 psiquiatras (cada um requer um gabinete)
+
+objective_readinsaneletter						Diretivas do Diretor relativas a reclusos criminalmente loucos
+objective_readinsaneletter_description			Antes de aceitarmos reclusos criminalmente loucos na nossa prisão, temos de prepará-la com o pessoal e as instalações adequadas para cuidar devidamente das suas necessidades - O Diretor...
+
+# =============================================================================
+# Wardens
+# =============================================================================
+
+warden_wardeninsanehawk_name                     Hawk Hartman
+warden_wardeninsanehawk_desc                     Como antigo agente de fianças, Hartman transmite técnicas valiosas à sua equipa de segurança.\n\n - Todos os guardas deixam cair as chaves menos vezes\n - O vigor de um guarda é reposto após a admissão
+warden_wardeninsanehawk_desc_short               - O vigor de um guarda é reposto após a admissão.
+
+warden_wardeninsaneslugworth_name                Dr. Slugworth
+warden_wardeninsaneslugworth_desc                Quando todas as outras prisões os recusaram, Slugworth abriu as portas aos piores reclusos criminalmente loucos que há, na esperança de poder ajudá-los.\n\n - Os tratamentos psiquiátricos são 20% mais positivos\n - As probabilidades de receber reclusos psicopatas é mais elevada!
+warden_wardeninsaneslugworth_desc_short          - Aceita mais reclusos psicopatas. Os psiquiatras proporcionam melhor tratamento.
+
+warden_wardeninsanehudson_name					 Dr. Hudson
+warden_wardeninsanehudson_desc                   O Dr. Hudson está preparado para fazer o que nenhum outro diretor consegue...\n\n - Os serviços de emergência trabalham 20% mais depressa e chegam mais cedo\n - Os custos das reparações diminuem em 10%
+warden_wardeninsanehudson_desc_short             - Tempos de resposta mais rápidos e redução dos custos de reparação.
+
+# =============================================================================
+# Victory, failures
+# =============================================================================
+
+victory_insaneprisonersdeaths					 Mortes de reclusos loucos
+victory_warning_insaneprisonersdeaths			 Se demasiados reclusos loucos morrerem, vais para o olho da rua.
+victory_insaneprisonersdeaths_units				 Mortes
+
+victory_insaneprisonersabused					 Ataques a reclusos loucos
+victory_warning_insaneprisonersabused			 Se demasiados reclusos loucos forem atacados pelos guardas, vais para o olho da rua.
+victory_insaneprisonersabused_units				 Ataques
+
+victory_adviserwarning_insaneprisonersdeaths1	 Não podemos continuar a permitir que os nossos reclusos criminalmente loucos sejam alvo de abusos na nossa prisão! A comunicação social vai crucificar-nos, se não travarmos isto!
+victory_advisernotice_insaneprisonersdeaths1	 Basta! Não dá! Devias cuidar do bem-estar de pessoas com problemas mentais e, ao invés, permitiste que sofressem crueldades indescritíveis. Vais para o olho da rua, mas sugiro que repenses as tuas escolhas de vida quando chegares a casa.
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_option_criminallyinsane					Reclusos Criminalmente Loucos
+
+codex_tooltip_criminallyinsane					Lida com reclusos que se sentem constantemente reprimidos e precisam de celas almofadadas e acompanhamento psiquiátrico para diminuir as suas necessidades de privacidade, conforto, segurança e liberdade, antes de terem surtos. Ativar esta definição também permitirá que reclusos normais se tornem loucos na prisão, caso as suas necessidades não sejam satisfeitas. Podes desativar os reclusos que se tornam criminalmente loucos nas Definições do Mapa.
+
+codex_prisoner_biography_NITG					Biografia personalizada criada pelo jogador
+codex_options_InsaneGauge						Indicadores Superiores em Reclusos
+
+codex_option_desert								Terreno Desértico
+codex_tooltip_desert							Gera um terreno inicial que se assemelha a um deserto arenoso.
+
+codex_options_rendercolours						Sobreposições de Setores com Cores
+
+codex_new_selectdog								Escolhe Cães de Guarda
+
+codex_option_prisonerTurning					Reclusos podem tornar-se Criminalmente Loucos
+
+# =============================================================================
+# Rapsheet
+# =============================================================================
+
+rapsheet_category_insane						Criminalmente Louco
+rapsheet_insane_bio_desc                        Os reclusos criminalmente loucos sentem um nível de repressão constante e precisam de celas almofadadas e acompanhamento psiquiátrico para se manterem calmos.\n\nQuando ficam transtornados, podem atacar os funcionários, causar danos na prisão ou tentar fugir, a par de outros comportamentos imprevisíveis.
+
+reputation_Weak                                 Fraco
+reputation_Insomniac                            Insónias
+reputation_Depressed                            Deprimido
+reputation_Outbreaks                            Surtos
+reputation_Sickness                             Doença
+reputation_Hyperactive                          Hiperativo
+reputation_Addict                               Viciado
+reputation_Claustrophobic                       Claustrofóbico
+reputation_ExtremelyStoical                     Extremamente inabalável
+reputation_ExtremelyVolatile                    Extremamente instável
+reputation_Psychopathic                         Psicopata
+reputation_Insane                               Criminalmente Louco
+
+reputationtooltip_Weak                          Este prisioneiro é mais fraco, sairá maltratado de uma luta e, como tal, é mais suscetível a ferimentos.
+reputationtooltip_Insomniac                     Este prisioneiro precisa de dormir pouco.
+reputationtooltip_Depressed                     Este prisioneiro move-se mais devagar quando se sente reprimido e sem tratamento.
+reputationtooltip_Outbreaks                     Este prisioneiro tende a ter surtos violentos e danifica o ambiente em seu redor quando se sente reprimido e sem tratamento.
+reputationtooltip_Sickness                      Este prisioneiro tende a vomitar ou a conspurcar-se quando se sente reprimido e sem tratamento.
+reputationtooltip_Hyperactive                   Move-se muito mais depressa quando se sente reprimido e sem tratamento.
+reputationtooltip_Addict                        Este prisioneiro tem maior tendência a viciar-se em drogas quando se sente reprimido e sem tratamento.
+reputationtooltip_Claustrophobic                O desejo de fugir deste prisioneiro é muito superior quando se sente reprimido e sem tratamento.
+reputationtooltip_ExtremelyStoical              Este prisioneiro não ficará reprimido quando trancado na solitária ou na presença de guardas. Ele não quer saber de nada.
+reputationtooltip_ExtremelyVolatile             Fica de olho neste. Qualquer coisa pode dar-lhe a volta à cabeça e tornar tudo muito mau em menos de nada.
+reputationtooltip_Psychopathic                  Este prisioneiro é muito mais perigoso e imprevisível do que outros reclusos criminalmente loucos.
+reputationtooltip_Insane                        Certifica-te de que este recluso tem acesso a consultas com um psiquiatra e a uma cela almofadada para se acalmar.
+
+# =============================================================================
+# Reports
+# =============================================================================
+
+report_intake_cat_insane						Criminalmente Louco
+report_intake_list_tooltip_insane				Os reclusos criminalmente loucos sentem um nível de repressão constante e precisam de novas celas almofadadas e acompanhamento psiquiátrico para diminuir as suas necessidades de privacidade, conforto, segurança e liberdade.\n\nNão podes acolher reclusos criminalmente loucos até teres celas almofadadas prontas ou uma cela temporária almofadada.\n\nAs celas normais podem ser convertidas em celas almofadadas no menu Setores.
+report_intake_insane_intake_empty				De momento, não é possível aceitar reclusos criminalmente loucos.\n Tens de construir celas almofadadas ou celas temporárias almofadadas.\nAs celas normais podem ser convertidas em celas almofadadas no menu Setores.
+report_staff_group_prisoners_insane				Criminalmente Louco
+report_Criminally_Insane						Criminalmente Louco
+report_Pyschopathic								Psicopata
+
+report_intake_enable_insane					Ativar
+report_intake_psychward_title					Ala Psiquiátrica: Edição de Diretor
+report_intake_psychward_tooltip					Ativa o modo de jogo Ala Psiquiátrica: Edição de Diretor para esta prisão.\n\nIsto permite-te aceitar reclusos criminalmente loucos, mas primeiro tens de preparar a prisão.\n\nPsiquiatras e auxiliares podem ser pesquisados e contratados. Celas almofadadas e celas temporárias almofadadas têm de ser criadas.\n\nTanto os psiquiatras como as celas almofadadas ajudarão a manter os teus reclusos criminalmente loucos calmos e sob controlo. 
+
+reformerror_no_psychiatrist					SEM PSIQUIATRA
+reform_completion_psychiatrist              - *X Concluídos - *Y Tratados (*P%)
+report_staff_group_orderlies				Auxiliares
+
+# =============================================================================
+# Research
+# =============================================================================
+research_Orderly							Auxiliar
+research_Psychiatrist							Psiquiatra
+                     
+researchtooltip_Orderly							Os guardas normais estão proibidos de atacar reclusos criminalmente loucos, porque podem magoá-los nesse processo.\nOs auxiliares recebem formação especial para controlar os criminalmente loucos sem os magoar.\nOs auxiliares também vão vestir coletes de forças aos reclusos psicopatas à noite, para impedir que estes se magoem no período da noite.
+researchtooltip_Psychiatrist					Funcionário especializado que consulta regularmente os reclusos criminalmente loucos.\nQuando a prisão tem em vigor um programa de consultas psiquiátricas, os psiquiatras efetuam sessões individuais regulares para ajudar a acalmar os prisioneiros criminalmente loucos. \nSe houver muitos prisioneiros criminalmente loucos, é preciso contratar alguns psiquiatras para dar apoio a todos. Cada um deles precisa de um gabinete de psiquiatria.
+
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+doortimer_security_Insane			            Louco
+
+buildtoolbar_header_foundationmain				Principal
+buildtoolbar_header_foundationmore				Mais
+
+reformprogram_PsychiatricConsultation			Consulta Psiquiátrica
+reformprogram_PsychiatricConsultation_text		Todos os reclusos criminalmente loucos requerem sessões individuais regulares com o psiquiatra para se acalmarem e reduzirem a sua sensação crescente de repressão. A inexistência de um psiquiatra pode despoletar surtos violentos e outras reações únicas nestes prisioneiros.
+reform_program_properties_NeedToBeEscorted		Os reclusos podem precisar de ser escoltados até estas sessões.
+reform_program_intake_insane				Apenas reclusos criminalmente loucos.
+
+insane_letter									Caro Senhor/Cara Senhora\n\n\nEis algumas diretivas importantes para assegurar que possui as instalações e os funcionários adequados para cuidar devidamente de reclusos criminalmente loucos.\n\n1. Os reclusos criminalmente loucos têm de ter celas almofadadas. Pode transformar celas normais em celas almofadadas (no menu Setores). Quando tiver celas almofadadas, poderá aceitar o primeiro grupo de reclusos.\n\n2. Certifique-se de que contratou psiquiatras e auxiliares. Os psiquiatras vão necessitar de um gabinete próprio.\n\n3. Crie programas de Consulta Psiquiátrica para os reclusos criminalmente loucos. Estas sessões individuais com um psiquiatra (e células almofadadas) ajudam a manter os reclusos sob controlo. Melhorar o gabinete de psiquiatria melhora a capacidade de tratamento dos psiquiatras.\n\n4. Se não for tratado nem acompanhado, um recluso criminalmente louco pode exibir comportamentos imprevisíveis, tentar fugir e tornar-se violento.\n\n5. Os auxiliares vão ajudar a escoltar e a curar os reclusos e não os reprimem como os guardas normais. Também serão necessários auxiliares para vestir os coletes de forças aos reclusos criminalmente loucos ao fim do dia. \n\n6. Misturar reclusos criminalmente loucos com outros pode gerar problemas. É boa ideia construir setores só para os loucos em cantinas, pátios e outras áreas. Também convém que os gabinetes de psiquiatria se situem perto dos blocos dos loucos.\n\n7. Por fim, reclusos de outros níveis de segurança têm agora a possibilidade de se tornarem criminalmente loucos, pelo que deve permanecer alerta\n\nO Diretor,\nPrison Architects Corp
+
+job_StraitJacket                         Aplicar/Remover Colete de Forças
+job_EscortInsane                         Escoltar Recluso Louco
+status_effect_sedated					Sedado
+
+orderly_description                     Os auxiliares recebem formação especial para controlar e sedar (em caso de necessidade) reclusos criminalmente loucos.
+pyschiatrist_description                TODOS os reclusos criminalmente loucos precisam de consultas individuais regulares com um psiquiatra. Acrescenta as consultas psiquiátricas através do menu Programas.
+
+insanetooltip_status                    Estado: *X
+insanetooltip_status_level0             CALMO
+insanetooltip_status_level1             AGITADO
+insanetooltip_status_level2             INSTÁVEL
+insanetooltip_status_level3             TRANSTORNADO!
+insanetooltip_behaviour					Comportamento: *X
+
+mutator_name_ReducedDirtBuildup						Reduzir Acumulação de Sujidade
+mutator_tooltip_ReducedDirtBuildup					A velocidade a que a sujidade se acumula na tua prisão é reduzida para metade.
+administrator_requiresoffice_psychiatrist            Requer Gabinete de Psiquiatria
+
+dlc_insane_upsell				Esta gravação usa conteúdo da expansão "Ala Psiquiátrica: Edição de Diretor". Como não conseguimos detetar a expansão no teu sistema, algumas funcionalidades estarão inativas. Considera adquirir a "Ala Psiquiátrica: Edição de Diretor" para aproveitar ao máximo a tua experiência no Prison Architect.
+dlc_insane_upsell_multiplayer 	O anfitrião deste jogo multijogador comprou a expansão "Ala Psiquiátrica: Edição de Diretor", à qual também terás acesso enquanto convidado. Aproveita!
+
+regime_work_pyscho              Programas/Tempo Livre
+regime_worklockdown_pyscho      Programas/Encarceramento
+
+regimetooltip_work_pyscho			Lembra-te que os prisioneiros loucos não conseguem trabalhar e só podem participar nos programas durante os períodos de trabalho
+regimetooltip_worklockdown_pyscho	Lembra-te que os prisioneiros loucos não conseguem trabalhar e só podem participar nos programas durante os períodos de trabalho
+
+
+# =============================================================================
+# Nameplate status
+# ============================================================================= 
+
+nameplate_sedation_level						Nível de Sedação
+teacher_teaching_pschiatrist                    Tratar		
+pschiatrist_count_status						*X Consultas Psiquiátricas Efetuadas
+
+
+############################### SNEEZER UPDATE ###############################
+
+# =============================================================================
+# Rapsheet
+# ============================================================================= 
+
+action_escortToInfirmary						Escoltar até Enfermaria
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacelogistics_cellStatus					Estado das Celas
+
+buildtoolbar_popup_help_CellStatus_1			O Estado das Celas mostra as células ocupadas (vermelho) e vazias (verde).
+buildtoolbar_popup_help_CellStatus_2			Podes clicar numa cela ocupada para ver o prisioneiro designado.
+
+freeCell										Cela Livre
+freeCell_line0									De momento, esta cela está desocupada.
+occupiedCell									Cela Ocupada
+occupiedCell_line0								*X *Y, *Z
+occupiedCell_line1								Botão esquerdo para mostrar este prisioneiro.
+object_prisoner_freshfish						Prisioneiro (Peixe Fresco)
+
+total_Connections								O número total de ligações: *X
+active_Connections								O número máximo de ligações ativas: *X
+
+interfacedeployment_VisitorDirection			Direção dos visitantes
+
+interface_action_move							Mover
+
+equipment_moreContraband						Contrabando
+
+# =============================================================================
+# Reports
+# =============================================================================
+
+report_intake_cat_PrisonerTransfer				Transferência de Prisioneiro!
+report_intake_list_tooltip_prisonerTransfer		\n\nDe tempos a tempos, são propostas transferências de prisioneiros de alto risco que são demasiado perigosos para outras prisões. \nCuidado! Há motivos para pagarem tão bem. São criminosos difíceis que nenhum outro estabelecimento quer aceitar.
+rapsheet_category_PrisonerTransfer				Transferência de Prisioneiro!
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_tooltip_noUtilities		Não é possível colocar tubos de água e cabos elétricos por baixo.
+
+buildtoolbar_deployment_VisitorDirection 	Clica e arrasta para pintar sinalização no piso.\n\nFornece uma indicação de direção aos não prisioneiros.\nAjuda a controlar o fluxo de pessoas na prisão.
+
+# =============================================================================
+# Programs
+# =============================================================================
+
+guard_program_requirements             - Cada guardar requer *X
+
+schedule_zone_insaneSecOnly						Setor Loucos
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_option_lunar								Terreno Lunar
+codex_tooltip_lunar								Gera um terreno inicial que se assemelha à superfície lunar.
+
+codex_option_doubleClick						Duplo clique para mover objetos
+
+# =============================================================================
+# Clone Tool
+# =============================================================================
+
+BuildCost_CloneRoom								Clonar Setor
+
+# =============================================================================
+# Missing Strings
+# =============================================================================
+
+codex_startonline                   Entrar Online
+codex_start                         Criar Jogo
+codex_joinonline                    Participar em Jogo Online
+codex_join                          Participar em Jogo
+codex_usernamelabel                 Nome de Utilizador:
+codex_namelabel                     Nome do Jogo:
+codex_passwordlabel                 Palavra-passe:
+codex_passwordprotectedlabel        Protegido por Palavra-passe?
+codex_listedlabel                   Listado Publicamente?
+codex_roomlistlabel                 Lista de Jogos:
+codex_connectinglabel               A ligar ao servidor...
+codex_retrievingserverlistlabel     A obter lista de jogos...
+codex_datausage                     Uso de Dados: Enviados - *SkB/s, Recebidos - *RkB/s
+codex_multiplayeroptions            Gerir Jogadores
+codex_playeroptions                 Jogadores
+codex_regionlabel                   Região:
+
+multiplayer_chooseroomname          Escolhe um nome de jogo
+multiplayer_chooseusername          Escolhe um nome de utilizador
+multiplayer_joining                 A participar: *X
+multiplayer_joiningstate_joining    A participar em jogo
+multiplayer_joiningstate_receiving  A receber mundo
+multiplayer_joiningstate_loading    A carregar mundo
+multiplayer_rejoining               Regressar ao jogo após expansão de propriedade:
+multiplayer_leavegame_confirm       Queres mesmo abandonar o teu jogo cooperativo atual?
+multiplayer_hostleft                O anfitrião desligou-se.
+multiplayer_joingamefailed          Não foi possível participar no jogo:
+multiplayer_startgamefailed         Não foi possível iniciar o jogo:
+multiplayer_incorrectpassword       Palavra-passe incorreta.
+multiplayer_disconnected            Ligação ao servidor perdida.
+multiplayer_syncerror               Desligado devido a erro de sincronização.\n\nTenta regressar ao jogo.
+multiplayer_hostonly                Apenas disponível para anfitrião.
+multiplayer_modsdisabled            Mods desativados para jogo online
+multiplayer_mutatorsdisabled        Mutadores desativados para jogo online
+multiplayer_kicked                  Expulsaram-te do jogo.
+multiplayer_kick                    Expulsar
+multiplayer_ban                     Banir
+
+multiplayer_host                    Anfitrião:
+
+multiplayer_welcomeanalytics        Damos-te as boas-vindas ao Multijogador de Prison Architect.\n\nTemos trabalhado para converter a experiência completa de Prison Architect em multijogador. Prison Architect é um grande jogo e esta é a primeira vez que vamos disponibilizar multijogador a todos, pelo que vamos estar atentos a quaisquer problemas que os jogadores possam encontrar.\n\nPara nos ajudar nessa tarefa, gostaríamos de recolher alguns dados anónimos, para ajudar a resolver quaisquer problemas que possam estar a ocorrer no jogo. Esta recolha pode ser desativada a qualquer momento no menu de opções. Podes ver os dados que recolhemos em metrics.txt\n\nEsperamos que te divirtas a jogar Prison Architect com os teus amigos.
+
+region_asia                         Ásia
+region_au                           Austrália
+region_cae                          Canadá, Este
+region_eu                           Europa
+region_in                           Índia
+region_jp                           Japão
+region_ru                           Rússia
+region_rue                          Rússia, Este
+region_sa                           América do Sul
+region_kr                           Coreia do Sul
+region_us                           EUA, Este
+region_usw                          EUA, Oeste
+
+codex_options_disableattract            Desativar Ecrã de Atração Inicial
+codex_option_escapeplans                Planos de Fuga
+buildtoolbar_rollcall                   Chamada
+buildtoolbar_tooltip_rollcall           Chama todos os prisioneiros para ficarem de pé fora das celas. Apenas disponíveis durante regimes de sono e à noite.
+interfacecontrol_graphs                 Gráficos
+interfacecontrol_graphs_tooltip         Abre o ecrã de Gráficos, que permite comparar gráficos de vários aspetos da tua prisão.
+
+graph_title                             Gráficos
+
+graph_label_1                           Tipo de Dados 1
+graph_label_2                           Tipo de Dados 2
+graph_label_day                         Dia
+
+graph_axis_none                         Nenhum
+graph_axis_profit                       Lucro
+graph_axis_funds                        Fundos
+graph_axis_prisonsize                   Dimensão da Prisão (m²)
+graph_axis_numprisoners                 Núm. Prisioneiros
+graph_axis_numstaff                     Núm. Funcionários
+graph_axis_releasedprisoners            Prisioneiros Libertados
+graph_axis_totalreleasedprisoners       Total de Prisioneiros Libertados
+graph_axis_escapedprisoners             Prisioneiros Evadidos
+graph_axis_totalescapedprisoners        Total de Prisioneiros Evadidos
+graph_axis_entitydeath                  Mortes
+graph_axis_totaldeaths                  Total de Mortes
+graph_axis_prisonerdeaths               Mortes de Prisioneiros
+graph_axis_guarddeaths                  Mortes de Guardas
+graph_axis_securitygrading              Classificação de Segurança
+graph_axis_healthgrading                Classificação de Saúde
+graph_axis_reformgrading                Classificação de Reintegração
+graph_axis_punishmentgrading            Classificação de Punições
+graph_axis_reoffendingrate              Taxa de Reincidência
+graph_axis_prisonvalue                  Valor da Prisão
+graph_axis_prisonercapacity             Lotação de Prisioneiros
+graph_axis_numincidents                 Núm. de Incidentes
+graph_axis_totalincidents               Total de Incidentes
+
+equipment_Photo				Foto	
+equipment_SubMachineGun			Submetralhadora	
+equipment_Soap				Sabonete	
+
+online_check_fail									No momento, você não tem permissão para acessar este recurso do jogo.
+action_readbook	Ler um livro
+action_FlowerGarden	Descansando
+action_ClimbTyreApparatus	Exercitando
+action_PassiveBookShelf	Ler um livro
+action_PassiveCanvas	Descansando
+action_ListenToBird	Descansando
+action_ListenToBirdTwo	Descansando
+action_PlayTableTennis	Jogando
+action_PlayTableFootball	Jogando
+action_UseDummy	Exercitando
+codex_tooltip_startingSeason    Escolha a estação inicial. O clima avançará naturalmente pelas estações.

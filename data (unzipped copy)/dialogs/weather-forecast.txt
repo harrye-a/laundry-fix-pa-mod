@@ -1,0 +1,113 @@
+BEGIN Window
+    NAME         WeatherForecastWindow
+    BACKGROUND   bluescreen.png
+    WIDTH        1024
+    HEIGHT       576
+END
+
+BEGIN Custom
+    NAME        Title
+    CAPTION     Weather - Forecast
+    XPOS        Scaled          743
+    YPOS        Scaled          671
+    WIDTH       Scaled          8496
+    HEIGHT      Scaled          983
+END
+
+BEGIN Custom
+    NAME        current_weather_title
+    XPOS        Scaled          1687
+    YPOS        Scaled          2060
+    WIDTH       Scaled          2799
+    HEIGHT      Scaled          636
+END
+
+BEGIN Custom
+    NAME        current_weather_icon
+    XPOS        Scaled          2052
+    YPOS        Scaled          3094
+    WIDTH       Scaled          2018
+    HEIGHT      Scaled          3587
+END
+
+BEGIN Canvas
+    NAME        current_weather_data
+    XPOS        Scaled          908
+    YPOS        Scaled          7637
+    WIDTH       Scaled          4166
+    HEIGHT      Scaled          1273
+END
+
+BEGIN Canvas
+    NAME        dividing_line
+    XPOS        Scaled          5955
+    YPOS        Scaled          2140
+    WIDTH       Scaled          32
+    HEIGHT      Scaled          7233
+END
+
+BEGIN Custom
+    NAME        predicted_weather_title
+    XPOS        Scaled          6542
+    YPOS        Scaled          2060
+    WIDTH       Scaled          2799
+    HEIGHT      Scaled          636
+END
+
+BEGIN Custom
+    NAME        predicted_weather_icon
+    XPOS        Scaled          7408
+    YPOS        Scaled          3614
+    WIDTH       Scaled          1171
+    HEIGHT      Scaled          2083
+END
+
+BEGIN Custom
+    NAME        predicted_weather_data
+    XPOS        Scaled          6215
+    YPOS        Scaled          6595
+    WIDTH       Scaled          3515
+    HEIGHT      Scaled          2199
+END
+
+BEGIN Custom
+    NAME        weather_forecast_footer
+    XPOS        Scaled          0
+    YPOS        Scaled          9374
+    WIDTH       Scaled          9993
+    HEIGHT      Scaled          578
+END
+
+BEGIN Custom
+    NAME        current_weather_caption
+    XPOS        Scaled          910
+    YPOS        Scaled          6885
+    WIDTH       Scaled          4134
+    HEIGHT      Scaled          578
+END
+
+BEGIN Custom
+    NAME        predicted_weather_caption
+    XPOS        Scaled          6215
+    YPOS        Scaled          5843
+    WIDTH       Scaled          3515
+    HEIGHT      Scaled          636
+END
+
+BEGIN Custom
+    NAME        predicted_weather_carousel
+    XPOS        Scaled          6215
+    YPOS        Scaled          3356
+    WIDTH       Scaled          3515
+    HEIGHT      Scaled          2256
+END
+
+BEGIN Button
+    NAME        DialogWindowClose
+    CAPTION     X
+    XPOS        Scaled          9667
+    YPOS        Scaled          289
+    WIDTH       Scaled          162
+    HEIGHT      Scaled          289
+END
+

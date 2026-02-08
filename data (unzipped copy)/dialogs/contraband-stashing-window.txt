@@ -1,0 +1,22 @@
+BEGIN Window
+    NAME         ContrabandStashingWindow
+    WIDTH        500
+    HEIGHT       200
+    PANEL        1
+END
+
+BEGIN Container
+    NAME        StatusPanel
+    XPOS        Absolute        5
+    YPOS        Absolute        5
+    WIDTH       Relative        -10
+    HEIGHT      Relative        -10
+END
+
+BEGIN IconBox
+    NAME        IconBox
+    XPOS        Absolute        0
+    YPOS        Absolute        0
+    WIDTH       Relative        0
+    HEIGHT      Relative        0
+END

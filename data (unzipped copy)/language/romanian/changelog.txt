@@ -1,0 +1,117 @@
+"Clink"
+>27 iunie 2019
+	Actualizarea Clink
+<->x4 plăci ceramice de podea noi și x4 noi tipuri de pereți adăugate.
+<->Îmbunătățiri aduse performanței, pentru a reduce durata de încărcare.
+<->A fost crescut numărul de maiștriim ce pot fi angajați, pentru închisorile mai mari, unde maiștrii predau și cursuri în programe.
+<->Obiectele existente dispun de un set complet de rotații acum, cu noi elfi adăugați pentru orientările lipsă.
+<->Un nou buton 'Răspuns cu gardieni' care adună gardienii din apropiere la o locație, fără ca jucătorii să trebuiască să angajeze gardieni pentru a răspunde incidentelor. 
+<->Un nou buton 'Căutare Tunel' care comandă gardienilor să verifice în mod specific toaletele referitor la tunele de evadare ascunse.  
+<->Camere rapide suplimentare adăugate meniului de Construire rapidă, pentru construcții mai rapide și facile ale camerelor.
+<->Urmărirea deținuților și a angajaților este mai simplă, printr-un clic dublu pe ei.
+
+
+Sperăm să vă facă plăcere să jucați cu aceste noi îmbunătățiri!
+
+~~~~~
+
+﻿	Actualizare „Mititica”
+>17 septembrie 2019
+
+Dragi jucători ai Prison Architect,
+
+ 	În numele Paradox și al Double Eleven, sperăm că vă veți bucura de conținutul nou al acestei actualizări. 
+	Vă mulțumim pentru toate sugestiile și ideile de până acum. Multe dintre lucrurile pe care le-am realizat au pornit de la feedback-ul primit de la voi.
+	Am implementat foarte multe îmbunătățiri bazate pe comunitate. Câteva dintre ele sunt indicate aici, dar în joc veți găsi mai multe.
+
+ 	Vă rugăm să ne prezentați pe @PrisonArchitect cum folosiți noul conținut în propriile voastre închisori! 
+
+	Gaz, Games Design Manager la Double Eleven.
+
+
+	>[1/3] Articole noi
+
+	<->Noi tipuri de podele; zăbrele, noroi, SF.
+	<->O nouă ușă securizată cu vizetă pentru introducerea tăvilor cu mâncare.
+	<->Noi corpuri de iluminat; stâlpi de iluminat, reflectoare, corpuri de iluminat perete.
+	<->Noi copaci: copac înzăpezit, palmier.
+	<->Plus alte obiecte noi.
+
+
+	>Clic pe URMĂTORUL pentru a vedea mai multe...
+
+
+
+	>[2/3] Funcții noi
+
+	<->Opțiune Mod cu ferestre fără frontiere.
+	<->Funcție Transfer/Mutare obiecte!
+	<->Filtre meniu articole și buton de sortare în funcție de diferite criterii.
+	<->Acum ușile pot fi construite rapid pe un perete.
+	<->Câinii de pază și gardienii înarmați pot fi detașați pe rutele și în zonele de patrulă!
+	<->Viteză suplimentară joc x10.
+	<->Deținuți din Super Maximă Securitate au fost adăugați între deținuții nou sosiți în închisoare.
+	<->Abilitatea de a avea 2 rute de patrulă diferite care se intersectează.
+	<->Rotații pentru mai multe obiecte și articole de mobilier.
+	<->Mobilizare și elemente vizuale de logistică îmbunătățite.
+	<->Zonă de acțiune mărită a instrumentului de clonare.
+	<->Opțiune de a putea face cercetări în cadrul Birocrației la începutul unui joc nou.
+	<->Meniul mutatoare poate fi acum accesat și ajustat în cursul jocului.
+	<->Tone de articole!
+	<->Noi opțiuni de terenuri cu zăpadă și junglă la începutul unui joc nou.
+	<->Turnurile de păză adăpostesc lunetiștii de intemperii.
+	<->Nume pentru personal și pentru câini.
+	<->Meniul obiecte dispune acum de o funcție de căutare a camerelor.
+	<->Opțiunea de a avea închisori mai curate.
+	<->Linkuri noi și rapide din bara HUD aflată în partea de sus.
+	<->!
+
+	>[3/3] Și multe altele...
+
+	<->Lunetiștii au acum chei de la închisoare.
+	<->Deținuții acordă acum prioritate dușurilor comune față de dușurile din celulele altor deținuți.
+	<->CCTV arată deținuții și personalul în Modul Director de închisoare.
+	<->Gardienii care au fost detașați la diferite dispozitive nu își vor abandona postul în timpul perchezițiilor individuale și al perchezițiilor generale.
+	<->Gardienii vor deschide ușile pentru câinii care s-au pierdut.
+	<->Biblioteca răspunde nevoii de scris și citit.
+	<->Taste de acces rapid pentru accesarea meniurilor din joc [Z] & [X], și pentru închiderea meniurilor [C].
+	<->Ușile celulelor cu cameră rapidă stau deschise până la finalizarea camerei.
+	<->Sprite-urile camerelor CCTV arată acum direcția în care sunt îndreptate.
+	<->Remedieri pentru elementele vizuale ale gardurilor vii.
+	<->Remedieri pentru elementele vizuale ale detectoarelor de metale.
+	<->Remedieri pentru boilerul de apă care nu se conecta întotdeauna la conducte.
+	<->Asistență pentru .modder-i.
+
+~~~~~~
+
+Actualizarea „The Sneezer”
+>21 noiembrie 2019
+
+Stimați colegi directori de închisoare,
+
+Sperăm că vă va place această actualizare a jocului Prison Architect.
+Un rezumat al celor mai importante obiecte este prezentat mai jos, inclusiv: poduri noi, clonare și îmbunătățiri aduse procesului de planificare.
+
+>[1/2] Obiecte noi
+
+<->Pereți noi: Art Deco și Orientali.
+<->Podele noi: Piatră De Var, Iarbă și pietre, Gresie și Teren Lunar.
+<->Obiecte noi: Chiuvetă, Uscător de mâini, Indicatoare de perete, Arbore ciudat și Arbore Sakura, Cactus, Bancă de parc, Cap de elan, Panouri, Ușă secretă în formă de bibliotecă și multe altele...
+
+Dă clic pe URMĂTORUL pentru a vedea mai multe...
+
+>[2/2] Caracteristici noi
+
+<->Numeroase tipuri noi de câini din care să alegi, înainte de începerea jocului și în timpul acestuia!
+<->Opțiunea de a alege tipul de pereți pentru camerele cu construire rapidă.
+<->În sfârșit, acum există PODURI! Le poți plasa peste drumuri, peste apă și peste alte terenuri, putând fi traversate atât de membrii personalului, cât și de deținuți.
+<->Plăți zilnice recalculate pentru deținuții cu risc ridicat; pentru deținuții de Maximă Securitate, pentru cei aflați în Custodie, pentru cei Condamnați la moarte și pentru cei Declarați nebuni se plătește mai mult.
+<->Celulele goale și celulele ocupate pot fi vizualizate din meniul Logistică, butonul „Stare Celule”.
+<->Acțiune suplimentară pentru deținuți adăugată în Bios: „Escortează la Infirmerie”
+<->Aveți posibilitatea de a prelua deținuții transferați la Sosiri.
+<->Opțiune de direcție unică pentru vizitatori adăugată la Mobilizare.
+<->Acum fundațiile pot fi construite folosind mai multe tipuri de pereți.
+<->Instrument de clonare restructurat!! Acum poți roti și întoarce pe partea cealaltă, pereții și obiectele pot fi vizualizate, zona clonabilă poate acoperi închisori întregi! ȘI poți clona chiar și între salvări (BETA)! Viteza de construcție a fost, de asemenea, optimizată.
+<->Planificare restructurată!! Elaborează planuri, adaugă uși și alege tipul de pereți. 
+<->Prezentare îmbunătățită a camerelor cu construcție rapidă, care acum arată unde vor fi construiți pereții.
+<->Opțiune nouă de Teren Nisipos la crearea unui joc nou.

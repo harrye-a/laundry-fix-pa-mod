@@ -1,0 +1,2648 @@
+
+Version              alpha-21c  
+NumCellsX            100  
+NumCellsY            80  
+OriginX              0  
+OriginY              0  
+OriginW              100  
+OriginH              80  
+TimeIndex            7672.22  
+RandomSeed           32000  
+SecondsPlayed        681  
+ObjectId.next        23178  
+EnabledIntake        true  
+ImmediateFoundations true  
+ImmediateTerrain     true  
+ImmediateObjects     true  
+ObjectsCentreAligned true  
+BioVersions          4  
+Balance              183835.  
+Intake.next          7679.00  
+Intake.numPrisoners  8  
+Intake.reqMin        true  
+Intake.reqMax        true  
+BEGIN Cells      
+    BEGIN "0 0"        Mat PavingStone  END
+    BEGIN "0 3"        Mat PavingStone  END
+    BEGIN "0 4"        Mat PavingStone  END
+    BEGIN "0 5"        Mat PavingStone  END
+    BEGIN "0 6"        Mat PavingStone  END
+    BEGIN "0 7"        Mat PavingStone  END
+    BEGIN "0 8"        Mat Grass  END
+    BEGIN "0 9"        Mat PavingStone  END
+    BEGIN "0 10"       Mat PavingStone  END
+    BEGIN "0 11"       Mat PavingStone  END
+    BEGIN "0 12"       Mat PavingStone  END
+    BEGIN "0 13"       Mat PavingStone  END
+    BEGIN "0 14"       Mat PavingStone  END
+    BEGIN "0 15"       Mat PavingStone  END
+    BEGIN "0 16"       Mat PavingStone  END
+    BEGIN "0 17"       Mat PavingStone  END
+    BEGIN "0 18"       Mat PavingStone  END
+    BEGIN "0 19"       Mat PavingStone  END
+    BEGIN "0 20"       Mat Grass  END
+    BEGIN "0 21"       Mat PavingStone  END
+    BEGIN "0 22"       Mat PavingStone  END
+    BEGIN "0 23"       Mat PavingStone  END
+    BEGIN "0 24"       Mat PavingStone  END
+    BEGIN "0 25"       Mat PavingStone  END
+    BEGIN "0 26"       Mat PavingStone  END
+    BEGIN "0 27"       Mat PavingStone  END
+    BEGIN "0 28"       Mat PavingStone  END
+    BEGIN "0 29"       Mat PavingStone  END
+    BEGIN "0 30"       Mat PavingStone  END
+    BEGIN "0 31"       Mat PavingStone  END
+    BEGIN "0 32"       Mat PavingStone  END
+    BEGIN "0 33"       Mat PavingStone  END
+    BEGIN "0 34"       Mat PavingStone  END
+    BEGIN "0 35"       Mat PavingStone  END
+    BEGIN "0 36"       Mat PavingStone  END
+    BEGIN "0 37"       Mat PavingStone  END
+    BEGIN "0 38"       Mat PavingStone  END
+    BEGIN "0 39"       Mat PavingStone  END
+    BEGIN "0 40"       Mat PavingStone  END
+    BEGIN "0 41"       Mat Grass  END
+    BEGIN "0 42"       Mat PavingStone  END
+    BEGIN "0 43"       Mat PavingStone  END
+    BEGIN "0 44"       Mat PavingStone  END
+    BEGIN "0 45"       Mat PavingStone  END
+    BEGIN "0 46"       Mat PavingStone  END
+    BEGIN "0 47"       Mat PavingStone  END
+    BEGIN "0 48"       Mat PavingStone  END
+    BEGIN "0 49"       Mat PavingStone  END
+    BEGIN "0 50"       Mat PavingStone  END
+    BEGIN "0 51"       Mat PavingStone  END
+    BEGIN "0 52"       Mat PavingStone  END
+    BEGIN "0 53"       Mat PavingStone  END
+    BEGIN "0 54"       Mat Grass  END
+    BEGIN "0 55"       Mat PavingStone  END
+    BEGIN "0 56"       Mat PavingStone  END
+    BEGIN "0 57"       Mat PavingStone  END
+    BEGIN "0 58"       Mat PavingStone  END
+    BEGIN "0 59"       Mat PavingStone  END
+    BEGIN "0 60"       Mat PavingStone  END
+    BEGIN "0 61"       Mat PavingStone  END
+    BEGIN "0 62"       Mat PavingStone  END
+    BEGIN "0 63"       Mat PavingStone  END
+    BEGIN "0 64"       Mat PavingStone  END
+    BEGIN "0 65"       Mat PavingStone  END
+    BEGIN "0 66"       Mat PavingStone  END
+    BEGIN "0 67"       Mat PavingStone  END
+    BEGIN "0 68"       Mat PavingStone  END
+    BEGIN "0 69"       Mat PavingStone  END
+    BEGIN "0 70"       Mat PavingStone  END
+    BEGIN "0 71"       Mat PavingStone  END
+    BEGIN "0 72"       Mat PavingStone  END
+    BEGIN "0 73"       Mat PavingStone  END
+    BEGIN "0 74"       Mat PavingStone  END
+    BEGIN "0 75"       Mat PavingStone  END
+    BEGIN "0 76"       Mat PavingStone  END
+    BEGIN "0 77"       Mat PavingStone  END
+    BEGIN "0 79"       Mat PavingStone  END
+    BEGIN "1 0"        Mat PavingStone  END
+    BEGIN "1 1"        Mat PavingStone  END
+    BEGIN "1 6"        Mat PavingStone  END
+    BEGIN "1 10"       Mat PavingStone  END
+    BEGIN "1 11"       Mat PavingStone  END
+    BEGIN "1 18"       Mat PavingStone  END
+    BEGIN "1 19"       Mat PavingStone  END
+    BEGIN "1 22"       Mat PavingStone  END
+    BEGIN "1 25"       Mat Grass  END
+    BEGIN "1 26"       Mat PavingStone  END
+    BEGIN "1 30"       Mat PavingStone  END
+    BEGIN "1 32"       Mat PavingStone  END
+    BEGIN "1 37"       Mat PavingStone  END
+    BEGIN "1 39"       Mat PavingStone  END
+    BEGIN "1 40"       Mat PavingStone  END
+    BEGIN "1 42"       Mat PavingStone  END
+    BEGIN "1 49"       Mat PavingStone  END
+    BEGIN "1 53"       Mat Grass  END
+    BEGIN "1 54"       Mat PavingStone  END
+    BEGIN "1 55"       Mat PavingStone  END
+    BEGIN "1 56"       Mat PavingStone  END
+    BEGIN "1 57"       Mat PavingStone  END
+    BEGIN "1 59"       Mat PavingStone  END
+    BEGIN "1 64"       Mat PavingStone  END
+    BEGIN "1 67"       Mat PavingStone  END
+    BEGIN "1 68"       Mat PavingStone  END
+    BEGIN "1 75"       Mat PavingStone  END
+    BEGIN "1 77"       Mat PavingStone  END
+    BEGIN "1 79"       Mat PavingStone  END
+    BEGIN "2 0"        Mat PavingStone  END
+    BEGIN "2 1"        Mat PavingStone  END
+    BEGIN "2 2"        Mat Grass  END
+    BEGIN "2 40"       Mat Grass  END
+    BEGIN "2 79"       Mat PavingStone  END
+    BEGIN "3 0"        Mat PavingStone  END
+    BEGIN "3 1"        Mat PavingStone  END
+    BEGIN "3 3"        Mat ConcreteWall  END
+    BEGIN "3 4"        Mat ConcreteWall  END
+    BEGIN "3 5"        Mat ConcreteWall  END
+    BEGIN "3 6"        Mat ConcreteWall  END
+    BEGIN "3 7"        Mat ConcreteWall  END
+    BEGIN "3 8"        Mat ConcreteWall  END
+    BEGIN "3 9"        Mat ConcreteWall  END
+    BEGIN "3 10"       Mat ConcreteWall  END
+    BEGIN "3 11"       Mat ConcreteWall  END
+    BEGIN "3 12"       Mat ConcreteWall  END
+    BEGIN "3 13"       Mat ConcreteWall  END
+    BEGIN "3 14"       Mat ConcreteWall  END
+    BEGIN "3 15"       Mat ConcreteWall  END
+    BEGIN "3 16"       Mat ConcreteWall  END
+    BEGIN "3 17"       Mat ConcreteWall  END
+    BEGIN "3 18"       Mat ConcreteWall  END
+    BEGIN "3 19"       Mat ConcreteWall  END
+    BEGIN "3 20"       Mat ConcreteWall  END
+    BEGIN "3 21"       Mat ConcreteWall  END
+    BEGIN "3 22"       Mat ConcreteWall  END
+    BEGIN "3 23"       Mat ConcreteWall  END
+    BEGIN "3 24"       Mat ConcreteWall  END
+    BEGIN "3 25"       Mat ConcreteWall  END
+    BEGIN "3 26"       Mat ConcreteWall  END
+    BEGIN "3 27"       Mat ConcreteWall  END
+    BEGIN "3 28"       Mat ConcreteWall  END
+    BEGIN "3 29"       Mat ConcreteWall  END
+    BEGIN "3 30"       Mat ConcreteWall  END
+    BEGIN "3 31"       Mat ConcreteWall  END
+    BEGIN "3 32"       Mat ConcreteWall  END
+    BEGIN "3 33"       Mat ConcreteWall  END
+    BEGIN "3 34"       Mat ConcreteWall  END
+    BEGIN "3 35"       Mat ConcreteWall  END
+    BEGIN "3 36"       Mat ConcreteWall  END
+    BEGIN "3 37"       Mat ConcreteWall  END
+    BEGIN "3 38"       Mat ConcreteWall  END
+    BEGIN "3 39"       Mat ConcreteWall  END
+    BEGIN "3 40"       Mat ConcreteWall  END
+    BEGIN "3 41"       Mat ConcreteWall  END
+    BEGIN "3 42"       Mat ConcreteWall  END
+    BEGIN "3 43"       Mat ConcreteWall  END
+    BEGIN "3 44"       Mat ConcreteWall  END
+    BEGIN "3 45"       Mat ConcreteWall  END
+    BEGIN "3 46"       Mat ConcreteWall  END
+    BEGIN "3 47"       Mat ConcreteWall  END
+    BEGIN "3 48"       Mat ConcreteWall  END
+    BEGIN "3 49"       Mat ConcreteWall  END
+    BEGIN "3 50"       Mat ConcreteWall  END
+    BEGIN "3 51"       Mat ConcreteWall  END
+    BEGIN "3 52"       Mat ConcreteWall  END
+    BEGIN "3 53"       Mat ConcreteWall  END
+    BEGIN "3 54"       Mat ConcreteWall  END
+    BEGIN "3 55"       Mat ConcreteWall  END
+    BEGIN "3 56"       Mat ConcreteWall  END
+    BEGIN "3 57"       Mat ConcreteWall  END
+    BEGIN "3 58"       Mat ConcreteWall  END
+    BEGIN "3 59"       Mat ConcreteWall  END
+    BEGIN "3 60"       Mat ConcreteWall  END
+    BEGIN "3 61"       Mat ConcreteWall  END
+    BEGIN "3 62"       Mat ConcreteWall  END
+    BEGIN "3 63"       Mat ConcreteWall  END
+    BEGIN "3 64"       Mat ConcreteWall  END
+    BEGIN "3 65"       Mat ConcreteWall  END
+    BEGIN "3 66"       Mat ConcreteWall  END
+    BEGIN "3 67"       Mat ConcreteWall  END
+    BEGIN "3 68"       Mat ConcreteWall  END
+    BEGIN "3 69"       Mat ConcreteWall  END
+    BEGIN "3 70"       Mat ConcreteWall  END
+    BEGIN "3 71"       Mat ConcreteWall  END
+    BEGIN "3 72"       Mat ConcreteWall  END
+    BEGIN "3 73"       Mat ConcreteWall  END
+    BEGIN "3 74"       Mat ConcreteWall  END
+    BEGIN "3 75"       Mat ConcreteWall  END
+    BEGIN "3 76"       Mat ConcreteWall  END
+    BEGIN "3 77"       Mat ConcreteWall  END
+    BEGIN "3 78"       Mat PavingStone  END
+    BEGIN "3 79"       Mat PavingStone  END
+    BEGIN "4 0"        Mat Grass  END
+    BEGIN "4 1"        Mat PavingStone  END
+    BEGIN "4 3"        Mat ConcreteWall  END
+    BEGIN "4 77"       Mat ConcreteWall  END
+    BEGIN "4 79"       Mat PavingStone  END
+    BEGIN "5 0"        Mat PavingStone  END
+    BEGIN "5 1"        Mat PavingStone  END
+    BEGIN "5 3"        Mat ConcreteWall  END
+    BEGIN "5 77"       Mat ConcreteWall  END
+    BEGIN "5 79"       Mat PavingStone  END
+    BEGIN "6 0"        Mat PavingStone  END
+    BEGIN "6 1"        Mat PavingStone  END
+    BEGIN "6 3"        Mat ConcreteWall  END
+    BEGIN "6 77"       Mat ConcreteWall  END
+    BEGIN "6 79"       Mat PavingStone  END
+    BEGIN "7 0"        Mat PavingStone  END
+    BEGIN "7 1"        Mat PavingStone  END
+    BEGIN "7 3"        Mat ConcreteWall  END
+    BEGIN "7 77"       Mat ConcreteWall  END
+    BEGIN "7 78"       Mat PavingStone  END
+    BEGIN "7 79"       Mat PavingStone  END
+    BEGIN "8 0"        Mat PavingStone  END
+    BEGIN "8 3"        Mat ConcreteWall  END
+    BEGIN "8 77"       Mat ConcreteWall  END
+    BEGIN "8 79"       Mat PavingStone  END
+    BEGIN "9 0"        Mat PavingStone  END
+    BEGIN "9 1"        Mat PavingStone  END
+    BEGIN "9 3"        Mat ConcreteWall  END
+    BEGIN "9 77"       Mat ConcreteWall  END
+    BEGIN "9 79"       Mat PavingStone  END
+    BEGIN "10 0"       Mat PavingStone  END
+    BEGIN "10 1"       Mat PavingStone  END
+    BEGIN "10 3"       Mat ConcreteWall  END
+    BEGIN "10 77"      Mat ConcreteWall  END
+    BEGIN "10 78"      Mat PavingStone  END
+    BEGIN "10 79"      Mat PavingStone  END
+    BEGIN "11 0"       Mat PavingStone  END
+    BEGIN "11 3"       Mat ConcreteWall  END
+    BEGIN "11 77"      Mat ConcreteWall  END
+    BEGIN "11 79"      Mat PavingStone  END
+    BEGIN "12 0"       Mat PavingStone  END
+    BEGIN "12 1"       Mat PavingStone  END
+    BEGIN "12 3"       Mat ConcreteWall  END
+    BEGIN "12 77"      Mat ConcreteWall  END
+    BEGIN "12 78"      Mat PavingStone  END
+    BEGIN "12 79"      Mat PavingStone  END
+    BEGIN "13 0"       Mat PavingStone  END
+    BEGIN "13 3"       Mat ConcreteWall  END
+    BEGIN "13 77"      Mat ConcreteWall  END
+    BEGIN "13 79"      Mat PavingStone  END
+    BEGIN "14 0"       Mat PavingStone  END
+    BEGIN "14 2"       Mat PavingStone  END
+    BEGIN "14 3"       Mat ConcreteWall  END
+    BEGIN "14 77"      Mat ConcreteWall  END
+    BEGIN "14 78"      Mat PavingStone  END
+    BEGIN "14 79"      Mat PavingStone  END
+    BEGIN "15 0"       Mat PavingStone  END
+    BEGIN "15 1"       Mat PavingStone  END
+    BEGIN "15 3"       Mat ConcreteWall  END
+    BEGIN "15 76"      Mat Grass  END
+    BEGIN "15 77"      Mat ConcreteWall  END
+    BEGIN "15 78"      Mat PavingStone  END
+    BEGIN "15 79"      Mat PavingStone  END
+    BEGIN "16 0"       Mat PavingStone  END
+    BEGIN "16 1"       Mat PavingStone  END
+    BEGIN "16 3"       Mat ConcreteWall  END
+    BEGIN "16 77"      Mat ConcreteWall  END
+    BEGIN "16 78"      Mat PavingStone  END
+    BEGIN "16 79"      Mat PavingStone  END
+    BEGIN "17 0"       Mat PavingStone  END
+    BEGIN "17 1"       Mat PavingStone  END
+    BEGIN "17 3"       Mat ConcreteWall  END
+    BEGIN "17 77"      Mat ConcreteWall  END
+    BEGIN "17 78"      Mat PavingStone  END
+    BEGIN "17 79"      Mat PavingStone  END
+    BEGIN "18 0"       Mat PavingStone  END
+    BEGIN "18 3"       Mat ConcreteWall  END
+    BEGIN "18 77"      Mat ConcreteWall  END
+    BEGIN "18 78"      Mat PavingStone  END
+    BEGIN "18 79"      Mat PavingStone  END
+    BEGIN "19 0"       Mat PavingStone  END
+    BEGIN "19 2"       Mat PavingStone  END
+    BEGIN "19 3"       Mat ConcreteWall  END
+    BEGIN "19 77"      Mat ConcreteWall  END
+    BEGIN "19 79"      Mat PavingStone  END
+    BEGIN "20 0"       Mat PavingStone  END
+    BEGIN "20 1"       Mat PavingStone  END
+    BEGIN "20 3"       Mat ConcreteWall  END
+    BEGIN "20 77"      Mat ConcreteWall  END
+    BEGIN "20 79"      Mat PavingStone  END
+    BEGIN "21 0"       Mat PavingStone  END
+    BEGIN "21 1"       Mat PavingStone  END
+    BEGIN "21 3"       Mat ConcreteWall  END
+    BEGIN "21 75"      Mat Grass  END
+    BEGIN "21 77"      Mat ConcreteWall  END
+    BEGIN "21 79"      Mat PavingStone  END
+    BEGIN "22 0"       Mat PavingStone  END
+    BEGIN "22 1"       Mat PavingStone  END
+    BEGIN "22 2"       Mat PavingStone  END
+    BEGIN "22 3"       Mat ConcreteWall  END
+    BEGIN "22 77"      Mat ConcreteWall  END
+    BEGIN "22 79"      Mat PavingStone  END
+    BEGIN "23 0"       Mat PavingStone  END
+    BEGIN "23 3"       Mat ConcreteWall  END
+    BEGIN "23 28"      Mat BrickWall  Ind true  END
+    BEGIN "23 29"      Mat BrickWall  Ind true  END
+    BEGIN "23 30"      Mat BrickWall  Ind true  END
+    BEGIN "23 31"      Mat BrickWall  Ind true  END
+    BEGIN "23 32"      Mat BrickWall  Ind true  END
+    BEGIN "23 33"      Mat BrickWall  Ind true  END
+    BEGIN "23 34"      Mat BrickWall  Ind true  END
+    BEGIN "23 35"      Mat BrickWall  Ind true  END
+    BEGIN "23 36"      Mat BrickWall  Ind true  END
+    BEGIN "23 37"      Mat BrickWall  Ind true  END
+    BEGIN "23 38"      Mat BrickWall  Ind true  END
+    BEGIN "23 39"      Mat ConcreteTiles  Ind true  END
+    BEGIN "23 40"      Mat ConcreteTiles  Ind true  END
+    BEGIN "23 41"      Mat BrickWall  Ind true  END
+    BEGIN "23 42"      Mat BrickWall  Ind true  END
+    BEGIN "23 43"      Mat BrickWall  Ind true  END
+    BEGIN "23 44"      Mat BrickWall  Ind true  END
+    BEGIN "23 45"      Mat BrickWall  Ind true  END
+    BEGIN "23 46"      Mat BrickWall  Ind true  END
+    BEGIN "23 47"      Mat BrickWall  Ind true  END
+    BEGIN "23 48"      Mat BrickWall  Ind true  END
+    BEGIN "23 49"      Mat BrickWall  Ind true  END
+    BEGIN "23 50"      Mat BrickWall  Ind true  END
+    BEGIN "23 51"      Mat BrickWall  Ind true  END
+    BEGIN "23 52"      Mat BrickWall  Ind true  END
+    BEGIN "23 77"      Mat ConcreteWall  END
+    BEGIN "23 78"      Mat PavingStone  END
+    BEGIN "23 79"      Mat PavingStone  END
+    BEGIN "24 0"       Mat PavingStone  END
+    BEGIN "24 1"       Mat PavingStone  END
+    BEGIN "24 3"       Mat ConcreteWall  END
+    BEGIN "24 28"      Mat BrickWall  Ind true  END
+    BEGIN "24 29"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 30"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 31"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 32"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 33"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 34"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 36"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 37"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 38"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 39"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 40"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 41"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 42"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 44"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 45"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 46"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 47"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 48"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 49"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 50"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 51"      Mat MosaicFloor  Ind true  END
+    BEGIN "24 52"      Mat BrickWall  Ind true  END
+    BEGIN "24 77"      Mat ConcreteWall  END
+    BEGIN "24 79"      Mat PavingStone  END
+    BEGIN "25 0"       Mat PavingStone  END
+    BEGIN "25 1"       Mat PavingStone  END
+    BEGIN "25 3"       Mat ConcreteWall  END
+    BEGIN "25 28"      Mat BrickWall  Ind true  END
+    BEGIN "25 29"      Mat MosaicFloor  Ind true  END
+    BEGIN "25 30"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 31"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 32"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 33"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 34"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 35"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 36"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 37"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 41"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 42"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 43"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 44"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 45"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 46"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 47"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 48"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 49"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 50"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 51"      Mat WoodenFloor  Ind true  END
+    BEGIN "25 52"      Mat BrickWall  Ind true  END
+    BEGIN "25 77"      Mat ConcreteWall  END
+    BEGIN "25 79"      Mat PavingStone  END
+    BEGIN "26 0"       Mat PavingStone  END
+    BEGIN "26 1"       Mat PavingStone  END
+    BEGIN "26 3"       Mat ConcreteWall  END
+    BEGIN "26 28"      Mat BrickWall  Ind true  END
+    BEGIN "26 29"      Mat MosaicFloor  Ind true  END
+    BEGIN "26 30"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 31"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 32"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 33"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 34"      Mat BrickWall  Ind true  END
+    BEGIN "26 35"      Mat BrickWall  Ind true  END
+    BEGIN "26 36"      Mat BrickWall  Ind true  END
+    BEGIN "26 37"      Mat BrickWall  Ind true  END
+    BEGIN "26 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 41"      Mat BrickWall  Ind true  END
+    BEGIN "26 42"      Mat BrickWall  Ind true  END
+    BEGIN "26 43"      Mat BrickWall  Ind true  END
+    BEGIN "26 44"      Mat BrickWall  Ind true  END
+    BEGIN "26 45"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 46"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 47"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 48"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 49"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 50"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 51"      Mat WoodenFloor  Ind true  END
+    BEGIN "26 52"      Mat BrickWall  Ind true  END
+    BEGIN "26 77"      Mat ConcreteWall  END
+    BEGIN "26 79"      Mat PavingStone  END
+    BEGIN "27 0"       Mat PavingStone  END
+    BEGIN "27 2"       Mat PavingStone  END
+    BEGIN "27 3"       Mat ConcreteWall  END
+    BEGIN "27 28"      Mat BrickWall  Ind true  END
+    BEGIN "27 29"      Mat MosaicFloor  Ind true  END
+    BEGIN "27 30"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 31"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 32"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 33"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 34"      Mat BrickWall  Ind true  END
+    BEGIN "27 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "27 36"      Mat MosaicFloor  Ind true  END
+    BEGIN "27 37"      Mat MosaicFloor  Ind true  END
+    BEGIN "27 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 41"      Mat MosaicFloor  Ind true  END
+    BEGIN "27 42"      Mat MosaicFloor  Ind true  END
+    BEGIN "27 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "27 44"      Mat BrickWall  Ind true  END
+    BEGIN "27 45"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 46"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 47"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 48"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 49"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 50"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 51"      Mat WoodenFloor  Ind true  END
+    BEGIN "27 52"      Mat BrickWall  Ind true  END
+    BEGIN "27 77"      Mat ConcreteWall  END
+    BEGIN "27 79"      Mat PavingStone  END
+    BEGIN "28 0"       Mat PavingStone  END
+    BEGIN "28 2"       Mat PavingStone  END
+    BEGIN "28 3"       Mat ConcreteWall  END
+    BEGIN "28 28"      Mat BrickWall  Ind true  END
+    BEGIN "28 29"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 30"      Mat WoodenFloor  Ind true  END
+    BEGIN "28 31"      Mat WoodenFloor  Ind true  END
+    BEGIN "28 32"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 33"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 34"      Mat BrickWall  Ind true  END
+    BEGIN "28 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 36"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 37"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "28 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "28 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "28 41"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 42"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 44"      Mat BrickWall  Ind true  END
+    BEGIN "28 45"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 46"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 47"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 48"      Mat WoodenFloor  Ind true  END
+    BEGIN "28 49"      Mat WoodenFloor  Ind true  END
+    BEGIN "28 50"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 51"      Mat MosaicFloor  Ind true  END
+    BEGIN "28 52"      Mat BrickWall  Ind true  END
+    BEGIN "28 77"      Mat ConcreteWall  END
+    BEGIN "28 79"      Mat PavingStone  END
+    BEGIN "29 0"       Mat PavingStone  END
+    BEGIN "29 1"       Mat PavingStone  END
+    BEGIN "29 3"       Mat ConcreteWall  END
+    BEGIN "29 26"      Mat BrickWall  Ind true  END
+    BEGIN "29 27"      Mat BrickWall  Ind true  END
+    BEGIN "29 28"      Mat BrickWall  Ind true  END
+    BEGIN "29 29"      Mat BrickWall  Ind true  END
+    BEGIN "29 30"      Mat WoodenFloor  Ind true  END
+    BEGIN "29 31"      Mat WoodenFloor  Ind true  END
+    BEGIN "29 32"      Mat BrickWall  Ind true  END
+    BEGIN "29 33"      Mat BrickWall  Ind true  END
+    BEGIN "29 34"      Mat BrickWall  Ind true  END
+    BEGIN "29 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "29 36"      Mat MosaicFloor  Ind true  END
+    BEGIN "29 37"      Mat MosaicFloor  Ind true  END
+    BEGIN "29 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "29 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "29 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "29 41"      Mat MosaicFloor  Ind true  END
+    BEGIN "29 42"      Mat MosaicFloor  Ind true  END
+    BEGIN "29 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "29 44"      Mat BrickWall  Ind true  END
+    BEGIN "29 45"      Mat BrickWall  Ind true  END
+    BEGIN "29 46"      Mat BrickWall  Ind true  END
+    BEGIN "29 47"      Mat BrickWall  Ind true  END
+    BEGIN "29 48"      Mat WoodenFloor  Ind true  END
+    BEGIN "29 49"      Mat WoodenFloor  Ind true  END
+    BEGIN "29 50"      Mat BrickWall  Ind true  END
+    BEGIN "29 51"      Mat BrickWall  Ind true  END
+    BEGIN "29 52"      Mat BrickWall  Ind true  END
+    BEGIN "29 53"      Mat BrickWall  Ind true  END
+    BEGIN "29 77"      Mat ConcreteWall  END
+    BEGIN "29 79"      Mat PavingStone  END
+    BEGIN "30 0"       Mat PavingStone  END
+    BEGIN "30 3"       Mat ConcreteWall  END
+    BEGIN "30 26"      Mat BrickWall  Ind true  END
+    BEGIN "30 27"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 28"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 29"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 30"      Mat WoodenFloor  Ind true  END
+    BEGIN "30 31"      Mat WoodenFloor  Ind true  END
+    BEGIN "30 32"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 33"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 34"      Mat BrickWall  Ind true  END
+    BEGIN "30 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 36"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 37"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "30 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "30 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "30 41"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 42"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 44"      Mat BrickWall  Ind true  END
+    BEGIN "30 45"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 46"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 47"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 48"      Mat WoodenFloor  Ind true  END
+    BEGIN "30 49"      Mat WoodenFloor  Ind true  END
+    BEGIN "30 50"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 51"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 52"      Mat MosaicFloor  Ind true  END
+    BEGIN "30 53"      Mat BrickWall  Ind true  END
+    BEGIN "30 77"      Mat ConcreteWall  END
+    BEGIN "30 79"      Mat PavingStone  END
+    BEGIN "31 0"       Mat PavingStone  END
+    BEGIN "31 3"       Mat ConcreteWall  END
+    BEGIN "31 26"      Mat BrickWall  Ind true  END
+    BEGIN "31 27"      Mat MosaicFloor  Ind true  END
+    BEGIN "31 28"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 29"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 30"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 31"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 32"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 33"      Mat MosaicFloor  Ind true  END
+    BEGIN "31 34"      Mat BrickWall  Ind true  END
+    BEGIN "31 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "31 36"      Mat MosaicFloor  Ind true  END
+    BEGIN "31 37"      Mat MosaicFloor  Ind true  END
+    BEGIN "31 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 41"      Mat MosaicFloor  Ind true  END
+    BEGIN "31 42"      Mat MosaicFloor  Ind true  END
+    BEGIN "31 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "31 44"      Mat BrickWall  Ind true  END
+    BEGIN "31 45"      Mat MosaicFloor  Ind true  END
+    BEGIN "31 46"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 47"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 48"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 49"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 50"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 51"      Mat WoodenFloor  Ind true  END
+    BEGIN "31 52"      Mat MosaicFloor  Ind true  END
+    BEGIN "31 53"      Mat BrickWall  Ind true  END
+    BEGIN "31 77"      Mat ConcreteWall  END
+    BEGIN "31 79"      Mat PavingStone  END
+    BEGIN "32 0"       Mat PavingStone  END
+    BEGIN "32 3"       Mat ConcreteWall  END
+    BEGIN "32 26"      Mat BrickWall  Ind true  END
+    BEGIN "32 27"      Mat MosaicFloor  Ind true  END
+    BEGIN "32 28"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 29"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 30"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 31"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 32"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 33"      Mat MosaicFloor  Ind true  END
+    BEGIN "32 34"      Mat BrickWall  Ind true  END
+    BEGIN "32 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "32 36"      Mat MosaicFloor  Ind true  END
+    BEGIN "32 37"      Mat MosaicFloor  Ind true  END
+    BEGIN "32 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 41"      Mat MosaicFloor  Ind true  END
+    BEGIN "32 42"      Mat MosaicFloor  Ind true  END
+    BEGIN "32 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "32 44"      Mat BrickWall  Ind true  END
+    BEGIN "32 45"      Mat MosaicFloor  Ind true  END
+    BEGIN "32 46"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 47"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 48"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 49"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 50"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 51"      Mat WoodenFloor  Ind true  END
+    BEGIN "32 52"      Mat MosaicFloor  Ind true  END
+    BEGIN "32 53"      Mat BrickWall  Ind true  END
+    BEGIN "32 77"      Mat ConcreteWall  END
+    BEGIN "32 79"      Mat PavingStone  END
+    BEGIN "33 0"       Mat PavingStone  END
+    BEGIN "33 3"       Mat ConcreteWall  END
+    BEGIN "33 26"      Mat BrickWall  Ind true  END
+    BEGIN "33 27"      Mat MosaicFloor  Ind true  END
+    BEGIN "33 28"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 29"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 30"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 31"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 32"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 33"      Mat MosaicFloor  Ind true  END
+    BEGIN "33 34"      Mat BrickWall  Ind true  END
+    BEGIN "33 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "33 36"      Mat MosaicFloor  Ind true  END
+    BEGIN "33 37"      Mat MosaicFloor  Ind true  END
+    BEGIN "33 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 41"      Mat MosaicFloor  Ind true  END
+    BEGIN "33 42"      Mat MosaicFloor  Ind true  END
+    BEGIN "33 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "33 44"      Mat BrickWall  Ind true  END
+    BEGIN "33 45"      Mat MosaicFloor  Ind true  END
+    BEGIN "33 46"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 47"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 48"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 49"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 50"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 51"      Mat WoodenFloor  Ind true  END
+    BEGIN "33 52"      Mat MosaicFloor  Ind true  END
+    BEGIN "33 53"      Mat BrickWall  Ind true  END
+    BEGIN "33 77"      Mat ConcreteWall  END
+    BEGIN "33 78"      Mat PavingStone  END
+    BEGIN "33 79"      Mat PavingStone  END
+    BEGIN "34 0"       Mat PavingStone  END
+    BEGIN "34 3"       Mat ConcreteWall  END
+    BEGIN "34 26"      Mat BrickWall  Ind true  END
+    BEGIN "34 27"      Mat MosaicFloor  Ind true  END
+    BEGIN "34 28"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 29"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 30"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 31"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 32"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 33"      Mat MosaicFloor  Ind true  END
+    BEGIN "34 34"      Mat BrickWall  Ind true  END
+    BEGIN "34 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "34 36"      Mat MosaicFloor  Ind true  END
+    BEGIN "34 37"      Mat MosaicFloor  Ind true  END
+    BEGIN "34 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 41"      Mat MosaicFloor  Ind true  END
+    BEGIN "34 42"      Mat MosaicFloor  Ind true  END
+    BEGIN "34 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "34 44"      Mat BrickWall  Ind true  END
+    BEGIN "34 45"      Mat MosaicFloor  Ind true  END
+    BEGIN "34 46"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 47"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 48"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 49"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 50"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 51"      Mat WoodenFloor  Ind true  END
+    BEGIN "34 52"      Mat MosaicFloor  Ind true  END
+    BEGIN "34 53"      Mat BrickWall  Ind true  END
+    BEGIN "34 77"      Mat ConcreteWall  END
+    BEGIN "34 79"      Mat PavingStone  END
+    BEGIN "35 0"       Mat PavingStone  END
+    BEGIN "35 3"       Mat ConcreteWall  END
+    BEGIN "35 26"      Mat BrickWall  Ind true  END
+    BEGIN "35 27"      Mat MosaicFloor  Ind true  END
+    BEGIN "35 28"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 29"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 30"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 31"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 32"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 33"      Mat MosaicFloor  Ind true  END
+    BEGIN "35 34"      Mat BrickWall  Ind true  END
+    BEGIN "35 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "35 36"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 37"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 41"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 42"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "35 44"      Mat BrickWall  Ind true  END
+    BEGIN "35 45"      Mat MosaicFloor  Ind true  END
+    BEGIN "35 46"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 47"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 48"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 49"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 50"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 51"      Mat WoodenFloor  Ind true  END
+    BEGIN "35 52"      Mat MosaicFloor  Ind true  END
+    BEGIN "35 53"      Mat BrickWall  Ind true  END
+    BEGIN "35 77"      Mat ConcreteWall  END
+    BEGIN "35 79"      Mat PavingStone  END
+    BEGIN "36 0"       Mat PavingStone  END
+    BEGIN "36 3"       Mat ConcreteWall  END
+    BEGIN "36 26"      Mat BrickWall  Ind true  END
+    BEGIN "36 27"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 28"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 29"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 30"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 31"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 32"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 33"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 34"      Mat BrickWall  Ind true  END
+    BEGIN "36 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 36"      Mat WoodenFloor  Ind true  END
+    BEGIN "36 37"      Mat WoodenFloor  Ind true  END
+    BEGIN "36 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "36 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "36 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "36 41"      Mat WoodenFloor  Ind true  END
+    BEGIN "36 42"      Mat WoodenFloor  Ind true  END
+    BEGIN "36 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 44"      Mat BrickWall  Ind true  END
+    BEGIN "36 45"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 46"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 47"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 48"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 49"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 50"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 51"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 52"      Mat MosaicFloor  Ind true  END
+    BEGIN "36 53"      Mat BrickWall  Ind true  END
+    BEGIN "36 77"      Mat ConcreteWall  END
+    BEGIN "36 79"      Mat PavingStone  END
+    BEGIN "37 0"       Mat PavingStone  END
+    BEGIN "37 1"       Mat PavingStone  END
+    BEGIN "37 3"       Mat ConcreteWall  END
+    BEGIN "37 26"      Mat BrickWall  Ind true  END
+    BEGIN "37 27"      Mat BrickWall  Ind true  END
+    BEGIN "37 28"      Mat BrickWall  Ind true  END
+    BEGIN "37 29"      Mat BrickWall  Ind true  END
+    BEGIN "37 30"      Mat BrickWall  Ind true  END
+    BEGIN "37 31"      Mat BrickWall  Ind true  END
+    BEGIN "37 32"      Mat BrickWall  Ind true  END
+    BEGIN "37 33"      Mat BrickWall  Ind true  END
+    BEGIN "37 34"      Mat BrickWall  Ind true  END
+    BEGIN "37 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "37 36"      Mat WoodenFloor  Ind true  END
+    BEGIN "37 37"      Mat WoodenFloor  Ind true  END
+    BEGIN "37 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "37 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "37 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "37 41"      Mat WoodenFloor  Ind true  END
+    BEGIN "37 42"      Mat WoodenFloor  Ind true  END
+    BEGIN "37 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "37 44"      Mat BrickWall  Ind true  END
+    BEGIN "37 45"      Mat BrickWall  Ind true  END
+    BEGIN "37 46"      Mat BrickWall  Ind true  END
+    BEGIN "37 47"      Mat BrickWall  Ind true  END
+    BEGIN "37 48"      Mat BrickWall  Ind true  END
+    BEGIN "37 49"      Mat BrickWall  Ind true  END
+    BEGIN "37 50"      Mat BrickWall  Ind true  END
+    BEGIN "37 51"      Mat BrickWall  Ind true  END
+    BEGIN "37 52"      Mat BrickWall  Ind true  END
+    BEGIN "37 53"      Mat BrickWall  Ind true  END
+    BEGIN "37 77"      Mat ConcreteWall  END
+    BEGIN "37 79"      Mat PavingStone  END
+    BEGIN "38 0"       Mat PavingStone  END
+    BEGIN "38 1"       Mat PavingStone  END
+    BEGIN "38 3"       Mat ConcreteWall  END
+    BEGIN "38 29"      Mat Grass  END
+    BEGIN "38 30"      Mat Grass  END
+    BEGIN "38 31"      Mat Grass  END
+    BEGIN "38 32"      Mat Grass  END
+    BEGIN "38 33"      Mat Grass  END
+    BEGIN "38 34"      Mat BrickWall  Ind true  END
+    BEGIN "38 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "38 36"      Mat WoodenFloor  Ind true  END
+    BEGIN "38 37"      Mat WoodenFloor  Ind true  END
+    BEGIN "38 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "38 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "38 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "38 41"      Mat WoodenFloor  Ind true  END
+    BEGIN "38 42"      Mat WoodenFloor  Ind true  END
+    BEGIN "38 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "38 44"      Mat BrickWall  Ind true  END
+    BEGIN "38 77"      Mat ConcreteWall  END
+    BEGIN "38 78"      Mat PavingStone  END
+    BEGIN "38 79"      Mat PavingStone  END
+    BEGIN "39 0"       Mat PavingStone  END
+    BEGIN "39 3"       Mat ConcreteWall  END
+    BEGIN "39 29"      Mat Grass  END
+    BEGIN "39 30"      Mat Grass  END
+    BEGIN "39 31"      Mat Grass  END
+    BEGIN "39 32"      Mat Grass  END
+    BEGIN "39 33"      Mat Grass  END
+    BEGIN "39 34"      Mat BrickWall  Ind true  END
+    BEGIN "39 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "39 36"      Mat WoodenFloor  Ind true  END
+    BEGIN "39 37"      Mat WoodenFloor  Ind true  END
+    BEGIN "39 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "39 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "39 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "39 41"      Mat WoodenFloor  Ind true  END
+    BEGIN "39 42"      Mat WoodenFloor  Ind true  END
+    BEGIN "39 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "39 44"      Mat BrickWall  Ind true  END
+    BEGIN "39 77"      Mat ConcreteWall  END
+    BEGIN "39 79"      Mat PavingStone  END
+    BEGIN "40 0"       Mat PavingStone  END
+    BEGIN "40 3"       Mat ConcreteWall  END
+    BEGIN "40 29"      Mat Grass  END
+    BEGIN "40 30"      Mat Grass  END
+    BEGIN "40 31"      Mat Grass  END
+    BEGIN "40 32"      Mat Grass  END
+    BEGIN "40 33"      Mat Grass  END
+    BEGIN "40 34"      Mat BrickWall  Ind true  END
+    BEGIN "40 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "40 36"      Mat WoodenFloor  Ind true  END
+    BEGIN "40 37"      Mat WoodenFloor  Ind true  END
+    BEGIN "40 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "40 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "40 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "40 41"      Mat WoodenFloor  Ind true  END
+    BEGIN "40 42"      Mat WoodenFloor  Ind true  END
+    BEGIN "40 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "40 44"      Mat BrickWall  Ind true  END
+    BEGIN "40 47"      Mat Grass  END
+    BEGIN "40 51"      Mat Grass  END
+    BEGIN "40 53"      Mat Grass  END
+    BEGIN "40 77"      Mat ConcreteWall  END
+    BEGIN "40 79"      Mat PavingStone  END
+    BEGIN "41 0"       Mat PavingStone  END
+    BEGIN "41 1"       Mat PavingStone  END
+    BEGIN "41 3"       Mat ConcreteWall  END
+    BEGIN "41 29"      Mat Grass  END
+    BEGIN "41 30"      Mat Grass  END
+    BEGIN "41 31"      Mat Grass  END
+    BEGIN "41 32"      Mat Grass  END
+    BEGIN "41 33"      Mat Grass  END
+    BEGIN "41 34"      Mat BrickWall  Ind true  END
+    BEGIN "41 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "41 36"      Mat WoodenFloor  Ind true  END
+    BEGIN "41 37"      Mat WoodenFloor  Ind true  END
+    BEGIN "41 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "41 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "41 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "41 41"      Mat WoodenFloor  Ind true  END
+    BEGIN "41 42"      Mat WoodenFloor  Ind true  END
+    BEGIN "41 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "41 44"      Mat BrickWall  Ind true  END
+    BEGIN "41 77"      Mat ConcreteWall  END
+    BEGIN "41 78"      Mat PavingStone  END
+    BEGIN "41 79"      Mat PavingStone  END
+    BEGIN "42 0"       Mat PavingStone  END
+    BEGIN "42 3"       Mat ConcreteWall  END
+    BEGIN "42 29"      Mat Grass  END
+    BEGIN "42 30"      Mat Grass  END
+    BEGIN "42 31"      Mat Grass  END
+    BEGIN "42 32"      Mat Grass  END
+    BEGIN "42 33"      Mat Grass  END
+    BEGIN "42 34"      Mat BrickWall  Ind true  END
+    BEGIN "42 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "42 36"      Mat WoodenFloor  Ind true  END
+    BEGIN "42 37"      Mat WoodenFloor  Ind true  END
+    BEGIN "42 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "42 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "42 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "42 41"      Mat WoodenFloor  Ind true  END
+    BEGIN "42 42"      Mat WoodenFloor  Ind true  END
+    BEGIN "42 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "42 44"      Mat BrickWall  Ind true  END
+    BEGIN "42 46"      Mat Grass  END
+    BEGIN "42 50"      Mat Grass  END
+    BEGIN "42 52"      Mat Grass  END
+    BEGIN "42 77"      Mat ConcreteWall  END
+    BEGIN "42 78"      Mat PavingStone  END
+    BEGIN "42 79"      Mat PavingStone  END
+    BEGIN "43 0"       Mat PavingStone  END
+    BEGIN "43 3"       Mat ConcreteWall  END
+    BEGIN "43 29"      Mat Grass  END
+    BEGIN "43 30"      Mat Grass  END
+    BEGIN "43 31"      Mat Grass  END
+    BEGIN "43 32"      Mat Grass  END
+    BEGIN "43 33"      Mat Grass  END
+    BEGIN "43 34"      Mat BrickWall  Ind true  END
+    BEGIN "43 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "43 36"      Mat WoodenFloor  Ind true  END
+    BEGIN "43 37"      Mat WoodenFloor  Ind true  END
+    BEGIN "43 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "43 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "43 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "43 41"      Mat WoodenFloor  Ind true  END
+    BEGIN "43 42"      Mat WoodenFloor  Ind true  END
+    BEGIN "43 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "43 44"      Mat BrickWall  Ind true  END
+    BEGIN "43 48"      Mat Grass  END
+    BEGIN "43 77"      Mat ConcreteWall  END
+    BEGIN "43 79"      Mat PavingStone  END
+    BEGIN "44 0"       Mat PavingStone  END
+    BEGIN "44 3"       Mat ConcreteWall  END
+    BEGIN "44 28"      Mat Grass  END
+    BEGIN "44 29"      Mat Grass  END
+    BEGIN "44 30"      Mat Grass  END
+    BEGIN "44 31"      Mat Grass  END
+    BEGIN "44 32"      Mat Grass  END
+    BEGIN "44 33"      Mat Grass  END
+    BEGIN "44 34"      Mat BrickWall  Ind true  END
+    BEGIN "44 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "44 36"      Mat WoodenFloor  Ind true  END
+    BEGIN "44 37"      Mat WoodenFloor  Ind true  END
+    BEGIN "44 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "44 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "44 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "44 41"      Mat WoodenFloor  Ind true  END
+    BEGIN "44 42"      Mat WoodenFloor  Ind true  END
+    BEGIN "44 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "44 44"      Mat BrickWall  Ind true  END
+    BEGIN "44 46"      Mat Grass  END
+    BEGIN "44 50"      Mat Grass  END
+    BEGIN "44 52"      Mat Grass  END
+    BEGIN "44 77"      Mat ConcreteWall  END
+    BEGIN "44 79"      Mat PavingStone  END
+    BEGIN "45 0"       Mat PavingStone  END
+    BEGIN "45 1"       Mat PavingStone  END
+    BEGIN "45 3"       Mat ConcreteWall  END
+    BEGIN "45 29"      Mat Grass  END
+    BEGIN "45 30"      Mat Grass  END
+    BEGIN "45 31"      Mat Grass  END
+    BEGIN "45 32"      Mat Grass  END
+    BEGIN "45 33"      Mat Grass  END
+    BEGIN "45 34"      Mat BrickWall  Ind true  END
+    BEGIN "45 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "45 36"      Mat WoodenFloor  Ind true  END
+    BEGIN "45 37"      Mat WoodenFloor  Ind true  END
+    BEGIN "45 38"      Mat WoodenFloor  Ind true  END
+    BEGIN "45 39"      Mat WoodenFloor  Ind true  END
+    BEGIN "45 40"      Mat WoodenFloor  Ind true  END
+    BEGIN "45 41"      Mat WoodenFloor  Ind true  END
+    BEGIN "45 42"      Mat WoodenFloor  Ind true  END
+    BEGIN "45 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "45 44"      Mat BrickWall  Ind true  END
+    BEGIN "45 77"      Mat ConcreteWall  END
+    BEGIN "45 78"      Mat PavingStone  END
+    BEGIN "45 79"      Mat PavingStone  END
+    BEGIN "46 0"       Mat PavingStone  END
+    BEGIN "46 3"       Mat ConcreteWall  END
+    BEGIN "46 29"      Mat Grass  END
+    BEGIN "46 30"      Mat Grass  END
+    BEGIN "46 31"      Mat Grass  END
+    BEGIN "46 32"      Mat Grass  END
+    BEGIN "46 33"      Mat Grass  END
+    BEGIN "46 34"      Mat BrickWall  Ind true  END
+    BEGIN "46 35"      Mat MosaicFloor  Ind true  END
+    BEGIN "46 36"      Mat MosaicFloor  Ind true  END
+    BEGIN "46 37"      Mat MosaicFloor  Ind true  END
+    BEGIN "46 38"      Mat MosaicFloor  Ind true  END
+    BEGIN "46 39"      Mat MosaicFloor  Ind true  END
+    BEGIN "46 40"      Mat MosaicFloor  Ind true  END
+    BEGIN "46 41"      Mat MosaicFloor  Ind true  END
+    BEGIN "46 42"      Mat MosaicFloor  Ind true  END
+    BEGIN "46 43"      Mat MosaicFloor  Ind true  END
+    BEGIN "46 44"      Mat BrickWall  Ind true  END
+    BEGIN "46 48"      Mat Grass  END
+    BEGIN "46 50"      Mat Grass  END
+    BEGIN "46 52"      Mat Grass  END
+    BEGIN "46 77"      Mat ConcreteWall  END
+    BEGIN "46 79"      Mat PavingStone  END
+    BEGIN "47 0"       Mat PavingStone  END
+    BEGIN "47 3"       Mat ConcreteWall  END
+    BEGIN "47 29"      Mat Grass  END
+    BEGIN "47 30"      Mat Grass  END
+    BEGIN "47 31"      Mat Grass  END
+    BEGIN "47 32"      Mat Grass  END
+    BEGIN "47 33"      Mat Grass  END
+    BEGIN "47 34"      Mat BrickWall  Ind true  END
+    BEGIN "47 35"      Mat BrickWall  Ind true  END
+    BEGIN "47 36"      Mat BrickWall  Ind true  END
+    BEGIN "47 37"      Mat BrickWall  Ind true  END
+    BEGIN "47 38"      Mat BrickWall  Ind true  END
+    BEGIN "47 39"      Mat BrickWall  Ind true  END
+    BEGIN "47 40"      Mat BrickWall  Ind true  END
+    BEGIN "47 41"      Mat BrickWall  Ind true  END
+    BEGIN "47 42"      Mat BrickWall  Ind true  END
+    BEGIN "47 43"      Mat BrickWall  Ind true  END
+    BEGIN "47 44"      Mat BrickWall  Ind true  END
+    BEGIN "47 46"      Mat Grass  END
+    BEGIN "47 77"      Mat ConcreteWall  END
+    BEGIN "47 79"      Mat PavingStone  END
+    BEGIN "48 0"       Mat PavingStone  END
+    BEGIN "48 1"       Mat PavingStone  END
+    BEGIN "48 3"       Mat ConcreteWall  END
+    BEGIN "48 29"      Mat Grass  END
+    BEGIN "48 30"      Mat Grass  END
+    BEGIN "48 31"      Mat Grass  END
+    BEGIN "48 32"      Mat Grass  END
+    BEGIN "48 33"      Mat Grass  END
+    BEGIN "48 34"      Mat Grass  END
+    BEGIN "48 35"      Mat Grass  END
+    BEGIN "48 36"      Mat Grass  END
+    BEGIN "48 37"      Mat Grass  END
+    BEGIN "48 38"      Mat Grass  END
+    BEGIN "48 39"      Mat Grass  END
+    BEGIN "48 40"      Mat Grass  END
+    BEGIN "48 41"      Mat Grass  END
+    BEGIN "48 42"      Mat Grass  END
+    BEGIN "48 43"      Mat Grass  END
+    BEGIN "48 44"      Mat Grass  END
+    BEGIN "48 45"      Mat Grass  END
+    BEGIN "48 46"      Mat Grass  END
+    BEGIN "48 47"      Mat Grass  END
+    BEGIN "48 48"      Mat Grass  END
+    BEGIN "48 49"      Mat Grass  END
+    BEGIN "48 50"      Mat Grass  END
+    BEGIN "48 77"      Mat ConcreteWall  END
+    BEGIN "48 78"      Mat PavingStone  END
+    BEGIN "48 79"      Mat PavingStone  END
+    BEGIN "49 0"       Mat PavingStone  END
+    BEGIN "49 1"       Mat PavingStone  END
+    BEGIN "49 3"       Mat ConcreteWall  END
+    BEGIN "49 29"      Mat Grass  END
+    BEGIN "49 30"      Mat Grass  END
+    BEGIN "49 31"      Mat Grass  END
+    BEGIN "49 32"      Mat Grass  END
+    BEGIN "49 33"      Mat Grass  END
+    BEGIN "49 34"      Mat Grass  END
+    BEGIN "49 35"      Mat Grass  END
+    BEGIN "49 36"      Mat Grass  END
+    BEGIN "49 37"      Mat Grass  END
+    BEGIN "49 38"      Mat Grass  END
+    BEGIN "49 39"      Mat Grass  END
+    BEGIN "49 40"      Mat Grass  END
+    BEGIN "49 41"      Mat Grass  END
+    BEGIN "49 42"      Mat Grass  END
+    BEGIN "49 43"      Mat Grass  END
+    BEGIN "49 44"      Mat Grass  END
+    BEGIN "49 45"      Mat Grass  END
+    BEGIN "49 46"      Mat Grass  END
+    BEGIN "49 47"      Mat Grass  END
+    BEGIN "49 48"      Mat Grass  END
+    BEGIN "49 49"      Mat Grass  END
+    BEGIN "49 50"      Mat Grass  END
+    BEGIN "49 52"      Mat Grass  END
+    BEGIN "49 77"      Mat ConcreteWall  END
+    BEGIN "49 79"      Mat PavingStone  END
+    BEGIN "50 0"       Mat PavingStone  END
+    BEGIN "50 3"       Mat ConcreteWall  END
+    BEGIN "50 29"      Mat Grass  END
+    BEGIN "50 30"      Mat Grass  END
+    BEGIN "50 31"      Mat Grass  END
+    BEGIN "50 32"      Mat Grass  END
+    BEGIN "50 33"      Mat Grass  END
+    BEGIN "50 34"      Mat Grass  END
+    BEGIN "50 35"      Mat Grass  END
+    BEGIN "50 36"      Mat Grass  END
+    BEGIN "50 37"      Mat Grass  END
+    BEGIN "50 38"      Mat Grass  END
+    BEGIN "50 39"      Mat Grass  END
+    BEGIN "50 40"      Mat Grass  END
+    BEGIN "50 41"      Mat Grass  END
+    BEGIN "50 42"      Mat Grass  END
+    BEGIN "50 43"      Mat Grass  END
+    BEGIN "50 44"      Mat Grass  END
+    BEGIN "50 45"      Mat Grass  END
+    BEGIN "50 46"      Mat Grass  END
+    BEGIN "50 47"      Mat Grass  END
+    BEGIN "50 48"      Mat Grass  END
+    BEGIN "50 49"      Mat Grass  END
+    BEGIN "50 50"      Mat Grass  END
+    BEGIN "50 77"      Mat ConcreteWall  END
+    BEGIN "50 79"      Mat PavingStone  END
+    BEGIN "51 0"       Mat PavingStone  END
+    BEGIN "51 1"       Mat PavingStone  END
+    BEGIN "51 3"       Mat ConcreteWall  END
+    BEGIN "51 29"      Mat Grass  END
+    BEGIN "51 30"      Mat Grass  END
+    BEGIN "51 31"      Mat Grass  END
+    BEGIN "51 32"      Mat Grass  END
+    BEGIN "51 33"      Mat Grass  END
+    BEGIN "51 34"      Mat Grass  END
+    BEGIN "51 35"      Mat Grass  END
+    BEGIN "51 36"      Mat Grass  END
+    BEGIN "51 37"      Mat Grass  END
+    BEGIN "51 38"      Mat Grass  END
+    BEGIN "51 39"      Mat Grass  END
+    BEGIN "51 40"      Mat Grass  END
+    BEGIN "51 41"      Mat Grass  END
+    BEGIN "51 42"      Mat Grass  END
+    BEGIN "51 43"      Mat Grass  END
+    BEGIN "51 44"      Mat Grass  END
+    BEGIN "51 45"      Mat Grass  END
+    BEGIN "51 46"      Mat Grass  END
+    BEGIN "51 47"      Mat Grass  END
+    BEGIN "51 48"      Mat Grass  END
+    BEGIN "51 49"      Mat Grass  END
+    BEGIN "51 50"      Mat Grass  END
+    BEGIN "51 77"      Mat ConcreteWall  END
+    BEGIN "51 79"      Mat PavingStone  END
+    BEGIN "52 0"       Mat PavingStone  END
+    BEGIN "52 3"       Mat ConcreteWall  END
+    BEGIN "52 29"      Mat Grass  END
+    BEGIN "52 30"      Mat Grass  END
+    BEGIN "52 31"      Mat Grass  END
+    BEGIN "52 32"      Mat Grass  END
+    BEGIN "52 33"      Mat Grass  END
+    BEGIN "52 34"      Mat Grass  END
+    BEGIN "52 35"      Mat Grass  END
+    BEGIN "52 36"      Mat Grass  END
+    BEGIN "52 37"      Mat Grass  END
+    BEGIN "52 38"      Mat Grass  END
+    BEGIN "52 39"      Mat Grass  END
+    BEGIN "52 40"      Mat Grass  END
+    BEGIN "52 41"      Mat Grass  END
+    BEGIN "52 42"      Mat Grass  END
+    BEGIN "52 43"      Mat Grass  END
+    BEGIN "52 44"      Mat Grass  END
+    BEGIN "52 45"      Mat Grass  END
+    BEGIN "52 46"      Mat Grass  END
+    BEGIN "52 47"      Mat Grass  END
+    BEGIN "52 48"      Mat Grass  END
+    BEGIN "52 49"      Mat Grass  END
+    BEGIN "52 50"      Mat Grass  END
+    BEGIN "52 77"      Mat ConcreteWall  END
+    BEGIN "52 79"      Mat PavingStone  END
+    BEGIN "53 0"       Mat PavingStone  END
+    BEGIN "53 3"       Mat ConcreteWall  END
+    BEGIN "53 29"      Mat Grass  END
+    BEGIN "53 30"      Mat Grass  END
+    BEGIN "53 31"      Mat Grass  END
+    BEGIN "53 32"      Mat Grass  END
+    BEGIN "53 33"      Mat Grass  END
+    BEGIN "53 34"      Mat Grass  END
+    BEGIN "53 35"      Mat Grass  END
+    BEGIN "53 36"      Mat Grass  END
+    BEGIN "53 37"      Mat Grass  END
+    BEGIN "53 38"      Mat Grass  END
+    BEGIN "53 39"      Mat Grass  END
+    BEGIN "53 40"      Mat Grass  END
+    BEGIN "53 41"      Mat Grass  END
+    BEGIN "53 42"      Mat Grass  END
+    BEGIN "53 43"      Mat Grass  END
+    BEGIN "53 44"      Mat Grass  END
+    BEGIN "53 45"      Mat Grass  END
+    BEGIN "53 46"      Mat Grass  END
+    BEGIN "53 47"      Mat Grass  END
+    BEGIN "53 48"      Mat Grass  END
+    BEGIN "53 49"      Mat Grass  END
+    BEGIN "53 50"      Mat Grass  END
+    BEGIN "53 77"      Mat ConcreteWall  END
+    BEGIN "53 78"      Mat PavingStone  END
+    BEGIN "53 79"      Mat PavingStone  END
+    BEGIN "54 0"       Mat PavingStone  END
+    BEGIN "54 3"       Mat ConcreteWall  END
+    BEGIN "54 29"      Mat Grass  END
+    BEGIN "54 30"      Mat Grass  END
+    BEGIN "54 31"      Mat Grass  END
+    BEGIN "54 32"      Mat Grass  END
+    BEGIN "54 33"      Mat Grass  END
+    BEGIN "54 34"      Mat Grass  END
+    BEGIN "54 35"      Mat Grass  END
+    BEGIN "54 36"      Mat Grass  END
+    BEGIN "54 37"      Mat Grass  END
+    BEGIN "54 38"      Mat Grass  END
+    BEGIN "54 39"      Mat Grass  END
+    BEGIN "54 40"      Mat Grass  END
+    BEGIN "54 41"      Mat Grass  END
+    BEGIN "54 42"      Mat Grass  END
+    BEGIN "54 43"      Mat Grass  END
+    BEGIN "54 44"      Mat Grass  END
+    BEGIN "54 45"      Mat Grass  END
+    BEGIN "54 46"      Mat Grass  END
+    BEGIN "54 47"      Mat Grass  END
+    BEGIN "54 48"      Mat Grass  END
+    BEGIN "54 49"      Mat Grass  END
+    BEGIN "54 50"      Mat Grass  END
+    BEGIN "54 77"      Mat ConcreteWall  END
+    BEGIN "54 79"      Mat PavingStone  END
+    BEGIN "55 0"       Mat PavingStone  END
+    BEGIN "55 3"       Mat ConcreteWall  END
+    BEGIN "55 33"      Mat Grass  END
+    BEGIN "55 34"      Mat Grass  END
+    BEGIN "55 35"      Mat Grass  END
+    BEGIN "55 36"      Mat Grass  END
+    BEGIN "55 37"      Mat Grass  END
+    BEGIN "55 38"      Mat Grass  END
+    BEGIN "55 39"      Mat Grass  END
+    BEGIN "55 40"      Mat Grass  END
+    BEGIN "55 41"      Mat Grass  END
+    BEGIN "55 42"      Mat Grass  END
+    BEGIN "55 43"      Mat Grass  END
+    BEGIN "55 44"      Mat Grass  END
+    BEGIN "55 45"      Mat Grass  END
+    BEGIN "55 46"      Mat Grass  END
+    BEGIN "55 47"      Mat Grass  END
+    BEGIN "55 48"      Mat Grass  END
+    BEGIN "55 49"      Mat Grass  END
+    BEGIN "55 50"      Mat Grass  END
+    BEGIN "55 77"      Mat ConcreteWall  END
+    BEGIN "55 79"      Mat PavingStone  END
+    BEGIN "56 0"       Mat PavingStone  END
+    BEGIN "56 3"       Mat ConcreteWall  END
+    BEGIN "56 38"      Mat Grass  END
+    BEGIN "56 77"      Mat ConcreteWall  END
+    BEGIN "56 79"      Mat PavingStone  END
+    BEGIN "57 0"       Mat PavingStone  END
+    BEGIN "57 3"       Mat ConcreteWall  END
+    BEGIN "57 33"      Mat Grass  END
+    BEGIN "57 36"      Mat Grass  END
+    BEGIN "57 77"      Mat ConcreteWall  END
+    BEGIN "57 79"      Mat PavingStone  END
+    BEGIN "58 0"       Mat PavingStone  END
+    BEGIN "58 3"       Mat ConcreteWall  END
+    BEGIN "58 77"      Mat ConcreteWall  END
+    BEGIN "58 79"      Mat PavingStone  END
+    BEGIN "59 0"       Mat PavingStone  END
+    BEGIN "59 1"       Mat PavingStone  END
+    BEGIN "59 3"       Mat ConcreteWall  END
+    BEGIN "59 32"      Mat Grass  END
+    BEGIN "59 34"      Mat Grass  END
+    BEGIN "59 36"      Mat Grass  END
+    BEGIN "59 77"      Mat ConcreteWall  END
+    BEGIN "59 79"      Mat PavingStone  END
+    BEGIN "60 0"       Mat PavingStone  END
+    BEGIN "60 1"       Mat PavingStone  END
+    BEGIN "60 3"       Mat ConcreteWall  END
+    BEGIN "60 77"      Mat ConcreteWall  END
+    BEGIN "60 79"      Mat PavingStone  END
+    BEGIN "61 0"       Mat PavingStone  END
+    BEGIN "61 1"       Mat PavingStone  END
+    BEGIN "61 3"       Mat ConcreteWall  END
+    BEGIN "61 77"      Mat ConcreteWall  END
+    BEGIN "61 79"      Mat PavingStone  END
+    BEGIN "62 0"       Mat PavingStone  END
+    BEGIN "62 3"       Mat ConcreteWall  END
+    BEGIN "62 77"      Mat ConcreteWall  END
+    BEGIN "62 78"      Mat PavingStone  END
+    BEGIN "62 79"      Mat PavingStone  END
+    BEGIN "63 0"       Mat PavingStone  END
+    BEGIN "63 1"       Mat PavingStone  END
+    BEGIN "63 2"       Mat Grass  END
+    BEGIN "63 3"       Mat ConcreteWall  END
+    BEGIN "63 77"      Mat ConcreteWall  END
+    BEGIN "63 79"      Mat PavingStone  END
+    BEGIN "64 0"       Mat PavingStone  END
+    BEGIN "64 1"       Mat PavingStone  END
+    BEGIN "64 3"       Mat ConcreteWall  END
+    BEGIN "64 77"      Mat ConcreteWall  END
+    BEGIN "64 79"      Mat PavingStone  END
+    BEGIN "65 0"       Mat PavingStone  END
+    BEGIN "65 3"       Mat ConcreteWall  END
+    BEGIN "65 77"      Mat ConcreteWall  END
+    BEGIN "65 79"      Mat PavingStone  END
+    BEGIN "66 0"       Mat PavingStone  END
+    BEGIN "66 1"       Mat PavingStone  END
+    BEGIN "66 3"       Mat ConcreteWall  END
+    BEGIN "66 77"      Mat ConcreteWall  END
+    BEGIN "66 79"      Mat PavingStone  END
+    BEGIN "67 0"       Mat PavingStone  END
+    BEGIN "67 1"       Mat PavingStone  END
+    BEGIN "67 3"       Mat ConcreteWall  END
+    BEGIN "67 77"      Mat ConcreteWall  END
+    BEGIN "67 78"      Mat PavingStone  END
+    BEGIN "67 79"      Mat PavingStone  END
+    BEGIN "68 0"       Mat PavingStone  END
+    BEGIN "68 3"       Mat ConcreteWall  END
+    BEGIN "68 77"      Mat ConcreteWall  END
+    BEGIN "68 79"      Mat PavingStone  END
+    BEGIN "69 0"       Mat PavingStone  END
+    BEGIN "69 1"       Mat PavingStone  END
+    BEGIN "69 3"       Mat ConcreteWall  END
+    BEGIN "69 77"      Mat ConcreteWall  END
+    BEGIN "69 79"      Mat PavingStone  END
+    BEGIN "70 0"       Mat PavingStone  END
+    BEGIN "70 1"       Mat PavingStone  END
+    BEGIN "70 3"       Mat ConcreteWall  END
+    BEGIN "70 77"      Mat ConcreteWall  END
+    BEGIN "70 79"      Mat PavingStone  END
+    BEGIN "71 0"       Mat PavingStone  END
+    BEGIN "71 3"       Mat ConcreteWall  END
+    BEGIN "71 77"      Mat ConcreteWall  END
+    BEGIN "71 78"      Mat PavingStone  END
+    BEGIN "71 79"      Mat PavingStone  END
+    BEGIN "72 0"       Mat PavingStone  END
+    BEGIN "72 3"       Mat ConcreteWall  END
+    BEGIN "72 39"      Room.i 2  Room.u 7831  END
+    BEGIN "72 40"      Room.i 2  Room.u 7831  END
+    BEGIN "72 41"      Room.i 2  Room.u 7831  END
+    BEGIN "72 42"      Room.i 2  Room.u 7831  END
+    BEGIN "72 43"      Room.i 2  Room.u 7831  END
+    BEGIN "72 44"      Room.i 2  Room.u 7831  END
+    BEGIN "72 45"      Room.i 2  Room.u 7831  END
+    BEGIN "72 46"      Room.i 2  Room.u 7831  END
+    BEGIN "72 77"      Mat ConcreteWall  END
+    BEGIN "72 79"      Mat PavingStone  END
+    BEGIN "73 0"       Mat PavingStone  END
+    BEGIN "73 1"       Mat PavingStone  END
+    BEGIN "73 3"       Mat ConcreteWall  END
+    BEGIN "73 39"      Room.i 2  Room.u 7831  END
+    BEGIN "73 40"      Room.i 2  Room.u 7831  END
+    BEGIN "73 41"      Room.i 2  Room.u 7831  END
+    BEGIN "73 42"      Room.i 2  Room.u 7831  END
+    BEGIN "73 43"      Room.i 2  Room.u 7831  END
+    BEGIN "73 44"      Room.i 2  Room.u 7831  END
+    BEGIN "73 45"      Room.i 2  Room.u 7831  END
+    BEGIN "73 46"      Room.i 2  Room.u 7831  END
+    BEGIN "73 77"      Mat ConcreteWall  END
+    BEGIN "73 79"      Mat PavingStone  END
+    BEGIN "74 0"       Mat PavingStone  END
+    BEGIN "74 1"       Mat PavingStone  END
+    BEGIN "74 3"       Mat ConcreteWall  END
+    BEGIN "74 39"      Room.i 2  Room.u 7831  END
+    BEGIN "74 40"      Room.i 2  Room.u 7831  END
+    BEGIN "74 41"      Room.i 2  Room.u 7831  END
+    BEGIN "74 42"      Room.i 2  Room.u 7831  END
+    BEGIN "74 43"      Room.i 2  Room.u 7831  END
+    BEGIN "74 44"      Room.i 2  Room.u 7831  END
+    BEGIN "74 45"      Room.i 2  Room.u 7831  END
+    BEGIN "74 46"      Room.i 2  Room.u 7831  END
+    BEGIN "74 77"      Mat ConcreteWall  END
+    BEGIN "74 79"      Mat PavingStone  END
+    BEGIN "75 0"       Mat PavingStone  END
+    BEGIN "75 3"       Mat ConcreteWall  END
+    BEGIN "75 39"      Room.i 2  Room.u 7831  END
+    BEGIN "75 40"      Room.i 2  Room.u 7831  END
+    BEGIN "75 41"      Room.i 2  Room.u 7831  END
+    BEGIN "75 42"      Room.i 2  Room.u 7831  END
+    BEGIN "75 43"      Room.i 2  Room.u 7831  END
+    BEGIN "75 44"      Room.i 2  Room.u 7831  END
+    BEGIN "75 45"      Room.i 2  Room.u 7831  END
+    BEGIN "75 46"      Room.i 2  Room.u 7831  END
+    BEGIN "75 77"      Mat ConcreteWall  END
+    BEGIN "75 79"      Mat PavingStone  END
+    BEGIN "76 0"       Mat PavingStone  END
+    BEGIN "76 1"       Mat PavingStone  END
+    BEGIN "76 3"       Mat ConcreteWall  END
+    BEGIN "76 39"      Room.i 2  Room.u 7831  END
+    BEGIN "76 40"      Room.i 2  Room.u 7831  END
+    BEGIN "76 41"      Room.i 2  Room.u 7831  END
+    BEGIN "76 42"      Room.i 2  Room.u 7831  END
+    BEGIN "76 43"      Room.i 2  Room.u 7831  END
+    BEGIN "76 44"      Room.i 2  Room.u 7831  END
+    BEGIN "76 45"      Room.i 2  Room.u 7831  END
+    BEGIN "76 46"      Room.i 2  Room.u 7831  END
+    BEGIN "76 77"      Mat ConcreteWall  END
+    BEGIN "76 79"      Mat PavingStone  END
+    BEGIN "77 0"       Mat PavingStone  END
+    BEGIN "77 1"       Mat PavingStone  END
+    BEGIN "77 3"       Mat ConcreteWall  END
+    BEGIN "77 39"      Room.i 2  Room.u 7831  END
+    BEGIN "77 40"      Room.i 2  Room.u 7831  END
+    BEGIN "77 41"      Room.i 2  Room.u 7831  END
+    BEGIN "77 42"      Room.i 2  Room.u 7831  END
+    BEGIN "77 43"      Room.i 2  Room.u 7831  END
+    BEGIN "77 44"      Room.i 2  Room.u 7831  END
+    BEGIN "77 45"      Room.i 2  Room.u 7831  END
+    BEGIN "77 46"      Room.i 2  Room.u 7831  END
+    BEGIN "77 77"      Mat ConcreteWall  END
+    BEGIN "77 78"      Mat PavingStone  END
+    BEGIN "77 79"      Mat PavingStone  END
+    BEGIN "78 0"       Mat PavingStone  END
+    BEGIN "78 3"       Mat ConcreteWall  END
+    BEGIN "78 39"      Room.i 2  Room.u 7831  END
+    BEGIN "78 40"      Room.i 2  Room.u 7831  END
+    BEGIN "78 41"      Room.i 2  Room.u 7831  END
+    BEGIN "78 42"      Room.i 2  Room.u 7831  END
+    BEGIN "78 43"      Room.i 2  Room.u 7831  END
+    BEGIN "78 44"      Room.i 2  Room.u 7831  END
+    BEGIN "78 45"      Room.i 2  Room.u 7831  END
+    BEGIN "78 46"      Room.i 2  Room.u 7831  END
+    BEGIN "78 77"      Mat ConcreteWall  END
+    BEGIN "78 79"      Mat PavingStone  END
+    BEGIN "79 0"       Mat PavingStone  END
+    BEGIN "79 3"       Mat ConcreteWall  END
+    BEGIN "79 77"      Mat ConcreteWall  END
+    BEGIN "79 78"      Mat PavingStone  END
+    BEGIN "79 79"      Mat PavingStone  END
+    BEGIN "80 0"       Mat PavingStone  END
+    BEGIN "80 3"       Mat ConcreteWall  END
+    BEGIN "80 77"      Mat ConcreteWall  END
+    BEGIN "80 78"      Mat PavingStone  END
+    BEGIN "80 79"      Mat PavingStone  END
+    BEGIN "81 0"       Mat PavingStone  END
+    BEGIN "81 3"       Mat ConcreteWall  END
+    BEGIN "81 77"      Mat ConcreteWall  END
+    BEGIN "81 79"      Mat PavingStone  END
+    BEGIN "82 0"       Mat PavingStone  END
+    BEGIN "82 1"       Mat Grass  END
+    BEGIN "82 3"       Mat ConcreteWall  END
+    BEGIN "82 77"      Mat ConcreteWall  END
+    BEGIN "82 79"      Mat PavingStone  END
+    BEGIN "83 0"       Mat PavingStone  END
+    BEGIN "83 1"       Mat PavingStone  END
+    BEGIN "83 3"       Mat ConcreteWall  END
+    BEGIN "83 36"      Room.i 0  Room.u 7072  END
+    BEGIN "83 37"      Room.i 0  Room.u 7072  END
+    BEGIN "83 38"      Room.i 0  Room.u 7072  END
+    BEGIN "83 39"      Room.i 0  Room.u 7072  END
+    BEGIN "83 40"      Room.i 0  Room.u 7072  END
+    BEGIN "83 41"      Room.i 0  Room.u 7072  END
+    BEGIN "83 42"      Room.i 0  Room.u 7072  END
+    BEGIN "83 43"      Room.i 1  Room.u 7518  END
+    BEGIN "83 44"      Room.i 1  Room.u 7518  END
+    BEGIN "83 45"      Room.i 1  Room.u 7518  END
+    BEGIN "83 46"      Room.i 1  Room.u 7518  END
+    BEGIN "83 47"      Room.i 1  Room.u 7518  END
+    BEGIN "83 48"      Room.i 1  Room.u 7518  END
+    BEGIN "83 77"      Mat ConcreteWall  END
+    BEGIN "83 79"      Mat PavingStone  END
+    BEGIN "84 0"       Mat Grass  END
+    BEGIN "84 3"       Mat ConcreteWall  END
+    BEGIN "84 36"      Room.i 0  Room.u 7072  END
+    BEGIN "84 37"      Room.i 0  Room.u 7072  END
+    BEGIN "84 38"      Room.i 0  Room.u 7072  END
+    BEGIN "84 39"      Room.i 0  Room.u 7072  END
+    BEGIN "84 40"      Room.i 0  Room.u 7072  END
+    BEGIN "84 41"      Room.i 0  Room.u 7072  END
+    BEGIN "84 42"      Room.i 0  Room.u 7072  END
+    BEGIN "84 43"      Room.i 1  Room.u 7518  END
+    BEGIN "84 44"      Room.i 1  Room.u 7518  END
+    BEGIN "84 45"      Room.i 1  Room.u 7518  END
+    BEGIN "84 46"      Room.i 1  Room.u 7518  END
+    BEGIN "84 47"      Room.i 1  Room.u 7518  END
+    BEGIN "84 48"      Room.i 1  Room.u 7518  END
+    BEGIN "84 77"      Mat ConcreteWall  END
+    BEGIN "84 78"      Mat PavingStone  END
+    BEGIN "84 79"      Mat PavingStone  END
+    BEGIN "85 0"       Mat PavingStone  END
+    BEGIN "85 3"       Mat ConcreteWall  END
+    BEGIN "85 4"       Mat ConcreteWall  END
+    BEGIN "85 5"       Mat ConcreteWall  END
+    BEGIN "85 6"       Mat ConcreteWall  END
+    BEGIN "85 7"       Mat ConcreteWall  END
+    BEGIN "85 8"       Mat ConcreteWall  END
+    BEGIN "85 9"       Mat ConcreteWall  END
+    BEGIN "85 10"      Mat ConcreteWall  END
+    BEGIN "85 11"      Mat ConcreteWall  END
+    BEGIN "85 12"      Mat ConcreteWall  END
+    BEGIN "85 13"      Mat ConcreteWall  END
+    BEGIN "85 14"      Mat ConcreteWall  END
+    BEGIN "85 15"      Mat ConcreteWall  END
+    BEGIN "85 16"      Mat ConcreteWall  END
+    BEGIN "85 17"      Mat ConcreteWall  END
+    BEGIN "85 18"      Mat ConcreteWall  END
+    BEGIN "85 19"      Mat ConcreteWall  END
+    BEGIN "85 20"      Mat ConcreteWall  END
+    BEGIN "85 21"      Mat ConcreteWall  END
+    BEGIN "85 22"      Mat ConcreteWall  END
+    BEGIN "85 23"      Mat ConcreteWall  END
+    BEGIN "85 24"      Mat ConcreteWall  END
+    BEGIN "85 25"      Mat ConcreteWall  END
+    BEGIN "85 26"      Mat ConcreteWall  END
+    BEGIN "85 27"      Mat ConcreteWall  END
+    BEGIN "85 28"      Mat ConcreteWall  END
+    BEGIN "85 29"      Mat ConcreteWall  END
+    BEGIN "85 30"      Mat ConcreteWall  END
+    BEGIN "85 31"      Mat ConcreteWall  END
+    BEGIN "85 36"      Room.i 0  Room.u 7072  END
+    BEGIN "85 37"      Room.i 0  Room.u 7072  END
+    BEGIN "85 38"      Room.i 0  Room.u 7072  END
+    BEGIN "85 39"      Room.i 0  Room.u 7072  END
+    BEGIN "85 40"      Room.i 0  Room.u 7072  END
+    BEGIN "85 41"      Room.i 0  Room.u 7072  END
+    BEGIN "85 42"      Room.i 0  Room.u 7072  END
+    BEGIN "85 43"      Room.i 1  Room.u 7518  END
+    BEGIN "85 44"      Room.i 1  Room.u 7518  END
+    BEGIN "85 45"      Room.i 1  Room.u 7518  END
+    BEGIN "85 46"      Room.i 1  Room.u 7518  END
+    BEGIN "85 47"      Room.i 1  Room.u 7518  END
+    BEGIN "85 48"      Room.i 1  Room.u 7518  END
+    BEGIN "85 49"      Mat ConcreteWall  END
+    BEGIN "85 50"      Mat ConcreteWall  END
+    BEGIN "85 51"      Mat ConcreteWall  END
+    BEGIN "85 52"      Mat ConcreteWall  END
+    BEGIN "85 53"      Mat ConcreteWall  END
+    BEGIN "85 54"      Mat ConcreteWall  END
+    BEGIN "85 55"      Mat ConcreteWall  END
+    BEGIN "85 56"      Mat ConcreteWall  END
+    BEGIN "85 57"      Mat ConcreteWall  END
+    BEGIN "85 58"      Mat ConcreteWall  END
+    BEGIN "85 59"      Mat ConcreteWall  END
+    BEGIN "85 60"      Mat ConcreteWall  END
+    BEGIN "85 61"      Mat ConcreteWall  END
+    BEGIN "85 62"      Mat ConcreteWall  END
+    BEGIN "85 63"      Mat ConcreteWall  END
+    BEGIN "85 64"      Mat ConcreteWall  END
+    BEGIN "85 65"      Mat ConcreteWall  END
+    BEGIN "85 66"      Mat ConcreteWall  END
+    BEGIN "85 67"      Mat ConcreteWall  END
+    BEGIN "85 68"      Mat ConcreteWall  END
+    BEGIN "85 69"      Mat ConcreteWall  END
+    BEGIN "85 70"      Mat ConcreteWall  END
+    BEGIN "85 71"      Mat ConcreteWall  END
+    BEGIN "85 72"      Mat ConcreteWall  END
+    BEGIN "85 73"      Mat ConcreteWall  END
+    BEGIN "85 74"      Mat ConcreteWall  END
+    BEGIN "85 75"      Mat ConcreteWall  END
+    BEGIN "85 76"      Mat ConcreteWall  END
+    BEGIN "85 77"      Mat ConcreteWall  END
+    BEGIN "85 78"      Mat PavingStone  END
+    BEGIN "85 79"      Mat PavingStone  END
+    BEGIN "86 0"       Mat PavingStone  END
+    BEGIN "86 1"       Mat PavingStone  END
+    BEGIN "86 36"      Room.i 0  Room.u 7072  END
+    BEGIN "86 37"      Room.i 0  Room.u 7072  END
+    BEGIN "86 38"      Room.i 0  Room.u 7072  END
+    BEGIN "86 39"      Room.i 0  Room.u 7072  END
+    BEGIN "86 40"      Room.i 0  Room.u 7072  END
+    BEGIN "86 41"      Room.i 0  Room.u 7072  END
+    BEGIN "86 42"      Room.i 0  Room.u 7072  END
+    BEGIN "86 43"      Room.i 1  Room.u 7518  END
+    BEGIN "86 44"      Room.i 1  Room.u 7518  END
+    BEGIN "86 45"      Room.i 1  Room.u 7518  END
+    BEGIN "86 46"      Room.i 1  Room.u 7518  END
+    BEGIN "86 47"      Room.i 1  Room.u 7518  END
+    BEGIN "86 48"      Room.i 1  Room.u 7518  END
+    BEGIN "86 79"      Mat PavingStone  END
+    BEGIN "87 0"       Mat PavingStone  END
+    BEGIN "87 1"       Mat PavingStone  END
+    BEGIN "87 36"      Room.i 0  Room.u 7072  END
+    BEGIN "87 37"      Room.i 0  Room.u 7072  END
+    BEGIN "87 38"      Room.i 0  Room.u 7072  END
+    BEGIN "87 39"      Room.i 0  Room.u 7072  END
+    BEGIN "87 40"      Room.i 0  Room.u 7072  END
+    BEGIN "87 41"      Room.i 0  Room.u 7072  END
+    BEGIN "87 42"      Room.i 0  Room.u 7072  END
+    BEGIN "87 43"      Room.i 1  Room.u 7518  END
+    BEGIN "87 44"      Room.i 1  Room.u 7518  END
+    BEGIN "87 45"      Room.i 1  Room.u 7518  END
+    BEGIN "87 46"      Room.i 1  Room.u 7518  END
+    BEGIN "87 47"      Room.i 1  Room.u 7518  END
+    BEGIN "87 48"      Room.i 1  Room.u 7518  END
+    BEGIN "87 79"      Mat PavingStone  END
+    BEGIN "88 0"       Mat ConcreteTiles  END
+    BEGIN "88 1"       Mat ConcreteTiles  END
+    BEGIN "88 2"       Mat ConcreteTiles  END
+    BEGIN "88 3"       Mat ConcreteTiles  END
+    BEGIN "88 4"       Mat ConcreteTiles  END
+    BEGIN "88 5"       Mat ConcreteTiles  END
+    BEGIN "88 6"       Mat ConcreteTiles  END
+    BEGIN "88 7"       Mat ConcreteTiles  END
+    BEGIN "88 8"       Mat ConcreteTiles  END
+    BEGIN "88 9"       Mat ConcreteTiles  END
+    BEGIN "88 10"      Mat ConcreteTiles  END
+    BEGIN "88 11"      Mat ConcreteTiles  END
+    BEGIN "88 12"      Mat ConcreteTiles  END
+    BEGIN "88 13"      Mat ConcreteTiles  END
+    BEGIN "88 14"      Mat ConcreteTiles  END
+    BEGIN "88 15"      Mat ConcreteTiles  END
+    BEGIN "88 16"      Mat ConcreteTiles  END
+    BEGIN "88 17"      Mat ConcreteTiles  END
+    BEGIN "88 18"      Mat ConcreteTiles  END
+    BEGIN "88 19"      Mat ConcreteTiles  END
+    BEGIN "88 20"      Mat ConcreteTiles  END
+    BEGIN "88 21"      Mat ConcreteTiles  END
+    BEGIN "88 22"      Mat ConcreteTiles  END
+    BEGIN "88 23"      Mat ConcreteTiles  END
+    BEGIN "88 24"      Mat ConcreteTiles  END
+    BEGIN "88 25"      Mat ConcreteTiles  END
+    BEGIN "88 26"      Mat ConcreteTiles  END
+    BEGIN "88 27"      Mat ConcreteTiles  END
+    BEGIN "88 28"      Mat ConcreteTiles  END
+    BEGIN "88 29"      Mat ConcreteTiles  END
+    BEGIN "88 30"      Mat ConcreteTiles  END
+    BEGIN "88 31"      Mat ConcreteTiles  END
+    BEGIN "88 32"      Mat ConcreteTiles  END
+    BEGIN "88 33"      Mat ConcreteTiles  END
+    BEGIN "88 34"      Mat ConcreteTiles  END
+    BEGIN "88 35"      Mat ConcreteTiles  END
+    BEGIN "88 36"      Mat ConcreteTiles  END
+    BEGIN "88 37"      Mat ConcreteTiles  END
+    BEGIN "88 38"      Mat ConcreteTiles  END
+    BEGIN "88 39"      Mat ConcreteTiles  END
+    BEGIN "88 40"      Mat ConcreteTiles  Con 0.000000  END
+    BEGIN "88 41"      Mat ConcreteTiles  Con 0.000000  END
+    BEGIN "88 42"      Mat ConcreteTiles  Con 0.000000  END
+    BEGIN "88 43"      Mat ConcreteTiles  END
+    BEGIN "88 44"      Mat ConcreteTiles  END
+    BEGIN "88 45"      Mat ConcreteTiles  END
+    BEGIN "88 46"      Mat ConcreteTiles  END
+    BEGIN "88 47"      Mat ConcreteTiles  END
+    BEGIN "88 48"      Mat ConcreteTiles  END
+    BEGIN "88 49"      Mat ConcreteTiles  END
+    BEGIN "88 50"      Mat ConcreteTiles  END
+    BEGIN "88 51"      Mat ConcreteTiles  END
+    BEGIN "88 52"      Mat ConcreteTiles  END
+    BEGIN "88 53"      Mat ConcreteTiles  END
+    BEGIN "88 54"      Mat ConcreteTiles  END
+    BEGIN "88 55"      Mat ConcreteTiles  END
+    BEGIN "88 56"      Mat ConcreteTiles  END
+    BEGIN "88 57"      Mat ConcreteTiles  END
+    BEGIN "88 58"      Mat ConcreteTiles  END
+    BEGIN "88 59"      Mat ConcreteTiles  END
+    BEGIN "88 60"      Mat ConcreteTiles  END
+    BEGIN "88 61"      Mat ConcreteTiles  END
+    BEGIN "88 62"      Mat ConcreteTiles  END
+    BEGIN "88 63"      Mat ConcreteTiles  END
+    BEGIN "88 64"      Mat ConcreteTiles  END
+    BEGIN "88 65"      Mat ConcreteTiles  END
+    BEGIN "88 66"      Mat ConcreteTiles  END
+    BEGIN "88 67"      Mat ConcreteTiles  END
+    BEGIN "88 68"      Mat ConcreteTiles  END
+    BEGIN "88 69"      Mat ConcreteTiles  END
+    BEGIN "88 70"      Mat ConcreteTiles  END
+    BEGIN "88 71"      Mat ConcreteTiles  END
+    BEGIN "88 72"      Mat ConcreteTiles  END
+    BEGIN "88 73"      Mat ConcreteTiles  END
+    BEGIN "88 74"      Mat ConcreteTiles  END
+    BEGIN "88 75"      Mat ConcreteTiles  END
+    BEGIN "88 76"      Mat ConcreteTiles  END
+    BEGIN "88 77"      Mat ConcreteTiles  END
+    BEGIN "88 78"      Mat ConcreteTiles  END
+    BEGIN "88 79"      Mat ConcreteTiles  END
+    BEGIN "89 0"       Mat Road  END
+    BEGIN "89 1"       Mat Road  END
+    BEGIN "89 2"       Mat Road  END
+    BEGIN "89 3"       Mat Road  END
+    BEGIN "89 4"       Mat Road  END
+    BEGIN "89 5"       Mat Road  END
+    BEGIN "89 6"       Mat Road  END
+    BEGIN "89 7"       Mat Road  END
+    BEGIN "89 8"       Mat Road  END
+    BEGIN "89 9"       Mat Road  END
+    BEGIN "89 10"      Mat Road  END
+    BEGIN "89 11"      Mat Road  END
+    BEGIN "89 12"      Mat Road  END
+    BEGIN "89 13"      Mat Road  END
+    BEGIN "89 14"      Mat Road  END
+    BEGIN "89 15"      Mat Road  END
+    BEGIN "89 16"      Mat Road  END
+    BEGIN "89 17"      Mat Road  END
+    BEGIN "89 18"      Mat Road  END
+    BEGIN "89 19"      Mat Road  END
+    BEGIN "89 20"      Mat Road  END
+    BEGIN "89 21"      Mat Road  END
+    BEGIN "89 22"      Mat Road  END
+    BEGIN "89 23"      Mat Road  END
+    BEGIN "89 24"      Mat Road  END
+    BEGIN "89 25"      Mat Road  END
+    BEGIN "89 26"      Mat Road  END
+    BEGIN "89 27"      Mat Road  END
+    BEGIN "89 28"      Mat Road  END
+    BEGIN "89 29"      Mat Road  END
+    BEGIN "89 30"      Mat Road  END
+    BEGIN "89 31"      Mat Road  END
+    BEGIN "89 32"      Mat Road  END
+    BEGIN "89 33"      Mat Road  END
+    BEGIN "89 34"      Mat Road  END
+    BEGIN "89 35"      Mat Road  END
+    BEGIN "89 36"      Mat Road  END
+    BEGIN "89 37"      Mat Road  END
+    BEGIN "89 38"      Mat Road  END
+    BEGIN "89 39"      Mat Road  END
+    BEGIN "89 40"      Mat Road  Con 0.000000  END
+    BEGIN "89 41"      Mat Road  Con 0.000000  END
+    BEGIN "89 42"      Mat Road  Con 0.000000  END
+    BEGIN "89 43"      Mat Road  END
+    BEGIN "89 44"      Mat Road  END
+    BEGIN "89 45"      Mat Road  END
+    BEGIN "89 46"      Mat Road  END
+    BEGIN "89 47"      Mat Road  END
+    BEGIN "89 48"      Mat Road  END
+    BEGIN "89 49"      Mat Road  END
+    BEGIN "89 50"      Mat Road  END
+    BEGIN "89 51"      Mat Road  END
+    BEGIN "89 52"      Mat Road  END
+    BEGIN "89 53"      Mat Road  END
+    BEGIN "89 54"      Mat Road  END
+    BEGIN "89 55"      Mat Road  END
+    BEGIN "89 56"      Mat Road  END
+    BEGIN "89 57"      Mat Road  END
+    BEGIN "89 58"      Mat Road  END
+    BEGIN "89 59"      Mat Road  END
+    BEGIN "89 60"      Mat Road  END
+    BEGIN "89 61"      Mat Road  END
+    BEGIN "89 62"      Mat Road  END
+    BEGIN "89 63"      Mat Road  END
+    BEGIN "89 64"      Mat Road  END
+    BEGIN "89 65"      Mat Road  END
+    BEGIN "89 66"      Mat Road  END
+    BEGIN "89 67"      Mat Road  END
+    BEGIN "89 68"      Mat Road  END
+    BEGIN "89 69"      Mat Road  END
+    BEGIN "89 70"      Mat Road  END
+    BEGIN "89 71"      Mat Road  END
+    BEGIN "89 72"      Mat Road  END
+    BEGIN "89 73"      Mat Road  END
+    BEGIN "89 74"      Mat Road  END
+    BEGIN "89 75"      Mat Road  END
+    BEGIN "89 76"      Mat Road  END
+    BEGIN "89 77"      Mat Road  END
+    BEGIN "89 78"      Mat Road  END
+    BEGIN "89 79"      Mat Road  END
+    BEGIN "90 0"       Mat Road  END
+    BEGIN "90 1"       Mat Road  END
+    BEGIN "90 2"       Mat Road  END
+    BEGIN "90 3"       Mat Road  END
+    BEGIN "90 4"       Mat Road  END
+    BEGIN "90 5"       Mat Road  END
+    BEGIN "90 6"       Mat Road  END
+    BEGIN "90 7"       Mat Road  END
+    BEGIN "90 8"       Mat Road  END
+    BEGIN "90 9"       Mat Road  END
+    BEGIN "90 10"      Mat Road  END
+    BEGIN "90 11"      Mat Road  END
+    BEGIN "90 12"      Mat Road  END
+    BEGIN "90 13"      Mat Road  END
+    BEGIN "90 14"      Mat Road  END
+    BEGIN "90 15"      Mat Road  END
+    BEGIN "90 16"      Mat Road  END
+    BEGIN "90 17"      Mat Road  END
+    BEGIN "90 18"      Mat Road  END
+    BEGIN "90 19"      Mat Road  END
+    BEGIN "90 20"      Mat Road  END
+    BEGIN "90 21"      Mat Road  END
+    BEGIN "90 22"      Mat Road  END
+    BEGIN "90 23"      Mat Road  END
+    BEGIN "90 24"      Mat Road  END
+    BEGIN "90 25"      Mat Road  END
+    BEGIN "90 26"      Mat Road  END
+    BEGIN "90 27"      Mat Road  END
+    BEGIN "90 28"      Mat Road  END
+    BEGIN "90 29"      Mat Road  END
+    BEGIN "90 30"      Mat Road  END
+    BEGIN "90 31"      Mat Road  END
+    BEGIN "90 32"      Mat Road  END
+    BEGIN "90 33"      Mat Road  END
+    BEGIN "90 34"      Mat Road  END
+    BEGIN "90 35"      Mat Road  END
+    BEGIN "90 36"      Mat Road  END
+    BEGIN "90 37"      Mat Road  END
+    BEGIN "90 38"      Mat Road  END
+    BEGIN "90 39"      Mat Road  END
+    BEGIN "90 40"      Mat Road  Con 0.000000  END
+    BEGIN "90 41"      Mat Road  Con 0.000000  END
+    BEGIN "90 42"      Mat Road  Con 0.000000  END
+    BEGIN "90 43"      Mat Road  END
+    BEGIN "90 44"      Mat Road  END
+    BEGIN "90 45"      Mat Road  END
+    BEGIN "90 46"      Mat Road  END
+    BEGIN "90 47"      Mat Road  END
+    BEGIN "90 48"      Mat Road  END
+    BEGIN "90 49"      Mat Road  END
+    BEGIN "90 50"      Mat Road  END
+    BEGIN "90 51"      Mat Road  END
+    BEGIN "90 52"      Mat Road  END
+    BEGIN "90 53"      Mat Road  END
+    BEGIN "90 54"      Mat Road  END
+    BEGIN "90 55"      Mat Road  END
+    BEGIN "90 56"      Mat Road  END
+    BEGIN "90 57"      Mat Road  END
+    BEGIN "90 58"      Mat Road  END
+    BEGIN "90 59"      Mat Road  END
+    BEGIN "90 60"      Mat Road  END
+    BEGIN "90 61"      Mat Road  END
+    BEGIN "90 62"      Mat Road  END
+    BEGIN "90 63"      Mat Road  END
+    BEGIN "90 64"      Mat Road  END
+    BEGIN "90 65"      Mat Road  END
+    BEGIN "90 66"      Mat Road  END
+    BEGIN "90 67"      Mat Road  END
+    BEGIN "90 68"      Mat Road  END
+    BEGIN "90 69"      Mat Road  END
+    BEGIN "90 70"      Mat Road  END
+    BEGIN "90 71"      Mat Road  END
+    BEGIN "90 72"      Mat Road  END
+    BEGIN "90 73"      Mat Road  END
+    BEGIN "90 74"      Mat Road  END
+    BEGIN "90 75"      Mat Road  END
+    BEGIN "90 76"      Mat Road  END
+    BEGIN "90 77"      Mat Road  END
+    BEGIN "90 78"      Mat Road  END
+    BEGIN "90 79"      Mat Road  END
+    BEGIN "91 0"       Mat Road  END
+    BEGIN "91 1"       Mat Road  END
+    BEGIN "91 2"       Mat Road  END
+    BEGIN "91 3"       Mat Road  END
+    BEGIN "91 4"       Mat Road  END
+    BEGIN "91 5"       Mat Road  END
+    BEGIN "91 6"       Mat Road  END
+    BEGIN "91 7"       Mat Road  END
+    BEGIN "91 8"       Mat Road  END
+    BEGIN "91 9"       Mat Road  END
+    BEGIN "91 10"      Mat Road  END
+    BEGIN "91 11"      Mat Road  END
+    BEGIN "91 12"      Mat Road  END
+    BEGIN "91 13"      Mat Road  END
+    BEGIN "91 14"      Mat Road  END
+    BEGIN "91 15"      Mat Road  END
+    BEGIN "91 16"      Mat Road  END
+    BEGIN "91 17"      Mat Road  END
+    BEGIN "91 18"      Mat Road  END
+    BEGIN "91 19"      Mat Road  END
+    BEGIN "91 20"      Mat Road  END
+    BEGIN "91 21"      Mat Road  END
+    BEGIN "91 22"      Mat Road  END
+    BEGIN "91 23"      Mat Road  END
+    BEGIN "91 24"      Mat Road  END
+    BEGIN "91 25"      Mat Road  END
+    BEGIN "91 26"      Mat Road  END
+    BEGIN "91 27"      Mat Road  END
+    BEGIN "91 28"      Mat Road  END
+    BEGIN "91 29"      Mat Road  END
+    BEGIN "91 30"      Mat Road  END
+    BEGIN "91 31"      Mat Road  END
+    BEGIN "91 32"      Mat Road  END
+    BEGIN "91 33"      Mat Road  END
+    BEGIN "91 34"      Mat Road  END
+    BEGIN "91 35"      Mat Road  END
+    BEGIN "91 36"      Mat Road  END
+    BEGIN "91 37"      Mat Road  END
+    BEGIN "91 38"      Mat Road  END
+    BEGIN "91 39"      Mat Road  END
+    BEGIN "91 40"      Mat Road  END
+    BEGIN "91 41"      Mat Road  END
+    BEGIN "91 42"      Mat Road  END
+    BEGIN "91 43"      Mat Road  END
+    BEGIN "91 44"      Mat Road  END
+    BEGIN "91 45"      Mat Road  END
+    BEGIN "91 46"      Mat Road  END
+    BEGIN "91 47"      Mat Road  END
+    BEGIN "91 48"      Mat Road  END
+    BEGIN "91 49"      Mat Road  END
+    BEGIN "91 50"      Mat Road  END
+    BEGIN "91 51"      Mat Road  END
+    BEGIN "91 52"      Mat Road  END
+    BEGIN "91 53"      Mat Road  END
+    BEGIN "91 54"      Mat Road  END
+    BEGIN "91 55"      Mat Road  END
+    BEGIN "91 56"      Mat Road  END
+    BEGIN "91 57"      Mat Road  END
+    BEGIN "91 58"      Mat Road  END
+    BEGIN "91 59"      Mat Road  END
+    BEGIN "91 60"      Mat Road  END
+    BEGIN "91 61"      Mat Road  END
+    BEGIN "91 62"      Mat Road  END
+    BEGIN "91 63"      Mat Road  END
+    BEGIN "91 64"      Mat Road  END
+    BEGIN "91 65"      Mat Road  END
+    BEGIN "91 66"      Mat Road  END
+    BEGIN "91 67"      Mat Road  END
+    BEGIN "91 68"      Mat Road  END
+    BEGIN "91 69"      Mat Road  END
+    BEGIN "91 70"      Mat Road  END
+    BEGIN "91 71"      Mat Road  END
+    BEGIN "91 72"      Mat Road  END
+    BEGIN "91 73"      Mat Road  END
+    BEGIN "91 74"      Mat Road  END
+    BEGIN "91 75"      Mat Road  END
+    BEGIN "91 76"      Mat Road  END
+    BEGIN "91 77"      Mat Road  END
+    BEGIN "91 78"      Mat Road  END
+    BEGIN "91 79"      Mat Road  END
+    BEGIN "92 0"       Mat Road  END
+    BEGIN "92 1"       Mat Road  END
+    BEGIN "92 2"       Mat Road  END
+    BEGIN "92 3"       Mat Road  END
+    BEGIN "92 4"       Mat Road  END
+    BEGIN "92 5"       Mat Road  END
+    BEGIN "92 6"       Mat Road  END
+    BEGIN "92 7"       Mat Road  END
+    BEGIN "92 8"       Mat Road  END
+    BEGIN "92 9"       Mat Road  END
+    BEGIN "92 10"      Mat Road  END
+    BEGIN "92 11"      Mat Road  END
+    BEGIN "92 12"      Mat Road  END
+    BEGIN "92 13"      Mat Road  END
+    BEGIN "92 14"      Mat Road  END
+    BEGIN "92 15"      Mat Road  END
+    BEGIN "92 16"      Mat Road  END
+    BEGIN "92 17"      Mat Road  END
+    BEGIN "92 18"      Mat Road  END
+    BEGIN "92 19"      Mat Road  END
+    BEGIN "92 20"      Mat Road  END
+    BEGIN "92 21"      Mat Road  END
+    BEGIN "92 22"      Mat Road  END
+    BEGIN "92 23"      Mat Road  END
+    BEGIN "92 24"      Mat Road  END
+    BEGIN "92 25"      Mat Road  END
+    BEGIN "92 26"      Mat Road  END
+    BEGIN "92 27"      Mat Road  END
+    BEGIN "92 28"      Mat Road  END
+    BEGIN "92 29"      Mat Road  END
+    BEGIN "92 30"      Mat Road  END
+    BEGIN "92 31"      Mat Road  END
+    BEGIN "92 32"      Mat Road  END
+    BEGIN "92 33"      Mat Road  END
+    BEGIN "92 34"      Mat Road  END
+    BEGIN "92 35"      Mat Road  END
+    BEGIN "92 36"      Mat Road  END
+    BEGIN "92 37"      Mat Road  END
+    BEGIN "92 38"      Mat Road  END
+    BEGIN "92 39"      Mat Road  END
+    BEGIN "92 40"      Mat Road  END
+    BEGIN "92 41"      Mat Road  END
+    BEGIN "92 42"      Mat Road  END
+    BEGIN "92 43"      Mat Road  END
+    BEGIN "92 44"      Mat Road  END
+    BEGIN "92 45"      Mat Road  END
+    BEGIN "92 46"      Mat Road  END
+    BEGIN "92 47"      Mat Road  END
+    BEGIN "92 48"      Mat Road  END
+    BEGIN "92 49"      Mat Road  END
+    BEGIN "92 50"      Mat Road  END
+    BEGIN "92 51"      Mat Road  END
+    BEGIN "92 52"      Mat Road  END
+    BEGIN "92 53"      Mat Road  END
+    BEGIN "92 54"      Mat Road  END
+    BEGIN "92 55"      Mat Road  END
+    BEGIN "92 56"      Mat Road  END
+    BEGIN "92 57"      Mat Road  END
+    BEGIN "92 58"      Mat Road  END
+    BEGIN "92 59"      Mat Road  END
+    BEGIN "92 60"      Mat Road  END
+    BEGIN "92 61"      Mat Road  END
+    BEGIN "92 62"      Mat Road  END
+    BEGIN "92 63"      Mat Road  END
+    BEGIN "92 64"      Mat Road  END
+    BEGIN "92 65"      Mat Road  END
+    BEGIN "92 66"      Mat Road  END
+    BEGIN "92 67"      Mat Road  END
+    BEGIN "92 68"      Mat Road  END
+    BEGIN "92 69"      Mat Road  END
+    BEGIN "92 70"      Mat Road  END
+    BEGIN "92 71"      Mat Road  END
+    BEGIN "92 72"      Mat Road  END
+    BEGIN "92 73"      Mat Road  END
+    BEGIN "92 74"      Mat Road  END
+    BEGIN "92 75"      Mat Road  END
+    BEGIN "92 76"      Mat Road  END
+    BEGIN "92 77"      Mat Road  END
+    BEGIN "92 78"      Mat Road  END
+    BEGIN "92 79"      Mat Road  END
+    BEGIN "93 0"       Mat Road  END
+    BEGIN "93 1"       Mat Road  END
+    BEGIN "93 2"       Mat Road  END
+    BEGIN "93 3"       Mat Road  END
+    BEGIN "93 4"       Mat Road  END
+    BEGIN "93 5"       Mat Road  END
+    BEGIN "93 6"       Mat Road  END
+    BEGIN "93 7"       Mat Road  END
+    BEGIN "93 8"       Mat Road  END
+    BEGIN "93 9"       Mat Road  END
+    BEGIN "93 10"      Mat Road  END
+    BEGIN "93 11"      Mat Road  END
+    BEGIN "93 12"      Mat Road  END
+    BEGIN "93 13"      Mat Road  END
+    BEGIN "93 14"      Mat Road  END
+    BEGIN "93 15"      Mat Road  END
+    BEGIN "93 16"      Mat Road  END
+    BEGIN "93 17"      Mat Road  END
+    BEGIN "93 18"      Mat Road  END
+    BEGIN "93 19"      Mat Road  END
+    BEGIN "93 20"      Mat Road  END
+    BEGIN "93 21"      Mat Road  END
+    BEGIN "93 22"      Mat Road  END
+    BEGIN "93 23"      Mat Road  END
+    BEGIN "93 24"      Mat Road  END
+    BEGIN "93 25"      Mat Road  END
+    BEGIN "93 26"      Mat Road  END
+    BEGIN "93 27"      Mat Road  END
+    BEGIN "93 28"      Mat Road  END
+    BEGIN "93 29"      Mat Road  END
+    BEGIN "93 30"      Mat Road  END
+    BEGIN "93 31"      Mat Road  END
+    BEGIN "93 32"      Mat Road  END
+    BEGIN "93 33"      Mat Road  END
+    BEGIN "93 34"      Mat Road  END
+    BEGIN "93 35"      Mat Road  END
+    BEGIN "93 36"      Mat Road  END
+    BEGIN "93 37"      Mat Road  END
+    BEGIN "93 38"      Mat Road  END
+    BEGIN "93 39"      Mat Road  END
+    BEGIN "93 40"      Mat Road  END
+    BEGIN "93 41"      Mat Road  END
+    BEGIN "93 42"      Mat Road  END
+    BEGIN "93 43"      Mat Road  END
+    BEGIN "93 44"      Mat Road  END
+    BEGIN "93 45"      Mat Road  END
+    BEGIN "93 46"      Mat Road  END
+    BEGIN "93 47"      Mat Road  END
+    BEGIN "93 48"      Mat Road  END
+    BEGIN "93 49"      Mat Road  END
+    BEGIN "93 50"      Mat Road  END
+    BEGIN "93 51"      Mat Road  END
+    BEGIN "93 52"      Mat Road  END
+    BEGIN "93 53"      Mat Road  END
+    BEGIN "93 54"      Mat Road  END
+    BEGIN "93 55"      Mat Road  END
+    BEGIN "93 56"      Mat Road  END
+    BEGIN "93 57"      Mat Road  END
+    BEGIN "93 58"      Mat Road  END
+    BEGIN "93 59"      Mat Road  END
+    BEGIN "93 60"      Mat Road  END
+    BEGIN "93 61"      Mat Road  END
+    BEGIN "93 62"      Mat Road  END
+    BEGIN "93 63"      Mat Road  END
+    BEGIN "93 64"      Mat Road  END
+    BEGIN "93 65"      Mat Road  END
+    BEGIN "93 66"      Mat Road  END
+    BEGIN "93 67"      Mat Road  END
+    BEGIN "93 68"      Mat Road  END
+    BEGIN "93 69"      Mat Road  END
+    BEGIN "93 70"      Mat Road  END
+    BEGIN "93 71"      Mat Road  END
+    BEGIN "93 72"      Mat Road  END
+    BEGIN "93 73"      Mat Road  END
+    BEGIN "93 74"      Mat Road  END
+    BEGIN "93 75"      Mat Road  END
+    BEGIN "93 76"      Mat Road  END
+    BEGIN "93 77"      Mat Road  END
+    BEGIN "93 78"      Mat Road  END
+    BEGIN "93 79"      Mat Road  END
+    BEGIN "94 0"       Mat ConcreteTiles  END
+    BEGIN "94 1"       Mat ConcreteTiles  END
+    BEGIN "94 2"       Mat ConcreteTiles  END
+    BEGIN "94 3"       Mat ConcreteTiles  END
+    BEGIN "94 4"       Mat ConcreteTiles  END
+    BEGIN "94 5"       Mat ConcreteTiles  END
+    BEGIN "94 6"       Mat ConcreteTiles  END
+    BEGIN "94 7"       Mat ConcreteTiles  END
+    BEGIN "94 8"       Mat ConcreteTiles  END
+    BEGIN "94 9"       Mat ConcreteTiles  END
+    BEGIN "94 10"      Mat ConcreteTiles  END
+    BEGIN "94 11"      Mat ConcreteTiles  END
+    BEGIN "94 12"      Mat ConcreteTiles  END
+    BEGIN "94 13"      Mat ConcreteTiles  END
+    BEGIN "94 14"      Mat ConcreteTiles  END
+    BEGIN "94 15"      Mat ConcreteTiles  END
+    BEGIN "94 16"      Mat ConcreteTiles  END
+    BEGIN "94 17"      Mat ConcreteTiles  END
+    BEGIN "94 18"      Mat ConcreteTiles  END
+    BEGIN "94 19"      Mat ConcreteTiles  END
+    BEGIN "94 20"      Mat ConcreteTiles  END
+    BEGIN "94 21"      Mat ConcreteTiles  END
+    BEGIN "94 22"      Mat ConcreteTiles  END
+    BEGIN "94 23"      Mat ConcreteTiles  END
+    BEGIN "94 24"      Mat ConcreteTiles  END
+    BEGIN "94 25"      Mat ConcreteTiles  END
+    BEGIN "94 26"      Mat ConcreteTiles  END
+    BEGIN "94 27"      Mat ConcreteTiles  END
+    BEGIN "94 28"      Mat ConcreteTiles  END
+    BEGIN "94 29"      Mat ConcreteTiles  END
+    BEGIN "94 30"      Mat ConcreteTiles  END
+    BEGIN "94 31"      Mat ConcreteTiles  END
+    BEGIN "94 32"      Mat ConcreteTiles  END
+    BEGIN "94 33"      Mat ConcreteTiles  END
+    BEGIN "94 34"      Mat ConcreteTiles  END
+    BEGIN "94 35"      Mat ConcreteTiles  END
+    BEGIN "94 36"      Mat ConcreteTiles  END
+    BEGIN "94 37"      Mat ConcreteTiles  END
+    BEGIN "94 38"      Mat ConcreteTiles  END
+    BEGIN "94 39"      Mat ConcreteTiles  END
+    BEGIN "94 40"      Mat ConcreteTiles  END
+    BEGIN "94 41"      Mat ConcreteTiles  END
+    BEGIN "94 42"      Mat ConcreteTiles  END
+    BEGIN "94 43"      Mat ConcreteTiles  END
+    BEGIN "94 44"      Mat ConcreteTiles  END
+    BEGIN "94 45"      Mat ConcreteTiles  END
+    BEGIN "94 46"      Mat ConcreteTiles  END
+    BEGIN "94 47"      Mat ConcreteTiles  END
+    BEGIN "94 48"      Mat ConcreteTiles  END
+    BEGIN "94 49"      Mat ConcreteTiles  END
+    BEGIN "94 50"      Mat ConcreteTiles  END
+    BEGIN "94 51"      Mat ConcreteTiles  END
+    BEGIN "94 52"      Mat ConcreteTiles  END
+    BEGIN "94 53"      Mat ConcreteTiles  END
+    BEGIN "94 54"      Mat ConcreteTiles  END
+    BEGIN "94 55"      Mat ConcreteTiles  END
+    BEGIN "94 56"      Mat ConcreteTiles  END
+    BEGIN "94 57"      Mat ConcreteTiles  END
+    BEGIN "94 58"      Mat ConcreteTiles  END
+    BEGIN "94 59"      Mat ConcreteTiles  END
+    BEGIN "94 60"      Mat ConcreteTiles  END
+    BEGIN "94 61"      Mat ConcreteTiles  END
+    BEGIN "94 62"      Mat ConcreteTiles  END
+    BEGIN "94 63"      Mat ConcreteTiles  END
+    BEGIN "94 64"      Mat ConcreteTiles  END
+    BEGIN "94 65"      Mat ConcreteTiles  END
+    BEGIN "94 66"      Mat ConcreteTiles  END
+    BEGIN "94 67"      Mat ConcreteTiles  END
+    BEGIN "94 68"      Mat ConcreteTiles  END
+    BEGIN "94 69"      Mat ConcreteTiles  END
+    BEGIN "94 70"      Mat ConcreteTiles  END
+    BEGIN "94 71"      Mat ConcreteTiles  END
+    BEGIN "94 72"      Mat ConcreteTiles  END
+    BEGIN "94 73"      Mat ConcreteTiles  END
+    BEGIN "94 74"      Mat ConcreteTiles  END
+    BEGIN "94 75"      Mat ConcreteTiles  END
+    BEGIN "94 76"      Mat ConcreteTiles  END
+    BEGIN "94 77"      Mat ConcreteTiles  END
+    BEGIN "94 78"      Mat ConcreteTiles  END
+    BEGIN "94 79"      Mat ConcreteTiles  END
+    BEGIN "95 0"       Mat PavingStone  END
+    BEGIN "95 79"      Mat PavingStone  END
+    BEGIN "96 0"       Mat PavingStone  END
+    BEGIN "96 2"       Mat PavingStone  END
+    BEGIN "96 25"      Mat Grass  END
+    BEGIN "96 34"      Mat Grass  END
+    BEGIN "96 79"      Mat PavingStone  END
+    BEGIN "97 0"       Mat PavingStone  END
+    BEGIN "97 17"      Mat Grass  END
+    BEGIN "97 21"      Mat Grass  END
+    BEGIN "97 79"      Mat PavingStone  END
+    BEGIN "98 1"       Mat PavingStone  END
+    BEGIN "98 2"       Mat PavingStone  END
+    BEGIN "98 4"       Mat PavingStone  END
+    BEGIN "98 6"       Mat PavingStone  END
+    BEGIN "98 8"       Mat PavingStone  END
+    BEGIN "98 17"      Mat PavingStone  END
+    BEGIN "98 18"      Mat PavingStone  END
+    BEGIN "98 22"      Mat PavingStone  END
+    BEGIN "98 25"      Mat PavingStone  END
+    BEGIN "98 26"      Mat PavingStone  END
+    BEGIN "98 32"      Mat PavingStone  END
+    BEGIN "98 34"      Mat PavingStone  END
+    BEGIN "98 37"      Mat PavingStone  END
+    BEGIN "98 39"      Mat PavingStone  END
+    BEGIN "98 43"      Mat PavingStone  END
+    BEGIN "98 44"      Mat PavingStone  END
+    BEGIN "98 47"      Mat PavingStone  END
+    BEGIN "98 49"      Mat PavingStone  END
+    BEGIN "98 57"      Mat PavingStone  END
+    BEGIN "98 59"      Mat PavingStone  END
+    BEGIN "98 60"      Mat PavingStone  END
+    BEGIN "98 61"      Mat PavingStone  END
+    BEGIN "98 67"      Mat PavingStone  END
+    BEGIN "98 72"      Mat PavingStone  END
+    BEGIN "98 77"      Mat PavingStone  END
+    BEGIN "98 79"      Mat PavingStone  END
+    BEGIN "99 0"       Mat PavingStone  END
+    BEGIN "99 1"       Mat PavingStone  END
+    BEGIN "99 2"       Mat PavingStone  END
+    BEGIN "99 3"       Mat PavingStone  END
+    BEGIN "99 4"       Mat PavingStone  END
+    BEGIN "99 5"       Mat PavingStone  END
+    BEGIN "99 6"       Mat PavingStone  END
+    BEGIN "99 7"       Mat PavingStone  END
+    BEGIN "99 8"       Mat PavingStone  END
+    BEGIN "99 9"       Mat PavingStone  END
+    BEGIN "99 10"      Mat PavingStone  END
+    BEGIN "99 11"      Mat PavingStone  END
+    BEGIN "99 12"      Mat PavingStone  END
+    BEGIN "99 13"      Mat PavingStone  END
+    BEGIN "99 14"      Mat PavingStone  END
+    BEGIN "99 15"      Mat PavingStone  END
+    BEGIN "99 16"      Mat PavingStone  END
+    BEGIN "99 17"      Mat PavingStone  END
+    BEGIN "99 18"      Mat PavingStone  END
+    BEGIN "99 19"      Mat PavingStone  END
+    BEGIN "99 20"      Mat PavingStone  END
+    BEGIN "99 21"      Mat PavingStone  END
+    BEGIN "99 22"      Mat PavingStone  END
+    BEGIN "99 23"      Mat PavingStone  END
+    BEGIN "99 24"      Mat PavingStone  END
+    BEGIN "99 25"      Mat PavingStone  END
+    BEGIN "99 26"      Mat PavingStone  END
+    BEGIN "99 27"      Mat PavingStone  END
+    BEGIN "99 28"      Mat PavingStone  END
+    BEGIN "99 29"      Mat PavingStone  END
+    BEGIN "99 30"      Mat PavingStone  END
+    BEGIN "99 31"      Mat PavingStone  END
+    BEGIN "99 32"      Mat PavingStone  END
+    BEGIN "99 33"      Mat PavingStone  END
+    BEGIN "99 34"      Mat PavingStone  END
+    BEGIN "99 35"      Mat PavingStone  END
+    BEGIN "99 36"      Mat PavingStone  END
+    BEGIN "99 37"      Mat PavingStone  END
+    BEGIN "99 38"      Mat PavingStone  END
+    BEGIN "99 39"      Mat PavingStone  END
+    BEGIN "99 40"      Mat PavingStone  END
+    BEGIN "99 41"      Mat PavingStone  END
+    BEGIN "99 42"      Mat PavingStone  END
+    BEGIN "99 43"      Mat PavingStone  END
+    BEGIN "99 44"      Mat PavingStone  END
+    BEGIN "99 45"      Mat PavingStone  END
+    BEGIN "99 46"      Mat PavingStone  END
+    BEGIN "99 47"      Mat PavingStone  END
+    BEGIN "99 48"      Mat PavingStone  END
+    BEGIN "99 49"      Mat PavingStone  END
+    BEGIN "99 50"      Mat PavingStone  END
+    BEGIN "99 51"      Mat PavingStone  END
+    BEGIN "99 52"      Mat PavingStone  END
+    BEGIN "99 53"      Mat PavingStone  END
+    BEGIN "99 54"      Mat PavingStone  END
+    BEGIN "99 55"      Mat PavingStone  END
+    BEGIN "99 56"      Mat PavingStone  END
+    BEGIN "99 57"      Mat PavingStone  END
+    BEGIN "99 58"      Mat PavingStone  END
+    BEGIN "99 59"      Mat PavingStone  END
+    BEGIN "99 60"      Mat PavingStone  END
+    BEGIN "99 61"      Mat PavingStone  END
+    BEGIN "99 62"      Mat PavingStone  END
+    BEGIN "99 63"      Mat PavingStone  END
+    BEGIN "99 64"      Mat PavingStone  END
+    BEGIN "99 65"      Mat PavingStone  END
+    BEGIN "99 66"      Mat PavingStone  END
+    BEGIN "99 67"      Mat PavingStone  END
+    BEGIN "99 68"      Mat PavingStone  END
+    BEGIN "99 69"      Mat PavingStone  END
+    BEGIN "99 70"      Mat PavingStone  END
+    BEGIN "99 71"      Mat PavingStone  END
+    BEGIN "99 72"      Mat PavingStone  END
+    BEGIN "99 73"      Mat PavingStone  END
+    BEGIN "99 74"      Mat PavingStone  END
+    BEGIN "99 75"      Mat PavingStone  END
+    BEGIN "99 76"      Mat PavingStone  END
+    BEGIN "99 77"      Mat PavingStone  END
+    BEGIN "99 79"      Mat PavingStone  END
+END
+BEGIN Objects    
+    Size                 198  
+    BEGIN "[i 0]"      Id.i 0  Id.u 7046  Type Tree  SubType 2  Pos.x 2.00000  Pos.y 2.21094  Age 7200.00  END
+    BEGIN "[i 1]"      Id.i 1  Id.u 7047  Type Tree  SubType 2  Pos.x 4.00000  Pos.y 0.595642  Age 7200.00  END
+    BEGIN "[i 2]"      Id.i 2  Id.u 7048  Type Tree  SubType 2  Pos.x 15.0000  Pos.y 76.3546  Age 7200.00  END
+    BEGIN "[i 3]"      Id.i 3  Id.u 7049  Type Tree  SubType 2  Pos.x 21.0000  Pos.y 75.9985  Age 7200.00  END
+    BEGIN "[i 4]"      Id.i 4  Id.u 7050  Type Tree  SubType 2  Pos.x 63.0000  Pos.y 2.39893  Age 7200.00  END
+    BEGIN "[i 5]"      Id.i 5  Id.u 7051  Type Tree  SubType 2  Pos.x 65.0000  Pos.y 3.26044  Age 7200.00  END
+    BEGIN "[i 6]"      Id.i 6  Id.u 7052  Type Tree  SubType 2  Pos.x 70.0000  Pos.y 77.3206  Age 7200.00  END
+    BEGIN "[i 7]"      Id.i 7  Id.u 7053  Type Tree  SubType 2  Pos.x 71.0000  Pos.y 77.2243  Age 7200.00  END
+    BEGIN "[i 8]"      Id.i 8  Id.u 7054  Type Tree  SubType 2  Pos.x 82.0000  Pos.y 1.85535  Age 7200.00  END
+    BEGIN "[i 9]"      Id.i 9  Id.u 7055  Type Tree  SubType 2  Pos.x 84.0000  Pos.y 0.500000  Age 7200.00  END
+    BEGIN "[i 10]"     Id.i 10  Id.u 7056  Type Tree  SubType 2  Pos.x 0.500000  Pos.y 8.00000  Age 7200.00  END
+    BEGIN "[i 11]"     Id.i 11  Id.u 7057  Type Tree  SubType 2  Pos.x 97.6517  Pos.y 17.0000  Age 7200.00  END
+    BEGIN "[i 12]"     Id.i 12  Id.u 7058  Type Tree  SubType 2  Pos.x 0.503235  Pos.y 20.0000  Age 7200.00  END
+    BEGIN "[i 13]"     Id.i 13  Id.u 7059  Type Tree  SubType 2  Pos.x 97.1539  Pos.y 21.0000  Age 7200.00  END
+    BEGIN "[i 14]"     Id.i 14  Id.u 7060  Type Tree  SubType 2  Pos.x 3.10095  Pos.y 23.0000  Age 7200.00  END
+    BEGIN "[i 15]"     Id.i 15  Id.u 7061  Type Tree  SubType 2  Pos.x 1.82489  Pos.y 25.0000  Age 7200.00  END
+    BEGIN "[i 16]"     Id.i 16  Id.u 7062  Type Tree  SubType 2  Pos.x 96.9691  Pos.y 25.0000  Age 7200.00  END
+    BEGIN "[i 17]"     Id.i 17  Id.u 7063  Type Tree  SubType 2  Pos.x 96.6232  Pos.y 34.0000  Age 7200.00  END
+    BEGIN "[i 18]"     Id.i 18  Id.u 7064  Type Tree  SubType 2  Pos.x 2.31476  Pos.y 40.0000  Age 7200.00  END
+    BEGIN "[i 19]"     Id.i 19  Id.u 7065  Type Tree  SubType 2  Pos.x 0.500000  Pos.y 41.0000  Age 7200.00  END
+    BEGIN "[i 20]"     Id.i 20  Id.u 7066  Type Tree  SubType 2  Pos.x 1.37372  Pos.y 53.0000  Age 7200.00  END
+    BEGIN "[i 21]"     Id.i 21  Id.u 7067  Type Tree  SubType 2  Pos.x 0.500000  Pos.y 54.0000  Age 7200.00  END
+    BEGIN "[i 22]"     Id.i 22  Id.u 7068  Type Light  SubType 0  Pos.x 88.5000  Pos.y 0.500000  Powered true  On true  ExternalPower true  END
+    BEGIN "[i 23]"     Id.i 23  Id.u 7069  Type Light  SubType 0  Pos.x 94.5000  Pos.y 10.5000  Powered true  On true  ExternalPower true  END
+    BEGIN "[i 24]"     Id.i 24  Id.u 7070  Type Light  SubType 0  Pos.x 88.5000  Pos.y 20.5000  Powered true  On true  ExternalPower true  END
+    BEGIN "[i 25]"     Id.i 25  Id.u 7071  Type Light  SubType 0  Pos.x 94.5000  Pos.y 30.5000  Powered true  On true  ExternalPower true  END
+    BEGIN "[i 26]"     Id.i 26  Id.u 7073  Type Light  SubType 0  Pos.x 88.5000  Pos.y 40.5000  Powered true  On true  ExternalPower true  END
+    BEGIN "[i 27]"     Id.i 27  Id.u 7074  Type Light  SubType 0  Pos.x 94.5000  Pos.y 50.5000  Powered true  On true  ExternalPower true  END
+    BEGIN "[i 28]"     Id.i 28  Id.u 7075  Type Light  SubType 0  Pos.x 88.5000  Pos.y 60.5000  Powered true  On true  ExternalPower true  END
+    BEGIN "[i 29]"     Id.i 29  Id.u 7076  Type Light  SubType 0  Pos.x 94.5000  Pos.y 70.5000  Powered true  On true  ExternalPower true  END
+    BEGIN "[i 30]"     Id.i 30  Id.u 7167  Type Box  SubType 0  Pos.x 86.5000  Pos.y 36.5000  Contents WaterPumpStation  END
+    BEGIN "[i 38]"     Id.i 38  Id.u 19821  Type Light  SubType 0  Pos.x 33.5000  Pos.y 49.5000  Powered true  On true  END
+    BEGIN "[i 39]"     Id.i 39  Id.u 13211  Type Prop  SubType 0  Pos.x 39.4584  Pos.y 35.3458  Or.x -2.98023e-008  Sprite LeatherChair  Scale 1.10000  END
+    BEGIN "[i 40]"     Id.i 40  Id.u 15532  Type Prop  SubType 0  Pos.x 46.4574  Pos.y 39.2759  Or.x -1.00000  Or.y 0.000000  Sprite LeatherChair  Scale 1.10000  END
+    BEGIN "[i 41]"     Id.i 41  Id.u 8030  Type FilingCabinet  SubType 0  Pos.x 46.5122  Pos.y 35.4143  END
+    BEGIN "[i 42]"     Id.i 42  Id.u 8034  Type FilingCabinet  SubType 0  Pos.x 45.5245  Pos.y 35.4021  END
+    BEGIN "[i 43]"     Id.i 43  Id.u 11087  Type Actor  SubType 0  Pos.x 40.8679  Pos.y 36.1464  Or.x 0.778073  Name Nico  AiWalkSpeed 0.500000  Energy 86.0000  Sprite NicoIRL  END
+    BEGIN "[i 48]"     Id.i 48  Id.u 8153  Type WindowLarge  SubType 0  Pos.x 43.0000  Pos.y 34.5000  END
+    BEGIN "[i 49]"     Id.i 49  Id.u 20149  Type OfficeDesk  SubType 0  Pos.x 34.5000  Pos.y 49.0000  Or.x -1.00000  Or.y -2.18557e-007  END
+    BEGIN "[i 50]"     Id.i 50  Id.u 20162  Type Chair  SubType 0  Pos.x 35.5000  Pos.y 48.5000  Or.x -1.00000  Or.y -4.37114e-008  END
+    BEGIN "[i 51]"     Id.i 51  Id.u 8158  Type WindowLarge  SubType 0  Pos.x 39.8618  Pos.y 34.4210  END
+    BEGIN "[i 52]"     Id.i 52  Id.u 19827  Type Light  SubType 0  Pos.x 26.5000  Pos.y 43.5000  Powered true  On true  END
+    BEGIN "[i 53]"     Id.i 53  Id.u 7133  Type Stack  SubType 0  Pos.x 84.4195  Pos.y 38.5633  Contents Ingredients  Quantity 10  END
+    BEGIN "[i 54]"     Id.i 54  Id.u 7134  Type Stack  SubType 0  Pos.x 86.4235  Pos.y 41.5688  Contents FoodTray  Quantity 10  END
+    BEGIN "[i 55]"     Id.i 55  Id.u 7135  Type Box  SubType 0  Pos.x 84.4198  Pos.y 39.5602  Contents PowerStation  END
+    BEGIN "[i 56]"     Id.i 56  Id.u 7136  Type Box  SubType 0  Pos.x 83.3995  Pos.y 40.5023  Contents Capacitor  END
+    BEGIN "[i 57]"     Id.i 57  Id.u 22961  Type Prop  SubType 0  Pos.x 40.6001  Pos.y 35.3650  Sprite LeatherChair  Scale 1.10000  END
+    BEGIN "[i 58]"     Id.i 58  Id.u 16204  Type FilingCabinet  SubType 0  Pos.x 44.5000  Pos.y 35.4143  END
+    BEGIN "[i 59]"     Id.i 59  Id.u 19812  Type Light  SubType 0  Pos.x 33.5000  Pos.y 30.5000  Powered true  On true  END
+    BEGIN "[i 60]"     Id.i 60  Id.u 7581  Type Light  SubType 0  Pos.x 44.5000  Pos.y 38.5000  Or.x -0.992713  Or.y 0.120503  Hidden true  Powered true  On true  END
+    BEGIN "[i 61]"     Id.i 61  Id.u 16266  Type Tree  SubType 3  Pos.x 38.8876  Pos.y 32.4699  Age 7200.00  END
+    BEGIN "[i 62]"     Id.i 62  Id.u 16268  Type Tree  SubType 3  Pos.x 41.9799  Pos.y 32.6627  Age 7200.00  END
+    BEGIN "[i 63]"     Id.i 63  Id.u 8207  Type WindowLarge  SubType 0  Pos.x 47.5000  Pos.y 37.0000  Or.x -1.00000  Or.y -4.37114e-008  END
+    BEGIN "[i 64]"     Id.i 64  Id.u 8215  Type WindowLarge  SubType 0  Pos.x 47.5000  Pos.y 41.0000  Or.x -1.00000  Or.y -4.37114e-008  END
+    BEGIN "[i 65]"     Id.i 65  Id.u 8600  Type Actor  SubType 0  Pos.x 45.4292  Pos.y 39.2034  Or.x -0.985453  Or.y 0.169968  Name TheDon  Energy 62.0000  Sprite TheDonIRL  END
+    BEGIN "[i 66]"     Id.i 66  Id.u 8641  Type Actor  SubType 0  Pos.x 41.6992  Pos.y 38.9880  Or.x 0.999784  Or.y 0.0207947  Name Anthony  Energy 60.0000  Sprite AnthonyIRL  END
+    BEGIN "[i 67]"     Id.i 67  Id.u 8653  Type Actor  SubType 0  Pos.x 40.3523  Pos.y 36.1553  Or.x 0.389419  Or.y 0.921062  Name Vitalia  Energy 38.0000  Sprite PalermoDaughter1  END
+    BEGIN "[i 68]"     Id.i 68  Id.u 23034  Type CutscenePolaroid  SubType 0  Pos.x 48.5220  Pos.y 36.6091  Name Photo  Hidden true  PolaroidOffset.x -3.00000  PolaroidSize 2.50000  END
+    BEGIN "[i 69]"     Id.i 69  Id.u 22345  Type Prop  SubType 0  Pos.x 37.8546  Pos.y 35.0198  Sprite OakBookshelf  Width 2  Height 2  Scale 0.900000  BlockMovement false  END
+    BEGIN "[i 70]"     Id.i 70  Id.u 22402  Type Prop  SubType 0  Pos.x 42.2259  Pos.y 35.0018  Sprite OakBookshelf  Width 2  Height 2  Scale 0.900000  BlockMovement false  END
+    BEGIN "[i 71]"     Id.i 71  Id.u 22411  Type Prop  SubType 0  Pos.x 36.0067  Pos.y 35.0105  Sprite OakBookshelf  Width 2  Height 2  Scale 0.900000  BlockMovement false  END
+    BEGIN "[i 77]"     Id.i 77  Id.u 11093  Type Actor  SubType 0  Pos.x 42.8227  Pos.y 36.1344  Or.x 0.985450  Name Sonny  AiWalkSpeed 0.500000  Energy 56.0000  Sprite SonnyIRL  END
+    BEGIN "[i 79]"     Id.i 79  Id.u 16271  Type Tree  SubType 3  Pos.x 40.2570  Pos.y 30.6627  Age 7200.00  END
+    BEGIN "[i 80]"     Id.i 80  Id.u 16275  Type Tree  SubType 3  Pos.x 45.2088  Pos.y 32.5663  Age 7200.00  END
+    BEGIN "[i 82]"     Id.i 82  Id.u 16283  Type Tree  SubType 3  Pos.x 48.7109  Pos.y 32.2129  Age 7200.00  END
+    BEGIN "[i 83]"     Id.i 83  Id.u 16286  Type Tree  SubType 3  Pos.x 49.4980  Pos.y 35.2249  Age 7200.00  END
+    BEGIN "[i 84]"     Id.i 84  Id.u 17125  Type Actor  SubType 0  Pos.x 27.5865  Pos.y 41.5189  Or.x 0.932040  Or.y 0.362358  Name PoliceEscort  Equipment Clipboard  Energy 77.0000  Sprite Chief  END
+    BEGIN "[i 85]"     Id.i 85  Id.u 17128  Type Actor  SubType 0  Pos.x 28.9663  Pos.y 41.5111  Or.x 0.783327  Or.y 0.621610  Name PoliceHandcuffer  Equipment Gun  Energy 51.0000  Sprite Guard  END
+    BEGIN "[i 86]"     Id.i 86  Id.u 13775  Type Prop  SubType 0  Pos.x 43.9926  Pos.y 39.8398  Or.x 1.00000  Or.y 0.0207951  Sprite OakDesk  Scale 1.10000  END
+    BEGIN "[i 87]"     Id.i 87  Id.u 19824  Type Light  SubType 0  Pos.x 26.5000  Pos.y 48.5000  Powered true  On true  END
+    BEGIN "[i 96]"     Id.i 96  Id.u 14558  Type Prop  SubType 0  Pos.x 38.5000  Pos.y 39.5000  Sprite LivingRoomTable  Height 3  END
+    BEGIN "[i 97]"     Id.i 97  Id.u 14564  Type Prop  SubType 0  Pos.x 46.5561  Pos.y 43.5060  Sprite LivingRoomTv  END
+    BEGIN "[i 98]"     Id.i 98  Id.u 14565  Type Prop  SubType 0  Pos.x 36.5000  Pos.y 39.5000  Sprite Sofa  Height 3  END
+    BEGIN "[i 100]"    Id.i 100  Id.u 16291  Type Tree  SubType 3  Pos.x 49.4501  Pos.y 37.5625  Age 7200.00  END
+    BEGIN "[i 102]"    Id.i 102  Id.u 16296  Type Tree  SubType 3  Pos.x 49.2761  Pos.y 40.8745  Age 7200.00  END
+    BEGIN "[i 103]"    Id.i 103  Id.u 16301  Type Tree  SubType 3  Pos.x 51.3263  Pos.y 43.3514  Age 7200.00  END
+    BEGIN "[i 106]"    Id.i 106  Id.u 16309  Type Tree  SubType 3  Pos.x 49.4266  Pos.y 45.4517  Age 7200.00  END
+    BEGIN "[i 108]"    Id.i 108  Id.u 16313  Type Tree  SubType 2  Pos.x 47.0000  Pos.y 46.0000  Age 7200.00  END
+    BEGIN "[i 109]"    Id.i 109  Id.u 16315  Type Tree  SubType 2  Pos.x 46.3011  Pos.y 48.4517  Age 7200.00  END
+    BEGIN "[i 110]"    Id.i 110  Id.u 16321  Type Tree  SubType 2  Pos.x 44.0753  Pos.y 46.1757  Age 7200.00  END
+    BEGIN "[i 112]"    Id.i 112  Id.u 16327  Type Tree  SubType 2  Pos.x 40.0000  Pos.y 47.0000  Age 7200.00  END
+    BEGIN "[i 114]"    Id.i 114  Id.u 19829  Type Light  SubType 0  Pos.x 26.5000  Pos.y 38.5000  Powered true  On true  END
+    BEGIN "[i 115]"    Id.i 115  Id.u 19836  Type Light  SubType 0  Pos.x 26.5000  Pos.y 32.5000  Powered true  On true  END
+    BEGIN "[i 116]"    Id.i 116  Id.u 20545  Type JailDoorLarge  SubType 0  Pos.x 23.5000  Pos.y 40.0000  Or.x -1.00000  Or.y -4.37114e-008  OpenDir.x 0  OpenDir.y -2  SectorTimer 44.4945  CellIdTimer 44.4945  END
+    BEGIN "[i 117]"    Id.i 117  Id.u 16345  Type Tree  SubType 2  Pos.x 43.1506  Pos.y 48.1506  Age 7200.00  END
+    BEGIN "[i 121]"    Id.i 121  Id.u 16380  Type Tree  SubType 3  Pos.x 52.0000  Pos.y 39.0000  Age 7200.00  END
+    BEGIN "[i 122]"    Id.i 122  Id.u 16381  Type Tree  SubType 3  Pos.x 54.0000  Pos.y 41.0000  Age 7200.00  END
+    BEGIN "[i 123]"    Id.i 123  Id.u 16382  Type Tree  SubType 3  Pos.x 53.0000  Pos.y 36.0000  Age 7200.00  END
+    BEGIN "[i 124]"    Id.i 124  Id.u 16385  Type Tree  SubType 3  Pos.x 53.0000  Pos.y 32.0000  Age 7200.00  END
+    BEGIN "[i 125]"    Id.i 125  Id.u 16386  Type Tree  SubType 1  Pos.x 51.0000  Pos.y 32.0000  Age 7200.00  END
+    BEGIN "[i 126]"    Id.i 126  Id.u 16387  Type Tree  SubType 1  Pos.x 49.7068  Pos.y 29.4098  Age 7200.00  END
+    BEGIN "[i 127]"    Id.i 127  Id.u 16388  Type Tree  SubType 1  Pos.x 47.2731  Pos.y 29.3093  Age 7200.00  END
+    BEGIN "[i 128]"    Id.i 128  Id.u 16389  Type Tree  SubType 1  Pos.x 44.8715  Pos.y 30.2891  Age 7200.00  END
+    BEGIN "[i 129]"    Id.i 129  Id.u 20237  Type Prop  SubType 0  Pos.x 32.1038  Pos.y 30.5791  Sprite Sofa  Height 3  END
+    BEGIN "[i 130]"    Id.i 130  Id.u 20242  Type Prop  SubType 0  Pos.x 30.4626  Pos.y 51.5261  Sprite Sofa  Height 3  END
+    BEGIN "[i 131]"    Id.i 131  Id.u 20254  Type Prop  SubType 0  Pos.x 33.7401  Pos.y 30.5030  Sprite LivingRoomTable  Height 3  END
+    BEGIN "[i 132]"    Id.i 132  Id.u 20308  Type Bookshelf  SubType 0  Pos.x 36.5000  Pos.y 27.5000  Or.x -1.00000  Or.y -4.37114e-008  Walls.x 1.00000  Walls.y -1.00000  END
+    BEGIN "[i 133]"    Id.i 133  Id.u 16399  Type Tree  SubType 3  Pos.x 39.6948  Pos.y 27.6989  Age 7200.00  END
+    BEGIN "[i 134]"    Id.i 134  Id.u 16402  Type Tree  SubType 3  Pos.x 42.1285  Pos.y 29.1124  Age 7200.00  END
+    BEGIN "[i 135]"    Id.i 135  Id.u 16403  Type Tree  SubType 2  Pos.x 44.6586  Pos.y 27.7430  Age 7200.00  END
+    BEGIN "[i 136]"    Id.i 136  Id.u 16406  Type Tree  SubType 2  Pos.x 55.0000  Pos.y 33.0000  Age 7200.00  END
+    BEGIN "[i 137]"    Id.i 137  Id.u 16407  Type Tree  SubType 2  Pos.x 57.0000  Pos.y 33.0000  Age 7200.00  END
+    BEGIN "[i 138]"    Id.i 138  Id.u 16408  Type Tree  SubType 2  Pos.x 59.0000  Pos.y 32.0000  Age 7200.00  END
+    BEGIN "[i 139]"    Id.i 139  Id.u 16409  Type Tree  SubType 2  Pos.x 59.0000  Pos.y 34.0000  Age 7200.00  END
+    BEGIN "[i 140]"    Id.i 140  Id.u 16411  Type Tree  SubType 2  Pos.x 59.0000  Pos.y 36.0000  Age 7200.00  END
+    BEGIN "[i 141]"    Id.i 141  Id.u 16412  Type Tree  SubType 2  Pos.x 57.0000  Pos.y 36.0000  Age 7200.00  END
+    BEGIN "[i 142]"    Id.i 142  Id.u 16413  Type Tree  SubType 2  Pos.x 56.0000  Pos.y 38.0000  Age 7200.00  END
+    BEGIN "[i 143]"    Id.i 143  Id.u 16416  Type Tree  SubType 3  Pos.x 54.0000  Pos.y 38.0000  Age 7200.00  END
+    BEGIN "[i 144]"    Id.i 144  Id.u 16417  Type Tree  SubType 3  Pos.x 54.0000  Pos.y 43.0000  Age 7200.00  END
+    BEGIN "[i 145]"    Id.i 145  Id.u 16418  Type Tree  SubType 3  Pos.x 54.0000  Pos.y 45.0000  Age 7200.00  END
+    BEGIN "[i 146]"    Id.i 146  Id.u 16419  Type Tree  SubType 3  Pos.x 53.0000  Pos.y 47.0000  Age 7200.00  END
+    BEGIN "[i 147]"    Id.i 147  Id.u 16420  Type Tree  SubType 3  Pos.x 53.0000  Pos.y 49.0000  Age 7200.00  END
+    BEGIN "[i 148]"    Id.i 148  Id.u 16421  Type Tree  SubType 3  Pos.x 51.0000  Pos.y 48.0000  Age 7200.00  END
+    BEGIN "[i 149]"    Id.i 149  Id.u 16422  Type Tree  SubType 3  Pos.x 49.0000  Pos.y 48.0000  Age 7200.00  END
+    BEGIN "[i 150]"    Id.i 150  Id.u 16423  Type Tree  SubType 2  Pos.x 47.1042  Pos.y 51.1544  Age 7200.00  END
+    BEGIN "[i 151]"    Id.i 151  Id.u 16424  Type Tree  SubType 3  Pos.x 48.0000  Pos.y 50.0000  Age 7200.00  END
+    BEGIN "[i 152]"    Id.i 152  Id.u 16426  Type Tree  SubType 3  Pos.x 51.0000  Pos.y 50.0000  Age 7200.00  END
+    BEGIN "[i 153]"    Id.i 153  Id.u 16428  Type Tree  SubType 2  Pos.x 49.0000  Pos.y 52.0000  Age 7200.00  END
+    BEGIN "[i 154]"    Id.i 154  Id.u 16429  Type Tree  SubType 2  Pos.x 46.9787  Pos.y 53.1042  Age 7200.00  END
+    BEGIN "[i 155]"    Id.i 155  Id.u 16430  Type Tree  SubType 2  Pos.x 44.1757  Pos.y 52.6525  Age 7200.00  END
+    BEGIN "[i 156]"    Id.i 156  Id.u 16431  Type Tree  SubType 2  Pos.x 42.0000  Pos.y 52.0000  Age 7200.00  END
+    BEGIN "[i 157]"    Id.i 157  Id.u 16432  Type Tree  SubType 2  Pos.x 40.0000  Pos.y 53.0000  Age 7200.00  END
+    BEGIN "[i 158]"    Id.i 158  Id.u 16434  Type Tree  SubType 2  Pos.x 40.0000  Pos.y 51.0000  Age 7200.00  END
+    BEGIN "[i 159]"    Id.i 159  Id.u 16435  Type Tree  SubType 2  Pos.x 42.0000  Pos.y 50.4015  Age 7200.00  END
+    BEGIN "[i 160]"    Id.i 160  Id.u 16436  Type Tree  SubType 2  Pos.x 44.5270  Pos.y 50.9035  Age 7200.00  END
+    BEGIN "[i 161]"    Id.i 161  Id.u 20309  Type Bookshelf  SubType 0  Pos.x 36.5000  Pos.y 28.5000  Or.x -1.00000  Or.y -4.37114e-008  Walls.x 1.00000  END
+    BEGIN "[i 162]"    Id.i 162  Id.u 20322  Type Bookshelf  SubType 0  Pos.x 36.5000  Pos.y 30.5000  Or.x -1.00000  Or.y -4.37114e-008  Walls.x 1.00000  END
+    BEGIN "[i 163]"    Id.i 163  Id.u 20323  Type Bookshelf  SubType 0  Pos.x 36.5000  Pos.y 31.5000  Or.x -1.00000  Or.y -4.37114e-008  Walls.x 1.00000  END
+    BEGIN "[i 166]"    Id.i 166  Id.u 21378  Type Actor  SubType 0  Pos.x 28.0361  Pos.y 37.3955  Or.x 0.867424  Or.y 0.497572  Name PoliceGun3  Equipment Gun  Energy 51.0000  Sprite Guard  END
+    BEGIN "[i 178]"    Id.i 178  Id.u 17812  Type WindowLarge  SubType 0  Pos.x 43.0000  Pos.y 44.5000  END
+    BEGIN "[i 179]"    Id.i 179  Id.u 17816  Type WindowLarge  SubType 0  Pos.x 40.0000  Pos.y 44.5000  END
+    BEGIN "[i 180]"    Id.i 180  Id.u 18747  Type Actor  SubType 0  Pos.x 29.4334  Pos.y 37.4019  Or.x 0.867424  Or.y 0.497572  Name PoliceGun2  Equipment Gun  Energy 44.0000  Sprite Guard  END
+    BEGIN "[i 189]"    Id.i 189  Id.u 18748  Type Actor  SubType 0  Pos.x 30.8115  Pos.y 37.4239  Or.x 0.841472  Or.y 0.540303  Name PoliceGun1  Equipment Gun  Energy 54.0000  Sprite Guard  END
+    BEGIN "[i 194]"    Id.i 194  Id.u 19656  Type Stack  SubType 0  Pos.x 84.5000  Pos.y 40.5000  Contents Steel  Quantity 20  END
+    BEGIN "[i 195]"    Id.i 195  Id.u 19657  Type Stack  SubType 0  Pos.x 78.5000  Pos.y 40.5000  Contents Steel  Quantity 20  END
+    BEGIN "[i 196]"    Id.i 196  Id.u 19658  Type Stack  SubType 0  Pos.x 76.5000  Pos.y 40.5000  Contents Steel  Quantity 20  END
+    BEGIN "[i 197]"    Id.i 197  Id.u 19659  Type Stack  SubType 0  Pos.x 86.5000  Pos.y 38.5000  Contents Steel  Quantity 4  END
+END
+BEGIN Rooms      
+    Size                 3  
+    BEGIN "[i 0]"      Id.i 0  Id.u 7072  RoomType Deliveries  Name Deliveries  END
+    BEGIN "[i 1]"      Id.i 1  Id.u 7518  RoomType Garbage  Name Garbage  END
+    BEGIN "[i 2]"      Id.i 2  Id.u 7831  RoomType Storage  Name Storage  END
+END
+BEGIN WorkQ      
+    Next                 2691  
+    BEGIN Items      Size 0  END
+END
+BEGIN Regime     
+    PreviousHour         7  
+    BEGIN MinSec     
+        CurrentActivity      Nothing  
+        PreviousActivity     Nothing  
+        "[i 0]"                Unspecified  
+        "[i 1]"                Unspecified  
+        "[i 2]"                Unspecified  
+        "[i 3]"                Unspecified  
+        "[i 4]"                Unspecified  
+        "[i 5]"                Unspecified  
+        "[i 6]"                Unspecified  
+        "[i 7]"                Unspecified  
+        "[i 8]"                Unspecified  
+        "[i 9]"                Unspecified  
+        "[i 10]"               Unspecified  
+        "[i 11]"               Unspecified  
+        "[i 12]"               Unspecified  
+        "[i 13]"               Unspecified  
+        "[i 14]"               Unspecified  
+        "[i 15]"               Unspecified  
+        "[i 16]"               Unspecified  
+        "[i 17]"               Unspecified  
+        "[i 18]"               Unspecified  
+        "[i 19]"               Unspecified  
+        "[i 20]"               Unspecified  
+        "[i 21]"               Unspecified  
+        "[i 22]"               Unspecified  
+        "[i 23]"               Unspecified  
+    END
+    BEGIN Normal     
+        CurrentActivity      Nothing  
+        PreviousActivity     Nothing  
+        "[i 0]"                Sleep  
+        "[i 1]"                Sleep  
+        "[i 2]"                Sleep  
+        "[i 3]"                Sleep  
+        "[i 4]"                Sleep  
+        "[i 5]"                Sleep  
+        "[i 6]"                Sleep  
+        "[i 7]"                Nothing  
+        "[i 8]"                Shower  
+        "[i 9]"                Nothing  
+        "[i 10]"               FreeTime  
+        "[i 11]"               Nothing  
+        "[i 12]"               Nothing  
+        "[i 13]"               Eat  
+        "[i 14]"               Eat  
+        "[i 15]"               Yard  
+        "[i 16]"               Yard  
+        "[i 17]"               Nothing  
+        "[i 18]"               FreeTime  
+        "[i 19]"               Nothing  
+        "[i 20]"               Eat  
+        "[i 21]"               Eat  
+        "[i 22]"               Nothing  
+        "[i 23]"               Sleep  
+    END
+    BEGIN MaxSec     
+        CurrentActivity      Nothing  
+        PreviousActivity     Nothing  
+        "[i 0]"                Unspecified  
+        "[i 1]"                Unspecified  
+        "[i 2]"                Unspecified  
+        "[i 3]"                Unspecified  
+        "[i 4]"                Unspecified  
+        "[i 5]"                Unspecified  
+        "[i 6]"                Unspecified  
+        "[i 7]"                Unspecified  
+        "[i 8]"                Unspecified  
+        "[i 9]"                Unspecified  
+        "[i 10]"               Unspecified  
+        "[i 11]"               Unspecified  
+        "[i 12]"               Unspecified  
+        "[i 13]"               Unspecified  
+        "[i 14]"               Unspecified  
+        "[i 15]"               Unspecified  
+        "[i 16]"               Unspecified  
+        "[i 17]"               Unspecified  
+        "[i 18]"               Unspecified  
+        "[i 19]"               Unspecified  
+        "[i 20]"               Unspecified  
+        "[i 21]"               Unspecified  
+        "[i 22]"               Unspecified  
+        "[i 23]"               Unspecified  
+    END
+END
+BEGIN SupplyChain 
+    Timer                0.000000  
+    PreviousHour         23  
+    PreviousActualHour   7  
+    BEGIN Order      END
+END
+BEGIN Finance    Balance 183835.  LastDay 5  LastHour 7  SalePrice 0  BankLoan 0  BankCreditRating 1.00000  Ownership 100  ExportsToday 0  ExportsYesterday 0  END
+BEGIN Patrols    
+    BEGIN Stations   END
+END
+BEGIN Electricity END
+BEGIN Water      END
+BEGIN Research   
+    BEGIN None       Desired false  Progress 1.00000  END
+    BEGIN Warden     Desired false  Progress 1.00000  END
+    BEGIN Maintainance Desired false  Progress 0.000000  END
+    BEGIN Security   Desired false  Progress 0.000000  END
+    BEGIN MentalHealth Desired false  Progress 0.000000  END
+    BEGIN Finance    Desired false  Progress 0.000000  END
+    BEGIN Cctv       Desired false  Progress 0.000000  END
+    BEGIN Health     Desired false  Progress 0.000000  END
+    BEGIN Cleaning   Desired false  Progress 0.000000  END
+    BEGIN GroundsKeeping Desired false  Progress 0.000000  END
+    BEGIN Clone      Desired false  Progress 0.000000  END
+    BEGIN Deployment Desired false  Progress 0.000000  END
+    BEGIN Patrols    Desired false  Progress 0.000000  END
+    BEGIN Dogs       Desired false  Progress 0.000000  END
+    BEGIN PrisonLabour Desired false  Progress 0.000000  END
+    BEGIN Education  Desired false  Progress 0.000000  END
+    BEGIN LandExpansion Desired false  Progress 0.000000  END
+    BEGIN Contraband Desired false  Progress 0.000000  END
+    BEGIN Policy     Desired false  Progress 0.000000  END
+    BEGIN Armoury    Desired false  Progress 0.000000  END
+    BEGIN BodyArmour Desired false  Progress 0.000000  END
+    BEGIN Tazers     Desired false  Progress 0.000000  END
+    BEGIN TazersForEveryone Desired false  Progress 0.000000  END
+    BEGIN BankLoans  Desired false  Progress 0.000000  END
+    BEGIN LowerTaxes1 Desired false  Progress 0.000000  END
+    BEGIN LowerTaxes2 Desired false  Progress 0.000000  END
+    BEGIN ExtraGrant Desired false  Progress 0.000000  END
+END
+BEGIN Construction 
+    BEGIN Jobs       Size 0  END
+    BEGIN PlanningJobs Size 8000  END
+    BEGIN BlockedAreas END
+END
+BEGIN Penalties  
+    Points               0.000000  
+    BEGIN Penalties  Size 0  END
+END
+BEGIN Sectors    
+    NextSectorId         2  
+    BEGIN Sectors    
+        Size                 2  
+        BEGIN "[i 0]"      
+            id                   0  
+            TopLeft.x            0  
+            TopLeft.y            0  
+            BottomRight.x        99  
+            BottomRight.y        79  
+            Centre.x             50.5000  
+            Centre.y             40.5000  
+            NumSquares           7488  
+            NumFloorSquares      7193  
+            BEGIN Stations   Size 0  END
+            BEGIN Jobs       Size 0  END
+        END
+        BEGIN "[i 1]"      
+            id                   1  
+            TopLeft.x            23  
+            TopLeft.y            26  
+            BottomRight.x        47  
+            BottomRight.y        53  
+            Centre.x             35.5000  
+            Centre.y             40.5000  
+            Indoor               true  
+            NumSquares           512  
+            NumFloorSquares      376  
+            BEGIN Stations   Size 0  END
+            BEGIN Jobs       Size 0  END
+        END
+    END
+END
+BEGIN Grants     END
+BEGIN Misconduct 
+    TimeWithoutIncident  466.786  
+    BEGIN MisconductReports Size 0  END
+    BEGIN Policy     
+        BEGIN None       END
+        BEGIN Complaint  END
+        BEGIN Destruction Punishment Lockdown  Quantity 60  END
+        BEGIN EscapeAttempt Punishment Lockdown  Quantity 120  SearchPrisoner true  SearchCell true  END
+        BEGIN InjuredPrisoner Punishment Lockdown  Quantity 60  SearchPrisoner true  END
+        BEGIN InjuredStaff Punishment Solitary  Quantity 120  SearchPrisoner true  END
+        BEGIN SeriousInjury Punishment Solitary  Quantity 240  SearchPrisoner true  END
+        BEGIN Murder     END
+        BEGIN ContrabandWeapons Punishment Solitary  Quantity 120  SearchCell true  END
+        BEGIN ContrabandTools Punishment Lockdown  Quantity 120  SearchCell true  END
+        BEGIN ContrabandNarcotics Punishment Solitary  Quantity 120  SearchPrisoner true  SearchCell true  END
+        BEGIN ContrabandLuxuries END
+    END
+END
+BEGIN Visitation Waiting 1  Timer 91.7851  END
+BEGIN Thermometer END
+BEGIN Squads     
+    BEGIN Squads     Size 0  END
+END
+BEGIN Contraband 
+    Timer                0.841088  
+    ObjectIndex          688034  
+    BEGIN Prisoners  
+        Size                 198  
+        BEGIN "[i 44]"     PrisonerId.i 44  PrisonerId.u 10793  TimeIndex 7672.15  END
+        BEGIN "[i 45]"     PrisonerId.i 45  PrisonerId.u 10794  TimeIndex 7672.16  END
+        BEGIN "[i 46]"     PrisonerId.i 46  PrisonerId.u 10795  TimeIndex 7672.16  END
+        BEGIN "[i 47]"     PrisonerId.i 47  PrisonerId.u 10796  TimeIndex 7672.16  END
+        BEGIN "[i 73]"     PrisonerId.i 73  PrisonerId.u 10797  TimeIndex 7672.16  END
+        BEGIN "[i 74]"     PrisonerId.i 74  PrisonerId.u 10798  TimeIndex 7672.17  END
+        BEGIN "[i 75]"     PrisonerId.i 75  PrisonerId.u 10799  TimeIndex 7672.17  END
+        BEGIN "[i 76]"     PrisonerId.i 76  PrisonerId.u 10800  TimeIndex 7672.17  END
+        BEGIN "[i 88]"     PrisonerId.i 88  PrisonerId.u 14465  TimeIndex 7672.17  END
+        BEGIN "[i 89]"     PrisonerId.i 89  PrisonerId.u 14466  TimeIndex 7672.18  END
+        BEGIN "[i 90]"     PrisonerId.i 90  PrisonerId.u 14467  TimeIndex 7672.18  END
+        BEGIN "[i 91]"     PrisonerId.i 91  PrisonerId.u 14468  TimeIndex 7672.18  END
+        BEGIN "[i 92]"     PrisonerId.i 92  PrisonerId.u 14469  TimeIndex 7672.18  END
+        BEGIN "[i 93]"     PrisonerId.i 93  PrisonerId.u 14470  TimeIndex 7672.19  END
+        BEGIN "[i 94]"     PrisonerId.i 94  PrisonerId.u 14471  TimeIndex 7672.19  END
+        BEGIN "[i 95]"     PrisonerId.i 95  PrisonerId.u 14472  TimeIndex 7672.19  END
+        BEGIN "[i 119]"    PrisonerId.i 119  PrisonerId.u 22002  TimeIndex 7672.19  END
+        BEGIN "[i 164]"    PrisonerId.i 164  PrisonerId.u 22003  TimeIndex 7672.20  END
+        BEGIN "[i 165]"    PrisonerId.i 165  PrisonerId.u 22004  RoomId.i 0  RoomId.u 7072  TimeIndex 7672.20  END
+        BEGIN "[i 168]"    PrisonerId.i 168  PrisonerId.u 22005  TimeIndex 7672.20  END
+        BEGIN "[i 169]"    PrisonerId.i 169  PrisonerId.u 22006  RoomId.i 0  RoomId.u 7072  TimeIndex 7672.20  END
+        BEGIN "[i 170]"    PrisonerId.i 170  PrisonerId.u 22007  TimeIndex 7672.21  END
+        BEGIN "[i 171]"    PrisonerId.i 171  PrisonerId.u 22008  TimeIndex 7672.21  END
+        BEGIN "[i 172]"    PrisonerId.i 172  PrisonerId.u 22009  TimeIndex 7672.21  END
+        BEGIN "[i 181]"    PrisonerId.i 181  PrisonerId.u 18182  TimeIndex 7672.21  END
+        BEGIN "[i 182]"    PrisonerId.i 182  PrisonerId.u 18183  TimeIndex 7672.22  END
+        BEGIN "[i 183]"    PrisonerId.i 183  PrisonerId.u 18184  TimeIndex 7672.14  END
+        BEGIN "[i 184]"    PrisonerId.i 184  PrisonerId.u 18185  TimeIndex 7672.14  END
+        BEGIN "[i 185]"    PrisonerId.i 185  PrisonerId.u 18186  TimeIndex 7672.14  END
+        BEGIN "[i 186]"    PrisonerId.i 186  PrisonerId.u 18187  RoomId.i 0  RoomId.u 7072  TimeIndex 7672.15  END
+        BEGIN "[i 187]"    PrisonerId.i 187  PrisonerId.u 18188  TimeIndex 7672.15  END
+        BEGIN "[i 188]"    PrisonerId.i 188  PrisonerId.u 18189  TimeIndex 7672.15  END
+    END
+    BEGIN Trackers   Size 0  END
+    BEGIN HistoricalTrackers Size 0  END
+END
+BEGIN Tunnels    
+    BEGIN Diggers    Size 0  END
+END
+BEGIN Reform     
+    NextProgramId        0  
+    BEGIN Programs   Size 0  END
+    BEGIN Allocations END
+    BEGIN Reports    END
+END
+BEGIN Victory    
+    BEGIN Log        Size 0  END
+    BEGIN Conditions 
+        BEGIN PrisonValue Value 170000  END
+        BEGIN Income     Value 3424  END
+        BEGIN Prisoners  END
+        BEGIN PrisonersReleased END
+        BEGIN PrisonersDied END
+        BEGIN PrisonersEscaped END
+        BEGIN Bankrupt   END
+        BEGIN Riot       END
+        BEGIN TooManyDeaths END
+        BEGIN TooManyEscapes END
+    END
+END
+BEGIN Intake     
+    MaxIntake            0  
+    DeathRowBlocked      0  
+    BEGIN Categories 
+        BEGIN i          PrisonerCategory MinSec  Pool 4  Ratio 0.2000000  NextIntake 0  Queue 0  NumNITGs 0  END
+        BEGIN i          PrisonerCategory Normal  Pool 16  Ratio 0.8000000  NextIntake 0  Queue 0  NumNITGs 0  END
+        BEGIN i          PrisonerCategory MaxSec  Pool 0  Ratio 0.0000000  NextIntake 0  Queue 0  NumNITGs 0  END
+        BEGIN i          PrisonerCategory DeathRow  Pool 0  Ratio 0.0000000  NextIntake 0  Queue 0  NumNITGs 0  END
+    END
+END

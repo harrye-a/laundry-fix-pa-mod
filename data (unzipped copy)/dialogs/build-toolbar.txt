@@ -1,0 +1,64 @@
+BEGIN Window
+    NAME         BuildToolbar
+    WIDTH        300
+    HEIGHT       65
+    PANEL        1
+END
+
+BEGIN IconBox
+    NAME        IconBox
+    XPOS        Absolute        0
+    YPOS        Absolute        0
+    WIDTH       Relative        0
+    HEIGHT      Relative        0
+END
+
+BEGIN Custom
+	NAME		HeaderButton1
+	XPOS        Relative        -296
+    YPOS        Relative        -50
+    WIDTH       Relative        -173
+    HEIGHT      Relative        -45
+END
+
+BEGIN Custom
+	NAME		HeaderButton2
+	XPOS        Relative        -160
+    YPOS        Relative        -50
+    WIDTH       Relative        -173
+    HEIGHT      Relative        -45
+END
+
+BEGIN Custom
+	NAME		HeaderButton3
+	XPOS        Relative        -24
+    YPOS        Relative        -50
+    WIDTH       Relative        -173
+    HEIGHT      Relative        -45
+END
+
+BEGIN InputField
+    NAME        Search
+    XPOS        Relative        -400
+    YPOS        Relative        -25
+    WIDTH       Relative        0
+    HEIGHT      Relative        -50
+END
+
+BEGIN DropDownMenu
+    NAME        ObjectType
+    CAPTION	interfacemode_objectType_filter_caption
+    XPOS        Relative        -290
+    YPOS        Relative        -50
+    WIDTH       Relative        -130
+    HEIGHT      Relative        -30
+END
+
+BEGIN DropDownMenu
+    NAME        ObjectPack
+    CAPTION	interfacemode_objectPack_filter_caption
+    XPOS        Relative        -110
+    YPOS        Relative        -50
+    WIDTH       Relative        -130
+    HEIGHT      Relative        -30
+END

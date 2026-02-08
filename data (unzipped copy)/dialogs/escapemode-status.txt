@@ -1,0 +1,15 @@
+BEGIN Window
+    NAME         Status
+    WIDTH        10
+    HEIGHT       10
+    PANEL        1
+END
+
+BEGIN Container
+    NAME        StatusPanel
+    XPOS        Absolute        0
+    YPOS        Absolute        0
+    WIDTH       Relative        0
+    HEIGHT      Relative        0
+END
+

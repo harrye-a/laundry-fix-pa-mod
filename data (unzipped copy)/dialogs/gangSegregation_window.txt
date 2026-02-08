@@ -1,0 +1,82 @@
+BEGIN Window
+    NAME         GangSegregationWindow
+    WIDTH        200
+    HEIGHT       250
+    PANEL        1
+END
+
+BEGIN Canvas
+    NAME        gangSegregationMessage
+    XPOS        Absolute        9
+    YPOS        Absolute        7
+    WIDTH       Absolute        185
+    HEIGHT      Absolute        60
+END
+
+BEGIN CheckBox
+    NAME        vipers
+    XPOS        Absolute        7
+    YPOS        Absolute        73
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        vipersCaption
+    CAPTION     gang_vipers
+    XPOS        Absolute        34
+    YPOS        Absolute        73
+    WIDTH       Absolute        160
+    HEIGHT      Absolute        20
+END
+
+BEGIN CheckBox
+    NAME        boneBreakers
+    XPOS        Absolute        7
+    YPOS        Absolute        97
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        boneBreakersCaption
+    CAPTION     gang_boneBreakers
+    XPOS        Absolute        34
+    YPOS        Absolute        98
+    WIDTH       Absolute        160
+    HEIGHT      Absolute        20
+END
+
+BEGIN CheckBox
+    NAME        jackals
+    XPOS        Absolute        7
+    YPOS        Absolute        122
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        jackalsCaption
+    CAPTION     gang_jackals
+    XPOS        Absolute        34
+    YPOS        Absolute        122
+    WIDTH       Absolute        160
+    HEIGHT      Absolute        20
+END
+
+BEGIN CheckBox
+    NAME        exGang
+    XPOS        Absolute        7
+    YPOS        Absolute        147
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        exGangCaption
+    CAPTION     gang_yellow
+    XPOS        Absolute        34
+    YPOS        Absolute        147
+    WIDTH       Absolute        160
+    HEIGHT      Absolute        20
+END

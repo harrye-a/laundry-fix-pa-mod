@@ -1,0 +1,41 @@
+BEGIN Window
+    NAME         Help
+    BACKGROUND   papersheet.bmp
+    WIDTH        453
+    HEIGHT       550
+    PANEL        1
+END
+
+BEGIN Button
+    NAME        CloseLetter
+    CAPTION     dialog_close
+    XPOS        Scaled          7821
+    YPOS        Scaled          9232
+    WIDTH       Scaled          1543
+    HEIGHT      Scaled          363
+END
+
+BEGIN Canvas
+    NAME        Text
+    XPOS        Scaled          1541
+    YPOS        Scaled          1358
+    WIDTH       Scaled          7174
+    HEIGHT      Scaled          7818
+END
+
+BEGIN Canvas
+    NAME        Polaroid
+    XPOS        Scaled          8716
+    YPOS        Scaled          453
+    WIDTH       Scaled          3309
+    HEIGHT      Scaled          3089
+END
+
+BEGIN Canvas
+    NAME        Title
+    XPOS        Scaled          1544
+    YPOS        Scaled          545
+    WIDTH       Scaled          6953
+    HEIGHT      Scaled          545
+END
+

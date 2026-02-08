@@ -1,0 +1,79 @@
+BEGIN Research   
+    Name                 Orderly  
+    Type                 Entity  
+    Requires             Health  
+    Admin                Warden  
+    Sprite               Orderly  
+    Cost                 -1000  
+    Time                 720  
+    X                    860  
+    Y                    560  
+    NonWideX             680  
+    NonWideY             180  
+END
+
+BEGIN Research
+	Name				ForestryLabour
+	Type				Ability
+	Requires			PrisonLabour
+	Admin				Maintainance
+	Cost				-1500
+	Time				360
+	X                   100  
+    Y                   660  
+    NonWideX            80
+    NonWideY            600  
+END
+
+BEGIN Research   
+    Name                 Farming  
+    Type                 Entity  
+    Requires             Maintainance  
+    Admin                Maintainance  
+    Cost                 -2000  
+    Time                 480  
+    X                    220  
+    Y                    660  
+    NonWideX             200  
+    NonWideY             660  
+END
+
+BEGIN Research   
+    Name                 RecyclingIncentive 
+    Type                 Entity  
+    Requires             LowerTaxes1  
+    Admin                Finance  
+    Cost                 -2500  
+    Time                 720  
+    X                    100  
+    Y                    340  
+    NonWideX             80  
+    NonWideY             260 
+END
+
+BEGIN Research
+	Name				StaffVetting
+	Type				Ability
+	Requires			Security
+	Admin				Security
+    Sprite              Guard
+	Cost				-1000
+	Time				360
+	X					980
+	Y					560
+	NonWideX			800
+	NonWideY			740
+END
+
+BEGIN Research
+	Name				CCTVImprovement
+	Type				Ability
+	Requires			Cctv
+	Admin				Security
+	Cost				-1000
+	Time				180
+	X                    1220  
+    Y                    100  
+    NonWideX             680  
+    NonWideY             300  
+END

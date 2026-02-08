@@ -1,0 +1,465 @@
+"Clink"
+>27 czerwca 2019
+Aktualizacja - Clink
+<->Dodano x4 nowe kafle podłogowe i x4 nowe rodzaje ścian.
+<->Zwiększona wydajność i skrócony czas wczytywania.
+<->Zwiększona liczba brygadzistów do zatrudnienia w większych więzieniach, gdzie prowadzą oni również zajęcia programowe.
+<->Istniejące przedmioty można dowolnie obracać i oglądać z każdej strony dzięki nowym grafikom.
+<->Nowy przycisk Reakcja strażnika powoduje wezwanie strażników do wybranej lokalizacji - nie trzeba już najmować dodatkowych strażników, aby uspokoić incydenty. 
+<->Nowy przycisk Wyszukiwanie tuneli powoduje wezwanie strażników do przeszukania toalet pod kątem ukrytych tuneli .  
+<->W menu Szybkie budowanie dodano nową pozycję Szybkie pomieszczenia upraszającą budowanie pomieszczeń.
+<->Podążanie za więźniami i pracownikami jest prostsze - wystarczy kliknąć dwukrotnie daną osobę.
+
+
+Mamy nadzieję, że spodobają Wam się nowe usprawnienia!
+
+~~~~~
+
+﻿Aktualizacja „Kić”
+>17 wrz. 2019
+
+Szanowni gracze w Prison Architect,
+
+W imieniu zespołów Paradox i Double Eleven mamy nadzieję, że spodoba Wam się cała nowa zawartość w tej aktualizacji. 
+Dziękujemy za wasze wszystkie dotychczasowe sugestie i pomysły. Wiele naszych modyfikacji zostało wprowadzonych dzięki Waszym opiniom.
+Wprowadziliśmy mnóstwo ulepszeń sugerowanych przez naszą społeczność. Niektóre opisaliśmy w tym dokumencie, inne znajdziecie już w samej grze.
+
+Pokażcie nam (@PrisonArchitect), jak wykorzystujecie nowe funkcje w swoich więzieniach! 
+
+Gaz, menedżer ds. projektowania gier w Double Eleven.
+
+
+>[1/3] Nowe przedmioty
+
+<->Nowe typy podłóg; kratownica, błoto, Sci-Fi.
+<->Nowe bezpieczne drzwi z klapką na tackę na jedzenie.
+<->Nowe światła; lampy uliczne, zalewowe, lampy ścienne.
+<->Nowe drzewa; ośnieżone drzewo, palma.
+<->Oraz inne nowe obiekty.
+
+
+>Kliknij przycisk DALEJ, aby zobaczyć więcej...
+
+
+
+>2/3] Nowe funkcj
+
+<->Opcja trybu okienkowego bez ramki.
+<->Funkcja przenoszenia/przemieszczania obiektów!
+<->Filtry menu przedmiotów i przycisk sortowania.
+<->Drzwi można teraz szybko budować w ścianach.
+<->Psy stróżujące i Uzbrojonych strażników można przydzielać do patrolowania tras i stref!
+<->Dodatkowa prędkość gry x10.
+<->Więźniowie najwyższego ryzyka dołączyli do transportów.
+<->Możliwość określenia 2 różnych przecinających się tras patrolowania.
+<->Funkcje obracania kolejnych przedmiotów i mebli.
+<->Ulepszone grafiki wdrożeń i logistyki.
+<->Powiększenie obszaru narzędzia Klonuj.
+<->Możliwość odkrycia biurokracji podczas rozpoczynania nowej gry.
+<->Mutatory (menu) są dostępne i zapewniają możliwość ustawiania po rozpoczęciu gry.
+<->Mnóstwo przedmiotów!
+<->Nowe działki Śnieg i Dżungla podczas rozpoczynania nowej gry.
+<->Wieże strażnicze chronią snajperów przed wpływem pogody.
+<->Nazwiska personelu i nazwy psów.
+<->W menu obiektów można przeszukiwać pomieszczenia.
+<->Opcja czystszych więzień.
+<->Nowe szybkie łącza na górnym pasku.
+<->!
+
+
+>[3/3] I wiele więcej...
+
+<->Snajperzy noszą klucze do więzienia.
+<->Więźniowie traktują priorytetowo kabiny prysznicowe względem pryszniców w celach innych więźniów.
+<->Monitoring pokazuje więźniów i personel w Trybie naczelnika.
+<->Strażnicy przy maszynach nie opuszczają swoich stanowisk podczas przeszukań i potrząsania.
+<->Strażnicy otwierają drzwi dla psów.
+<->Regał na książki pozwala uczyć się czytania i pisania.
+<->Klawisze dostępowe zmiany menu w grze [Z] i [X] oraz zamykania menu [C].
+<->Drzwi celi podczas używania funkcji szybkiego pomieszczenia pozostają otwarte do czasu zakończenia budowy pomieszczenia.
+<->Obrazy osób na monitoringu wskazują kierunek, w którym one patrzą.
+<->Poprawione grafiki Żywopłotu.
+<->Poprawki Wykrywaczy metalu.
+<->Poprawione połączenie Kotła wodnego z rurami.
+<->Wsparcie dla moderów.
+
+~~~~~~
+
+Aktualizacja „Kichcz”
+>21 lis 2019
+
+Naczelnicy,
+
+Mamy nadzieję, że polubicie tę aktualizację Prison Architect.
+Poniżej przedstawiamy najistotniejsze pozycje, czyli między innymi nowe Mosty, usprawnienia Klonowania i Planowania.
+
+>[1/2] Nowe przedmioty
+
+<->Nowe ściany: Art Deco i Orientalna.
+<->Nowe podłogi: Wapień, Trawa i kamienie, Piaskowiec, Księżyc.
+<->Nowe obiekty: Umywalka, Suszarka do rąk, Znaki ścienne, Drzewo wiśniowe i Straszne, Kaktus, Ławka parkowa, Głowa łosia, Znaki, Sekretne drzwi w biblioteczce i inne...
+
+Kliknij przycisk DALEJ, aby zobaczyć więcej...
+
+>[2/2] Nowe funkcje
+
+<->Wiele nowych ras psów do wybrania przed grą i w jej trakcie!
+<->Opcja wyboru typu ściany dla szybkich pomieszczeń.
+<->W końcu mamy MOSTY! Można je budować ponad drogami, wodą i innymi obiektami, które będzie można teraz przejść.
+<->Zmiana balansu codziennych płatności dla więźniów o podwyższonym ryzyku: Zaostrzony rygor, Ochrona, Wyrok śmierci i Psychicznie chory.
+<->Puste i zajęte cele można wyświetlać w sekcji Logistyka za pomocą przycisku Stan celi.
+<->W biografiach więźniów dodano nową akcję: Eskortowanie do ambulatorium
+<->Przetransferowani więźniowie są dostępni w Transporcie.
+<->W sekcji Rozmieszczenie dodano opcję Unikalny kierunek ruchu odwiedzających.
+<->Fundamenty można stawiać z zastosowaniem nowych typów ścian.
+<->Przemodelowane narzędzie klonowania! Teraz można obracać i odwracać ściany i obiekty, a klonowany obszar może obejmować całe więzienia! ORAZ można klonować między zapisami (BETA)! Zoptymalizowano również szybkość budowania.
+<->Przemodelowane planowanie! Buduj plany, dodawaj drzwi i wybieraj typy ścian. 
+<->Ulepszona prezentacja szybkich pomieszczeń z przedstawieniem miejsc, gdzie zostaną wybudowane ściany.
+<->Nowa opcja Działka pustynna dostępna podczas tworzenia gry.
+
+~~~~~~
+
+Aktualizacja „KIĆ” DODATEK „GOTOWI DO PRZENIESIENIA”
+>DATE 14/05/20
+
+>„Gotowi do przeniesienia”– darmowy dodatek 
+Właśnie udostępniliśmy darmowy dodatek „Gotowi do przeniesienia”, który pozwala na określanie uprawnień dla więźniów wg sektora bezpieczeństwa. Więźniowie będą zachęcani do zmiany sposobu postępowania w celu spełnienia odpowiednich kryteriów zapewniających możliwość przeniesienia do niższego (i wygodniejszego) skrzydła więziennego.
+
+Pobierz dodatek „Gotowi do przeniesienia” za darmo!
+
+Gaz, menedżer ds. projektowania gier w Double Eleven.
+
+>Aktualizacja „Kić”
+Darmowa aktualizacja „Kić” jest uzupełnieniem dodatku „Gotowi do przeniesienia”, zawiera nowe funkcje sugerowane przez naszą społeczność, wiele usprawnień i inne nowości. Przykłady: 
+
+>[1/2] Nowe przedmioty
+
+<->Nowe przedmioty: Bieżnia, donica, ring bokserski, piłkarzyki, szklane okna, pomnik naczelnika i inne...
+<->Nowe ściany: Zgniłe, zniszczone, zardzewiałe, slumsy, ogrodzenie bambusowe, sektory bezpieczeństwa i inne.
+<->Nowe drzwi: Bambusowa brama, białe paski.
+<->Nowe podłogi: Kwieciste pola, bieżnia (szybka), bambus.
+<->Nowa opcja ogrodzenia z trawą.
+
+>[2/2] Nowe funkcje
+
+<->Zupełnie nowa sala gimnastyczna.
+<->Nowe szybkie pomieszczenia: zbrojownia, ambulatorium i biblioteka.
+<->Kary i poszukiwania można teraz inicjować dla danego sektora bezpieczeństwa! 
+<->Niestandardowe sektory bezpieczeństwa można tworzyć w Rozmieszczeniu.
+<->Rozmieszczenie umożliwia teraz przydzielanie kucharzy, lekarzy i innego personelu.
+<->Menu „Nowe znaki” pozwala dodawać cyfry i litery na ścianach.
+<->Interfejs Polityka umożliwia teraz dostosowanie opcji Posiłek i Zwolnienie warunkowe wg sektora bezpieczeństwa.
+<->Funkcję Auto. fundamenty można włączać i wyłączać podczas planowania.
+<->Nowa praca więzienna w Leśnictwie.
+
+
+~~~~~~
+
+Rozszerzenie WYSPA i 
+TWIERDZA
+>
+
+>„Wyspa” – nowy dodatek 
+<->Najnowsze rozszerzenie dla Prison Architect jest już dostępne!
+<->Rozszerzenie Wyspa pozwala tworzyć własne odizolowane wyspy więzienne z dostawami, transportami więźniów i usługami realizowanymi drogą morską oraz powietrzną.
+<->W Wyspie wprowadzamy dodatkowe opcje działek, na których można otworzyć więzienie i zerwać połączenie ze stałym lądem. Grę można zacząć nawet bez drogi! 
+<->Dodajemy Łodzie, Śmigłowce, Doki i Lądowiska, które można połączyć z obszarami dostaw i eksportowymi. Teraz skazańców można oddzielnie transportować na jedną stronę więzienia lub wyspy, a dostawy droga powietrzną odbierać gdzie indziej.
+<->Przy większej liczbie dróg szmuglowania kontrabandy należy budować nowe Punkty kontrolne ze strażnikami przeszukującymi więźniów i odwiedzających. Skanery paczek pozwolą znajdować kontrabandę ukrytą w dostawach! 
+<->W rozszerzeniu Wyspa dostępne są przygotowane mapy inspirowane więzieniem Alcatraz, nowe obiekty, posadzki, promy łączące wyspy, jednostki gaśnicze, nowy elitarny zespół do zadań specjalnych i wiele innych!
+
+Gaz, menedżer ds. projektowania gier w Double Eleven.
+
+Kliknij przycisk DALEJ, aby zobaczyć więcej...
+
+>Aktualizacja „Twierdza”
+„Twierdza” to darmowa aktualizacja uzupełniająca rozszerzenie „Wyspa” i wprowadzająca kilka usprawnień.
+
+<->Kafelki wody – dodając wodę na lądzie i ląd na wodzie, można tworzyć własne wyspy, linie brzegowe, fosy i inne.
+
+<->Dynamiczna reputacja więźniów – po włączeniu tej nowej opcji więźniowie mogą zyskiwać i tracić reputację w następstwie swoich zachowań w więzieniu. Przykładowo: reputację „Silny”, „Twardziel” czy „Wojownik” można zyskać, spędzając czas na siłowni lub stracić, przesiadując w izolatce. Różne inne rodzaje reputacji można zyskać i stracić, wykonując inne działania.
+
+~~~~~~
+
+DODATEK "ZIELONO MI"
+AKTUALIZACJA „CIEPLARNIA”
+>Naczelnicy, pora zakasać rękawy!
+
+>ZIELONO MI - Nowy Dodatek 
+>   Płody rolne:
+<->Rolnictwo wprowadza nową pracę; w zakładach możliwa jest uprawa m. in. ziemniaków, pszenicy i jabłek. Plony można eksportować lub wykorzystać w posiłkach dla więźniów.
+>
+>   Miejsce na wzrost:
+<->Rolnictwo jest możliwe w trzech pomieszczeniach zewnętrznych: sadzie owocowym, polu uprawnym i działce warzywnej. Można rekrutować rolników oraz budować spiżarnie na plony i szopy ze sprzętem rolniczym.
+>
+>   Warzenie piwa:
+<->Nowe rośliny to nowa kontrabanda. Więźniowie potajemnie uprawiają rośliny narkotyczne i kradną składniki do pędzenia alkoholu. Pola mogą zostać zajęte przez gangi, więc strażnicy muszą uważać!
+>
+>   Zielony ład:
+<->Uczyń więzienia ekologiczniejszymi dzięki energii słoneczniej, wiatrowej lub hybrydowej z obu źródeł. Nadwyżkę można sprzedać sieci elektrycznej miernikiem prądu.
+
+Kliknij przycisk DALEJ, aby zobaczyć więcej...
+
+>Aktualizacja „Cieplarnia”
+<->Darmowa aktualizacja „Cieplarnia” przygotowuje grę na dodatek „Zielono mi!”, wprowadzając część usprawnień, o które najczęściej prosiła społeczność:
+<->Nowy system recyklingu, zawierający obiekt kosz do recyklingu.
+<->Nowe szybkie pomieszczenia: dziedziniec, gaj i labirynt ogrodowy.
+<->Poprawa funkcjonalności opcji wyrzucania i burzenia.
+<->Nowe sposoby sortowania obiektów.
+
+~~~~~~
+
+DODATEK DLC „DRUGA SZANSA” 
+i aktualizacja „Psiarnia”
+>Otworzyć bramę!
+
+>Nowy dodatek DLC „Druga szansa”:
+>   Budowanie umiejętności życiowych:
+<->Trzy nowe pomieszczenia umożliwiające więźniom naukę i pracę; piekarnia i restauracja wytwarzające żywność dla odwiedzających cywilów oraz pokój spotkań dla sesji w ramach nowych programów
+<->Niektórzy więźniowie maja uprzednie doświadczenie zawodowe odpowiednie dla prac dostępnych w więzieniu
+<->Możliwe jest teraz regulowanie wynagrodzenia za pracę więźniów
+>
+>   Krok do zwolnienia warunkowego:
+<->Pięć nowych programów resocjalizacji: konsultacje ze zresocjalizowanymi więźniami, program i szkolenie „Trzy ostrzeżenia”, rozwiązywanie konfliktów i zooterapia!
+<->Zależnie od sprawowania więźnia wyrok może zostać skrócony lub przedłużonyviour
+<->Menu resocjalizacji i odwyku umożliwiające monitorowanie poziomu recydywy wśród wszystkich więźniów, poziom ich doświadczenia zawodowego oraz liczbę recydywistów
+
+
+Kliknij przycisk DALEJ, aby zobaczyć więcej...
+
+
+>Nowy dodatek DLC „Druga szansa”:
+>   Wyjście na wolność:
+<->Otrzymuj premie za skuteczną resocjalizację więźniów, którzy wracają do życia w społeczeństwie. Za recydywistów – którzy mogą wrócić do twojego więzienia z jeszcze gorszymi cechami – nakładane będą kary!
+
+>   Ale to nie wszystko…
+<->Dostosowywanie kolorów kombinezonów więźnia według poziomu rygoru
+<->Skorzystaj z nowych dotacji, które pomogą w pokryciu kosztów resocjalizacji
+<->Szybkie pomieszczenia: piekarnia, restauracja i pokój spotkań
+<->Dodano zakładkę z informacjami do listy zadań
+
+
+
+
+
+
+
+
+
+Kliknij przycisk DALEJ, aby zobaczyć więcej...
+
+
+>Aktualizacja „Psiarnia”
+<->Poszukiwanie narkotyków! Nowy rozkaz bezpieczeństwa, pozwalający przewodnikom psów prowadzić przeszukania pod kątem narkotyków
+<->Polityka pozwalająca wszystkim pracownikom personelu nosić klucze
+<->Nowe szybkie pomieszczenie: recepcja
+<->Dostosuj transport: pozwala określić czas przybycia transportu
+<->Zmniejszono ograniczenia pomieszczeń zewnętrznych dla pokojów szkoleniowych i stołówki
+<->Gama nowych obiektów
+
+~~~~~~
+
+DODATEK „CISZA PRZED BURZĄ” ORAZ
+AKTUALIZACJA „WIEŻA” 
+>Nie czuj się za pewnie, gdy na horyzoncie zbierają się chmury! 
+ 
+>Nowy dodatek – „Cisza przed burzą”:
+>   Przygotuj się na najgorsze:
+<->Dostępne są nowe opcje aktywacji wydarzeń związanych z pogodą oraz plagą szczurów, o różnym poziomie intensywności
+<->Dostępne jest wiele możliwości wsparcia, nowe przedmioty i placówki, programy szkoleniowe, służby ratunkowe i abonamenty
+<->Możesz także ustawić odstraszacze szczurów, rozmieścić gaśnice i alarmy przeciwpożarowe oraz inne przedmioty, które pomogą wykryć zmianę pogody i się do niej odpowiednio przygotować  
+>
+>   Uwaga na szczury:
+<->Gdy spełnisz minimalne warunki w więzieniu zaczną się pojawiać szczury. Utrzymuj więzienie w czystości i próbuj wcześnie wykrywać tunele
+<->Nie daj się zwieść tym ślicznym pyszczkom – z początku tylko trochę brudzą i podkradają składniki, ale w dużej liczbie mogą zacząć przenosić choroby, niszczyć przewody elektryczne i ogrodzenie, a nawet kopać tunele
+>
+>   Kataklizmy pogodowe – część 1: 
+<->Dodano trzy rodzaje ekstremalnych warunków pogodowych, z czego każdy ma 3 poziomy intensywności zawierające dodatkowe wydarzenia, co czyni je jeszcze niebezpieczniejszymi
+Kliknij przycisk DALEJ, aby zobaczyć więcej...
+
+>
+>   Kataklizmy pogodowe – część 2: 
+<->Silny mróz – mroźna pogoda może spowodować zniszczenia obiektów użytkowych i przedmiotów, zmrozić ziemię i ściany, co może być niebezpieczne również dla więźniów
+<->Burza z piorunami – burze mogą być niebezpieczne i niszczycielskie oraz prowadzić do uszkodzeń układów elektrycznych, pożarów czy obniżenia integralności konstrukcyjnej więzienia, a także powodować zagrożenie bezpośrednio dla więźniów i personelu
+<->Upały – upalna pogoda wprowadza nową potrzebę nawodnienia dla personelu i więźniów, a w przypadku jej niedopilnowania pojawia się ryzyko udaru cieplnego. Gorące temperatury mogą także wpłynąć na przedmioty, więc uważnie się rozglądaj przy zmrużonych oczach 
+>
+>   Aktualizacja „WIEŻA” – część 1: 
+<->Dodano dwa nowe psy stróżujące oparte o rasy shiba inu i czarny seter. Dodatkowo wprowadzono opcję zostawiania przez nie „drobnych prezentów” w całym więzieniu
+<->Można teraz dostosować czas trwania odwiedzin. Więcej czasu spędzonego z rodziną i znajomymi silniej wpłynie na potrzeby więźniów
+<->Snajperzy mają teraz alternatywę dla śmiertelnych strzałów, co pozwala na powstrzymanie prób ucieczki czy agresywnych więźniów bez robienia im krzywdy
+<->Wraz z tymi opcjami dodano również nowe rodzaje podłóg i nowe przedmioty
+
+>
+>   Aktualizacja „WIEŻA” – część 2: 
+<->Kolorowe drzwi dla personelu
+<->Kanapa, Luksusowe biurko, drewniane i obrotowe krzesła
+<->Drewniane i witrażowe okna
+<->Krzew paproci, Bluszcz, Wierzba i Drzewo (bez liści)	 
+<->Laminat podłogowy, Dywan i Pole trawy
+
+>	Specjalne podziękowania: 
+8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
+
+
+~~~~~~
+
+"DODATEK „GANGI” I 
+AKTUALIZACJA „LATAWIEC” 
+>Mocniejsi, mądrzejsi, a od teraz w dopasowanych uniformach!
+
+>Gangi – nowy dodatek:
+>   Nowe gangi w więzieniu:
+<->Do twojego więzienia przybyły trzy typy gangów, które przyniosły ze sobą różne kłopoty i problemy zarządcze. 
+<->Każdy z gangów ma własny charakter i cele: od szerzenia wpływów w więzieniu do przejęcia rynku kontrabandy.
+<->Aby pomóc z poziomem trudności związanym z ich przybyciem do więzienia, dodaliśmy opcje do kontrolowania liczebności gangów oraz liczby poruczników, co w rezultacie wpływa na liczbę akcji, które może przeprowadzić gang.
+>
+>   Nowe gangi to nowe zachowania:
+<->Każdy nowy gang ma własne wyspecjalizowane działania: od wprowadzania większej ilości narkotyków do używania siły, aby pokazać innym, kto tu rządzi.
+<->Gangi teraz mogą przejmować nowe obszary, zmuszając innych więźniów do płacenia im podczas pracy, a także wyznaczać „dilera” gangu na swoim terenie, aby sprzedawać to, co uda im się pozyskać.
+<->Gdy gang zyska odpowiednią liczbę członków, może zacząć stawiać żądania, aby umilić sobie pobyt w więzieniu. Niespełnienie tych żądań może mieć katastrofalne konsekwencje.
+Kliknij przycisk DALEJ, aby zobaczyć więcej...
+
+>   Skorumpowani strażnicy:
+<->Gdy gang dostatecznie urośnie w siłę, zacznie to mieć negatywny wpływ na twoich strażników.
+<->Strażnicy mogą zostać przekupieni przez członków gangu. Przez to będą przymykać oko, gdy gang będzie planować przeprowadzenie podejrzanych akcji.
+<->Niektórzy strażnicy mogą zostać opłaceni, aby przenosić kontrabandę dla gangów.
+>
+>   Zarządzanie i ochrona:
+<->Aby poradzić sobie z podejrzanym personelem, można wykorzystać więziennych informatorów w celu zidentyfikowania skorumpowanych strażników.
+<->Nowe programy są od teraz dostępne dla strażników i członków gangu, którzy chcą zrezygnować z przestępczego życia i powrócić do normlanego i spokojnego pobytu w więzieniu.
+<->Byli członkowie gangu staną się celem dla gangu, więc najlepiej będzie rozdzielić gangi i byłych członków od siebie, jeśli jest to możliwe.
+<->W przypadku członków gangu, którymi trudniej zarządzać, dostępne są nowe opcje bezpieczeństwa: od oznaczania określonych osób do wysyłania najbardziej problematycznych jednostek do innej placówki.
+Kliknij przycisk DALEJ, aby zobaczyć więcej...
+
+>
+>   Aktualizacja „KONTRABANDA”:
+<->Do zespołu dołączyli nowi strażnicy: Dylan Cook i Kapitan J. Locks oraz nowe rasy psów. Wraz z nimi dostępna jest nowa „losowa” opcja wyboru oraz cztery nowe typy psów strażniczych!
+<->Teraz można ręcznie zmieniać cele więźniów, co umożliwia ich dokładne rozmieszczenie. Pamiętaj jednak, że liderzy gangu będą starali się dostać najlepszą celę w każdym obszarze należącym do ich grupy.
+<->System transportu także został zaktualizowany. Więźniowie oczekujący na przyjęcie zostali przeniesieni do recepcji. Pojawiła się także opcja „Wymiana więźnia”, która umożliwia zachowanie populacji więźniów w oparciu o bieżący wskaźnik poziomów bezpieczeństwa.
+<->Wraz z nowymi funkcjami pojawiła się także opcja zniesienia wymagań w zakresie wielkości pomieszczenia oraz ulepszenia kamer monitoringu, które można włączyć w menu rozmieszczania."
+
+
+~~~~~~
+
+Aktualizacja „Darmowe dożywocie”
+>Nowości wprowadzone na podstawie opinii społeczności
+
+Wachlarz nowych funkcji i usprawnień rozgrywki, z których większość wprowadzono w odpowiedzi na prośby społeczności. Słuchamy waszych opinii i jesteśmy za nie wdzięczni, ponieważ pozwalają nam zaoferować lepszą rozgrywkę wszystkim graczom.
+ 
+> Nowe funkcje
+<->Starzenie się więźniów: Więźniowie z długimi wyrokami będą teraz ulegać wpływowi czasu i stawać się starsi, spokojniejsi i słabsi, a w końcu będą umierać ze starości.
+<->Stopnie strażników: Część strażników będzie mogła zdobywać awanse podnoszące statystyki oraz wynagrodzenie. Po awansie na specjalistę otrzymają również dostęp do broni palnej.
+<->Usprawnienia budowania: Wprowadzono kilka opcji ulepszających proces budowania. Można teraz aktywować nakładkę siatki wraz ze współrzędnymi dla każdej komórki mapy, dodano także informację o wymiarach podczas wyznaczania budynków. 
+<->Niestandardowe zestawy szybkiej budowy: Narzędzie klonowania pozwala zapisać sekcje więzienia do późniejszego wykorzystania.
+<->Dodano dziennik wydarzeń uwzględniający wszystkie zdarzenia w więzieniu, każdy więzień ma też własny osobisty dziennik dostępny z własnego menu.
+Kliknij przycisk DALEJ, aby zobaczyć więcej...
+ 
+> Usprawnienia rozgrywki
+<->Media podzielono na 3 grupy: elektryczne, wodne i instalacje elektryczne, ułatwiając ich rozmieszczenie.
+<->Zaktualizowano opcje harmonogramu: wprowadzono zmiany do istniejących i wprowadzono nowe opcje w celu zmniejszenia ruchu więźniów w niebezpiecznych obszarach, jak stołówki i prysznice. Po skończonym posiłku lub prysznicu więźniowie mogą kontynuować wolny czas lub iść do celi.
+<->Zaktualizowano menedżer harmonogramu, aby zarządzanie programami było łatwiejsze i bardziej przejrzyste.
+<->Zaktualizowano również menu tworzenia więzienia, rozdzielając ustawienia związane z podstawową grą i DLC. Nowa opcja zapisania preferencji usprawnia i przyspiesza proces tworzenia.
+<->Menu polityki będzie w momencie zamknięcia zachowywać wprowadzone zmiany oraz używać ich jako preferencji dla nowych więzień.
+>
+<->Wprowadziliśmy także dużo mniejszych elementów; mamy nadzieję, że wszystkie przypadną Wam do gustu!
+
+~~~~~~
+
+DODATEK „UNDEAD” I 
+AKTUALIZACJA „THE KICKSTAND” 
+>Coś złego czai się w ciemnościach
+ 
+>Undead – nowy dodatek
+>Nowe funkcje
+<->Nieumarli: od teraz nieumarli mogą się pojawić w murach twojego więzienia w wyniku zakażenia lub wychodząc z cmentarza – nowego pomieszczenia.
+<->Poziomy nieumarłych: nieumarli będą mieli 3 poziomy, od niskiego do wysokiego, a ci na najwyższym będą szybsi, silniejsi i trochę mądrzejsi.
+<->Cmentarz: więźniowie mogą odpoczywać na cmentarzu, ale czasem reszta jego mieszkańców lubi się przywitać.
+<->Zachowanie nieumarłych: zawsze chcą wciągnąć nowych znajomych do swojego towarzystwa. Nieważne, że większość reaguje krzykiem i ucieczką. 
+<->Zapłaty: choć trochę kąsają, nieumarli są uczciwi i gdy zostaną bezpiecznie odgrodzeni, zapłacą czynsz za wynajmowany lokal.
+<->Zarządzanie: dodaliśmy dwa przedmioty pomocne w kontrolowaniu nieumarłych: przynętę i nowe urządzenie, które zajmie trupy w pobliżu w bardzo praktyczny sposób. 
+<->Łowcy nagród: nowa służba ratunkowa, która będzie strzec terenu więzienia i pozbędzie się frywolnych lokatorów.
+<->Elementy wizualne: paczka z nakładkami, nowym zegarem, przedmiotami estetycznymi i nowym uniformem personelu jeszcze lepiej wprawi cię w nieumarłą atmosferę. A, i jeszcze piła łańcuchowa. Miłej zabawy. 
+Kliknij przycisk DALEJ, aby zobaczyć więcej…
+ 
+>
+>Darmowa aktualizacja – The Kickstand
+>Usprawnienia rozgrywki
+<->Nowe psy! – majestatyczny corgi i husky syberyjski, grzeczna suczka. Każdy to przyzna.
+<->Nowe szybkie pomieszczenia – dodano nowe szybkie pomieszczenia bezpieczeństwa, psiarni i przesłuchań w sprawie zwolnień warunkowych.
+<->Ulepszono system monitoringu, który możesz teraz zablokować na danym obszarze i ustawić monitorowanie jako priorytet dla strażników w ramach nowej polityki. 
+<->Dostępne jest także nowe puste pomieszczenie, które pomoże przydzielić więźniów na różne sektory bez prowadzących do nich korytarzy.
+<->A skoro mowa o przydzielaniu, dodaliśmy ustawione w linie betonowe płytki, które pomogą zwizualizować sektory w normalnej rozgrywce.
+>
+<->Wprowadziliśmy też sporo mniejszych usprawnień rozgrywki w oparciu o informacje zwrotne i mamy nadzieję, że się wam spodobają.
+
+~~~~~~
+
+DLC „FUTURE TECH PACK” 
+I AKTUALIZACJA „THE SLAM” 
+>Przyszłość nadeszła! 
+
+>Nowe DLC – Future Tech Pack
+> Nowe funkcje
+<->Paczka uniformów: Druga paczka uniformów jest już dostępna – twoi więźniowie i personel otrzymają wygląd rodem z science fiction wpasowujący się w futurystyczną tematykę.
+<->Śledzenie więźniów: Potrzebujesz pomocy z utrzymywaniem więźniów z dala od problemów? Monitor śledzący i menu śledzenia oraz inne przedmioty wspierające pomagają w obserwacji wybranych więźniów.
+<->Rodzaje ścian: Ogrodzenie elektryczne powstrzyma wszelkich potencjalnych wspinaczy, z kolei szklana ściana zwiększy widoczność strażnikom a więźniom poczucie wolności – zmniejszając jednocześnie ich prywatność.
+<->Drzwi na karty: Drzwi, które mogą zostać otwarte wyłącznie przez strażników wyposażonych w karty lub więźniów z paskami śledzącymi. Dostęp więźniów można cofnąć dla każdych drzwi.
+<->Zaawansowane szperacze: Wykryją każde niewłaściwe zachowanie i aktywują wezwanie do działania. 
+<->Pałki elektryczne: Elektryzujące usprawnienie standardowego wyposażenia strażników, dzięki któremu będą sobie łatwiej radzić z problemami.
+<->Budki do wideorozmów: Pozwalają więźniom zobaczyć się z rodziną bez zagrożeń wynikających z fizycznej wizyty.
+<->Inne: Dekoracyjne podłogi, nowy rodzaj zegara, naczelnik i inne nowości!
+Kliknij przycisk DALEJ, aby zobaczyć więcej…
+
+>Darmowa aktualizacja – „The Slam”
+> Usprawnienia rozgrywki
+<->Strefa tylko dla gości – nowy sektor, który będzie priorytetem dla cywili, pozwalając im na wejście i wyjście z więzienia w określonych miejscach.
+>
+<->Przerwy dla personelu – można teraz określić liczbę członków personelu, którzy mogą sobie zrobić przerwę w odniesieniu do strażników, robotników i kucharzy w miejsce ogólnego ustawienia dla personelu.
+>
+<->Segregacja gangu – ta opcja będzie teraz pozwalała blokować więźniom nie należącym do danego gangu dostęp do bloków więziennych lub sal sypialnych przypisanych gangom. 
+>
+<->Różne usprawnienia – więcej przedziałów czasowych dla harmonogramu rozmieszczenia, usprawnione filtry obiektów, ulepszone narzędzie szybkiego podłączenia dla instalacji elektrycznej oraz wiele innych drobnych usprawnień i poprawek!
+
+~~~~~~
+
+DLC Jungle Pack
+Aktualizacja Jailhouse
+>Witajcie w dżungli, jest tu mnóstwo drzew i innych fajnych rzeczy!
+
+>Jungle Pack – nowe DLC
+> Nowe funkcje
+<->Paczka uniformów: w końcu nadszedł ten czas – oto trzecia paczka uniformów! Znów możesz odświeżyć styl więźniów i personelu dzięki temu zielonemu motywowi.
+<->Eksport drzew: nudzi ci się już ścinanie tych samych drzew? Nie martw się, teraz możesz powyrąbywać rzadkie egzotyczne drzewa. 
+<->Gorączka tropikalna: ta nowa choroba trafia do więzień przez skażone przesyłki lub zakażonych odwiedzających i może się rozprzestrzenić niczym pożar, więc strzeż się nowego zagrożenia.
+<->Punkt przyjęcia odwiedzających: odwiedzający twoje więzienie zostaną najpierw przebadani lub sprawdzeni w tym pomieszczeniu przez lekarzy i strażników pod kątem objawów gorączki lub kontrabandy.
+<->Kino: niektórym nie wystarcza zwykły telewizor, więc przedstawiamy salę kinową. Pozwól więźniom trochę się rozerwać i odprężyć w czasie wolnym w tym pomieszczeniu.
+<->Różne: nowe podłoża, ściany, drzewa, drewniane obiekty, nowa lepiej zakamuflowana kamera, nowa tarcza zegara i jakoś dziwnie znajomy naczelnik…
+
+Kliknij DALEJ, aby dowiedzieć się więcej…
+
+>Jailhouse – darmowa aktualizacja
+> Usprawnienia rozgrywki
+
+<->Nowy pies – byłoby skandalem, gdybyśmy nie podzielili się tym promiennym słodziakiem, więc czerp radość z Toby'ego i wyznawanych przez niego psiartości.
+>
+<->Bezczynni strażnicy: od teraz bezczynni strażnicy zbierający się tłumnie w obszarze dostaw będą skupiać się na ważniejszych obszarach więzienia.
+>
+<->Szybkie materiały budowlane – od teraz podczas szybkiego budowania ostatnio wybrany materiał pozostanie domyślnym wyborem podczas kolejnego użycia tego narzędzia.
+>
+<->Harmonogram rozmieszczenia – menu harmonogramu zostało delikatnie przerobione, aby poprawić wrażenia z gry, i stało się bardziej przejrzyste i intuicyjne
+>
+<->Różne usprawnienia – zbalansowaliśmy reputację tożsamości złodzieja, efekt tłumienia na szalejących więźniów oraz wprowadziliśmy inne usprawnienia i poprawki!
+
+~~~~~~
+
+Aktualizacja „Sunset”
+>Pełna usprawnień rozgrywki i poprawek!
+
+> Usprawnienia rozgrywki / Funkcje
+<->Mutator super psów: Jako że nie kryjemy się z naszą sympatią do naszych futrzastych pupili, stworzyliśmy zupełnie nowy mutator oparty na mutatorze super strażnika, który doda im trochę animuszu.
+<->Kondensator wersja 2.0: Przed państwem kondensator max plus – ulepszona wersja kondensatora, z pomocą którego stacje elektryczne będą mogły generować dwukrotnie więcej elektryczności niż przedtem.
+<->Drzwi zdalnie sterowane: Dodaliśmy nową wersję kolorystyczną dla drzwi zdalnie sterowanych dla obszaru dla więźniów z wyrokiem śmierci i poziomu najwyższego rygoru.
+<->Prędkość furgonetki policyjnej: W związku ze skutecznością jednostek ratownictwa lotniczego zwiększyliśmy prędkość poruszania się furgonetek policyjnych dla strażników, aby skrócić czas ich przybycia. 
+<->Aktualizacja opisów: Po przeczesaniu gry podjęliśmy decyzję o aktualizacji niektórych ciągów znaków i dodaniu kilku nowych. Z tego powodu zaktualizowaliśmy opisy przedmiotów, personelu oraz potrzeb.
+
+<->Celem tej aktualizacji była maksymalna poprawa jakości wrażeń z gry. 
+Dziękujemy za grę w Prison Architect.

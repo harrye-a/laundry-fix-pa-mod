@@ -1,0 +1,29 @@
+BEGIN Window
+    NAME         SoundDspEditor
+    WIDTH        400
+    HEIGHT       300
+END
+
+BEGIN DropDownMenu
+    NAME        TypeMenu
+    XPOS        Absolute        15
+    YPOS        Absolute        35
+    WIDTH       Relative        -30
+    HEIGHT      Absolute        25
+END
+
+BEGIN Container
+    XPOS        Absolute        15
+    YPOS        Absolute        70
+    WIDTH       Relative        -30
+    HEIGHT      Relative        -90
+END
+
+BEGIN SelectionList
+    NAME        ParamList
+    XPOS        Absolute        150
+    YPOS        Absolute        80
+    WIDTH       Relative        -175
+    HEIGHT      Relative        -105
+END
+

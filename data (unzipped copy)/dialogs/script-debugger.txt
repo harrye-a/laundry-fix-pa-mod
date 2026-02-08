@@ -1,0 +1,54 @@
+BEGIN Window
+    NAME         ScriptDebugger
+    WIDTH        600
+    HEIGHT       600
+END
+
+BEGIN DropDownMenu
+    NAME        Scripts
+    XPOS        Absolute        15
+    YPOS        Relative        -35
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        20
+END
+
+BEGIN Container
+    XPOS        Absolute        15
+    YPOS        Absolute        35
+    WIDTH       Relative        -30
+    HEIGHT      Relative        -105
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Absolute        20
+    YPOS        Absolute        40
+    WIDTH       Relative        -40
+    HEIGHT      Relative        -115
+END
+
+BEGIN DropDownMenu
+    NAME        Mode
+    XPOS        Absolute        165
+    YPOS        Relative        -35
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Close
+    CAPTION     dialog_close
+    XPOS        Relative        -155
+    YPOS        Relative        -35
+    WIDTH       Absolute        140
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputField
+    NAME        InputField
+    XPOS        Absolute        15
+    YPOS        Relative        -65
+    WIDTH       Absolute        570
+    HEIGHT      Absolute        20
+END
+

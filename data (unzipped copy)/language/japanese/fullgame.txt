@@ -1,0 +1,956 @@
+﻿
+campaigncutscene_tooltip 				（クリックで次のチャプターをスタート）
+campaignchapter_locked                  （ロック中）
+
+
+# =============================================================================
+# Food / Palermo
+# =============================================================================
+
+campaignchapter_food                    パレルモ
+
+campaignchapter_food_description        刑務所の厨房と食堂が火災によって全焼した。受刑者たちの食事を用意する方法を早く見つけなければ、大規模の暴動が起きるだろう。\nまずは食事を手配し、次に厨房と食堂を建て直そう。
+
+adviser_food_fire_1                     別の施設で問題が発生している。
+adviser_food_fire_2                     刑務所の厨房に何者かが放火したようだ。まずは火を消し止めてこれ以上負傷者が出ないようにし、施設へのダメージも食い止めよう。
+adviser_food_fire_3                     ツールバー内の「救急」ボタンを使って消防隊を出動させよう。
+adviser_food_fire_4                     火災が刑務所全体に広がってしまう前に消し止めよう！
+
+objective_food_callfirebrigade          消防署に連絡
+objective_food_extinguishflames         火を消し止める
+
+objective_food_callfirebrigade_description 	消防隊を出動させるには、ツールバー内の「緊急」ボタンをクリックし、さらに「消防隊」をクリックしよう。
+objective_food_extinguishflames_description  消防隊が選択されている状態でHキーを長押しすると、消火ホースの向きを手動で調整することができる。ホースが炎の中心に向くようにしよう。\n\n消防隊をできるだけ火の近くに置いて、より効果的に使おう。
+
+adviser_food_savedon1                   驚いたことに、瓦礫の中に生存者がいるようだ。
+adviser_food_savedon2					しかもあれは... パレルモのドンだ。これだけ沢山の受刑者がいる中で... 生き残ったのが奴だったとは！
+adviser_food_donintro2					だが、経費削減の一環として、常勤の医者たちはすべてクビにされてしまっている。
+adviser_food_donintro3				 	幸いにも医療室はまだ使用できる状態だ。医師を数人雇ってパレルモのドンの治療に当たらせよう。瓦礫の除去はその間に行えばいい。
+
+adviser_food_afterfire3                 瓦礫を除去する必要がある。
+adviser_food_afterfire4                 「撤去」ツールを使って崩壊した食堂と厨房の解体を行い、すべての瓦礫を除去しよう。
+adviser_food_afterfire6                 道路の脇にゴミゾーンを設置しよう。作業員に瓦礫をそこに持っていかせれば、ゴミ収集車が片付けてくれるはずだ。
+adviser_food_dismissfiremen1			最後に、仕事の終わった消防隊を帰途につかせよう。
+adviser_food_gamespeed                  建物を解体するのには時間がかかるだろう。時間を短縮したい場合は、時計の下のボタンを押そう。
+
+adviser_food_todolist1					これらのタスクに関する詳細を「タスクリスト」に追加しておいた。
+adviser_food_todolist2					何をすべきか分からなくなった時には、タスクをハイライトすれば追加情報を確認できる。
+
+objective_food_buildmedicalward_doctors 医者を数人雇って医療室で勤務させよう。
+
+objective_food_DismissAllFiremen		消防隊を帰す
+objective_food_cleararea                火事の残骸を撤去
+objective_food_buildgarbagearea         ゴミゾーンを設置
+objective_food_clearcanteen             食堂の残骸を撤去
+objective_food_clearkitchen             厨房の残骸を撤去
+objective_food_hiremoreworkmen			（任意）作業員を追加して解体作業をスピードアップ
+
+objective_food_dismissallfiremen_description 	出動させた緊急隊を帰すには、画面右にあるアイコンを探し、赤いマルXボタンをクリックしよう。
+objective_food_cleararea_description 	建物を解体するには「撤去」ツールを使おう。撤去ツールはメインツールバー内の「基礎」に含まれている。
+
+adviser_food_familyvisit1				上出来だ。
+adviser_food_familyvisit2 				怪我人の状態をチェックしよう。
+
+adviser_food_troublesoon1				食べ物がなければ、受刑者たちは数日中にも暴動を起こすだろう。
+adviser_food_troublesoon2 				暴動を防ぐためにも、刑務所の安全を確保しよう。
+adviser_food_troublesoon3 				これは「配置」画面だ。ここでは、看守を戦略的に配置することができる。
+adviser_food_troublesoon4 				すべての独房と部屋にまんべんなく看守を配置しよう。刑務所中の詰所に10人の看守を配置すれば、とりあえずは十分な威力を見せつけることができるはずだ。
+adviser_food_troublesoon5				さらに中庭に看守を巡回させたい。ここには新しい施設が建設される予定だ。
+adviser_food_troublesoon6				最後にひとつ。食堂がダメージを受けたことで、箱詰めにされた食料のいくつかが腐ってしまった。すぐに捨てて害虫の繁殖を防ごう。
+
+objective_food_deployguards				刑務所内に10人の看守を配置
+objective_food_deploypatrol				中庭のパトロール用に看守を2人配置
+
+objective_food_deployguards_description		看守を配置するには、「配置」画面を開き、詰所を置きたい場所をクリックしよう。詰所には自動的に看守が1人配置される。
+objective_food_deploypatrol_description		「配置」画面を開いて「パトロール」を選択し、クリック＆ドラッグで巡回ルートを描こう。\n\nルート内のマスをクリックすれば、パトロール用の看守を配置することができる。
+
+objective_food_dumpfood 				腐った食料を捨てる
+objective_food_dumpfood_description		腐った食料は、刑務所の北東部分にある貯蔵庫に置かれている。\n\n物を捨てたい時には、対象物をクリックし、ポップアップメニューから「捨てる」をクリックしよう。
+
+adviser_food_doncantspeak1				...
+adviser_food_doncantspeak2				うう... う...
+
+adviser_food_doninfirmary0              何か言おうとしてるぞ。
+adviser_food_doninfirmary1				どいつだ、こんなことをやらかしたクソ野郎は？
+adviser_food_doninfirmary2 				誰のせいでもないよ。事故だったんだ。
+adviser_food_doninfirmary3 				てめえら、耳をかっぽじってよく聞くんだ。
+adviser_food_doninfirmary4 				火をつけたアホ野郎の首をぜひともヘシ折ってやりたい。
+adviser_food_doninfirmary5 				だが俺はもうおしまいだ。この汚ねぇベッドで死ぬのさ。
+adviser_food_doninfirmary6 				だが一家のビジネスは終わりじゃない。パレルモの名に恥じないよう、仕事を片付けるんだ。分かったか、アホども。
+adviser_food_doninfirmary7				分かってるよ、親父。
+adviser_food_donchat13					まだ終わっちゃいねぇぞ、ニコ。
+adviser_food_donchat14					お前、気をつけろよ。
+
+adviser_food_founddrugs1				信じられないことを耳にした。
+adviser_food_founddrugs2				腐った食料を捨てていた作業員たちが、箱の底に薬物と酒が隠されているのを発見したらしい。
+adviser_food_founddrugs3				パレルモ一家が刑務所に色々と持ち込んでいるという話は初耳ではない。だがその方法については明らかではなかった。
+adviser_food_founddrugs4 				だが今はそれどころではない。
+
+adviser_food_rebuild1                   やるべきことは沢山残っている。優先して行わなければならないのは、厨房と食堂の再建だ。
+adviser_food_rebuild2                   まずは食堂を建てよう。必要な設備を配置し、料理人を雇わなければならない。
+adviser_food_rebuild3					それが済んだら今度は食堂だ。
+adviser_food_rebuild4					すべてが完了したら、料理人たちは自動的に食事の準備に取り掛かる。
+adviser_food_rebuild5                   何をしたらいいか分からなくなった時には、「タスクリスト」内のタスクをハイライトしてヒントを表示しよう。
+
+adviser_food_fightoutro1  				素晴らしい！パレルモ一家の勢力は縮小しているぞ！
+
+adviser_food_sprinklerintro1 			我々は薬物に関してかなり深刻な問題に直面しているようだ。だがそれに対処するのは後だ。
+adviser_food_sprinklerintro2 			厨房と食堂がまた機能し始めた。料理人はまもなく料理を再開するはずだ。これで受刑者たちも少しは落ち着くだろう。
+adviser_food_sprinklers1                心配なのは、今回の火災が明らかに放火によって生じたものであるということだ。こんなことは二度と起こってはならない。
+adviser_food_sprinklers2 				新しい厨房と食堂の上にスプリンクラーを設置し、水道本管につなげよう。
+
+adviser_food_explainneeds1 				どの受刑者にもニーズというものがある。そしてそれは彼らの挙動に直接影響を与える。例えば今、受刑者たちはお腹を空かせている。彼らが怒鳴り声を上げているのはそのためだ。
+adviser_food_explainneeds2 				食事は、受刑者のニーズの中でも特に優先順位が高い。それを無視すれば最悪の事態が待っている。食事を数回抜いただけで、受刑者たちは暴動を起こすだろう。
+adviser_food_explainneeds3 				受刑者のニーズがどの程度満たされているかは「ニーズ報告」でチェックすることができる。これは、画面右下の「報告書」アイコンからアクセスすることができる。
+adviser_food_explainneeds4				このレポートには、すべての受刑者の全体的なニーズの状態が示されている。特定のニーズが赤になっている場合は、多くの受刑者に対してそのニーズが満たされておらず、受刑者が不満を抱えていることを示している。
+adviser_food_explainneeds5 				もちろん、食料に関する状況は現在「赤」だ。だが、それだけでなく、多くの受刑者がかなり退屈しており（「娯楽」のニーズ）、刑務所の居住状況があまりよくない（「環境と衣服」ニーズ）ことも分かる。
+adviser_food_explainneeds6				どのニーズを優先的に満たしてやるかは、刑務所の設計士である君が決めなければならない。手始めに、独房にテレビを置いて受刑者を楽しませるとともに、清掃人を雇って刑務所を掃除させてみてもいいだろう。
+adviser_food_explainneeds7				もしくは、そのようなニーズはまったく無視して、力づくで受刑者たちを支配するのもありだ。
+adviser_food_explainneeds8 				さあ、どうしよう？
+
+objective_food_needs 					（任意）受刑者のニーズを満たす
+objective_food_handlefoodneed 			（任意）受刑者の「食料」ニーズを満たす
+objective_food_handleboredomneed		（任意）受刑者の「娯楽」ニーズを満たす
+objective_food_handleenvironmentneed	（任意）受刑者の「環境」ニーズを満たす
+
+objective_food_needs_description 					受刑者たちの全体的なニーズをチェックするには、画面右下にある「報告書」をクリックし、「ニーズ」を選択しよう。\nまた、個人をハイライトすることで、その受刑者がどのニーズに影響されているかを確認することもできる。\n\nニーズは一度満たしたら終わりではない。常に満たしてやる必要がある。
+objective_food_handlefoodneed_description 			料理人が食事を用意してくれる。すべての受刑者は次の食事タイムの終わりまでに食事にありつくことができる。
+objective_food_handleboredomneed_description 		受刑者が退屈している場合は、独房にテレビを置くことで簡単に解決することができる。また、共有ルームを作り、そこにテレビやビリヤード台を置くこともできる。\n\nテレビはその他の共有スペース（例：食堂）に置くこともできる。
+objective_food_handleenvironmentneed_description 	清掃人を雇うと、時間は掛かるが刑務所全体を掃除してくれる。
+
+adviser_food_needssuccess1 				素晴らしい。受刑者のニーズを満たすため、積極的に行動してくれた！
+adviser_food_needssuccess2 				もう気づいているかもしれないが、清潔な衣服がないことに受刑者たちは大きな不満を抱いている。
+adviser_food_needssuccess3 				このニーズに対処するためには、受刑者たちに清潔な衣服を提供できるよう、洗濯室を運営する必要がある。
+adviser_food_needssuccess4 				洗濯室を作ってもっと清掃人を雇い、受刑者に清潔な衣服を与えよう。
+
+objective_food_laundry 					（任意）清潔な衣服
+objective_food_buildlaundry 			（任意）洗濯室を建てる
+objective_food_hirejanitors             （任意）清掃人を雇い、洗濯室を運営
+objective_food_handleclothingneed 		（任意）受刑者の「衣服」ニーズを満たす
+
+objective_food_buildkitchen             厨房を建てる（約12平方メートル）
+objective_food_buildkitchencookers      コンロを最低4台設置
+objective_food_buildkitchenfridges      冷蔵庫を最低4台設置
+objective_food_buildkitchensink         シンクを1つ設置
+objective_food_buildkitchenbin	 		ゴミ箱を1つ設置
+objective_food_buildkitchenwatermains 	シンクを水道本管につなげる
+objective_food_buildkitchenfloor 		（任意）厨房の床を向上
+
+objective_food_buildkitchen_description		まずは基盤を建てる必要がある。
+objective_food_buildcanteen_description		まずは基盤を建てる必要がある。
+
+objective_Food_HireChefs				料理人を最低8人雇う
+objective_food_CookMeals				（自動）すべての受刑者の食事を用意
+
+objective_food_buildcanteen             食堂を建てる（約20平方メートル）
+objective_food_buildservingtables       配膳台を2台設置
+objective_food_buildcanteentables       テーブルを最低6台設置
+objective_food_buildcanteenchairs       テーブル1台につき長椅子を2台設置
+objective_food_buildcanteenbin	 		ゴミ箱を1つ設置
+objective_food_buildcanteenfloor 		（任意）食堂の床を向上
+
+
+objective_food_buildsprinklers          新しいスプリンクラーを1台設置
+objective_food_buildsprinklers1         厨房に1台かそれ以上のスプリンクラーを設置
+objective_food_buildsprinklers2         食堂に1台かそれ以上のスプリンクラーを設置
+objective_food_connectwater             厨房のスプリンクラーを水道本管につなげる
+objective_food_connectwater2			食堂のスプリンクラーを水道本管につなげる
+objective_food_feedprisoners            すべての受刑者に夕食を与える
+
+objective_food_buildkitchenwatermains_description   大きなパイプには大量の高圧の水が流れている。小さなパイプには様々なアイテムがつながれている。\n\nまずは「電気＆水道」ビューで大きなパイプを建物につなげよう。次に、小さなパイプを使って水が必要な周辺のすべての器具を大きなパイプにつなげよう。
+objective_food_connectwater_description             大きなパイプには大量の高圧の水が流れている。小さなパイプには様々なアイテムがつながれている。\n\nまずは「電気＆水道」ビューで大きなパイプを建物につなげよう。次に、小さなパイプを使って水が必要な周辺のすべての器具を大きなパイプにつなげよう。
+objective_food_connectwater2_description            大きなパイプには大量の高圧の水が流れている。小さなパイプには様々なアイテムがつながれている。\n\nまずは「電気＆水道」ビューで大きなパイプを建物につなげよう。次に、小さなパイプを使って水が必要な周辺のすべての器具を大きなパイプにつなげよう。
+
+campaigncutscene_foodinfirmary			医療室
+campaigncutscene_foodfamily             家族
+campaigncutscene_foodfeud               不仲
+campaigncutscene_foodregret				後悔
+campaigncutscene_foodsuccession 		継承
+
+campaigncutscene_foodfamily_description		パレルモはかつて東海岸全土において麻薬取引きを仕切っていた一家だ。そのドンと子供たちの背景を探ってみよう。
+
+adviser_name_thedon                     パレルモのドン
+adviser_name_thedonangry                パレルモのドン
+adviser_name_nico                       ニコ・タモレッティ
+adviser_name_nicoshower					ニコ・タモレッティ
+adviser_name_nicosuited					ニコ・タモレッティ
+adviser_name_sonny                      ソニー・パレルモ
+adviser_name_sonnysuited				ソニー・パレルモ
+adviser_name_sonnystrangled				ソニー・パレルモ
+adviser_name_anthonysuited				アントニー・パレルモ
+adviser_name_wiggins					ウィギンズ
+adviser_name_nicoinfirmary				ニコ・タモレッティ
+adviser_name_vitalia					ヴィタリア・パレルモ
+
+cutscene_foodfamily_palermo01			ビクター・パレルモ。東海岸で最も恐れられているマフィア一家のドン。
+cutscene_foodfamily_palermo1			パレルモ一家は数十年もの間、FBIの追跡を逃れてきた。
+cutscene_foodfamily_palermo02			一家のビジネスを取り仕切っているのはアントニー・パレルモ。ドンの長男で、後継者でもある。
+cutscene_foodfamily_palermo03			ニコ・タモレッティは元々は一家の出身ではない。ドンの娘であるヴィタリアと結婚したことで、一家のビジネスに関わることとなった。
+cutscene_foodfamily_palermo04			そして、ドンの次男ソニー・パレルモ。短気さでは誰にも負けないが頭が弱く、出来損ない扱いされている。
+
+cutscene_foodfamily_palermo2 			一家の麻薬ビジネスはかつてメイン州からフロリダ州にまで及んでいた。
+cutscene_foodfamily_palermo3			しかしそれは、アントニーが射殺されるまでのことだった。
+cutscene_foodfamily_palermo3b           浮気相手の夫に現場を押さえられ、撃たれたのだ。
+cutscene_foodfamily_palermo4			運悪く、現場にいた警官がアントニーのスポーツバッグに入っていた12キロの純コカインを見つけた。
+cutscene_foodfamily_palermo5			そしてその証拠がドンを仕留めることとなった。
+cutscene_foodfamily_palermo6			パレルモ一家が築いてきたものすべてが、一夜にして崩れ去ってしまった。そして、関係者すべてを刑務所に長い間閉じ込めておくのに十分な証拠を、FBIは手にしていた。
+cutscene_foodfamily_palermo7			一家の中で刑務所行きを免れたのは、ドンの娘ヴィタリアのみだった。
+cutscene_foodfamily_palermo8			ヴィタリアについては、一家のビジネスにまったく関わっていなかったということ以外、ほとんど何も分かっていない。
+cutscene_foodfamily_palermo9 			だが刑務所の外にいる何者かが、麻薬を持ち込んだのは間違いない。
+
+adviser_food_findalldrugs1				これで食事に関する問題は解決した。またしっかり食事が取れることで、受刑者たちの満足度もかなり上がったはずだ。
+
+adviser_food_findalldrugs2				パレルモがこの刑務所で受刑者たちに薬物を売りさばいていたのは間違いない。
+adviser_food_findalldrugs3				看守たちの話によれば、あの火事以来、多くの受刑者が離脱症状のようなものを見せているということだ。
+adviser_food_findalldrugs4				すべての受刑者と独房を調べてきて欲しい。パレルモが売りさばいた薬物が刑務所中で見つかるだろう。
+
+objective_food_findalldrugs					刑務所にあるすべての薬物を見つける
+objective_food_findalldrugs_description 	独房棟を調べるには、そこにいる受刑者をクリックし、「この棟を調べる」をクリックするか、画面下にあるツールバーの中から「ガサ入れ」を選ぼう。
+
+objective_food_hiremoreguards 			（任意）追加で看守を雇い、捜索のスピードを上げる
+
+adviser_food_drugsfound1				状況は予想していたほど悪くはないようだ。だが、薬物依存やアルコール依存の問題が存在しているのは間違いない。
+adviser_food_drugsfound2				彼らが摂取をやめ、離脱症状を乗り越えるためには、我々の助けが必要になる。
+adviser_food_drugsfound2b 				医療室で薬物治療プログラムを開始しよう。中毒者の欲求を少しでも抑えるために、医師たちが代替となる薬品を投与してくれるだろう。
+adviser_food_drugsfound3				アルコール中毒者に投与できる薬品はない。代わりにグループ療法のセッションを設けるといいだろう。
+adviser_food_drugsfound4				こういったセッションを行うには、共有ルームを設けなければならない。
+adviser_food_drugsfound5				新しいプログラムを始めるには、画面右下の「報告書」から「プログラム」を選ぼう。
+
+objective_food_drugtreatment			薬物治療プログラムを始める
+objective_food_cureaddictions			（任意）薬物中毒者の治療を始める
+objective_food_alcoholprogram			アルコール中毒者のグループ療法を始める
+objective_Food_HelpAlcoholics			（任意）アルコール中毒者の回復を助ける
+objective_food_buildcommonroom 			共有ルームを作る
+objective_food_buildcommonroomchairs	椅子が８脚以上置かれた共有ルームを作る
+
+objective_food_drugtreatment_description 	画面右下の「報告書」をクリックし、「プログラム」タブを選ぼう。プログラムは「麻薬中毒者のための薬物療法」と呼ばれるもので、医療室で行われる。\n\n注意：このプログラムに受刑者を参加させるには、スケジュール内の「労働」時間のうち、最低でも2時間を割く必要がある。
+objective_food_alcoholprogram_description 	画面右下の「報告書」をクリックし、「プログラム」タブを選ぼう。\n\n注意：このプログラムに受刑者を参加させるには、スケジュール内の「労働」時間のうち、最低でも2時間を割く必要がある。
+
+cutscene_food_feudintro1 				シャワー室で事件が起こった。死体が発見されたようだ。
+cutscene_food_feudintro2 				しかも2人だ。幸いにもシャワー室には監視カメラがついている。
+cutscene_food_feudintro3 				時間ができたら、シャワー室内のポラロイド写真をクリックしてみよう。何が起こったのかチェックできるはずだ。
+
+objective_food_triggerfightscene		準備ができたら、シャワー室内のポラロイド写真をクリックして次に進もう。
+objective_food_triggerfightscene_description 	シャワー室は刑務所の北西エリアの角にある。
+
+cutscene_food_feud1b                    おっ、誰もいないぞ。ツイてるな。
+cutscene_food_feud1                     遅かったな。
+cutscene_food_feud2                     黙れ。うちのバカな妹は一体こんなクソ野郎のどこに惚れたんだろうな。
+cutscene_food_feud2b 					嫁さんに頼まれてやったのか？それともジイさんか？
+cutscene_food_feud3                     なわけねーだろ、ブタ野郎が！親父さんに怪我させるつもりなんてなかったよ。実の親のように慕ってたんだからな。
+cutscene_food_feud3b 					アホなお前のせいで一家が迷惑を被るのはもう懲り懲りだ。
+cutscene_food_feud4                     あの火事はな、お前を殺るためだったのさ。
+cutscene_food_feud5                     なら仕返しさせてもらうぜ。
+cutscene_food_feud6                     何を言ってやがる。ずっと前から俺を殺るつもりだったんだろ。
+cutscene_food_feud7                     なんでもお見通しってか。さすがだな！まあ、心配するな。痛い思いはさせねぇよ。
+cutscene_food_feud8                     言ったよな、「気をつけろ」って。
+cutscene_food_feud8b                    うぐっ.....！！！！
+cutscene_food_feud8c                    うわああああ！！！！
+cutscene_food_feud8d                    紹介がまだだったな。こいつはフランキー。ワイヤー使いの名人だ。
+cutscene_food_feud8e                    奴の手に掛かれば、どんな殺しも自殺に見える。
+cutscene_food_feud9                     まだ終わっちゃいねぇぞ、ニコ。
+cutscene_food_feud9b                    ま、マジか。
+
+cutscene_food_successionintro			よし、ずいぶん頑張ってくれたな。おかげで刑務所に秩序が戻ってきた。
+cutscene_food_successionintro2 			もう少しここにいて刑務所の状態を向上させるのもいいだろう。もしくは次の施設に移ってもいい。
+cutscene_food_successionintro3 			次に進む準備ができたら、医療室のポラロイド写真をクリックしよう。
+
+objective_food_runending 				準備ができたら、医療室のポラロイド写真をクリックして次に進もう。
+objective_food_runending_description	医療室は刑務所の南西側の一番端にある。
+
+cutscene_food_succession1				ヴィタリア！
+cutscene_food_succession1b				...？
+cutscene_food_succession2				ああ、ヴィタリア！
+cutscene_food_succession3				とんでもないことをしちまったよ。
+cutscene_food_succession4				しゃべっちゃダメ。
+cutscene_food_succession5				親父さんは持って数日だって...
+cutscene_food_succession6				わかってる。お別れを言いに来たのよ。
+cutscene_food_succession7				なあ、こんなヒドい人生はもう沢山だ。2人だけでどこか遠くへ行こう。
+cutscene_food_succession8				そうね。
+cutscene_food_succession9				でも無理なのよ、ニコ。私にはパレルモの血が流れてるんだから。
+cutscene_food_succession10				パパがいなくなって、他人のあなたがその後を継いだら、敵に完全になめられるわ。
+cutscene_food_succession11 				そんなの許せない。だから、パレルモの血が流れてる人間がドンになるべきなのよ。
+cutscene_food_succession12				お前... 俺を蹴落とすつもりか？これまで一緒に頑張って来たのにか？
+cutscene_food_succession13				ああ、ニコ。何も分かってないのね。
+cutscene_food_succession14 				私はあなたと離婚するつもりよ。
+cutscene_food_succession15				は？お前、正気か？一家との関わりがなくなったら、俺がここでどんな目に遭うと思う？死んだも同然だ！
+cutscene_food_succession16				それはわかってる。でもね、そんなの私の知ったことじゃないのよ。
+cutscene_food_succession17				パパ、安らかに眠ってね。
+cutscene_food_succession18				さよなら、ニコ。
+
+
+# =============================================================================
+# Riot
+# =============================================================================
+
+campaignchapter_riot                    情けは無用
+campaignchapter_riot_description		アルケミコ州立刑務所で暴動が起きている。行って安全を確保してほしい。
+
+campaigncutscene_riotintro              ニュース速報
+
+adviser_riot_newsintro_01				ニュース速報です。
+adviser_riot_newsintro_02				アルケミコ州立刑務所で暴動が起きている模様です。職員および警備スタッフは、施設の外に撤退し、軍の到着を待っている状態です。
+adviser_riot_newsintro_1				また、行方の分からなくなっている職員が数人おり、この中にはCEOのチャールズ・ウォレス氏も含まれているとのことです。
+adviser_riot_newsintro_2				今回の暴動は、賄賂と引き換えに過剰な実刑判決を下したとされる....
+adviser_riot_newsintro_3				... 著名の裁判官数人が逮捕されたことを受けて発生した模様です。
+adviser_riot_newsintro_4				それだけでなく、先月起こったマフィアボス、ビクター・パレルモの暗殺未遂事件をはじめとし...
+adviser_riot_newsintro_5				... 犯罪地下組織の大物が殺害される事件が立て続けに起こっているという情報もあります。
+adviser_riot_newsintro_6				刑務所の秩序の回復を任されているのは、CEOチャールズ・ウォレス氏の補佐です。
+adviser_riot_newsintro_7				しかし、この人物は最近この役職を手にしたばかりだということで、経験の浅さが今回の危機的状況において不利となる可能性もあります。
+adviser_riot_newsintro_8                また、今回の暴動の首謀者は、現在終身刑で服役中のダグラス・ベネディクトだと考えられています。
+
+adviser_riot_newsintroheller_1 			市長であるカルビン・ヘラーがたった今、以下の声明を発表しました。
+adviser_riot_newsintroheller_2 			「受刑者たちは、住む場所や食事を与えられ、その上有償の仕事まで手にしている。
+adviser_riot_newsintroheller_3 			その資金を担っている納税者にとって、今回の事件は侮辱以外の何ものでもありません。
+adviser_riot_newsintroheller_4 			懲罰的な改革を掲げる我々の政策に異議を申し立てるみなさんには、そのことをよく考えて頂きたい」
+
+campaigncutscene_riothostages			人質
+adviser_name_riotceo					CEO
+adviser_name_riotbenedict 				ベネディクト
+
+adviser_riot_hostages1					みんな聞け。トップは捕まえた。
+adviser_riot_hostages1b 				うぐぐ...
+adviser_riot_hostages2 					今から要求を言う。お前はそれを飲む。簡単だ。
+adviser_riot_hostages3					誰かを送りこんだり、サツがちょっとでも近づいたりしたら、こいつの脳みそにすぐさまブチ込む。いいな。
+adviser_riot_hostages4 					追跡できない車を用意しろ。しかも黒塗りだ。ガソリンは満タン。1時間だけやる。また後で連絡する。
+adviser_riot_hostages5 					よし、話を元に戻そう。
+adviser_riot_hostages5b					お前、あのオフィスで何をしてた？
+adviser_riot_hostages6					本当に何も知らないんだ。信じてくれ。
+adviser_riot_hostages7					やましいことしてる人間はすぐ分かるんだよ。見慣れてるからな。
+adviser_riot_hostages8					何を隠してた？
+adviser_riot_hostages9					ここは俺みたいな人間にはお似合いの場所さ。だけどあの若いのは... あんなガキに長いことクサい飯を食わせて何の得になる？
+adviser_riot_hostages10					お前は何かを知ってる。ここから生きてでたきゃ喋った方がいいぜ。
+
+adviser_riot_hostageheller1 			こんなことは何があっても許されない。食堂で何が起こっているか調べなくては。
+adviser_riot_hostageheller2 			食堂の北側に小さな警備室がある。まずはそこの安全を確保しよう。
+adviser_riot_hostageheller3 			看守を何人か送りこんで監視カメラのチェックを担当させよう。そうすれば、独房棟の全体をチェックできる。
+
+objective_Riot_MaxSecCameras			警備室を取り戻す
+
+campaigncutscene_riotroulette			ルーレット
+
+adviser_riot_rouletteintro1             警備室に看守を送り込むことができた。これで監視カメラのライブ映像をチェックできるようになった。
+adviser_riot_rouletteintro2             さっそく人質の状況を見てみよう。
+adviser_riot_click 						<クリック>
+adviser_riot_roulette1					ここから生きて出る最後のチャンスだ。ロシアンルーレットって知ってるか？
+adviser_riot_roulette2 					しかも弾が2つのバージョンだ。薬室は4つ。
+adviser_riot_roulette2b 				昔はよくウサギ相手にこのゲームで遊んだんだ。頭が丸ごとブッ飛んだな。
+adviser_riot_roulette3 					お前の頭でもきっと同じことさ。
+adviser_riot_roulette4 					じゃあまずは簡単な質問から始めよう。あのオフィスで何をしてた？
+adviser_riot_roulette5 					本当だ。本当に何も知らないんだ。
+adviser_riot_roulette5b 				なるほどね。
+adviser_riot_roulette6 					まあいい。じゃあ最初は誰の番だ？お前？俺？こいつは？
+adviser_riot_roulette7					はは、やっぱりな。ウサギと同じだ。
+adviser_riot_roulette8 					あのファイルに何が書いってあった？
+adviser_riot_roulette9 					信じてくれ！本当に知らないんだ...
+adviser_riot_roulette10 				そろそろ運も尽きてきたな。まだ弾は1つ残ってるしな。なあ、俺はこの目で見たんだ。
+adviser_riot_roulette11b 				信じられない光景をな。
+adviser_riot_roulette11c 				大企業のボスがこのムショでヤバそうな事をしてる光景だ。
+adviser_riot_roulette11d 				逮捕記録よりもっとヤバいものがあのファイルの中に入ってたんだろ？
+adviser_riot_roulette11					頼む... やめてくれ。
+adviser_riot_roulette11e 				生きてここを出られる確率は低くなりつつあるぜ、ウォレス。
+adviser_riot_roulette12 				しょうがねぇな。吐かせてやるよ。
+adviser_riot_roulette12b	 			よし、お遊びはここまでだ。
+adviser_riot_roulette13 				次はてめぇの番だ。嫌ならぜんぶ吐くんだな。
+adviser_riot_roulette14 				無理だ。頼む、許してくれ。
+adviser_riot_roulette15 				分かった！頼む！撃たないでくれ。金だ。すべて金のためだ。
+adviser_riot_roulette16 				それだけか？
+adviser_riot_roulette17 				受刑者は金になる。服役が長ければ長いほど、こっちの利益が増える。そのために規則を曲げようとしていたんだ。
+adviser_riot_roulette17b				あのファイルにはその証拠が入っていた。
+adviser_riot_roulette18 				俺たちが金になるって、幾らだ？俺らをここに閉じ込めることで、どれだけ儲かるんだ？
+adviser_riot_roulette19 				1年で7万3000ドルだ。
+adviser_riot_roulette20					1人あたりか？このクソ野郎が。払い戻してもらうぜ。
+
+campaigncutscene_riotassault 			違反
+
+adviser_riot_assault01					もう十分だ。今すぐ終わりにしよう。
+adviser_riot_assault02 					すべてのチームが位置についている。
+adviser_riot_assault03					今すぐ車を用意しろ。ウォレスは一緒に連れて行く。追跡しようとしたらウォレスの肉片を高速にバラ撒くからな。
+adviser_riot_assault2 					ボス、一緒に来てもらうぜ。お前が危ない状況なら奴らもバカなことはしないだろうからな。
+adviser_riot_assault3 					ここから生きて出れると思ってるのか？あいつらの狙いはお前じゃない。
+adviser_riot_assault4 					どういうことだ？
+adviser_riot_assault5					私は金のためにやった。だがあいつは政治的利益のためにやったんだ。受刑者の刑期が長ければ長いほど、市民の票を得られるからな。
+adviser_riot_assault6					誰の話だ？
+adviser_riot_assault7					ヘラー市長だ。すべてあいつが企んだことなんだ。私は手を貸しただけだ。
+adviser_riot_assault7b 					あのファイルにはあいつのキャリアを破壊する証拠が入っていたんだ。
+adviser_riot_assault8					マジかよ。
+adviser_riot_assault9 					信じられねぇ話だ...
+adviser_riot_assault9b					入ってくるぞ。位置につけ！
+adviser_riot_assault10					くそっ、だから言っただろう！！！
+
+# Riot Objectives and help text
+
+adviser_name_negotiator 				交渉人
+
+adviser_riot_negotiator1 				刑務所は完全に制御不能だ。仕切る人間が誰もいない。
+adviser_riot_negotiator2 				負傷者も多数出ており、残った看守たちは暴動の起こっている棟に入ることを拒んでいる。結果、我々は施設の外に撤退せざるを得なくなった。
+adviser_riot_negotiator3 				なんとか作戦を考え、取り返しのつかない事が起こる前にこの事態に終止符を打って欲しい。
+adviser_riot_negotiator4 				機動隊はあと数分で到着する予定だ。
+
+adviser_riot_firstreinforcements1 		対策チームが到着した。
+adviser_riot_firstreinforcements2 	 	ここにいるのは機動隊だ。彼らはかなりの重装備だ。占拠された棟を取り戻すのに使うといい。
+adviser_riot_firstreinforcements3 		それに加え、近隣の病院から救急隊も到着している。
+adviser_riot_firstreinforcements4 		独房棟を取り戻そうとする機動隊に負傷者が出た際には、救急隊に処置をしてもらうといい。
+
+objective_Riot_StopTheRiot 				暴動を止める
+objective_Riot_StopTheRiot_description  刑務所を取り仕切る人間は誰もいない。どうしたらいいか自分で考えるしかない。
+
+adviser_riot_helleradvice1				あなたはCEOの補佐ですね？
+adviser_riot_helleradvice2 				今、我々は大変困難な状況下にあります。世間からも厳しい目にさらされています。ですがご安心ください。我々は全力であなたをサポートします。できることがあれば何なりとおっしゃってください。
+adviser_riot_deployguards1				現場に足を踏み入れ、刑務所内の数カ所のエリアを取り戻すことに成功した。死者は出ているものの、こればかりは仕方ない。
+adviser_riot_deployguards2				だが、引き続き残りのエリアを取り戻す前に、すでに占拠済みのエリアの安全を再確認した方がいい。
+adviser_riot_deployguards3				看守を何人か雇い、「配置」画面から再占拠したエリアに配置しよう。エリアの安全を守ってくれるはずだ。
+adviser_riot_deployguards4 				それが済んだら、残りのエリアに進み敵を片付けよう。奴らは動物同様。更生はできない。よって交渉も無意味だ。
+adviser_riot_deployguards5 				今、武装隊の突入の許可を取ろうとしている。彼らが来れば事態は急速に収拾するだろう。
+
+adviser_riot_infirmary1 				刑務所は怪我人で溢れている。その数はさらに増えるだろう。彼らを見捨てるわけにはいかない。
+adviser_riot_infirmary2 				現場に医療室を作って医者を雇い、怪我人の治療に当たらせよう。
+adviser_riot_infirmary3 				死者も出ている。彼らの尊厳のためにも、遺体安置室を作りそこに収容してあげよう。
+adviser_riot_infirmary4					建設には作業員が必要となる。彼らの安全も守ってあげなければならない。
+
+objective_Riot_ResecureWings 			看守を雇い、再占拠したエリアに配置する
+objective_riot_medicalneeds				（任意）医療体制を整える
+objective_Riot_Infirmary				（任意）医療室を作り怪我人の治療を行う
+objective_Riot_Morgue 					（任意）遺体安置室を作り死者を収容する
+objective_Riot_SecureGenPop				一般収容棟（中央）を再占拠
+objective_Riot_SecureSpecialWing		特別収容棟（西）を再占拠
+objective_Riot_SecureMaxSec				厳重警備棟（南）を再占拠
+objective_riot_putoutfires				火災を消し止める
+
+adviser_riot_secondreinforcements1		機動隊が到着した。
+
+adviser_riot_armedreinforcements1		市長が近くの警察署から武装隊を連れて来た。
+adviser_riot_armedreinforcements2		彼らには十分気をつけた方がいい。野放しにすれば大殺戮を起こすかもしれない。
+adviser_riot_armedreinforcements3		その反面、彼らの姿を見た受刑者たちが降伏を決意する可能性もある。
+
+adviser_riot_reinforcementsunlocked1 	主な応援部隊はすべて到着した。
+adviser_riot_reinforcementsunlocked2 	これからは、「緊急」ツールバーから機動隊や救急隊を好きなだけ呼ぶことができる。
+
+adviser_riot_cleanup1                   施設のコントロールは取り戻した。そして暴動もだいぶ動きが弱まった。もっとひどいことになっていた可能性も多いにある。
+adviser_riot_cleanup2                   今後は大掛かりな片付け作業が待っている。時間があったらぜひ手を貸して欲しい。
+adviser_riot_cleanup2b 					ここには建設作業員がいない。まずは作業員を雇い、施設の修理を始めてもらおう。
+adviser_riot_cleanup3                   ここの警備はゆるいといつも思っていた。ここの受刑者たちは長いこと好き勝手な行動が許されてきた。それは今日で終わりだ。
+adviser_riot_cleanup4                   武器庫を作り、武装警備員を刑務所の主要なエリアに配置して欲しい。その姿を見れば受刑者も少しは大人しくなり、トラブルを起こすことも減るだろう。
+adviser_riot_cleanup5                   それから、すべての看守に防弾チョッキを提供するための予算を承認するつもりだ。それがあれば彼らも自分の身を守ることができるだろう。
+adviser_riot_cleanup6                   さあ、仕事を続けよう。受刑者たちにはしっかりと規則を守ってもらう。それがここでの生活に秩序をもたらしてくれるだろう。まずは暴動の後片付けを自分でしてもらおう。
+adviser_riot_cleanup7                   受刑者たちのために労働プログラムを作り、刑務所の掃除と洗濯を任せよう。
+adviser_riot_cleanup7b                  受刑者に仕事をさせたい場合は、ツールバーの「施設管理」を選ぼう。詳細はそれぞれのタスクをハイライトすれば確認できる。
+adviser_riot_cleanup8                   他にもまだすべきことがある。ここには過ちを犯した受刑者が沢山いる。彼らにそのことを反省してもらうためにも、隔離棟を建てよう。
+adviser_riot_cleanup8b                  受刑者を必要に応じて隔離棟に移すのは看守の仕事だ。隔離棟に入れられた受刑者は、自らの行いを反省し、刑務所の規則に従うことの重要性を思い知らされることになる。
+adviser_riot_cleanup9                   それから、今回の試練を一緒に乗り切ってくれた職員のことも忘れてはならない。彼らは疲労困憊している。
+adviser_riot_cleanup9b 					休憩室を作り、体力が回復するまで休ませてあげよう。
+adviser_riot_cleanup10                  最後に、これらのすべての任務は予算オーバーにならないよう行わなければならない。銀行の残高とキャッシュフローに問題がないことを確認しよう。
+adviser_riot_cleanup10b 				施設の管理や清掃、洗濯などの仕事は、外部に委託するよりも受刑者を使う方がずっと安上がりだ。
+adviser_riot_cleanup11                  仕事は山積みだ。君の協力には感謝している。
+adviser_riot_cleanup12                  ここでの仕事を終えて次に進む準備ができたら、正門の横にあるポラロイド写真をクリックしよう。
+
+adviser_riot_cleanup13 					上出来だ。これでこの施設のセキュリティはかなり強化された。
+
+objective_riot_solitary 				（任意）隔離棟を作り暴動を起こした受刑者に罰を与える
+objective_riot_armoury 					（任意）新しいセキュリティ対策を実行
+objective_riot_armoury_research			「役所仕事」から「武器庫」を解除する
+objective_riot_armoury_build 			武器庫を安全な場所に設置する
+objective_riot_armoury_deploy			武装隊を刑務所の周囲に配置
+objective_riot_armoury_armour 			すべての警備スタッフのために防弾チョッキを解除
+objective_riot_armoury_tazers 			武装警備員のためにテーザー銃を解除
+objective_riot_staffroom 				（任意）疲労困憊した職員のために休憩室を設ける
+objective_riot_balancebooks 			（任意）銀行口座の収支を合わせる
+objective_riot_balancebooks_balance 	プラスの残高
+objective_riot_balancebooks_cashflow 	プラスのキャッシュフロー
+objective_riot_prisonerwork				（任意）処罰としての労働プログラムを用意する
+
+objective_riot_cleaningcupboard			清掃用具室を作る
+objective_riot_laundry					洗濯室を作る
+objective_riot_inmatesincleaning 		受刑者に清掃をさせる
+objective_riot_inmatesinlaundry			受刑者に洗濯をさせる
+objective_riot_cleanprison 				刑務所の掃除をする
+objective_riot_providelaundry			洗濯をする
+
+objective_riot_armoury_research_description		タスクリストの上に表示されている「役所仕事」アイコンをクリックして「武器庫」の建設を始めよう。看守長が必要な手続きをしてくれる。
+objective_riot_armoury_deploy_description       武装警備員を配置するには、「配置」画面に行き「パトロール（武装）」を選ぼう。巡回ルートをクリック＆ドラッグで描き、もう一度クリックすれば警備員をそこに配置できる。
+objective_riot_armoury_guardtazers_description  「報告書」→「プログラム」と進むと、「看守のテーザー銃訓練」という項目がある。\n\n看守にテーザー銃を使わせるには、まず訓練させなければならない。そして訓練を行うには、教室を作る必要がある。
+objective_riot_prisonerwork_description         受刑者に仕事をさせるには、「施設管理」に行き「囚人労働」を選ぼう。クリックすれば緑にハイライトされた部屋に仕事を追加することができる。\n\nその際には、仕事を行う時間を特定する必要がある。「報告書」→「スケジュール」と進み、1日のスケジュールに数時間の「労働」時間を設けよう。この時間帯に仕事が発生したら受刑者が引き受けてくれる。
+
+objective_Riot_PlayerExitsMap			終わったら正門の外にあるポラロイド写真をクリックしよう。
+
+
+# =============================================================================
+# Conviction
+# =============================================================================
+
+campaigncutscene_convictionheist        ハイジャック
+campaigncutscene_convictionmorgan       モルガン
+campaigncutscene_convictionvisitation   面会
+campaigncutscene_convictionsuicide      自殺
+
+campaignchapter_conviction              有罪判決
+campaignchapter_conviction_description  受刑者の1人が自殺をほのめかしている。彼の名前はヘンリー・モルガン。ベネディクトの共犯者で、5年の刑期を得て13ヶ月前からここにいる。彼が自殺しないよう監視に力を貸して欲しい。
+
+adviser_name_benedictarmed              ベネディクト
+adviser_name_morgan                     ヘンリー・モルガン
+adviser_name_morganarmed				ヘンリー・モルガン
+adviser_name_morganhappy                ヘンリー・モルガン
+adviser_name_senator                    上院議員ウォルター・ハースト
+adviser_name_detective                  刑事
+adviser_name_kerry 						ケリー・モルガン
+adviser_name_hurst 						ウォルター・ハースト博士
+adviser_name_keane 						キーン警官
+
+adviser_conviction_heist1               金を取れ、チビ。
+adviser_conviction_heist2               武器を捨てろ！
+adviser_conviction_heist2b				うわっ！
+adviser_conviction_heist3               お前も撃てよ！
+adviser_conviction_heist4               何やってる？！サツの野郎をぶっ殺せって言ってんだ！
+adviser_conviction_heist6               チクショウ！
+adviser_conviction_heist7               撃つな！頼む！
+adviser_conviction_heist8               降参しろ、クソ野郎どもが！
+adviser_conviction_heist9               俺の言う通りにしろ。いいか？
+adviser_conviction_heist10              ああっ、クソっ！
+adviser_conviction_heist11              撃つな！撃たないでくれ！
+
+conviction_intro_1                      アルケミコ州立刑務所で起きた悲劇を受けて、我々は政治的に厳しい立場に立たされている。
+conviction_intro_2                      新しいCEOが正式に決まるまでは、私が刑務所の責任者となる。
+conviction_intro_3                      ここでは最近、自殺する受刑者が増えてきている。その理由を理解するのは難しくないが、その前に解決しなければならない問題がひとつある。
+conviction_intro_4                      この刑務所に大量の新しい受刑者を入れることが、上層部によって決定された。最初のグループは明日到着する予定だが、刑務所には十分な収容スペースがない。
+conviction_intro_5                      新しい独房棟を建て、到着する受刑者を収容するためのスペースを作ろう。
+conviction_intro_5b 					ここに新しい独房棟のデザイン案を置いておく。新しい受刑者のための十分な数の独房に加えて、独自のシャワー室も完備している。
+conviction_intro_5c 					このデザイン通りのものを建てるか、まったく別のものを建てるかは、君に決めてもらって構わない。
+conviction_intro_6                      私は新しい受刑者のここでの生活水準について優先的に考えなければならない。とりあえずは独房棟を建てて欲しい。それから考えよう。
+
+unused_conviction_intro_4                      受刑者の1人が自殺をほのめかしている。彼の名前はヘンリー・モルガン。ベネディクトの共犯者で、5年の刑期を得て13ヶ月前からここにいる。
+unused_conviction_intro_7						今から彼に会って話を聞くつもりだ。これ以上自殺者を出したくないからな。
+
+conviction_workintro1                   これまで受刑者たちはゴミのような扱いを受けてきた。
+conviction_workintro2                   前CEOは受刑者たちの更生をまったく信じていなかった。だが私は違う。未来への希望を彼らに持たせることが大切だと考えている。
+conviction_workintro3                   釈放後にまっとうな生活を送るにはスキルを手に入れなければならない。商業的なスキルや基本的な教育はなくてはならないものだ。
+conviction_workintro4                   そこで、見習い訓練プログラムを始めたいと思う。外の世界で使えるスキルを身につけることができれば、受刑者たちも将来に希望を抱くことができるだろう。
+
+
+conviction_hurst1 						なんてひどい刑務所だ。受刑者は完全に無視され、もはや人間扱いされていない。
+conviction_hurst2 						彼らには思いやりや敬意を受ける権利がある。
+conviction_hurst3 						間違ってるな。
+conviction_hurst4 						動物並みの扱いだ。彼らが人間であることをまったく忘れたかのように...
+conviction_hurst4b 						そんな状況で規則に従えという方が無理だろう？我々に対して憎しみの感情しか持っていないんだ。
+conviction_hurst4c						彼らのために色々用意するんだ。教室に薬物中毒者のリハビリプログラム... 研修に参加してスキルを身につけてもらうものいい。
+conviction_hurst6 						誤解しないれくれ、先生。俺はあいつらが人間だなんて思っちゃいないよ。自分の目で確かめてみればいい。
+conviction_hurst6b 						立て、モルガン！
+conviction_hurst7 						面会人だ。
+conviction_hurst8 						リハビリだって？そんなの地球がひっくり返ったって無理さ。
+
+conviction_hurst10 						君の名前は？
+conviction_hurst10b                     おい、答えろ。
+conviction_hurst11 						ヘンリーです。
+conviction_hurst12 						そこは寒いだろう。これを着なさい。
+conviction_hurst13 						ベッドにシラミがいてあちこち噛まれるんです。それから巨大なネズミも出ます。シャツのおかげで噛まれはしませんけど。
+conviction_hurst14 						敬語はいらないよ。
+conviction_hurst15 						夜は眠れてる？
+conviction_hurst16 						睡眠は取らない。ずっと考えてるんだ。時間だけは沢山あるから。
+conviction_hurst16b                     何について考えてる？
+conviction_hurst16c                     死ぬことかな。それと娘のことも。
+conviction_hurst17 						ヘンリー、娘のために強くなってくれ。一番つらいのは彼女だよ。
+conviction_hurst18 						あの子が生まれる前からムショ暮らししてる。俺が存在してることも知らないはずだよ。
+conviction_hurst19 						人生を変えるのは不可能じゃない。
+conviction_hurst19b 					ここにまた来ても構わないかな？
+conviction_hurst20 						もちろんです。そうしてもらえると嬉しいです。
+conviction_hurst21 						ネズミを駆除した方がいい。これじゃ発展途上国並みだ。
+conviction_hurst22 						殺鼠剤を撒いておこう。
+
+conviction_visitationintro_1            モルガンの家族との面会に関して例外を設けるよう、上層部に頼んでおいた。
+
+conviction_visitation_0					あの、ヘンリー・モルガンに会いに来たんですが。私、ケリー・モルガンです。
+conviction_visitation_1					線の後ろに並べ。
+conviction_visitation_2 				すみません... 夫のヘンリー・モルガンに会いに来たんです。
+conviction_visitation_3 				何度も同じことを言わせないでくれ。線の後ろだ。
+conviction_visitation_4 				すみません... 分かりました。
+conviction_visitation_5 				よし、前に来ていいぞ。早くしてくれ。
+conviction_visitation_6					名前は？
+conviction_visitation_7					ケリー・モルガンです。夫のヘンリー・モルガンに会いに来ました。これは娘です。
+conviction_visitation_8					本当に奴の娘なのか？まあいい。通れ。
+conviction_visitation_8a                ケリー！
+conviction_visitation_9					悪いけど行き違いがあったみたい。面会はできないわ。モルガンは特権を失ったの。
+conviction_visitation_9b 				え？
+conviction_visitation_9c 				今朝、彼の独房で酒が見つかったの。悪いけど、どうしようもないわね。
+conviction_visitation_10				2時間も掛けて来たのよ。娘も泣いてる。フェアじゃないわ。
+conviction_visitation_11				フェアなんてものがここで通用すると思ってるの？ディズニーランドじゃないのよ。
+conviction_visitation_12				お願い、これを彼に渡して。
+conviction_visitation_13                いいわよ。当分面会はできそうにないからね。伝言は？
+conviction_visitation_14                伝言はないわ。
+
+conviction_visitation_angrymorgan0		なんでだ！
+conviction_visitation_angrymorgan1		待ってくれ！
+conviction_visitation_angrymorgan2		ヒドイぞ！
+conviction_visitation_angrymorgan3		せめて話だけでもさせてくれ！
+conviction_visitation_angrymorgan4		チクショウ！！
+
+conviction_helpinmates_1                残念だったな。
+conviction_helpinmates_2                本当の意味で受刑者たちの力になるのは難しい。自分で人生を立て直せるよう、サポートしてあげるしかない。
+conviction_helpinmates_3                面会施設は明らかに改善が必要だ。面会に来た家族の列が施設の外にまで伸びている。数が多すぎて対処し切れていないのが現状だ。
+conviction_helpinmates_4                そこで、新しい面会施設を建てて欲しい。モルガンには気の毒な思いをさせたが、新しい施設ができればきっと状況は好転するだろう。モルガンに限らず、家族を持つ受刑者は多いからな。
+conviction_helpinmates_5                調べてみたところ、多くの受刑者が最低の計算能力と読字能力しか持ち合わせていないことが分かった。ヒドいことだ。なんとか対処しなければ。
+conviction_helpinmates_6                新しい教室を建てた上で、教師を外部から呼び寄せ、受刑者たちに基礎学習の機会を与えよう。教育を受けていなければ、犯罪者としての人生を送るしかない。
+conviction_helpinmates_7                それから、大量に送り込まれる受刑者の対応も忘れてはならない。施設を拡大し、彼らが快適に過ごせる独房を建てよう。
+
+conviction_outro1                       刑務所の状態はかなり向上したと言えるだろう。受刑者たちにモチベーションを与え、未来に希望を持たせることができた。
+conviction_outro2                       このままここに残り、新しい受刑者が到着して教育や実習プログラムを試すのを見守るのもいいだろう。
+conviction_outro3                       だがそれはこちらでもできる。次へ移る準備ができたら、モルガンの独房にあるポラロイド写真をクリックしよう。
+
+conviction_secondvisit_1                セッションに来なかったね。なぜかな？
+conviction_secondvisit_2                無理だ。もうここにいるのが耐えられないんだ。
+conviction_secondvisit_3                焦らなくていい。今日を乗り切ることに集中するんだ。
+conviction_secondvisit_4                人生そのものが耐えられないんだ。ここにいようと、外に出ようと、俺の人生はメチャクチャだ。家族にも会えない。取り返しのつかないことをしてしまったんだ。
+conviction_secondvisit_5                心配しなくていい、ヘンリー。私がついている。
+conviction_secondvisit_6                フン、あいつも同じこと言ってたな。
+conviction_secondvisit_7                あいつ？誰のことだ？
+conviction_secondvisit_8                いつも味方をしてくれてた。
+conviction_secondvisit_9                ガキの頃から。
+conviction_secondvisit_10               勇気を出せ、チビ。
+conviction_secondvisit_11               俺がついてるから大丈夫だ。
+conviction_secondvisit_11b 				「俺がついてる」だと？
+conviction_secondvisit_12               笑わせてくれるぜ。
+conviction_secondvisit_13               約束しよう。もし次のセッションに参加してくれたら、君の面会特権を少し改善できるように働きかけるよ。
+conviction_secondvisit_14               本当に？
+conviction_secondvisit_15               ああ、そうしたいんだ。
+
+conviction_suicide_1 					一応知らせておこうと思って... また自殺者が出ました。
+conviction_suicide_2					殺鼠剤を飲んだようです。
+conviction_suicide_3					ハースト先生が確認に向かっています。
+conviction_suicide_4					可愛いだろ、うちの娘？
+conviction_suicide_5					ああ、とても可愛い。
+conviction_suicide_6					人生は変えられる。だよな、先生？
+
+objective_conviction_expandcapacity50			新しい受刑者の到着に対応する
+objective_conviction_expandcapacity50_description	新しい独房棟のデザイン案は、メインツールバー内の「企画」モードから確認できます。
+objective_conviction_expandcapacity_cells	 	40人の受刑者を独房に収容
+objective_conviction_expandcapacity_shower		シャワー室を作る
+objective_conviction_expandcapacity_yard		運動場を作る
+objective_conviction_expandcapacity_intake		次のグループの到着を待つ
+
+objective_conviction_workprogram 				職業訓練プログラムを実施する
+objective_conviction_unlocklabour				「役所仕事」から「囚人労働」を承認する
+objective_conviction_work_trainkitchen			（任意）「厨房の安全衛生」プログラムを5人の受刑者に受けさせる
+objective_conviction_work_kitchen				受刑者に厨房の仕事を与える
+objective_conviction_work_workshop				作業室を建てる
+objective_conviction_work_trainworkshop			（任意）「作業室の安全事項」講座を10人に受けさせる
+objective_conviction_work_assignworkshop		受刑者に作業室で作業させる
+objective_conviction_work_produceplates			（任意）ナンバープレートを100枚作る
+objective_conviction_work_exportszone			道路の近くに保管ゾーンを設ける
+objective_conviction_work_setintake             刑務所の受け入れレベルを1日10人にする
+
+objective_conviction_unlocklabour_description	 このタスクリストの上にあるアイコンをクリックすると「役所仕事」画面を開くことができる。
+objective_conviction_work_kitchen_description	 受刑者に厨房で働かせるには、「施設管理」→「囚人労働」を選ぼう。\n\n注意：受刑者は、厨房で働く前に「厨房の安全衛生」プログラムを修了していなければならない。
+objective_conviction_work_assignworkshop_description 	受刑者に作業室で作業させるには、「施設管理」→「囚人労働」を選ぼう。\n\n注意：受刑者は、作業室で作業する前に「作業室の安全事項」講座を修了していなければならない。
+objective_conviction_work_trainkitchen_description 		訓練プログラムや更生プログラムを運営するには、「報告書」（画面右下）から「プログラム」を選ぼう。受刑者は、スケジュールないの「労働」時間中にこれらのプログラムに参加することになる。\n\n注意：訓練プログラムに参加するには、スケジュールに2時間の「労働」時間を設ける必要あり。
+objective_conviction_work_trainworkshop_description 	訓練プログラムや更生プログラムを運営するには、「報告書」（画面右下）から「プログラム」を選ぼう。受刑者は、スケジュールないの「労働」時間中にこれらのプログラムに参加することになる。\n\n注意：訓練プログラムに参加するには、スケジュールに2時間の「労働」時間を設ける必要あり。
+objective_conviction_work_setintake_description         刑務所が過密状態になるのを防ぐには、「報告書」（画面右下）から「受け入れ」を選び、<<ボタンを使って受け入れレベルを10に下げよう。
+
+objective_conviction_visitation				面会サービスを改善させる
+objective_conviction_visitationroom	        新しい面会センターを建てる
+objective_conviction_visitationcount		受刑者の家族20組の面会を実現させる
+objective_conviction_telephones	 			すべての運動場に電話を設置する
+objective_conviction_mailroom				郵便室を建てる
+objective_conviction_mailroomwork			受刑者を郵便室で働かせる
+
+objective_conviction_mailroomwork_description           受刑者を郵便室で働かせるには、「施設管理」→「囚人労働」を選ぼう。
+
+objective_conviction_education				受刑者の教育を開始
+objective_conviction_unlockeducation		「役所仕事」から「教育」を承認
+objective_conviction_education_classroom	教室を建てる
+objective_conviction_education_class 		「基礎教育」コースを設ける
+objective_conviction_education_learn		（任意）5人の受刑者に「基礎教育」コースを修了させる
+objective_conviction_education_library		図書館を建てる
+objective_conviction_education_librarywork	受刑者を図書館で働かせる
+objective_conviction_education_chapel		礼拝所を建てる
+objective_conviction_education_spiritual	「宗教的アドバイス」コースを設ける
+
+objective_conviction_expandcapacity100			刑務所の規模を拡大する
+objective_conviction_expandcapacity_cells100	独房を80に増やす
+objective_conviction_expandcapacity_cells200	（任意）独房を120に増やす
+
+objective_Conviction_PlayerExitsMap         終わったらモルガンの独房にあるポラロイド写真をクリックしよう。
+
+
+# =============================================================================
+# Epilogue
+# =============================================================================
+
+campaignchapter_epilogue                自助努力
+campaigncutscene_epilogueintro          再訪
+campaigncutscene_epilogueoutro          エピローグ
+
+campaignchapter_epilogue_description    歴史ある刑務所が近々解体および再建されることになっている。これまでに得たスキルを利用して究極の施設を作り上げよう。
+
+adviser_name_reporter 					レポーター
+
+epilogue_newsintro1 					本日のCNDCニュースでは、各地の刑務所の状態に関する特別レポートをお送りします。
+epilogue_newsintro2 					多くの命が犠牲となったあの「アルケミコの悲劇」から2年が経ちます。
+epilogue_newsintro4 					CEOチャールズ・ウォレスも命を落としたあの事件以来、一体何が変わったのか。それとも何も変わっていないのか。今日は専門家の方々にお話を伺いたいと思います。
+epilogue_newsintro5 					まずは、最近取り壊しが決まった、州でも一番歴史のある刑務所です。
+epilogue_newsintro6						この刑務所からCNDCニュースが生放送でお送りします。
+
+epilogue_reporter1						この刑務所には、この国でも最も極悪と呼ばれる犯罪者の何人かが収容されています。
+epilogue_reporter2 						しかし、この施設の壁は近日中に取り壊され、真新しい施設が建設される予定です。
+epilogue_reporter3 						私の後ろでは、すでに建設業者が解体作業の準備を始めています。
+epilogue_reporter4 						これからお話を伺うのは、カルビン・ヘラー市長です。市長、本日はお越し頂きありがとうございます。
+epilogue_reporter5 						いえ、こちらこそ。
+
+epilogue_reporter6 						市長はこれまで、刑務所の管理をさらに厳しく懲戒的なものにすることを提唱してきました。
+epilogue_reporter6b 					長年に渡って懲罰的アプローチの見本と呼ばれてきたこの施設を取り壊すことにしたのはなぜですか？
+epilogue_reporter7 						この施設は、建物もその運営状態も、古いものとなりつつあります。
+epilogue_reporter8 						まったく新しい施設を建てることにしたのはそのためです。そこでは、建物だけでなく運営方針も一新されます。
+epilogue_reporter9						この刑務所は、州でも数少ない死刑執行施設が設置されており、数年前にニュースで取り上げられたこともあります。
+epilogue_reporter10 					また、死刑制度の撤廃を求める活動家たちが長年に渡って運動を行ってきた場所でもあります。新しい施設の建設にあたって、彼らの意思を尊重するつもりはありますか？それとも執行施設も一緒に建設されるのでしょうか？
+epilogue_reporter12 					その件に関しては現在検討中です。慎重に考えなくてはならない問題だと認識しています。
+
+epilogue_reporterend1 					ヘラー市長、ありがとうございました。それではスタジオにお返しします。
+epilogue_newstransition1 				CNDCニュースです。本日は刑務所制度について生放送でお送りしています。
+epilogue_newstransition2 				CMのあと、受刑者の精神分析とリハビリを専門とされているウォルター・ハースト博士にお話をお伺いします。
+
+epilogue_parole1 						まだ音沙汰なしか？どのぐらいになる？
+epilogue_parole2						覚えてないよ。電話も手紙もない。
+epilogue_parole3 						モルガン、辛いが我慢してくれ。だがチャンスなんだ。うまくやってくれ。
+epilogue_parole4 						ヘンリー、頑張れよ。
+epilogue_parole5 						無理に格好いいこと言わなくてもいいぞ。
+epilogue_parole6 						もう行かないと。あと1分でカメラが回る。
+epilogue_parole7                        ヘラー市長、どうお考えですか？
+epilogue_parole10 						早かったね！
+epilogue_parole11 						どうです？
+epilogue_parole12                       ...
+
+epilogue_outro_1 						CNDCニュースの特別番組を引き続きお送りします。カルビン・ヘラー市長のインタビューを生放送でお楽しみください。
+epilogue_outro_2 						ウォルター・ハースト博士にお話を伺います。博士は刑務所の改革に膨大な金額を無駄に費やしたと批判を受けています。
+epilogue_outro_2b 						ハースト博士、あなたの改革は成功したと思いますか？
+epilogue_outro_3						成功ですか... 全般的に見て、成功したとは言えないでしょうね。
+epilogue_outro_4						私はどんな人でも、より良い人間に生まれ変わるための可能性を秘めていると思っています。受刑者にはそのためのチャンスを与えるべきです。
+epilogue_outro_4b 						私は自信を持って言えます。ここの受刑者の考え方や未来に対する希望は、大幅に向上しました。
+epilogue_outro_5						投獄は人々に犯罪を思い留まらせるものであるべきでは？受刑者が成長や変化を手にできる場所ではなく。
+epilogue_outro_6 						ここにいる間に受ける罰や非人間的な扱いは、さらなる非行行為を助長します。
+
+epilogue_outro_7						この施設では受刑者にスキルを提供します。そしてもっとも重要なのが「希望」です。
+epilogue_outro_7b  						刑期が終わったらスムーズに社会復帰し、社会の役に立てるよう、支援するのです。
+epilogue_outro_8						ですが、一般市民は無料の訓練や教育を受けられません。有償の仕事が保証されているわけでもありません。
+epilogue_outro_8b 						これではまるで、犯罪の犠牲者の気持ちに寄り添わずに、その実行者に得をさせているように思えます。
+epilogue_outro_8c 						巨額のお金を払って犯罪者たちをもてなしているようにしか見えません。
+epilogue_outro_9						彼ら一人一人を変えていくことで、社会全体を変えることができるのです。
+epilogue_outro_10						悪いことをした人間は自由を手にする権利はないのでは？
+epilogue_outro_11						鳥を狙うなと猫に言っても無駄なのと同じように、犯罪者は何度でも同じことを繰り返すのです。
+epilogue_outro_12 						そういう性質だからです。
+
+epilogue_sandbox_1                      CEO就任、おめでとう。これは素晴らしいチャンスだ。そして新たなスタートだ。
+epilogue_sandbox_2                      君にはほぼ自主的に事を進めていってもらいたい。受刑者の数は増え、彼らの再犯率も上がっている。つまり、沢山の課題が待っているということだ。
+epilogue_sandbox_3						死刑執行施設は解体してしまって構わない。または残しておいて別の用途に使ってもいい。好きなようにしてくれればいい。ただし、ノロノロしていると別の誰かに先を越されるだろう。
+epilogue_sandbox_4						今後の目標に関しては、前任の時と同じだ。利益、再犯率、そして収容数だ。
+epilogue_sandbox_5 						それらをどのように改善していくかは君次第。
+epilogue_sandbox_5b                     最後にひとつ。前CEOのチャールズ・ウォレスから手紙を預かっている。これは、新任の設計士が来るたびに彼が用意していたのと同じものだ。
+epilogue_sandbox_5c                     手紙には為になるアドバイスが載っている。読んでおくといいだろう。
+epilogue_sandbox_6						では健闘を祈る！
+
+objective_epilogue_grants				助成金制度を利用して資金を確保
+objective_epilogue_grants_description   刑務所を建てる際に必要な巨額の資金を集める主な方法のひとつが、助成金制度の利用だ。\n\n「報告書」（画面右下）内の「助成金」を選択すると、様々な助成金を見ることができる。数多くの機関が、刑務所の特定の箇所をゼロから建てるのに必要な資金を提供している。
+
+objective_epilogue_certifiedprison		刑務所を建てる
+objective_epilogue_capacity				最低でも100人の受刑者
+objective_epilogue_bankbalance			銀行残高が$60,000以上
+objective_epilogue_cashflow				プラスのキャッシュフロー
+
+epilogue_outrointro_1                   なかなか悪くないスタートだ。
+epilogue_outrointro_2                   近くにテレビがあるのならスイッチを入れて欲しい。見せたいものがある。
+
+epilogue_basiccompletion_1 				州立刑務所に必要な最低条件をクリアした。この先どうするかは君次第だ。
+epilogue_basiccompletion_2 				この先どう進めるかは、君と君の会社が決めることだ。
+epilogue_basiccompletion_3 				市長執務室が気にしている数字はひとつだけ。再犯率だ。
+epilogue_basiccompletion_4	 			君が自分の刑務所の受刑者の再犯率を下げることができたなら、万々歳だ。
+epilogue_basiccompletion_5 				ハースト博士のような人々は、教育や更生プログラム、職業訓練などが再犯率を下げる唯一の方法だと考えている。
+epilogue_basiccompletion_6 				個人的には、処罰を与えることも同じぐらい効果的だと考えるがな。
+epilogue_basiccompletion_8 				だがこれは君次第だ。頑張ってくれ！
+epilogue_basiccompletion_9 				完了したら、路上のポラロイド写真をクリックして、刑務所から離れろ。
+
+objective_epilogue_reoffending			（任意）刑務所の再犯率を下げる
+objective_epilogue_reoffending_description	再犯率は「刑務所評価」画面で確認することができる。画面左上のアイコンをクリックしよう。
+
+objective_epilogue_reoffending_rate		再オファー率を30%以下に下げろ。
+objective_epilogue_reoffending_released	最低でも10人の受刑者を釈放する
+
+objective_Epilogue_PlayerExitsMap				充分にやったと思ったら、路上のポラロイド写真をクリックして、先に進もう。
+objective_epilogue_playerexitsmap_description	ポラロイド写真は、配達ゾーン付近の路上にある。
+
+
+# =============================================================================
+# Credits
+# =============================================================================
+
+campaigncutscene_epiloguecredits        クレジット
+
+credits_createdby1                      - 制作 -
+credits_createdby2                      クリス・ディレイ
+credits_producer1                       - プロデューサー -
+credits_producer2                       マーク・モリス
+credits_art1                            - アート -
+credits_art2                            ライアン・スーモ
+credits_sound1                          - サウンド -
+credits_sound2                          アリスター・リンゼイ
+credits_screenplay1                     - スクリーンプレイ -
+credits_screenplay2                     クリス・ヘイスティングズ
+credits_programmers                     - プログラミング -
+credits_programmers1                    ジョン・ノッテンベルト
+credits_programmers2                    レンダー・ハンブレー
+credits_programmers3                    ギャリー・チェインバーズ
+credits_programmers4                    アンドリュー・リン
+credits_programmers5                    ジェフェリー・シェーン
+credits_programmers6                    フィンレイ・カラン
+credits_graphicdesign1                  - グラフィックデザイン -
+credits_graphicdesign2                  モーテン・ペーダスン
+credits_special                         - スペシャルサンクス -
+credits_special1                        ウィル・モリス
+credits_special2                        サム・モリス
+credits_special3                        ジョー・スタンスフィールド
+credits_special4                        ジョン・クック
+credits_special5                        アレックス・チャプマン
+credits_special6                        アレックス・タティ
+credits_special7                        Double Eleven（ダブル・イレブン）
+credits_introversion                    - INTROVERSION SOFTWARE -
+credits_introversion1                   クリス・ディレイ
+credits_introversion2                   マーク・モリス
+credits_introversion3                   ジョン・ノッテンベルト
+credits_introversion4                   トーマス・アルンデル
+credits_pa1                             プリズン・
+credits_pa2                             アーキテクト
+
+
+# =============================================================================
+# MCExporter
+# =============================================================================
+
+
+codex_mcexport                          Minecraft用に刑務所をエクスポート
+codex_mcexportname						Minecraftエクスポーター
+codex_worldnametitle					ワールド名
+codex_seedtitle							シード
+codex_gamemodetitle						ゲームモード
+codex_mapfeattitle						マップ機能
+codex_cheatstitle						チート
+codex_timeofdaytitle					時間
+codex_rainingtitle						雨
+codex_thunderingtitle					雷
+codex_generatortitle					発電機
+codex_scaletitle						サイズ
+codex_exporttomc						エクスポート
+codex_mcexport_default					デフォルト
+codex_mcexport_flat						フラット
+codex_mcexport_largebiomes				バイオーム（大）
+codex_mcexport_survival					サバイバル
+codex_mcexport_creative					クリエイティブ
+codex_mcexport_adventure				アドベンチャー
+
+
+# =============================================================================
+# Escape Mode
+# =============================================================================
+
+escapemode_help_title                   脱獄：ここから出る唯一の方法
+escapemode_help                         ステップ1：評判 - ここでは評判が何よりも物を言う\n\n• ケンカを始めて評判をアップさせよう。他人に怪我をさせるとかなりの評判になるが、まずは物を壊すところから始めてみよう。1回のケンカでできるだけ沢山の損害を与えよう。\n• 目撃者がいると厄介だ。ケンカしているところを看守に見られたら罰を受けることになる。それを避けるには看守を消すしかない。\n• ケンカに負けると評判を損なうことになる。なんとしかして勝つようにしよう。\n\nステップ２：チーム - 一緒に脱獄する仲間を見つけよう\n\n• 口笛で仲間を呼べば、どこにいても駆けつけてくれる（画面左上に表示されている仲間の名前をクリック）。\n• 仲間はケンカの際にも協力してくれる。それにより、さらに早く評判をアップさせることが可能になる。\n• 仲間に訓練させよう。ケンカが上手な仲間や足の速い仲間が近くにいれば、いつか必ず役に立つ時が来るはずだ。\n\nステップ3：禁制品 - 武器や道具は必ず必要になる。\n\n• 便利なアイテムが置かれた部屋を見つけよう。よく周りを見渡し、便利な物があれば盗もう。\n• 金属探知機や看守のボディーチェックには十分気をつけよう。何か持っているのが分かったら、それを没収されるだけでなく、隔離棟にブチ込まれてしまう。\n• 見つけたアイテムは自分もしくは他人の独房に隠そう。どこに隠したのかをくれぐれも忘れないように。\n\nステップ4：トンネル - 誰にも気づかれずに抜け出す方法\n\n• 穴掘りツールを使って、独房内のトイレの位置からトンネルを掘り始めよう。\n• トンネルを掘るのには時間がかかる。チームの仲間に手伝ってもらおう。\n• トンネルに出入りするところを看守に見られたら大変なことになる。十分に気をつけよう。\n\nさあ、頑張ろう。検討を祈る！
+
+codex_escapemode                        脱獄モード
+codex_escapemode_developer              （開発）脱獄モード
+codex_escapemode_new                    脱獄チャレンジを開始
+codex_escapemode_load                   脱獄チャレンジをロード
+codex_escapemode_save                   脱獄チャレンジを保存
+codex_escapemode_workshop               脱獄モード（Steamワークショップ）
+codex_escapemode_workshop_star_rating   *Sつ星かそれ以上
+
+escapemode_combat_attack                攻撃
+escapemode_combat_attack_button         左クリック
+escapemode_combat_lunge                 突進
+escapemode_combat_lunge_button          Shift
+escapemode_dig_button                   左クリック＆ホールド
+escapemode_dig                          掘る
+escapemode_surrender                    降参
+escapemode_surrender_safe               ケンカを終える
+escapemode_surrender_button             Space
+
+escapemode_helpletter                   ヘルプ
+
+escapemode_reputation_points            評判ポイント：
+escapemode_reputations_cost             *C評判ポイント
+escapemode_reputations_max              最大
+
+escapesquad_squad_member                チームメンバー
+escapesquad_recruitment                 右クリック＆ホールドで仲間に入れる
+escapesquad_recruitment_cost            必要評判ポイント：*C
+escapesquad_toggle_follow               コピーモード切り替え
+escapesquad_nameplate_following         コピー中
+escapesquad_skip_punishments            罰をスキップ
+escapesquad_skip_punishments_tooltip    評判ポイントを使うと、チームメンバー全員が罰を受けることなく就寝し、独房で目を覚ますことができる。
+escapesquad_sleep                       寝る
+escapesquad_sleep_tooltip               クリックして朝まで寝る
+escapesquad_reputations                 評判
+escapesquad_reputations_tooltip         評判ポイントを払って評判をアップさせ、チームのケンカ能力を向上させよう。
+escapesquad_follow_mode                 コピーモード
+escapesquad_follow_mode_tooltip         コピーモード中の受刑者は君の後をついて回り、悪い行いを真似する。\n\nRを押すとすべての受刑者に対して一度にコピーモードを切り替えることができる。
+escapesquad_remove_member               メンバーを除外
+escapesquad_remove_member_tooltip       クリックしてこのメンバーをチームから除外
+escapesquad_escaped                     脱獄成功
+
+escapemode_sprint_unlock                \n\n[Shift]を押し続けると、スプリントがアンロックされる。スプリントは戦闘中のみ使用可能だ。
+
+escapemode_info_right_click             右クリック
+escapemode_info_hold_right_click        右クリック＆ホールド
+escapemode_info_stash                   で禁制品を隠す
+escapemode_info_pick_up                 で禁制品を拾う
+escapemode_info_start_tunnel            でトンネルを掘り始める
+escapemode_info_enter_tunnel            でトンネルに入る
+escapemode_info_exit_tunnel             でトンネルから出る
+escapemode_info_dig_up                  で掘り出す
+escapemode_info_steal                   で盗む
+
+escapemode_info_tool                    [穴掘りツール]
+escapemode_info_damage                  ダメージ：*D
+escapemode_info_recharge                充電時間：*T
+
+escapemode_gameover                     Game Over
+escapemode_gameover_squad_title         チーム
+escapemode_gameover_casualties_title    犠牲者
+escapemode_gameover_totalscore_title    合計スコア
+escapemode_gameover_totaltime_title     かかった時間
+escapemode_gameover_time_days           *D日*H時間*M分
+escapemode_gameover_time                *H時間*M分
+
+codex_workshop_select_random_prison     Workshopのランダムな刑務所
+codex_workshop_searching                検索中
+
+
+# =============================================================================
+# Warden Mode
+# =============================================================================
+
+codex_wardenmode_debugstart             刑務所長モード開始
+
+buildtoolbar_inventory                  インベントリ
+buildtoolbar_tooltip_inventory          ショートカット: (TAB)\n\n刑務所長のインベントリと身辺警護隊を管理。
+
+wardenmode_combat                       正当防衛承認
+wardenmode_combat_caption               凶暴な受刑者から自分の身を守ることができる
+
+wardenmode_combatwarning                正当防衛不承認
+wardenmode_combatwarning_caption        正当防衛の行為でなければ、受刑者に危害を加えてはいけない
+
+wardenmode_info_pick_up                 拾う
+
+wardensquad_wardenprotection            刑務所長保護
+wardensquad_recruitment_cost            1日の費用: +$*C
+wardensquad_nameplate_following         随行モード
+wardensquad_remove_member               刑務所長保護の解除
+wardensquad_remove_member_tooltip       クリックすると、身辺警護隊からこの看守を削除できる。\nこれにより、1日$*C節約できる。
+
+
+# =============================================================================
+# Collectables
+# =============================================================================
+
+
+codex_gamebible                         ゲームガイド
+codex_gamebible_next                    →
+codex_gamebible_prev                    ←
+codex_gamebible_singlepage              *Xページ
+codex_gamebible_doublepage              *X〜*Yページ
+object_collectable                      ノートのページ
+

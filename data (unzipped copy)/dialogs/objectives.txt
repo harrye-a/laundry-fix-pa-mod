@@ -1,0 +1,15 @@
+BEGIN Window
+    NAME         Objectives
+    WIDTH        270
+    HEIGHT       400
+    PANEL        1
+END
+
+BEGIN ScrollBar
+	NAME	Scroll
+	XPOS        SCALED 	10700
+    	YPOS        SCALED 	0
+    	WIDTH       SCALED	500
+    	HEIGHT      SCALED	5550
+END
+

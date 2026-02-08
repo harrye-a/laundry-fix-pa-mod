@@ -1,0 +1,51 @@
+BEGIN Window
+    NAME         MutatorWindow
+    BACKGROUND   clipboard.png
+    WIDTH        400
+    HEIGHT       600
+    PANEL        1
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Scaled          750
+    YPOS        Scaled          2583
+    WIDTH       Scaled          8500
+    HEIGHT      Scaled          6250
+END
+
+BEGIN Button
+    NAME        OK
+    CAPTION     dialog_ok
+    XPOS        Scaled          5500
+    YPOS        Scaled          8916
+    WIDTH       Scaled          3750
+    HEIGHT      Scaled          416
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          750
+    YPOS        Scaled          833
+    WIDTH       Scaled          8500
+    HEIGHT      Scaled          583
+END
+
+BEGIN Canvas
+    NAME        Description
+    CAPTION     codex_mutators_desc
+    XPOS        Scaled          875
+    YPOS        Scaled          1500
+    WIDTH       Scaled          8500
+    HEIGHT      Scaled          1000
+END
+
+BEGIN Button
+    NAME        Random
+    CAPTION     mutators_random
+    XPOS        Scaled          750
+    YPOS        Scaled          8916
+    WIDTH       Scaled          3750
+    HEIGHT      Scaled          416
+END
+

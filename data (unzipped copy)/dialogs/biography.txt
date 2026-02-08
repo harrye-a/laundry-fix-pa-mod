@@ -1,0 +1,41 @@
+BEGIN Window
+    NAME         Biography
+    BACKGROUND   papersheet.bmp
+    WIDTH        250
+    HEIGHT       300
+    PANEL        1
+END
+
+BEGIN Canvas
+    NAME        Info
+    XPOS        Scaled          1200
+    YPOS        Scaled          1833
+    WIDTH       Scaled          7799
+    HEIGHT      Scaled          1000
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          1200
+    YPOS        Scaled          500
+    WIDTH       Scaled          7799
+    HEIGHT      Scaled          1166
+END
+
+BEGIN SelectionList
+    NAME        Actions
+    XPOS        Scaled          1275
+    YPOS        Scaled          3066
+    WIDTH       Scaled          7799
+    HEIGHT      Scaled          6166
+END
+
+BEGIN Button
+    NAME        Show
+    CAPTION     Follow
+    XPOS        Scaled          1400
+    YPOS        Scaled          8833
+    WIDTH       Scaled          7400
+    HEIGHT      Scaled          666
+END
+

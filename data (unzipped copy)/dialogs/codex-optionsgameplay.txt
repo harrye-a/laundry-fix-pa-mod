@@ -1,0 +1,374 @@
+BEGIN Window
+    NAME         Codex
+    BACKGROUND   codex.png
+    WIDTH        1000
+    HEIGHT       650
+    PANEL        1
+END
+
+BEGIN Button
+    NAME        Close
+    CAPTION     X
+    XPOS        Scaled          9594
+    YPOS        Scaled          396
+    WIDTH       Scaled          222
+    HEIGHT      Scaled          333
+END
+
+BEGIN SelectionList
+    NAME        List
+    XPOS        Scaled          1002
+    YPOS        Scaled          2332
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          5461
+END
+
+BEGIN Custom
+    NAME        Title
+    XPOS        Scaled          1047
+    YPOS        Scaled          750
+    WIDTH       Scaled          3500
+    HEIGHT      Scaled          1166
+END
+
+BEGIN Custom
+    NAME        OptionsTitle
+    CAPTION     codex_options_gameplay
+    XPOS        Scaled          5571
+    YPOS        Scaled          915
+    WIDTH       Scaled          3500
+    HEIGHT      Scaled          1166
+END
+
+BEGIN Custom
+    NAME        AutosaveCaption
+    CAPTION     codex_options_autosave
+    XPOS        Scaled          5505
+    YPOS        Scaled          2400
+    WIDTH       Scaled          3000
+    HEIGHT      Scaled          275
+END
+
+BEGIN InputField
+    NAME        Autosave
+    XPOS        Scaled          8450
+    YPOS        Scaled          2400
+    WIDTH       Scaled          700
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        RoomCheckerboxCaption
+    CAPTION     codex_options_renderrooms
+    XPOS        Scaled          5505
+    YPOS        Scaled          2750
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          275
+END
+
+BEGIN CheckBox
+    NAME        RenderRooms
+    XPOS        Scaled          8950
+    YPOS        Scaled          2750
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        RoomColourCaption
+    CAPTION     codex_options_rendercolours
+    XPOS        Scaled          5505
+    YPOS        Scaled          3100
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          275
+END
+
+BEGIN CheckBox
+    NAME        RenderRoomsColours
+    XPOS        Scaled          8950
+    YPOS        Scaled          3100
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        ShadowsCaption
+    CAPTION     codex_options_shadowcaption
+    XPOS        Scaled          5500
+    YPOS        Scaled          3450
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          275
+END
+
+BEGIN CheckBox
+    NAME        ToggleShadows
+    XPOS        Scaled          8950
+    YPOS        Scaled          3450
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        V2GuiCaption
+    CAPTION     codex_options_v2gui
+    XPOS        Scaled          5500
+    YPOS        Scaled          3800
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          275
+END
+
+BEGIN CheckBox
+    NAME        V2Gui
+    XPOS        Scaled          8940
+    YPOS        Scaled          3800
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        ZoomToMouseCaption
+    CAPTION     codex_options_zoomtomouse
+    XPOS        Scaled          5500
+    YPOS        Scaled          4150
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          275
+END
+
+BEGIN CheckBox
+    NAME        ZoomToMouse
+    XPOS        Scaled          8950
+    YPOS        Scaled          4150
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        OneClickRapsheetCaption
+    CAPTION     codex_options_oneclickrapsheet
+    XPOS        Scaled          5500
+    YPOS        Scaled          4500
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          275
+END
+
+BEGIN CheckBox
+    NAME        OneClickRapsheet
+    XPOS        Scaled          8950
+    YPOS        Scaled          4500
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        ClockTypeCaption
+    CAPTION     codex_options_clocktype
+    XPOS        Scaled          5500
+    YPOS        Scaled          4850
+    WIDTH       Scaled          3000
+    HEIGHT      Scaled          275
+END
+
+BEGIN DropDownMenu
+    NAME        ClockType
+    XPOS        Scaled          8450
+    YPOS        Scaled          4850
+    WIDTH       Scaled          700
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        TemperatureScale
+    CAPTION     codex_options_tempscale
+    XPOS        Scaled          5500
+    YPOS        Scaled          5200
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          275
+END
+
+BEGIN CheckBox
+    NAME        TempInC
+    XPOS        Scaled          8950
+    YPOS        Scaled          5200
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        DirectionsCaption
+    CAPTION     codex_options_directions
+    XPOS        Scaled          5500
+    YPOS        Scaled          5550
+    WIDTH       Scaled          3450
+    HEIGHT      Scaled          275
+END
+
+BEGIN DropDownMenu
+    NAME        DirectionsMode
+    XPOS        Scaled          8450
+    YPOS        Scaled          5550
+    WIDTH       Scaled          700
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        ScreenshotModeCaption
+    CAPTION     codex_options_screenshotmode
+    XPOS        Scaled          5500
+    YPOS        Scaled          5900
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          275
+END
+
+BEGIN CheckBox
+    NAME        ScreenshotMode
+    XPOS        Scaled          8950
+    YPOS        Scaled          5900
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        InsaneGaugeCaption
+    CAPTION     codex_options_InsaneGauge
+    XPOS        Scaled          5500
+    YPOS        Scaled          6250
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          275
+END
+
+BEGIN CheckBox
+    NAME        InsaneGaugeMode
+    XPOS        Scaled          8950
+    YPOS        Scaled          6250
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        DoubleClickCaption
+    CAPTION     codex_option_doubleClick
+    XPOS        Scaled          5500
+    YPOS        Scaled          6600
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          275
+END
+
+BEGIN CheckBox
+    NAME        DoubleClickMode
+    XPOS        Scaled          8950
+    YPOS        Scaled          6600
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        PunishmentsCaption
+    CAPTION     codex_options_punishmentscaption
+    XPOS        Scaled          5500
+    YPOS        Scaled          6950
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          275
+END
+
+BEGIN CheckBox
+    NAME        PunishmentsBySector
+    XPOS        Scaled          8950
+    YPOS        Scaled          6950
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        HUDWaypointsCaption
+    CAPTION     codex_options_hud_waypoints
+    XPOS        Scaled          5500
+    YPOS        Scaled          7300
+    WIDTH       Scaled          3000
+    HEIGHT      Scaled          275
+END
+
+BEGIN DropDownMenu
+    NAME        HUDWaypointSetting
+    XPOS        Scaled          8500
+    YPOS        Scaled          7300
+    WIDTH       Scaled          650
+    HEIGHT      Scaled          275
+END
+
+
+BEGIN Custom
+    NAME        StaffAlertsCaption
+    CAPTION     codex_options_staffalertscaption
+    XPOS        Scaled          5500
+    YPOS        Scaled          7650
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          275
+END
+
+BEGIN CheckBox
+    NAME        ToggleStaffAlerts
+    XPOS        Scaled          8950
+    YPOS        Scaled          7650
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        GridCoordsCaption
+    CAPTION     codex_option_plotGridCoords_title
+    XPOS        Scaled          5500
+    YPOS        Scaled          8000
+    WIDTH       Scaled          3000
+    HEIGHT      Scaled          275
+END
+
+BEGIN DropDownMenu
+    NAME        GridCoordsSetting
+    XPOS        Scaled          8500
+    YPOS        Scaled          8000
+    WIDTH       Scaled          700
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        ZombieOverlayCaption
+    CAPTION     codex_new_zombieOverlay
+    XPOS        Scaled          5500
+    YPOS        Scaled          8350
+    WIDTH       Scaled          3000
+    HEIGHT      Scaled          275
+END
+
+BEGIN DropDownMenu
+    NAME        ZombieOverlaySetting
+    XPOS        Scaled          8500
+    YPOS        Scaled          8350
+    WIDTH       Scaled          700
+    HEIGHT      Scaled          275
+END
+
+BEGIN Custom
+    NAME        DisableAnalyticsCaption
+    CAPTION     codex_options_disableanalytics
+    XPOS        Scaled          5500
+    YPOS        Scaled          8700
+    WIDTH       Scaled          3650
+    HEIGHT      Scaled          275
+END
+
+BEGIN CheckBox
+    NAME        DisableAnalytics
+    XPOS        Scaled          8950
+    YPOS        Scaled          8700
+    WIDTH       Scaled          200
+    HEIGHT      Scaled          275
+END
+
+BEGIN Button
+    NAME        Apply
+    CAPTION     codex_options_apply
+    XPOS        Scaled          8150
+    YPOS        Scaled          8950
+    WIDTH       Scaled          1050
+    HEIGHT      Scaled          461
+END

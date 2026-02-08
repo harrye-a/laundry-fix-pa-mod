@@ -1,0 +1,372 @@
+BEGIN Window
+    NAME         DialogEditor
+    WIDTH        600
+    HEIGHT       650
+END
+
+BEGIN Caption
+    CAPTION     dialog_width
+    XPOS        Absolute        15
+    YPOS        Absolute        55
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputField
+    NAME        InputWidth
+    XPOS        Absolute        65
+    YPOS        Absolute        55
+    WIDTH       Absolute        105
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialog_height
+    XPOS        Absolute        15
+    YPOS        Absolute        80
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputField
+    NAME        InputHeight
+    XPOS        Absolute        65
+    YPOS        Absolute        80
+    WIDTH       Absolute        105
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialog_type
+    XPOS        Absolute        15
+    YPOS        Absolute        240
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        InputType
+    CAPTION     InputType
+    XPOS        Absolute        65
+    YPOS        Absolute        240
+    WIDTH       Absolute        105
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialog_name
+    XPOS        Absolute        15
+    YPOS        Absolute        265
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputField
+    NAME        InputName
+    CAPTION     InputName
+    XPOS        Absolute        65
+    YPOS        Absolute        265
+    WIDTH       Absolute        105
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialogeditor_caption
+    XPOS        Absolute        15
+    YPOS        Absolute        290
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputField
+    NAME        InputCaption
+    CAPTION     InputCaption
+    XPOS        Absolute        65
+    YPOS        Absolute        290
+    WIDTH       Absolute        105
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialogeditor_component
+    XPOS        Absolute        65
+    YPOS        Absolute        215
+    WIDTH       Absolute        100
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialogeditor_window
+    XPOS        Absolute        65
+    YPOS        Absolute        30
+    WIDTH       Absolute        100
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        InputXtype
+    XPOS        Absolute        65
+    YPOS        Absolute        315
+    WIDTH       Absolute        105
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        InputYtype
+    XPOS        Absolute        65
+    YPOS        Absolute        340
+    WIDTH       Absolute        105
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        InputWtype
+    XPOS        Absolute        65
+    YPOS        Absolute        365
+    WIDTH       Absolute        105
+    HEIGHT      Absolute        20
+END
+
+BEGIN DropDownMenu
+    NAME        InputHtype
+    XPOS        Absolute        65
+    YPOS        Absolute        390
+    WIDTH       Absolute        105
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialog_x
+    XPOS        Absolute        15
+    YPOS        Absolute        315
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialog_y
+    XPOS        Absolute        15
+    YPOS        Absolute        340
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialog_w
+    XPOS        Absolute        15
+    YPOS        Absolute        365
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialog_h
+    XPOS        Absolute        15
+    YPOS        Absolute        390
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputField
+    NAME        InputWindowCaption
+    XPOS        Absolute        65
+    YPOS        Absolute        130
+    WIDTH       Absolute        105
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialogeditor_caption
+    XPOS        Absolute        15
+    YPOS        Absolute        130
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Delete
+    CAPTION     dialog_delete
+    XPOS        Absolute        15
+    YPOS        Absolute        480
+    WIDTH       Absolute        155
+    HEIGHT      Absolute        20
+END
+
+BEGIN Container
+    XPOS        Absolute        180
+    YPOS        Absolute        35
+    WIDTH       Relative        -195
+    HEIGHT      Relative        -50
+END
+
+BEGIN Button
+    NAME        MoveToBack
+    CAPTION     dialogeditor_back
+    XPOS        Absolute        15
+    YPOS        Absolute        505
+    WIDTH       Absolute        75
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        MoveToFront
+    CAPTION     dialogeditor_front
+    XPOS        Absolute        95
+    YPOS        Absolute        505
+    WIDTH       Absolute        75
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Save
+    CAPTION     dialog_save
+    XPOS        Absolute        15
+    YPOS        Relative        -35
+    WIDTH       Absolute        75
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        SaveAs
+    CAPTION     dialog_saveas
+    XPOS        Absolute        95
+    YPOS        Relative        -35
+    WIDTH       Absolute        75
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Load
+    CAPTION     dialog_load
+    XPOS        Absolute        95
+    YPOS        Relative        -60
+    WIDTH       Absolute        75
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        New
+    CAPTION     dialog_new
+    XPOS        Absolute        15
+    YPOS        Relative        -60
+    WIDTH       Absolute        75
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialog_name
+    XPOS        Absolute        15
+    YPOS        Absolute        105
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputField
+    NAME        InputWindowName
+    XPOS        Absolute        65
+    YPOS        Absolute        105
+    WIDTH       Absolute        105
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        ReloadLanguage
+    CAPTION     dialogeditor_reloadlanguage
+    XPOS        Absolute        15
+    YPOS        Relative        -85
+    WIDTH       Absolute        155
+    HEIGHT      Absolute        20
+END
+
+BEGIN Custom
+    NAME        captionId
+    XPOS        Absolute        180
+    YPOS        Relative        -35
+    WIDTH       Relative        -195
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Create
+    CAPTION     dialogeditor_create
+    XPOS        Absolute        15
+    YPOS        Absolute        455
+    WIDTH       Absolute        155
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Select
+    CAPTION     dialogeditor_select
+    XPOS        Absolute        15
+    YPOS        Absolute        430
+    WIDTH       Absolute        155
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputField
+    NAME        InputBackground
+    XPOS        Absolute        65
+    YPOS        Absolute        155
+    WIDTH       Absolute        90
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialogeditor_background
+    XPOS        Absolute        15
+    YPOS        Absolute        155
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        SelectBgImage
+    CAPTION     none
+    XPOS        Absolute        155
+    YPOS        Absolute        155
+    WIDTH       Absolute        15
+    HEIGHT      Absolute        20
+END
+
+BEGIN Button
+    NAME        Test
+    CAPTION     dialogeditor_test
+    XPOS        Absolute        15
+    YPOS        Relative        -110
+    WIDTH       Absolute        155
+    HEIGHT      Absolute        20
+END
+
+BEGIN InputField
+    NAME        InputGridSize
+    XPOS        Relative        -50
+    YPOS        Relative        -40
+    WIDTH       Absolute        30
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialogeditor_grid
+    XPOS        Relative        -50
+    YPOS        Relative        -60
+    WIDTH       Absolute        30
+    HEIGHT      Absolute        20
+END
+
+BEGIN CheckBox
+    NAME        InputWindowPanel
+    XPOS        Absolute        65
+    YPOS        Absolute        180
+    WIDTH       Absolute        20
+    HEIGHT      Absolute        20
+END
+
+BEGIN Caption
+    CAPTION     dialogeditor_panel
+    XPOS        Absolute        15
+    YPOS        Absolute        180
+    WIDTH       Absolute        50
+    HEIGHT      Absolute        20
+END
+

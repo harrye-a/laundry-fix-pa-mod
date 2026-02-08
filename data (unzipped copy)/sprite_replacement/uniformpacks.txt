@@ -1,0 +1,220 @@
+BEGIN Pack
+	Name		GraveyardShift
+	DLC_Lock	GraveyardShift
+	BEGIN Replacement
+		Sprite		Accountant
+	END
+	BEGIN Replacement
+		Sprite		ArmedGuard
+	END
+	BEGIN Replacement
+		Sprite		Chief
+	END
+	BEGIN Replacement
+		Sprite		Chef
+	END
+	BEGIN Replacement
+		Sprite		Doctor
+	END
+	BEGIN Replacement
+		Sprite		DogHandler
+	END
+	BEGIN Replacement
+		Sprite		Foreman
+	END
+	BEGIN Replacement
+		Sprite		Gardener
+	END
+	BEGIN Replacement
+		Sprite		Guard
+	END
+	BEGIN Replacement
+		Sprite		Janitor
+	END
+	BEGIN Replacement
+		Sprite		Lawyer
+	END
+	BEGIN Replacement
+		Sprite		Shrink
+	END
+	BEGIN Replacement
+		Sprite		Sniper
+	END
+	BEGIN Replacement
+		Sprite		Workman
+	END
+	BEGIN Replacement
+		Sprite		GuardArmour
+	END
+	BEGIN Replacement
+		Sprite		GuardArmour2
+	END
+	BEGIN Replacement
+		Sprite		GuardArmour3
+	END
+	BEGIN Replacement
+		Sprite		GuardArmour4
+	END
+	BEGIN Replacement
+		Sprite		GuardArmour5
+	END
+	BEGIN Replacement
+		Sprite		Farmer
+	END
+	BEGIN Replacement
+		Sprite		Teacher
+	END
+	BEGIN Replacement
+		Sprite		d_Orderly
+	END
+	BEGIN Replacement
+		Sprite		d_OrderlyToolbar
+	END
+END
+
+BEGIN Pack
+	Name		future
+	DLC_Lock	FutureTech
+	BEGIN Replacement
+		Sprite		Accountant
+	END
+	BEGIN Replacement
+		Sprite		ArmedGuard
+	END
+	BEGIN Replacement
+		Sprite		Chief
+	END
+	BEGIN Replacement
+		Sprite		Chef
+	END
+	BEGIN Replacement
+		Sprite		Doctor
+	END
+	BEGIN Replacement
+		Sprite		DogHandler
+	END
+	BEGIN Replacement
+		Sprite		Foreman
+	END
+	BEGIN Replacement
+		Sprite		Gardener
+	END
+	BEGIN Replacement
+		Sprite		Guard
+	END
+	BEGIN Replacement
+		Sprite		Janitor
+	END
+	BEGIN Replacement
+		Sprite		Lawyer
+	END
+	BEGIN Replacement
+		Sprite		Shrink
+	END
+	BEGIN Replacement
+		Sprite		Sniper
+	END
+	BEGIN Replacement
+		Sprite		Workman
+	END
+	BEGIN Replacement
+		Sprite		Prisoner
+	END
+	BEGIN Replacement
+		Sprite		PrisonerFemale
+	END
+	BEGIN Replacement
+		Sprite		Farmer
+	END
+	BEGIN Replacement
+		Sprite		Teacher
+	END
+	BEGIN Replacement
+		Sprite		d_Orderly
+	END
+	BEGIN Replacement
+		Sprite		d_OrderlyToolbar
+	END
+END
+
+
+BEGIN Pack
+	Name		jungle
+	DLC_Lock	Jungle
+	BEGIN Replacement
+		Sprite		Accountant
+	END
+	BEGIN Replacement
+		Sprite		ArmedGuard
+	END
+	BEGIN Replacement
+		Sprite		Chief
+	END
+	BEGIN Replacement
+		Sprite		Chef
+	END
+	BEGIN Replacement
+		Sprite		Doctor
+	END
+	BEGIN Replacement
+		Sprite		DogHandler
+	END
+	BEGIN Replacement
+		Sprite		Foreman
+	END
+	BEGIN Replacement
+		Sprite		Gardener
+	END
+	BEGIN Replacement
+		Sprite		Guard
+	END
+	BEGIN Replacement
+		Sprite		Janitor
+	END
+	BEGIN Replacement
+		Sprite		Lawyer
+	END
+	BEGIN Replacement
+		Sprite		Shrink
+	END
+	BEGIN Replacement
+		Sprite		Sniper
+	END
+	BEGIN Replacement
+		Sprite		Workman
+	END
+	BEGIN Replacement
+		Sprite		Prisoner
+	END
+	BEGIN Replacement
+		Sprite		PrisonerFemale
+	END
+	BEGIN Replacement
+		Sprite		Farmer
+	END
+	BEGIN Replacement
+		Sprite		Teacher
+	END
+	BEGIN Replacement
+		Sprite		d_Orderly
+	END
+	BEGIN Replacement
+		Sprite		d_OrderlyToolbar
+	END
+END
+
+BEGIN Pack
+	Name		desert
+	BEGIN Replacement
+		Sprite		Guard
+	END
+	BEGIN Replacement
+		Sprite		Prisoner
+	END
+	BEGIN Replacement
+		Sprite		PrisonerFemale
+	END
+	BEGIN Replacement
+		Sprite		Chief
+	END
+END
